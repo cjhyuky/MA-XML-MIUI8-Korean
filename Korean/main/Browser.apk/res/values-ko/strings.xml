@@ -423,9 +423,9 @@
   <string name="pref_link_prefetch_dialogtitle">웹페이지 미리로드</string>
   <string name="pref_link_prefetch_summary">브라우저가 링크된 웹 페이지를 백그라운드에서 미리로드하도록 허용</string>
   <string name="pref_link_prefetch_title">웹페이지 미리로드</string>
-  <string name="pref_link_prefetch_value_always">ALWAYS</string>
+  <string name="pref_link_prefetch_value_always">항상 허용</string>
   <string name="pref_link_prefetch_value_never_summary">브라우저가 백그라운드에서 미리로드 연결된 웹 페이지를 허용하지 않습니다.</string>
-  <string name="pref_link_prefetch_value_wifi_only">WIFI_ONLY</string>
+  <string name="pref_link_prefetch_value_wifi_only">WIFI에서만 허용</string>
   <string name="pref_min_font_size">최소 글꼴 크기</string>
   <string name="pref_min_font_size_value">%dpt</string>
   <string name="pref_privacy_clear_cache">캐시 지우기</string>
