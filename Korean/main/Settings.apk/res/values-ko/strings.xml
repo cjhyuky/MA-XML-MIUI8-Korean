@@ -166,7 +166,7 @@
   <string name="app_name_label">"앱"</string>
   <string name="app_not_found_dlg_text">"앱이 설치된 앱 목록에 없습니다."</string>
   <string name="app_not_found_dlg_title"/>
-  <string name="app_notifications_switch_label">Show notifications</string>
+  <string name="app_notifications_switch_label">알림 보기</string>
   <string name="app_process_limit_title">"백그라운드 프로세스 수 제한"</string>
   <string name="app_uninstall_residual">남은 제거 파일을 삭제하시겠습니까?</string>
   <string name="application_forbid_auto_startup">%s 가 백그라운드에서 실행되는것을 차단합니다.</string>
