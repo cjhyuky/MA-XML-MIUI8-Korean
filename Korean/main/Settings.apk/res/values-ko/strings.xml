@@ -2944,7 +2944,6 @@
   
    <string name="other_advanced_settings">추가 설정</string>
    <string name="lock_settings">잠금 화면</string>
-    <string name="owner_info_settings_title">소유자 정보</string>
 	<string name="bluetooth_unlock_title">블루투스 기기로 잠금 해제</string>
 	<string name="media_feedback_enable_title">비트가 있는 진동</string>
    <string name="music_audio_effect_optimize">소리 설정</string>
