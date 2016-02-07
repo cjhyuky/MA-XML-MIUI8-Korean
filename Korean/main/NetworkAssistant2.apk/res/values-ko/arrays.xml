@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="date_of_traffic">
+        <item>"어제 "</item>
+        <item>"오늘 "</item>
+        <item>"이번 달 "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"어제: "</item>
+        <item>"오늘: "</item>
+        <item>"이번 달: "</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>어제(데이터)</item>
+        <item>오늘(데이터)</item>
+        <item>이번 달(데이터)</item>
+        <item>어제 Wi-Fi</item>
+        <item>오늘 Wi-Fi</item>
+        <item>이번 달 Wi-Fi</item>
+    </string-array>
+    <string-array name="date_of_app">
+        <item>어제(데이터)</item>
+        <item>오늘(데이터)</item>
+        <item>이번 달(데이터)</item>
+    </string-array>
+    <string-array name="network_speed_update_internals">
+        <item>3초</item>
+        <item>4초</item>
+        <item>5초</item>
+        <item>6초</item>
+        <item>7초</item>
+        <item>8초</item>
+        <item>9초</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"모바일 사용량 "</item>
+        <item>"Wi-Fi 사용량 "</item>
+        <item>"데이터 절약됨 "</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"모바일 사용량 "</item>
+        <item>"Wi-Fi 사용량 "</item>
+    </string-array>
+    <string-array name="traffic_sort_type">
+        <item>"모바일 데이터 사용량 "</item>
+        <item>"Wi-Fi 사용량 "</item>
+        <item>"데이터 절약됨 "</item>
+    </string-array>
+    <string-array name="traffic_setting_sms_template">
+        <item>자동으로 받음</item>
+        <item>수동으로 설정</item>
+    </string-array>
+    <string-array name="over_limit_traffic_waring_style">
+        <item>경고 보이기</item>
+        <item>경고와 모바일 데이터 끄기</item>
+    </string-array>
+    <string-array name="roaming_apps_sorted_type">
+        <item>자주 사용됨</item>
+        <item>이름</item>
+    </string-array>
+    <string-array name="traffic_saving_compress_level_string_array">
+        <item>없음</item>
+        <item>낮음</item>
+        <item>중간</item>
+        <item>높음</item>
+    </string-array>
+</resources>

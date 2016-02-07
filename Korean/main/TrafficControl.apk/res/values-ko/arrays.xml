@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="v2_pref_basic_savings_entries">
+        <item>높음</item>
+        <item>중간</item>
+        <item>낮음</item>
+        <item>꺼짐</item>
+    </string-array>
+</resources>

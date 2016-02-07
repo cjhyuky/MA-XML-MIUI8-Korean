@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cache_sort_type">
+        <item>크기</item>
+        <item>이름</item>
+    </string-array>
+    <string-array name="large_file_sort_type">
+        <item>크기</item>
+        <item>이름</item>
+    </string-array>
+    <string-array name="installed_app_sort_type">
+        <item>자주 사용됨</item>
+        <item>크기</item>
+    </string-array>
+    <string-array name="auto_clean_time">
+        <item>매일</item>
+        <item>3일마다</item>
+        <item>일주일마다</item>
+    </string-array>
+    <string-array name="auto_clean_size">
+        <item>100MB</item>
+        <item>300MB</item>
+        <item>500MB</item>
+        <item>1GB</item>
+    </string-array>
+    <string-array name="auto_process_mode">
+        <item>보이기</item>
+        <item>보이지 않기</item>
+        <item>이후 보이기</item>
+    </string-array>
+    <string-array name="cache_clean_menu">
+        <item>이 파일을 지우기</item>
+        <item>파일 위치 보기</item>
+        <item>예외 파일 추가</item>
+        <item>예외 앱 추가</item>
+    </string-array>
+    <string-array name="trash_clean_menu">
+        <item>이 파일을 지우기</item>
+        <item>파일 위치 보기</item>
+        <item>예외 파일 추가</item>
+    </string-array>
+    <string-array name="video_clean_menu">
+        <item>이 파일을 지우기</item>
+        <item>열기</item>
+        <item>예외 파일 추가</item>
+    </string-array>
+    <string-array name="empty_floder_clean_menu">
+        <item>정리</item>
+    </string-array>
+    <string-array name="apk_clean_menu">
+        <item>청소</item>
+        <item>이 apk를 설치</item>
+        <item>Apk의 위치 보기</item>
+        <item>예외 추가</item>
+    </string-array>
+    <string-array name="app_clean_menu">
+        <item>제거</item>
+    </string-array>
+    <string-array name="auto_alert_apps_time">
+        <item>일주일마다</item>
+        <item>15일마다</item>
+        <item>30일마다</item>
+    </string-array>
+</resources>

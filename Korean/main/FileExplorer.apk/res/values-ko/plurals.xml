@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_files_confirm">
+        <item quantity="other">%1$d개 파일 삭제</item>
+    </plurals>
+    <plurals name="delete_folders_confirm">
+        <item quantity="other">" %1$d개 폴더를 삭제하시겠습니까?"</item>
+    </plurals>
+    <plurals name="directory_item_count">
+        <item quantity="other">%d개 항목</item>
+    </plurals>
+    <plurals name="ui_bar_txt_download_progress">
+        <item quantity="other">다운로드할 파일 %1$d개 남음</item>
+    </plurals>
+    <plurals name="ui_bar_txt_upload_progress">
+        <item quantity="other">업로드할 파일 %1$d개 남음</item>
+    </plurals>
+    <plurals name="numSelectedFile">
+        <item quantity="other">%1$d 개 선택됨</item>
+    </plurals>
+    <plurals name="items_file">
+        <item quantity="other">(%1$d개 항목)</item>
+    </plurals>
+    <plurals name="items_picture">
+        <item quantity="other">(%1$d개 항목)</item>
+    </plurals>
+    <plurals name="file_count">
+        <item quantity="other">%1$d개 항목</item>
+    </plurals>
+    <plurals name="search_head_hint_app">
+        <item quantity="other">앱 \"%1$s\"와(과) 연관된 파일(%2$d개 항목)</item>
+    </plurals>
+    <plurals name="search_head_hint_file">
+        <item quantity="other">\"%1$s\"와(과) 연관된 파일(%2$d개 항목)</item>
+    </plurals>
+    <plurals name="search_head_hint_tag">
+        <item quantity="other">태그 \"%1$s\"와(과) 연관된 파일(%2$d개 항목)</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">%1$d분 전</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$d시간 전</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$d일 전</item>
+    </plurals>
+    <plurals name="found_new_files">
+        <item quantity="other">%1$d개 새 파일 발견</item>
+    </plurals>
+    <plurals name="file_notify_title">
+        <item quantity="other">%2$s 앱에서 %1$d개 파일 받았음</item>
+    </plurals>
+    <plurals name="file_notify_title_wechat_video">
+        <item quantity="other">WeChat에서 %1$d개 파일을 받았음</item>
+    </plurals>
+    <plurals name="file_notify_title_wechat_video_expire">
+        <item quantity="other">WeChat 동영상 %1$d개가 곧 만료됨</item>
+    </plurals>
+    <plurals name="backup_message_wechat_video">
+        <item quantity="other">WeChat 대화창에있는 %1$d개의 동영상이 곧 만료됩니다. 내부 저장소에 백업하시겠습니까?</item>
+    </plurals>
+    <plurals name="file_notify_title_wechat_sticker">
+        <item quantity="other">오늘 %1$d개의 새로운 WeChat 스티커가 출시되었습니다.</item>
+    </plurals>
+    <plurals name="file_notify_title_wechat_video_auto_backup">
+        <item quantity="other">WeChat 동영상 %1$d개 백업됨</item>
+    </plurals>
+</resources>

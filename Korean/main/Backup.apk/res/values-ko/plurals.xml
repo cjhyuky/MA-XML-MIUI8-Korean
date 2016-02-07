@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="trans_time_format_minute">
+        <item quantity="other">%d분</item>
+    </plurals>
+    <plurals name="trans_time_format_hours">
+        <item quantity="other">%d시간</item>
+    </plurals>
+</resources>

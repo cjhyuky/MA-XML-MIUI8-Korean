@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">최근에 사용한 앱 %d개</item>
+        <item quantity="one">최근에 사용한 앱 1개</item>
+    </plurals>
+    <plurals name="disable_notification_confirm_title">
+        <item quantity="other">%d개 앱의 알림을 숨기시겠습니까?</item>
+    </plurals>
+</resources>

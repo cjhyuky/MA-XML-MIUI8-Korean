@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="hints_traffic_enable_title">
+        <item quantity="other">%d개 앱의 데이터 사용량 추적 안 함</item>
+    </plurals>
+    <plurals name="hints_traffic_disable_title">
+        <item quantity="other">%d개 앱의 데이터 사용량 추적하기</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_optimized">
+        <item quantity="other">%d개 앱 최적화됨</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_need_optimize">
+        <item quantity="other">%d개 앱 최적화 가능</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_enable_title">
+        <item quantity="other">%d 앱이 데이터 세이버 사용 중</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_disable_title">
+        <item quantity="other">%d 앱이 데이터 세이버 사용 중이 아님</item>
+    </plurals>
+    <plurals name="hints_install_apps_interval">
+        <item quantity="other">%d일 전 사용됨</item>
+    </plurals>
+    <plurals name="search_app_count_txt">
+        <item quantity="other">%d개 앱 검색</item>
+    </plurals>
+    <plurals name="hints_roaming_enable_title">
+        <item quantity="other">%d개 앱이 모바일 데이터 사용 가능</item>
+    </plurals>
+    <plurals name="hints_roaming_disable_title">
+        <item quantity="other">%d개 앱이 모바일 데이터 사용 불가</item>
+    </plurals>
+    <plurals name="hints_roaming_found_app_count_title">
+        <item quantity="other">%d개 앱 발견됨</item>
+    </plurals>
+</resources>

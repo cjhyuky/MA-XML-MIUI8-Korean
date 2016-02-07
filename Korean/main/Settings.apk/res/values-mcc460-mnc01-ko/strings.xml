@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="radioInfo_menu_viewADN">USIM 주소록 보기</string>
+    <string name="security_settings_summary">내 위치 설정, 화면 잠금 해제, USIM 카드 잠금, 자격 증명 저장소 잠금</string>
+    <string name="sim_lock_settings">USIM 카드 잠금 설정</string>
+    <string name="sim_lock_settings_category">USIM 카드 잠금 설정</string>
+    <string name="sim_lock_settings_title">USIM 카드 잠금</string>
+    <string name="sim_pin_toggle">USIM 카드 잠그기</string>
+    <string name="sim_pin_change">USIM PIN 변경</string>
+    <string name="sim_enter_pin">USIM PIN</string>
+    <string name="sim_enable_sim_lock">USIM 카드 잠그기</string>
+    <string name="sim_disable_sim_lock">USIM 카드 잠금 해제</string>
+    <string name="sim_enter_old">이전 USIM PIN</string>
+    <string name="sim_enter_new">새 USIM PIN</string>
+    <string name="sim_change_pin">USIM PIN</string>
+    <string name="sim_change_succeeded">USIM PIN 변경에 성공했습니다.</string>
+    <string name="sim_lock_failed">"USIM 카드 잠금 상태를 변경할 수 없습니다.
+PIN이 잘못된 것 같습니다."</string>
+    <string name="sim_change_failed_enable_sim_lock">"USIM PIN을 변경할 수 없습니다.
+ USIM 잠금이 활성화되었습니다."</string>
+    <string name="sim_lock_change_not_supported">"USIM 잠금을 변경할 수 없습니다.
+ USIM이 지원하지 않습니다."</string>
+</resources>

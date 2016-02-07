@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="theme_update_local_resource_notifaction">
+        <item quantity="other">테마 %1$d개 업데이트 가능</item>
+    </plurals>
+    <plurals name="theme_batch_has_update_text">
+        <item quantity="other">테마 %1$d개 업데이트 가능</item>
+    </plurals>
+</resources>

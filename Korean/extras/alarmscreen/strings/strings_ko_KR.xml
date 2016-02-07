@@ -1,0 +1,4 @@
+<strings>
+    <string name="slider_text" value="밀어서 알람 해제" />
+    <string name="snooze_message" value="10분 뒤 다시 알림" />
+</strings>

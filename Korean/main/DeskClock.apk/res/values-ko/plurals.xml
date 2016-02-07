@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timer_message_hour">
+        <item quantity="other">"%1$d 시간 "</item>
+    </plurals>
+    <plurals name="timer_message_minute">
+        <item quantity="other">"%1$d 분 "</item>
+    </plurals>
+    <plurals name="timer_message_second">
+        <item quantity="other">%1$d 초</item>
+    </plurals>
+    <plurals name="timer_item_duration_display_seconds">
+        <item quantity="other">%1$d 초</item>
+    </plurals>
+    <plurals name="timer_item_duration_display_minutes">
+        <item quantity="other">%1$d 분</item>
+    </plurals>
+    <plurals name="snooze_message">
+        <item quantity="other">%d 분 동안 스누즈</item>
+    </plurals>
+    <plurals name="alarm_alert_snooze_set">
+        <item quantity="other">%d 분 째 스누즈 중.</item>
+    </plurals>
+    <plurals name="auto_silence_summary">
+        <item quantity="other">알람이 %d 분 후에 꺼집니다</item>
+    </plurals>
+</resources>

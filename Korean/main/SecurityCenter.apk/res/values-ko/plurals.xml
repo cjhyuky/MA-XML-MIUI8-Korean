@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="power_center_battery_day">
+        <item quantity="other">"%d 일 "</item>
+    </plurals>
+    <plurals name="power_center_battery_hour">
+        <item quantity="other">"%d 시간 "</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d 분 "</item>
+    </plurals>
+    <plurals name="hints_auto_start_enable_title">
+        <item quantity="other">%d 앱 자동 시작 가능</item>
+    </plurals>
+    <plurals name="hints_auto_start_disable_title">
+        <item quantity="other">%d 앱 자동 시작 불허</item>
+    </plurals>
+    <plurals name="hints_apps_perm_count">
+        <item quantity="other">%d개의 권한</item>
+    </plurals>
+    <plurals name="hints_permission_apps_count">
+        <item quantity="other">%d개의 앱</item>
+    </plurals>
+    <plurals name="hints_get_root_enable_title">
+        <item quantity="other">%d개의 앱 루트 권한 있음</item>
+    </plurals>
+    <plurals name="hints_get_root_disable_title">
+        <item quantity="other">%d개의 앱 루트 권한 없음</item>
+    </plurals>
+    <plurals name="summary_app_update">
+        <item quantity="other">%d개 앱 업데이트 가능</item>
+    </plurals>
+</resources>

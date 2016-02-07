@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dirty_contacts_count">
+        <item quantity="other">연락처 %d개</item>
+    </plurals>
+    <plurals name="dirty_mms_count">
+        <item quantity="other">메시지 %d개</item>
+    </plurals>
+    <plurals name="dirty_note_count">
+        <item quantity="other">메모 %d개</item>
+    </plurals>
+    <plurals name="updated_contacts">
+        <item quantity="other">연락처 %s개 업데이트됨</item>
+    </plurals>
+</resources>

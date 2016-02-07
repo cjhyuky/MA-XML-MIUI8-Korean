@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">문서</string>
+    <string name="title_open">열기:</string>
+    <string name="title_save">저장 위치:</string>
+    <string name="menu_create_dir">폴더 만들기</string>
+    <string name="menu_grid">바둑판식 보기</string>
+    <string name="menu_list">목록 보기</string>
+    <string name="menu_sort">정렬 기준</string>
+    <string name="menu_search">검색</string>
+    <string name="menu_settings">설정</string>
+    <string name="menu_open">열기</string>
+    <string name="menu_save">저장</string>
+    <string name="menu_share">공유</string>
+    <string name="menu_delete">삭제</string>
+    <string name="mode_selected_count">%1$d개 선택됨</string>
+    <string name="sort_name">이름순</string>
+    <string name="sort_date">수정된 날짜순</string>
+    <string name="sort_size">크기순</string>
+    <string name="drawer_open">루트 표시</string>
+    <string name="drawer_close">루트 숨기기</string>
+    <string name="save_error">문서 저장 실패</string>
+    <string name="create_error">폴더를 만들지 못함</string>
+    <string name="query_error">문서를 검색하지 못했습니다.</string>
+    <string name="root_recent">최근</string>
+    <string name="root_available_bytes">%1$s 남음</string>
+    <string name="root_type_service">저장용량 서비스</string>
+    <string name="root_type_shortcut">바로가기</string>
+    <string name="root_type_device">기기</string>
+    <string name="root_type_apps">앱 더보기</string>
+    <string name="pref_advanced_devices">고급 기기 표시</string>
+    <string name="pref_file_size">파일 크기 표시</string>
+    <string name="pref_device_size">기기 크기 표시</string>
+    <string name="empty">항목 없음</string>
+    <string name="toast_no_application">파일을 열 수 없음</string>
+    <string name="toast_failed_delete">일부 문서를 삭제할 수 없음</string>
+    <string name="share_via">공유 방법</string>
+</resources>

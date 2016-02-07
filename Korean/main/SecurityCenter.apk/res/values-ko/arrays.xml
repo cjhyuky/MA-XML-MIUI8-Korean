@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_memory_clean">
+        <item>1분 안에</item>
+        <item>5분 안에</item>
+        <item>10분 안에</item>
+        <item>30분 안에</item>
+        <item>하지 않음</item>
+    </string-array>
+    <string-array name="power_dialog_auto_clean_memory_items">
+        <item>1분 후</item>
+        <item>5분 후</item>
+        <item>10분 후</item>
+        <item>안 함</item>
+    </string-array>
+    <string-array name="power_dialog_sleep_items">
+        <item>15초</item>
+        <item>30초</item>
+        <item>1분</item>
+        <item>2분</item>
+        <item>5분</item>
+        <item>10분</item>
+        <item>안 함</item>
+    </string-array>
+    <string-array name="power_dialog_cpu_state_items">
+        <item>고성능</item>
+        <item>균형</item>
+    </string-array>
+    <string-array name="power_dialog_wifi_internet_state_items">
+        <item>끄기</item>
+        <item>켜기</item>
+        <item>기본값</item>
+    </string-array>
+    <string-array name="power_dialog_vibration_items">
+        <item>진동하지 않음</item>
+        <item>무음 설정 시 진동</item>
+        <item>항상 진동</item>
+    </string-array>
+    <string-array name="power_dialog_vibration_items_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>한 번</item>
+        <item>매일</item>
+        <item>법정 근무일</item>
+        <item>평일</item>
+        <item>사용자 지정</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>한 번</item>
+        <item>매일</item>
+        <item>평일</item>
+        <item>사용자 지정</item>
+    </string-array>
+</resources>

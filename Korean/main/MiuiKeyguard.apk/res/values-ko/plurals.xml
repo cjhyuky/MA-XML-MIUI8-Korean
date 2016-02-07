@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="new_notifications_msg">
+        <item quantity="other">%d개의 새로운 알림</item>
+    </plurals>
+</resources>

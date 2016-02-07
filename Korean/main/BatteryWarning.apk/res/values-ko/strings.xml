@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="batteryWarning_label">배터리 경고</string>
+    <string name="title_charger_over_voltage">과전압 경고</string>
+    <string name="title_battery_over_temperature">배터리 고온 경고</string>
+    <string name="title_over_current_protection">과전류 보호</string>
+    <string name="title_battery_over_voltage">배터리 고전압 경고</string>
+    <string name="title_safety_timer_timeout">배터리 과충전 경고</string>
+    <string name="title_battery_low_temperature">배터리 저온 경고</string>
+    <string name="msg_charger_over_voltage">충전 전압이 너무 높습니다!</string>
+    <string name="msg_battery_over_temperature">배터리 온도가 너무 높습니다!</string>
+    <string name="msg_over_current_protection">배터리에 과전류가 감지됩니다! 배터리를 분리하세요</string>
+    <string name="msg_battery_over_voltage">배터리 전압이 너무 높습니다!</string>
+    <string name="msg_safety_timer_timeout">충전시간이 너무 깊니다. 충전기를 분리하세요!</string>
+    <string name="msg_battery_low_temperature">배터리 온도가 너무 낮습니다</string>
+    <string name="btn_ok_msg">나중에 다시 알리기</string>
+    <string name="btn_cancel_msg">건너뛰기</string>
+    <string name="msg_battery_over_temperature_nochange">배터리 온도가 너무 높습니다</string>
+    <string name="msg_battery_low_temperature_nochange">배터리 온도가 너무 낮습니다</string>
+    <string name="msg_battery_over_voltage_nochange">배터리 전압이 너무 높습니다</string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="mi_wallpaper_loading">Mi-Wallpaper를 불러오고 있습니다</string>
+  <string name="mi_wallpaper_title">Mi Wallpaper</string>
+</resources>

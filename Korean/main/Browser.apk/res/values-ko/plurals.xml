@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="last_num_days">
+        <item quantity="other">지난 %d날들</item>
+    </plurals>
+    <plurals name="matches_found">
+        <item quantity="other">%1$d개 중 %2$d개</item>
+    </plurals>
+    <plurals name="v5_edit_mode_title">
+        <item quantity="other">%1$d개 선택됨</item>
+    </plurals>
+    <plurals name="video_download_clear_prompt">
+        <item quantity="other">%1$d개의 동영상을 삭제 하시겠습니까?</item>
+    </plurals>
+    <plurals name="video_download_clear_info">
+        <item quantity="other">%1$d개의 동영상이 성공적으로 제거 되었습니다.</item>
+    </plurals>
+    <plurals name="video_history_clear_prompt">
+        <item quantity="other">%1$d개 항목을 기록에서 삭제 하시겠습니까?</item>
+    </plurals>
+    <plurals name="video_history_clear_info">
+        <item quantity="other">%1$d개 항목이 기록에서 삭제 되었습니다.</item>
+    </plurals>
+    <plurals name="find_on_page_matches">
+        <item quantity="other">%d개 일치</item>
+    </plurals>
+    <plurals name="adblock_rules_number_text">
+        <item quantity="other">%d개의 항목 차단됨</item>
+    </plurals>
+</resources>

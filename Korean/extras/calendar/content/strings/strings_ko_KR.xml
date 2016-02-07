@@ -1,0 +1,10 @@
+<strings>
+    <string name="MON" value="월요일"/>
+    <string name="TUE" value="화요일"/>
+    <string name="WED" value="수요일"/>
+    <string name="THU" value="목요일"/>
+    <string name="FRI" value="금요일"/>
+    <string name="SAT" value="토요일"/>
+    <string name="SUN" value="일요일"/>
+    <string name="language" value="ko_KR"/>
+</strings>

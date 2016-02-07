@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="group_name_translate">
+        <item>기본값</item>
+        <item>숨김 모드</item>
+        <item>리더 모드</item>
+        <item>미디어 모드</item>
+    </string-array>
+    <string-array name="event_name_translate">
+        <item>포그라운드에서 앱 실행 중</item>
+        <item>디스플레이 켜짐</item>
+        <item>디스플레이 꺼짐</item>
+        <item>10분 후에 디스플레이 꺼짐</item>
+        <item>전체 화면</item>
+        <item>전체 화면 종료</item>
+        <item>백그라운드에서 앱 실행 중</item>
+        <item>스마트폰 충전 중</item>
+        <item>휴대전화 충전 중 아님</item>
+        <item>스마트폰 유휴 모드</item>
+    </string-array>
+    <string-array name="action_name_translate">
+        <item>최대 화면 밝기</item>
+        <item>최대 CPU 주파수</item>
+        <item>화면 모드</item>
+        <item>CPU 사용량</item>
+        <item>데이터 연결</item>
+        <item>위치</item>
+        <item>우선 알림</item>
+        <item>잠금 화면 알림</item>
+        <item>백그라운드 데이터 연결 제한</item>
+    </string-array>
+    <string-array name="action_param_translate">
+        <item>없음</item>
+        <item>기본값</item>
+        <item>사진</item>
+        <item>영화</item>
+        <item>배터리 세이버</item>
+        <item>균형</item>
+        <item>성능</item>
+        <item>켜짐</item>
+        <item>꺼짐</item>
+        <item>즉시</item>
+        <item>10분 후</item>
+        <item>30분 후</item>
+        <item>화면 꺼질 때</item>
+    </string-array>
+</resources>
