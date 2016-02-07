@@ -157,8 +157,6 @@
   <string name="config_export_file_extension">vcf</string>
   <string name="config_export_file_prefix"/>
   <string name="config_export_file_suffix"/>
-  <string name="config_export_vcard_type">기본</string>
-  <string name="config_import_vcard_type">기본</string>
   <string name="config_prohibited_phone_number_regexp"/>
   <string name="confirm_delete_contact_all_call_logs">"Are you sure you want to delete %s's call logs?"</string>
   <string name="confirm_delete_selected_all_call_logs">"정말 주소록의 통화 기록을 지우시겠습니까?"</string>
