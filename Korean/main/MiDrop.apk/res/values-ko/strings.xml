@@ -10,7 +10,6 @@
     <string name="Disconnect">연결 해제</string>
     <string name="Register">회원</string>
     <string name="Unregister">비회원</string>
-    <string name="title_activity_main">주요내역</string>
     <string name="TestSender">발신 테스트</string>
     <string name="TestReceiver">수신 테스트</string>
     <string name="TestP2pGo">P2p그룹장 테스트</string>
