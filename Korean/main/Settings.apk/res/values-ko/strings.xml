@@ -2397,7 +2397,7 @@
   <string name="title_data_flow_yes">데이터 사용 감시기가 켜져 있습니다.</string>
   <string name="title_dolby_control">돌비 컨트롤</string>
   <string name="title_font">글꼴</string>
-  <string name="title_font_current">사용중</string>
+  <string name="title_font_current">사용중인 글꼴</string>
   <string name="title_font_size">"글꼴 크기"</string>
   <string name="title_install_virus_no">설치 감시기가 꺼져 있습니다.</string>
   <string name="title_install_virus_yes">설치 감시기가 켜져 있습니다.</string>
