@@ -100,7 +100,7 @@
     <string name="hints_latest_garbage_cleanup_date">최근 청소: %d일 전</string>
     <string name="hints_loading_text">불러오는 중…</string>
     <string name="toast_removed_from_white_list">" 예외 목록에서 제거됨"</string>
-    <string name="white_list_cache_header">케시된 파일: %d</string>
+    <string name="white_list_cache_header">캐시된 파일: %d</string>
     <string name="white_list_ad_header">광고 파일: %d</string>
     <string name="white_list_apk_header">패키지 설치: %d</string>
     <string name="white_list_large_file_header">Big files and videos: %d</string>
