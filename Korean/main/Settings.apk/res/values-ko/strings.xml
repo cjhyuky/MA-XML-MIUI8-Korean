@@ -1364,7 +1364,6 @@
   <string name="multi_sim_settings_title">멀티심 설정</string>
   <string name="multi_touch_points_category_title">최대 멀티터치 갯수</string>
   <string name="multi_touch_points_preference">재부팅 후 적용됩니다.</string>
-  <string name="music_audio_effect_optimize">오디오 설정</string>
   <string name="music_headset_settings">헤드폰 &amp; 오디오 효과</string>
   <string name="music_headset_button_settings">버튼 설정</string>
   <string name="music_headset_mode_settings">헤드폰 리모컨 버튼설정</string>
