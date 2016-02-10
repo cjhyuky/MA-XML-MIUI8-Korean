@@ -100,7 +100,7 @@
     <string name="hints_latest_garbage_cleanup_date">최근 청소: %d일 전</string>
     <string name="hints_loading_text">불러오는 중…</string>
     <string name="toast_removed_from_white_list">" 예외 목록에서 제거됨"</string>
-    <string name="white_list_cache_header">케시된 파일: %d</string>
+    <string name="white_list_cache_header">캐시된 파일: %d</string>
     <string name="white_list_ad_header">광고 파일: %d</string>
     <string name="white_list_apk_header">패키지 설치: %d</string>
     <string name="white_list_large_file_header">Big files and videos: %d</string>
@@ -138,7 +138,7 @@
     <string name="ok">확인</string>
     <string name="cancel">취소</string>
     <string name="title_delete_large_file">Delete big files</string>
-    <string name="summary_delete_large_file">Delete selected files permanently?</string>
+    <string name="summary_delete_large_file">선택한 파일을 영구적으로 삭제 하시겠습니까?</string>
     <string name="title_delete_cache">Clear app cache</string>
     <string name="summary_delete_cache">선택된 응용 프로그램의 캐시를 지우시겠습니까?</string>
     <string name="positive_confirm">확인</string>
@@ -368,12 +368,12 @@
     <string name="deepclean_apk_summary_empty">Everything looks good, no APKs to delete</string>
     <string name="deepclean_apk_version_error">알수없음</string>
     <string name="title_delete_deepclean">삭제</string>
-    <string name="summary_delete_apk">Delete selected APKs permanently?</string>
+    <string name="summary_delete_apk">선택된 APK 파일을 영구적으로 삭제 하시겠습니까?</string>
     <string name="activity_title_video">동영상 삭제</string>
     <string name="deepclean_video_content">Delete already viewed or unnecessary videos</string>
     <string name="deepclean_video_summary_empty">Everything looks good</string>
     <string name="hints_video_download">Downloaded videos</string>
     <string name="hints_video_camera">Captured videos</string>
-    <string name="summary_delete_video">>Delete selected videos permanently?</string>
+    <string name="summary_delete_video">선택된 비디오 파일을 영구적으로 삭제 하시겠습니까?</string>
     <string name="empty_title_video">No videos to delete​</string>
 </resources>
