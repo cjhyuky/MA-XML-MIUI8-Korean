@@ -32,10 +32,10 @@
         <item>지금부터 1분 이내로 알람이 설정됩니다.</item>
         <item>지금부터 %1$s 후로 알람이 설정됩니다.</item>
         <item>지금부터 %2$s 후로 알람이 설정됩니다.</item>
-        <item>지금부터 %1$s, %2$s 후로 알람이 설정됩니다.</item>
+        <item>지금부터 %1$s %2$s 후로 알람이 설정됩니다.</item>
         <item>지금부터 %3$s 후로 알람이 설정됩니다.</item>
         <item>지금부터 %1$s %3$s 후로 알람이 설정됩니다.</item>
-        <item>지금부터 %2$s, %3$s 후로 알람이 설정됩니다.</item>
+        <item>지금부터 %2$s %3$s 후로 알람이 설정됩니다.</item>
         <item>지금부터 %1$s %2$s %3$s 후로 알람이 설정되었습니다.</item>
     </string-array>
     <string-array name="snooze_duration_entries">
