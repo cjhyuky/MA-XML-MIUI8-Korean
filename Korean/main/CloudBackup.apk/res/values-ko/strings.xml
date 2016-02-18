@@ -37,12 +37,12 @@
 *\u0009\u0009\u0009\u0009알람, 시계, 시간 설정 
 *\u0009\u0009\u0009\u0009알림 설정 
 *\u0009\u0009\u0009\u0009MIUI와 시스템 설정 
-\"주의: 설치된 어플의 데이터는 Mi 클라우드에 백업되지 않습니다.\""</string>
+\"참고: 설치된 어플의 데이터는 Mi 클라우드에 백업되지 않습니다.\""</string>
     <string name="cloud_app_no_data">백업 없음</string>
     <string name="cloud_app_restore_error">복원하지 못했습니다.</string>
     <string name="cloud_app_restore_success">앱 복원됨</string>
     <string name="cloud_app_backup_success">앱 백업 끝남</string>
-    <string name="cloud_app_check_data">Mi 클라우드와 대화 중…</string>
+    <string name="cloud_app_check_data">Mi 클라우드에 연결 중…</string>
     <string name="cloud_app_no_network">네트워크에 연결할 수 없습니다.</string>
     <string name="button_delete">삭제</string>
     <string name="customization"><u>사용자 설정</u></string>
@@ -108,4 +108,6 @@
     <string name="confirm_restore_title">복원</string>
     <string name="confirm_restore_summary">Wi-Fi에 연결되어있을 때 홈 화면이 재시작되고 앱이 자동으로 다운로드될 것입니다.</string>
     <string name="confirm_restore">복원</string>
+    <string name="cloud_backup_have_data">Mi 클라우드에서 백업 찾기</string>
+    <string name="cloud_backup_select_recover">Mi 클라우드에서 백업 선택하기</string>
 </resources>
