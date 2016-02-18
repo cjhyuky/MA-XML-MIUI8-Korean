@@ -13,8 +13,8 @@
     <string name="device_hongmi">Redmi</string>
     <string name="device_pad">Mi 패드</string>
     <string name="device_xiaomi">Mi 폰</string>
-    <string name="solar_calendar">公历</string>
-    <string name="lunar_calendar">农历</string>
+    <string name="solar_calendar">양력</string>
+    <string name="lunar_calendar">음력</string>
     <string name="lunar_zheng">正</string>
     <string name="lunar_leap">闰</string>
     <string name="lunar_ling">O</string>
@@ -100,4 +100,8 @@
     <string name="cloud_state_disabled">Mi 클라우드로 동기화가 중단되었습니다.</string>
     <string name="cloud_state_finished">Mi 클라우드로 동기화됨</string>
     <string name="cloud_state_syncing">Mi 클라우드로 동기화됨</string>
+    <string name="vip_achievements">성취</string>
+    <string name="vip_sign">서명:</string>
+    <string name="vip_not_login">로그인되지 않음</string>
+    <string name="vip_level">LV%d</string>
 </resources>
