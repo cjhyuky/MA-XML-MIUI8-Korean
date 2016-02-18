@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="data_item_count">
+        <item quantity="other">%d개 항목</item>
+    </plurals>
     <plurals name="trans_time_format_minute">
         <item quantity="other">%d분</item>
     </plurals>
