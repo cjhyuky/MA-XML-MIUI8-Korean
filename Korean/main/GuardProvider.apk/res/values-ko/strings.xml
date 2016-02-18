@@ -1,7 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">보안 유지</string>
-  <string name="hello_world">Hello world!</string>
-  <string name="menu_settings">설정</string>
-  <string name="title_activity_main">주요 활동</string>
+    <string name="hello_world">환영합니다!</string>
+    <string name="menu_settings">설정</string>
+    <string name="title_activity_main">주요활동</string>
+    <string name="Tencent">Tencent</string>
+    <string name="AVL">AVL</string>
+    <string name="Mi">Mi</string>
+    <string name="DesTencent">Tencent</string>
+    <string name="DesAVL">AVL</string>
+    <string name="DesMi">Mi</string>
+    <string name="tencent_dialog_title">Tencent의 개인 정보 보호 정책</string>
+    <string name="tencent_dialog_header">이 기능은 귀하의 기기 ID를 암호화 하여 Tencent 서버(%s) 에 업로드합니다.</string>
+    <string name="tencent_dialog_policy">개인 정보 보호 정책 보기</string>
+    <string name="tencent_dialog_cloudscan">온라인 바이러스 정의를 사용하여 앱 이름과 상세 정보를 스캔하고 업로드합니다.</string>
+    <string name="tencent_dialog_dbupdate">자동으로 바이러스 정의 업데이트</string>
+    <string name="tencent_dialog_url">http://api.sec.miui.com/policy/proxy?p=tencent&amp;l=en_US</string>
+    <string name="avl_dialog_title">AVL의 개인 정보 보호 정책</string>
+    <string name="avl_dialog_header">이 기능은 귀하의 기기 ID를 암호화 하여 AVL 서버(%s) 에 업로드합니다.</string>
+    <string name="avl_dialog_policy">개인 정보 보호 정책 보기</string>
+    <string name="avl_dialog_cloudscan" />
+    <string name="avl_dialog_dbupdate" />
+    <string name="avl_dialog_url">http://api.sec.miui.com/policy/proxy?p=antiy&amp;l=en_US</string>
 </resources>
