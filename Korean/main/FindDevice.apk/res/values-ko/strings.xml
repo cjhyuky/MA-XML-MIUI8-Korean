@@ -4,20 +4,21 @@
     <string name="find_device">기기 찾기</string>
     <string name="enable_find_device_success">기기 찾기가 켜져있습니다.</string>
     <string name="disable_find_device_success">기기 찾기가 꺼져있습니다.</string>
-    <string name="enable_find_device_error">\"기기 찾기를 켤 수 없습니다.\"%1$s</string>
-    <string name="disable_find_device_error">\"기기 찾기를 끌 수 없습니다.\"%1$s</string>
+    <string name="enable_find_device_error">기기 찾기를 켤 수 없습니다. %1$s</string>
+    <string name="disable_find_device_error">기기 찾기를 끌 수 없습니다. %1$s</string>
     <string name="find_device_error_unknown">알 수 없는 오류가 발생했습니다.</string>
     <string name="find_device_error_password_changed">계정 비밀번호가 최근 변경 되었습니다.</string>
     <string name="find_device_error_network">데이터 연결을 확인하고 다시 시도하십시오.</string>
     <string name="find_device_error_server">서버 오류</string>
     <string name="find_device_error_account_sys_timeout">Mi 계정에 연결 할 수 없습니다.</string>
+    <string name="find_device_crash">기기 찾기 기능이 예기치않게 종료되었습니다.</string>
+    <string name="find_device_storage_corrupted">디바이스 저장소가 손상된 것을 발견했습니다. 디바이스가 위험한 상태입니다.</string>
     <string name="find_device_stop_noise">\"확인\"을 탭하여 무음 설정</string>
-    <string name="find_device_noise_title">기기 위치 알람</string>
+    <string name="find_device_noise_title">기기 찾기 알람</string>
     <string name="find_device_success_title">기기 찾기</string>
     <string name="find_device_notice_p1">이동</string>
     <string name="find_device_notice_p2">i.mi.com</string>
-    <string name="find_device_notice_p3">"전화 위치 찾기, 잠그기, 또는 복원.
- SIM 카드를 교체하면, 이 기능을 다시 활성화하기 위해서 또 다른 SMS 메시지가 전송됩니다."</string>
+    <string name="find_device_notice_p3">"전화 위치 찾기, 잠그기, 또는 복원. SIM 카드를 교체하면, 이 기능을 다시 활성화하기 위해서 또 다른 SMS 메시지가 전송됩니다."</string>
     <string name="i_know">확인</string>
     <string name="activate_xiaomi_account">이 기기 활성화</string>
     <string name="phone_locked">이 기기에 기존 Mi 계정 Id (%s) 이 존재 합니다. 로그인하여 기기를 활성화 하십시오.</string>
