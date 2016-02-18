@@ -161,4 +161,26 @@
     <string name="dial_with_gsm_phone">일반 전화</string>
     <string name="purchase_now">충전</string>
     <string name="cancel_call">끊기</string>
+    <string name="voicemail">보이스메일</string>
+    <string name="conference_call_single_description" formatted="false">기타 %s 총 %s</string>
+    <string name="select_sim_hint">SIM %2$d 사용할 수 없음, SIM %1$d 사용중.</string>
+    <string name="card_title_video_call_paused">동영상 일시정지됨</string>
+    <string name="card_title_incoming_conference_call">전화 회의 수신 중</string>
+    <string name="video_switch_to_voice_call_prompt">음성 통화로 전환</string>
+    <string name="onscreen_change_to_voice">음성 통화</string>
+    <string name="onscreen_change_to_video">영상 통화</string>
+    <string name="onscreen_switch_camera">카메라 전환</string>
+    <string name="card_title_video_call">영상 통화</string>
+    <string name="card_title_upgrade_video_call_requesting">영상 요청 중…</string>
+    <string name="card_title_upgrade_video_call_error">영상 통화를 업데이트할 수 없습니다.</string>
+    <string name="card_title_upgrade_video_call_timed_out">영상 통화를 업데이트할 수 없습니다.</string>
+    <string name="card_title_upgrade_video_call_rejected_by_remote">영상 통화를 업데이트할 수 없습니다.</string>
+    <string name="notification_incoming_video_call">영상 통화 수신 중</string>
+    <string name="onscreen_rcs_text">메시지</string>
+    <string name="onscreen_close_preview_camera">카메라 닫기</string>
+    <string name="video_call_not_allowed_if_tty_enabled">먼저 TTY 모드를 끄십시오.</string>
+    <string name="conference_caller_name_me">나</string>
+    <string name="incoming_answer_voice_text">음성 응답</string>
+    <string name="picking_participant">연락처 정보 얻는 중…</string>
+    <string name="conference_caller_info_name">%1$s의 전화 회의</string>
 </resources>
