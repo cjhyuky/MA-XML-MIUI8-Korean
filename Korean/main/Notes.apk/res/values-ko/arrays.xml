@@ -26,4 +26,10 @@
         <item>주소</item>
         <item>노트</item>
     </string-array>
+    <string-array name="welcome_notes_content">
+        <item>"탭하여 메모 만들기"</item>
+        <item>"사진을 추가하거나 체크박스를 표시하시려면 아래 버튼을 탭하십시오."</item>
+        <item>"메모를 길게 눌러 고정, 이동, 삭제하십시오."</item>
+        <item>"And more great features!  - Sync with Mi Cloud  - Set reminders"</item>
+    </string-array>
 </resources>
