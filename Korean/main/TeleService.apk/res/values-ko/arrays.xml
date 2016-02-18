@@ -1,29 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="tty_mode_entries">
+        <item>TTY Off</item>
+        <item>TTY Full</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>보통</item>
+        <item>길게</item>
+    </string-array>
     <string-array name="preferred_network_mode_choices">
-        <item>TD-SCDMA/LTE/GSM/WCDMA/CDMA/EVDO</item>
-        <item>TD-SCDMA/GSM/WCDMA/CDMA/EVDO</item>
-        <item>TD-SCDMA/GSM/WCDMA/LTE</item>
-        <item>TD-SCDMA/WCDMA/LTE</item>
-        <item>TD-SCDMA/GSM/WCDMA</item>
-        <item>TD-SCDMA/GSM/LTE</item>
-        <item>TD-SCDMA/GSM</item>
-        <item>TD-SCDMA/LTE</item>
-        <item>TD-SCDMA/WCDMA</item>
+        <item>TD-SCDMA, LTE, CDMA, EvDo GSM/WCDMA</item>
+        <item>TD-SCDMA, GSM/WCDMA, CDMA와 EvDo</item>
+        <item>TD-SCDMA, GSM/WCDMA와 LTE</item>
+        <item>TD-SCDMA, WCDMA와 LTE</item>
+        <item>TD-SCDMA, GSM/WCDMA</item>
+        <item>TD-SCDMA, GSM과 LTE</item>
+        <item>TD-SCDMA와 GSM</item>
+        <item>TD-SCDMA와 LTE</item>
+        <item>TD-SCDMA와 WCDMA</item>
         <item>TD-SCDMA 전용</item>
         <item>LTE/WCDMA</item>
-        <item>LTE</item>
-        <item>전체</item>
-        <item>GSM/WCDMA/LTE</item>
-        <item>CDMA + LTE/EvDo</item>
-        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>LTE만</item>
+        <item>LTE/GSM/CDMA 자동 (PRL)</item>
+        <item>LTE/GSM 자동 (PRL)</item>
+        <item>LTE/CDMA 자동 (PRL)</item>
+        <item>GSM/CDMA 자동 (PRL)</item>
         <item>EvDo 전용</item>
-        <item>CDMA w/o EvDo</item>
-        <item>CDMA/EvDo 자동</item>
-        <item>GSM/WCDMA 자동</item>
+        <item>CDMA만</item>
+        <item>CDMA 자동 (PRL)</item>
+        <item>GSM 자동 (PRL)</item>
         <item>WCDMA 전용</item>
         <item>GSM 전용</item>
-        <item>GSM/WCDMA 기본 설정</item>
+        <item>WCDMA 선호됨</item>
     </string-array>
     <string-array name="cdma_system_select_choices">
         <item>홈 전용</item>
@@ -54,5 +64,32 @@
         <item>5</item>
         <item>6</item>
         <item>7</item>
+    </string-array>
+    <string-array name="clir_display_values">
+        <item>기본 네트워크</item>
+        <item>번호 숨기기</item>
+        <item>번호 표시</item>
+    </string-array>
+    <string-array name="call_barring_outgoing_display_values">
+        <item>끔</item>
+        <item>국제 로밍 통화</item>
+        <item>국제 통화</item>
+        <item>발신 통화</item>
+    </string-array>
+    <string-array name="call_barring_outgoing_values">
+        <item>-1</item>
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="call_barring_incoming_display_values">
+        <item>끔</item>
+        <item>로밍</item>
+        <item>전체</item>
+    </string-array>
+    <string-array name="call_barring_incoming_values">
+        <item>-2</item>
+        <item>4</item>
+        <item>3</item>
     </string-array>
 </resources>
