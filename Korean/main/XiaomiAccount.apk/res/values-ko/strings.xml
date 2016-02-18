@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="passport_account_hint_text">이메일 또는 전화번호</string>
+    <string name="passport_account_hint_text">이메일 주소 또는 Mi 계정 ID</string>
     <string name="passport_phone_num_hint_text">전화번호</string>
     <string name="passport_login">기존 계정으로 로그인</string>
     <string name="passport_login_short">로그인</string>
@@ -276,8 +276,7 @@
     <string name="micloud_space_info">%s 사용 가능</string>
     <string name="loading_micloud_sync_data">잠시 기다려 주십시오…</string>
     <string name="account_vip_level">계정</string>
-    <string name="account_vip_task">진행</string>
-    <string name="vip_level_value">%d</string>
+    <string name="account_vip_achievements">성취</string>
     <string name="authorize_title">허가</string>
     <string name="my_device_title">현재 기기</string>
     <string name="device_list_title">내 기기</string>
@@ -305,4 +304,8 @@
     <string name="get_device_list_failed">기기를 가져올 수 없습니다.</string>
     <string name="delete_device_failed">기기를 제거할 수 없습니다.</string>
     <string name="empty_device_list_notice">기기 없음</string>
+    <string name="internet_statement_title">사용자 약관</string>
+    <string name="internet_statement_message">동의를 누름으로써 앱이 인터넷에 접근하는 것에 대한 약관에 동의하게됩니다.</string>
+    <string name="agree_add_continue">동의</string>
+    <string name="exit">종료</string>
 </resources>
