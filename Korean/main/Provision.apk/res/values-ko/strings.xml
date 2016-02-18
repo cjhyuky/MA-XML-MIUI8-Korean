@@ -1,37 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="welcome">환영합니다.</string>
+    <string name="input_method_setting">기본 키보드 선택</string>
+    <string name="input_method_category">이메일, 메모, 그 밖의 것을 쓸 때 사용할 기본 키보드를 선택하십시오. 나중에 타사의 다른 키보드를 설치할 수 있습니다.</string>
+    <string name="provision_inputmethod_policy_description">"
+선택한 키보드의 개인 정보 보호 정책 보기"</string>
+    <string name="provision_inputmethod_policy_description1">개인 정보 보호 정책</string>
+    <string name="multisim_settings_title">2개의 SIM 카드 발견됨</string>
+    <string name="multisim_settings_category">SIM 카드 설정</string>
+    <string name="page_layout_title">시스템 레이아웃</string>
+    <string name="page_layout_label">홈 화면, 드롭 다운 메뉴, 다이얼 패드 등을 위한 글자 크기와 레이아웃을 조정하십시오.</string>
+    <string name="sim_card_detection">SIM 카드 삽입</string>
+    <string name="sim_card_detecting_title">SIM 카드 확인</string>
+    <string name="sim_card_detection_info">SIM 카드를 삽입하기 전에 기기와 함께 제공된 지침을 읽으십시오.</string>
+    <string name="sim_card_detecting">"SIM 카드 확인 중
+2026"</string>
+    <string name="other_settings">추가 설정</string>
+    <string name="other_settings_location">위치</string>
+    <string name="other_settings_location_summary">앱이 당신의 위치에 접근하는 것을 수락</string>
+    <string name="other_settings_user_experience">사용자 체험 프로그램</string>
+    <string name="other_settings_user_experience_summary">익명 사용 데이터(%s) 전송으로 MIUI 개선에 도움</string>
+    <string name="other_settings_user_experience_summary1">개인 정보 보호 정책 보기</string>
     <string name="next">다음</string>
-    <string name="continues">계속</string>
-    <string name="shutdown">전원 끄기</string>
-    <string name="other_service_label">다른 서비스</string>
-    <string name="other_service_location">위치기반 서비스</string>
-    <string name="other_service_location_summary">위치기반 서비스는 지도나 기타 앱에 GPS에 기반한 위치정보를 제공합니다.</string>
-    <string name="other_service_google_location">구글 위치 서비스</string>
-    <string name="other_service_google_location_use">위치 &amp; 구글 검색</string>
-    <string name="other_service_google_location_use_summary">구글이 정확한 검색과 기타 서비스를 위해 위치를 사용하도록 허락합니다.</string>
-    <string name="other_service_google_location_use_help">"구글의 위치 서비스가 익명의 위치 정보를 수집할수 있도록 합니다. 수집은 어플리케이션이 작동하지 않을때도 일어날 수 있습니다.
-설정을 바꿀려면, 설정 > 위치 서비스에서 설정하세요."</string>
-    <string name="other_service_permission_manager">앱 권한 관리</string>
-    <string name="other_service_permission_manager_summary">보안 및 개인정보 보호를 위해 앱의 활동을 감시합니다.</string>
-    <string name="other_service_user_experience">사용자 경험 프로그램</string>
-    <string name="other_service_user_experience_summary0">"저희들은 제품을 더욱더 개선하기 위해 당신의 기능 사용 방식을 계산하고 수집합니다. 수집된 정보는 다음 정책에 의해 보호됩니다. "</string>
-    <string name="other_service_user_experience_summary1">개인정보 보호정책</string>
-    <string name="sim_card_detection_dialog_message">SIM 카드를 검색중입니다. 잠시 기다려주세요.</string>
-    <string name="sim_card_detection_label">SIM 카드 검색</string>
-    <string name="sim_card_detection_info">"SIM 카드가 없으면 Xiaomi 계정을 설정할 수 없습니다. 계정 동기화, 휴대전화 추적 같은 서비스를 이용하기 위해서는 SIM 카드가 필요합니다."</string>
-    <string name="sim_card_detection_status_absent">SIM 카드를 찾을 수 없습니다!</string>
-    <string name="setup_complete_label">고맙습니다.</string>
-    <string name="setup_complete_info">휴대전화는 첫번째 사용 시간을 기록합니다.</string>
-    <string name="setup_complete_start">휴대전화 사용 시작</string>
-    <string name="setup_complete_summary">설정 완료! MIUI를 즐기세요!</string>
-    <string name="traffic_protection_label">데이터 사용 보호</string>
-    <string name="traffic_protection_summary">데이터 사용 보호는 지정된 데이터 상한량에 도달했을때 추가요금 지출을 방지하기 위해 데이터 사용을 차단합니다.</string>
-    <string name="traffic_protection_unknown"><u>"잘 모르겠습니다. 나중에 적겠습니다."</u></string>
-    <string name="traffic_protection_text_hint">데이터 상한량을 입력해주세요.</string>
-    <string name="data_usage_summary">만약 데이터를 기본제공하지 않는 요금제를 이용중이라면, 데이터를 끄는것이 좋습니다.그렇지 않으면, 엄청난 사용요금을 지출해야할 수 있습니다.</string>
-    <string name="use_data">데이터 활성화됨</string>
-    <string name="input_method_category">기본 입력기 선택</string>
-    <string name="input_method">입력방법 선택</string>
-    <string name="default_gprs_sim_name">데이터 상한량을 \"%s\" 입력해주세요.</string>
+    <string name="skip_underline"><u>이 단계 건너뛰기</u></string>
+    <string name="sim_dectection_next">계속</string>
+    <string name="shut_down">전원 끄기</string>
+    <string name="sim_redetection">다시 확인</string>
+    <string name="title_congratulation">즐길 준비가 되었습니다!</string>
+    <string name="pref_title_voice_slot">선호하는 음성 SIM 카드</string>
+    <string name="pref_title_data_slot">선호하는 데이터 SIM 카드</string>
+    <string name="summary_not_set">설정 안 됨</string>
+    <string name="summary_sim_card">카드 %1$d개</string>
+    <string name="summary_sim_card_with_operator">카드 %1$d:%2$s개</string>
+    <string name="ime_privacy_policy">선택한 키보드의 개인 정보 보호 정책</string>
+    <string name="ime_privacy_policy_no_network">네트워크 연결 없음. %s에서 이 키보드의 개인 정보 보호 정책 보기</string>
+    <string name="terms_of_use">이용 약관</string>
+    <string name="terms_of_use_label">"당신의 개인 정보는 당사에 매우 중요합니다. 당사가 어떤 정보를 수집하는지, 그 정보를 어떻게 사용하는지, 당신이 어떤 선택을 할 것인지를 이해하려면 당사의 이용 약관과 개인 정보 보호 정책을 읽어보십시오. MIUI를 사용하기 전에 이용 약관과 개인 정보 보호 정책에 반드시 동의해야 합니다."</string>
+    <string name="user_agreement">이용 약관</string>
+    <string name="privacy_policy">개인 정보 보호 정책</string>
+    <string name="agree">동의</string>
+    <string name="disagree">취소</string>
+    <string name="network_access_warning">Mi 서비스를 활성화해 기기를 찾으려면 인터넷에 연결해야 합니다.</string>
+    <string name="setting_locale">위치 설정 중…</string>
+    <string name="miui_terms_no_network">인터넷이 연결되지 않았습니다. %s에서 이용 약관을 보십시오.</string>
+    <string name="miui_privacy_policy_no_network">인터넷이 연결되지 않았습니다. %s에서 개인 정보 보호 정책을 보십시오.</string>
+    <string name="locale_picker_title">로케일 선택</string>
+    <string name="provision_finish">확인</string>
+    <string name="provision_finish_restart">다시 시작</string>
+    <string name="install_preinstall_app">앱 로딩 중…</string>
+    <string name="title_fingerprint">지문 추가</string>
+    <string name="desc_fingerprint">귀하의 지문을 사용하여 기기 잠금 해제, Mi 페이 거래, 앱과 서비스에 로그인 하십시오.</string>
+    <string name="next_fingerprint">다음</string>
 </resources>
-
