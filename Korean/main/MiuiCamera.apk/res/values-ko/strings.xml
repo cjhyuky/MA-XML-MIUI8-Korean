@@ -279,8 +279,9 @@
     <string name="cannot_move_warning_message">사진 찍는 중. 기기를 고정하십시오.</string>
     <string name="ubifocus_capture_warning_message">최고의 결과를 위해 사진에 가까운 피사체(렌즈에서 1m 이내)와 먼 피사체가 포함되어야 합니다.</string>
     <string name="ubi_focus_capture_fail">사진을 찍지 못했습니다.</string>
-    <string name="object_track_enable_toast">물체를 선택하려면, 테두리 주위에 두 개의 대각선 지점을 누릅니다.</string>
-    <string name="pref_camera_auto_capture_when_stable_title">정지된 경우 선택한 물체를 캡처합니다.</string>
+    <string name="object_track_enable_toast">두개의 대각선 지점을 탭하여 대상의 추적을 시작합니다.</string>
+    <string name="pref_camera_auto_capture_when_stable_title">대상이 정지되었을 때 자동으로 사진이 찍힙니다.</string>
+    <string name="pref_camera_auto_capture_when_stable_summary">두개의 대각선 지점을 탭하여 대상의 추적을 시작합니다. 대상이 정지되었을 때 자동으로 사진이 찍힙니다.</string>
     <string name="simple_mode_button_text_manual">수동 모드 끄기</string>
     <string name="pref_qc_focus_position_title">초점</string>
     <string name="pref_front_mirror_entry_auto">얼굴이 감지되었을 때</string>
@@ -329,7 +330,7 @@
     <string name="pref_camera_snap_entry_take_picture">화면이 꺼져있을 때 볼륨 내림 버튼을 누름 &amp; 유지로 사진 연속촬영을 시작하실 수 있습니다. 놓으시면 정지됩니다.</string>
     <string name="pref_camera_snap_entry_take_movie">화면이 꺼져있을 때 볼륨 내림 버튼을 누름 &amp; 유지로 비디오 녹화를 시작하실 수 있습니다. 놓으시면 정지됩니다.</string>
     <string name="pref_camera_snap_entry_off">꺼짐</string>
-    <string name="pref_camera_snap_toast_when_volume_can_wake_screen">\"볼륨 버튼으로 화면켜기 사용\"의 경우 빠른 촬영 모드를 사용하지 않습니다.</string>
+    <string name="pref_camera_snap_toast_when_volume_can_wake_screen">\"볼륨 버튼으로 절전 모드 해제\"가 켜져있을 때 퀵 스냅 모드를 사용할 수 없습니다.</string>
     <string name="pref_camera_tilt_shift_title">Tilt-shift</string>
     <string name="simple_mode_button_text_tilt_shift">Tilt-shift 끄기</string>
     <string name="pref_camera_fisheye_title">어안렌즈 모드</string>
