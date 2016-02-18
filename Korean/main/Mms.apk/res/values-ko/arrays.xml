@@ -24,24 +24,57 @@
         <item>포커 페이스</item>
     </string-array>
     <string-array name="prefEntries_ringtone_repeat">
-        <item>1번</item>
-        <item>2번</item>
-        <item>3번</item>
-        <item>5번</item>
-        <item>10번</item>
+        <item>1회</item>
+        <item>2회</item>
+        <item>3회</item>
+        <item>5회</item>
+        <item>10회</item>
     </string-array>
     <string-array name="contact_entries">
         <item>이름</item>
         <item>별명</item>
-        <item>전화</item>
+        <item>전화번호</item>
         <item>이메일</item>
-        <item>직장</item>
-        <item>메신저</item>
-        <item>인터넷 전화</item>
+        <item>조직</item>
+        <item>IM</item>
+        <item>SIP 폰</item>
         <item>생일</item>
-        <item>웹사이트</item>
+        <item>웹 사이트</item>
         <item>주소</item>
         <item>메모</item>
+        <item>관계</item>
+    </string-array>
+    <string-array name="entries_date_type">
+        <item>수신됨</item>
+        <item>전송됨</item>
+    </string-array>
+    <string-array name="entries_date_type_rightvalue">
+        <item>수신됨</item>
+        <item>전송되었습니다.</item>
+    </string-array>
+    <string-array name="resent_via_entries_sms">
+        <item>SMS</item>
+        <item>Mi 메시지</item>
+    </string-array>
+    <string-array name="resent_via_entries_mms">
+        <item>SMS</item>
+        <item>Mi 메시지</item>
+    </string-array>
+    <string-array name="entries_sms_validity_period">
+        <item>설정되지 않음</item>
+        <item>1시간</item>
+        <item>6시간</item>
+        <item>12시간</item>
+        <item>1일</item>
+        <item>최대</item>
+    </string-array>
+    <string-array name="entries_mms_validity_period">
+        <item>최대</item>
+        <item>2일</item>
+    </string-array>
+    <string-array name="wild_msg_sync_options">
+        <item>모든 메시지 동기화</item>
+        <item>선택된 SIM 카드의 메시지 동기화</item>
     </string-array>
     <string-array name="select_dialog_items">
         <item>1초</item>
@@ -60,9 +93,5 @@
         <item>항상</item>
         <item>무음일 때만</item>
         <item>진동 없음</item>
-    </string-array>
-    <string-array name="entries_date_type">
-        <item>도착한 시간 표시</item>
-        <item>전송 시간 표시 (서버 시간 사용)</item>
     </string-array>
 </resources>
