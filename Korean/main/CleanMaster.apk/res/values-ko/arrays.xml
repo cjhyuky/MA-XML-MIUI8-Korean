@@ -49,8 +49,8 @@
     </string-array>
     <string-array name="apk_clean_menu">
         <item>청소</item>
-        <item>이 apk를 설치</item>
-        <item>Apk의 위치 보기</item>
+        <item>이 앱을 설치</item>
+        <item>앱 폴더에서 보기</item>
         <item>예외 추가</item>
     </string-array>
     <string-array name="app_clean_menu">
