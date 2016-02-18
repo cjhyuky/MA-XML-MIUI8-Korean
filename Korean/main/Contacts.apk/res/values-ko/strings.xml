@@ -641,7 +641,6 @@
     <string name="miprofile_alertdialog_message">카드 교환 요청 시 연락처에 이 이름을 보이게 하십시오.</string>
     <string name="miprofile_alertdialog_edit">이름 입력</string>
     <string name="miprofile_switch_off_alertdialog_message">다른 사람들과 연락처 카드를 교환할 수 없습니다. 귀하의 연락처에서는 귀하의 프로필 동영상을 볼 수 없습니다.</string>
-    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_bind_account_alertdialog_title">전화번호 추가</string>
     <string name="miprofile_bind_account_alertdialog_message">이 기능을 사용하려면 귀하의 Mi 계정에 기기의 전화번호를 추가해야 합니다.</string>
     <string name="miprofile_bind_account_alertdialog_positive">번호 추가</string>
