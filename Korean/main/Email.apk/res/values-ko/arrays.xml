@@ -1,15 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="general_preference_text_zoom_summary_array">
-        <item>Tiny text</item>
-        <item>Small text</item>
-        <item>Default text</item>
-        <item>Large text</item>
-        <item>Huge text</item>
+    <string-array name="calendar_remind_string_array">
+        <item>오늘 밤</item>
+        <item>내일</item>
+        <item>주말</item>
+        <item>다음 주</item>
+        <item>다음 달</item>
+        <item>날짜 선택</item>
     </string-array>
-    <string-array name="general_preference_auto_advance_summary_array">
-        <item>Go to newer message after you delete a message</item>
-        <item>Go to older message after you delete a message</item>
-        <item>Go to inbox after you delete a message</item>
+    <string-array name="compose_modes">
+        <item>답장</item>
+        <item>전체 회신</item>
+        <item>전달</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>매우 작은</item>
+        <item>작은</item>
+        <item>보통</item>
+        <item>큰</item>
+        <item>매우 큰</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>최근 본 내역</item>
+        <item>형식</item>
+        <item>이름</item>
+        <item>보낸 사람</item>
+        <item>받은 날짜</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>시스템</item>
+        <item>자주 사용됨</item>
+        <item>전체 폴더</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>최신 메시지</item>
+        <item>이전 메시지</item>
+        <item>받은 편지함</item>
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>주소:</item>
+        <item>전화:</item>
+        <item>이름:</item>
+        <item>이메일:</item>
+        <item>스마트폰:</item>
+        <item>WeChat:</item>
+        <item>팩스:</item>
+        <item>우편번호:</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>감사합니다,</item>
+        <item>평안하세요.</item>
+        <item>전송된 내 메뉴</item>
+        <item>원본 이메일</item>
+        <item>전송된 내 메뉴</item>
+        <item>전송된 장소</item>
+        <item>발신</item>
+        <item>이 이메일</item>
+        <item>면책 조항</item>
+        <item>이메일 면책 조항</item>
     </string-array>
 </resources>
