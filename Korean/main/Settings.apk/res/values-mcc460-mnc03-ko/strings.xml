@@ -14,10 +14,7 @@
     <string name="sim_enter_new">새 UIM PIN</string>
     <string name="sim_change_pin">UIM PIN</string>
     <string name="sim_change_succeeded">UIM PIN 변경에 성공했습니다.</string>
-    <string name="sim_lock_failed">"UIM 카드 잠금 상태를 변경할 수 없습니다.
-PIN이 잘못된 것 같습니다."</string>
-    <string name="sim_change_failed_enable_sim_lock">"UIM PIN을 변경할 수 없습니다.
- UIM 잠금이 활성화되었습니다."</string>
-    <string name="sim_lock_change_not_supported">"UIM 잠금을 변경할 수 없습니다.
- UIM이 지원하지 않습니다."</string>
+    <string name="sim_lock_failed">"UIM 카드 잠금 상태를 변경할 수 없습니다. PIN이 잘못된 것 같습니다."</string>
+    <string name="sim_change_failed_enable_sim_lock">"UIM PIN을 변경할 수 없습니다. UIM 잠금이 활성화되었습니다."</string>
+    <string name="sim_lock_change_not_supported">"UIM 잠금을 변경할 수 없습니다. UIM이 지원하지 않습니다."</string>
 </resources>
