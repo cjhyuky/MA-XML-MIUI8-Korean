@@ -528,9 +528,6 @@
     <string name="moman_camera_icon">Moman 카메라 이모티콘</string>
     <string name="yunyi_pocket_camera">스포츠 카메라</string>
     <string name="picker_tab_photo">사진</string>
-    <string name="picker_tab_local">@string/home_page_tab_local</string>
-    <string name="picker_tab_cloud">@string/home_page_tab_cloud</string>
-    <string name="picker_tab_face">@string/home_page_tab_face</string>
     <string name="picker_no_items_selected">선택한 항목 없음</string>
     <string name="picker_select_album_title_empty">앨범 선택</string>
     <string name="picker_no_album_selected">선택한 앨범 없음</string>
@@ -754,12 +751,6 @@
     <string name="view_baby_info">아기 정보 수정</string>
     <string name="baby_album_sharers_page_title">가족과 공유</string>
     <string name="set_bg_file_exist_message">이 항목은 이미 존재합니다</string>
-    <string name="set_bg_exceeded_the_size_message">@string/add_to_cloud_exceeded_the_size_message</string>
-    <string name="set_bg_cloud_space_full_message">@string/add_to_cloud_space_full_message</string>
-    <string name="set_bg_local_space_full_message">@string/add_to_cloud_local_space_full_message</string>
-    <string name="set_bg_type_not_support_message">@string/add_to_cloud_type_not_support_message</string>
-    <string name="set_bg_image_limit_exceeded_message">@string/add_to_cloud_image_limit_exceeded_message</string>
-    <string name="set_bg_file_not_exist_message">@string/file_not_exist_message</string>
     <string name="set_bg_unknow_reasons">알 수 없는 오류</string>
     <string name="set_bg_picker_default_title">상단 미리보기 설정</string>
     <string name="set_baby_icon_picker_default_title">아기 아이콘 설정</string>
