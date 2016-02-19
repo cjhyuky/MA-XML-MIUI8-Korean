@@ -1,4 +1,4 @@
 <strings> 
-    <string name="date_time" value="EEEE, d MMMM"/>
+    <string name="date_time" value="EEEE, MMMM d일"/>
     <string name="language" value="ko"/>
 </strings>
