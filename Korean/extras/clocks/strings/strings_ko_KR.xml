@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <strings>
-    <string name="date_time" value="EEEE, d MMMM"/>
+    <string name="date_time" value="yyyy년 MMMM d일 EEEE"/>
     <string name="language" value="ko"/>
 </strings>
