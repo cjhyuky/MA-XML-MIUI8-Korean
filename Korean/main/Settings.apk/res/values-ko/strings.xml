@@ -1467,7 +1467,6 @@
   <string name="other_relative">기타 권한</string>
   <string name="owner_info_settings_edit_text_hint">"화면 잠금에 표시할 텍스트를 입력하세요."</string>
   <string name="owner_info_settings_summary"/>
-  <string name="owner_info_settings_title">Owner info</string>
   <string name="packages_subtitle">"포함된 패키지"</string>
   <string name="password_guard">암호 보호</string>
   <string name="percent_mark">%</string>
