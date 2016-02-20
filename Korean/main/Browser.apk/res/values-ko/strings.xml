@@ -74,9 +74,7 @@
     <string name="js_dialog_before_unload_title">탐색 확인</string>
     <string name="js_dialog_before_unload_positive_button">나가기</string>
     <string name="js_dialog_before_unload_negative_button">머무르기</string>
-    <string name="js_dialog_before_unload">"%s
-
-이 페이지를 나가시겠습니까?"</string>
+    <string name="js_dialog_before_unload">"%s이 페이지를 나가시겠습니까?"</string>
     <string name="webview_find_on_page">이 페이지에서 찾기</string>
     <string name="find_next">다음 찾기</string>
     <string name="find_previous">이전 찾기</string>
