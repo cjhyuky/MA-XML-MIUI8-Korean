@@ -9,7 +9,4 @@
     <plurals name="alert_dialog_not_avaialble_in_ecm">
         <item quantity="other">선택한 동작은 긴급 회신 전화 모드에서는 사용 불가능합니다. 스마트폰이 %s분 동안 이 모드로 들어갑니다. 지금 종료하시겠습니까?</item>
     </plurals>
-    <plurals name="call_recording_notification_complete">
-        <item quantity="other">%d개의 통화 녹음됨</item>
-    </plurals>
 </resources>
