@@ -38,7 +38,7 @@
     <string name="music_dirac_mode_piston_basic">기본 에디션</string>
     <string name="music_dirac_mode_piston_standard">표준 에디션</string>
     <string name="music_dirac_mode_piston_youth">청소년 에디션</string>
-    <string name="music_dirac_mode_piston_color">색상 편집</string>
+    <string name="music_dirac_mode_piston_color">컬러 에디션</string>
     <string name="music_dirac_mode_headset">Mi 헤드폰</string>
     <string name="music_dirac_mode_in_ear_pro">Mi 인이어 프로</string>
     <string name="music_audio_effect_settings">효과 설정</string>
@@ -1366,25 +1366,9 @@ PIN이 잘못된 것 같습니다."</string>
     <string name="accessibility_system_title">시스템</string>
     <string name="accessibility_captioning_title">캡션</string>
     <string name="accessibility_screen_magnification_title">확대 동작</string>
-    <string name="accessibility_screen_magnification_summary">"이 기능을 사용하면 화면을 3번 탭하여 확대 및 축소할 수 있습니다.
-
-화면을 확대한 상태에서 다음 작업을 수행할 수 있습니다.
-"<li><ul>"이동: 화면에서 두 개 이상의 손가락을 드래그
-"<li>확대/축소 수준 조정: 두 개 이상의 손가락을 오므리거나 벌림</li></ul></li>"
-
-또한 3번 탭한 상태를 유지하여 손가락 아래에 있는 항목을 일시적으로 확대할 수 있습니다. 확대한 상태에서 손가락을 드래그하여 화면의 다른 부분을 탐색할 수 있습니다. 손가락을 떼면 이전 상태로 돌아갑니다.
-
-참고: 세 번 탭하여 확대 기능은 키보드와 탐색 바에서는 작동하지 않습니다."</string>
     <string name="accessibility_global_gesture_preference_title">접근성 단축키</string>
     <string name="accessibility_global_gesture_preference_summary_on">켜기</string>
     <string name="accessibility_global_gesture_preference_summary_off">사용 안함</string>
-    <string name="accessibility_global_gesture_preference_description">"이 기능을 사용하면 다음 두 단계를 통해 접근성 기능을 빠르게 사용하도록 설정할 수 있습니다.
-
-1단계: 소리가 나거나 진동이 느껴질 때까지 전원 버튼을 길게 누릅니다.
-
-2단계: 확인음이 들릴 때까지 두 손가락으로 길게 터치합니다.
-
-기기를 여러 사용자가 사용하는 경우 잠금 화면에 있는 바로가기를 사용하여 기기가 잠길 때까지 임시적으로 접근성 기능을 사용하도록 설정할 수 있습니다."</string>
     <string name="accessibility_toggle_large_text_preference_title">큰 텍스트</string>
     <string name="accessibility_toggle_screen_magnification_preference_title">화면 확대</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">화면 확대 자동 업데이트</string>
@@ -1741,8 +1725,7 @@ PIN이 잘못된 것 같습니다."</string>
     <string name="sync_gmail">Gmail</string>
     <string name="sync_calendar">캘린더</string>
     <string name="sync_contacts">연락처</string>
-    <string name="sync_plug"><font fgcolor="#ffffffff">Google 동기화에 오신 것을 환영합니다.</font>" 
-Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액세스할 수 있도록 데이터를 동기화하는 Google 서비스입니다."</string>
+    <string name="sync_plug"><font fgcolor="#ffffffff">"Google 동기화에 오신 것을 환영합니다."</font>" "\n"Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액세스할 수 있도록 데이터를 동기화하는 Google 서비스입니다."</string>
     <string name="header_application_sync_settings">앱 동기화 설정</string>
     <string name="header_data_and_synchronization">데이터 및 동기화</string>
     <string name="preference_change_password_title">비밀번호 변경</string>
@@ -1752,7 +1735,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="finish_button_label">마침</string>
     <string name="really_remove_account_title">계정을 삭제하시겠습니까?</string>
     <string name="really_remove_account_message">계정을 삭제하면 휴대전화의 메시지, 연락처 및 다른 데이터가 모두 지워집니다.</string>
-    <string name="remove_account_failed">일부 앱의 경우 이 계정이 필요합니다. 설정 > 백업 및 재설정에서 휴대전화를 초기화해야 계정을 삭제할 수 있으며 이 경우 모든 개인정보가 삭제됩니다.</string>
+    <string name="remove_account_failed">"일부 앱의 경우 이 계정이 필요합니다. 설정 &gt; 백업 및 재설정에서 휴대전화을 초기화해야 계정을 삭제할 수 있으며 이 경우 모든 개인정보가 삭제됩니다."</string>
     <string name="provider_label">구독정보 푸시</string>
     <string name="cant_sync_dialog_title">수동으로 동기화할 수 없음</string>
     <string name="cant_sync_dialog_message">현재 이 항목에 대해 동기화를 사용할 수 없습니다. 이 설정을 변경하려면 백그라운드 데이터 및 자동 동기화를 일시적으로 사용하도록 설정하세요.</string>
