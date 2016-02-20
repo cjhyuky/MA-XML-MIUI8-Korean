@@ -37,7 +37,7 @@
 *\u0009\u0009\u0009\u0009알람, 시계, 시간 설정 
 *\u0009\u0009\u0009\u0009알림 설정 
 *\u0009\u0009\u0009\u0009MIUI와 시스템 설정 
-\"참고: 설치된 어플의 데이터는 Mi 클라우드에 백업되지 않습니다.\""</string>
+\"참고: 설치된 어플의 데이터는 Mi 클라우드에 백업되지 않습니다.""</string>
     <string name="cloud_app_no_data">백업 없음</string>
     <string name="cloud_app_restore_error">복원하지 못했습니다.</string>
     <string name="cloud_app_restore_success">앱 복원됨</string>
