@@ -1815,10 +1815,8 @@
     <string name="data_usage_restrict_background_title">백그라운드 데이터 사용을 제한하시겠습니까?</string>
     <string name="data_usage_restrict_background">백그라운드 모바일 데이터를 제한할 경우, Wi-Fi 네트워크에 연결되어 있지 않으면 일부 앱과 서비스가 작동하지 않습니다.</string>
     <string name="data_usage_restrict_background_multiuser">백그라운드 모바일 데이터를 제한할 경우, Wi-Fi 네트워크에 연결되어 있지 않으면 일부 앱과 서비스가 제대로 작동하지 않습니다.</string>
-    <string name="data_usage_sweep_warning"><font size="21">^1</font><font size="9">^2</font>"
-"<font size="12">경고</font></string>
-    <string name="data_usage_sweep_limit"><font size="21">^1</font><font size="9">^2</font>"
-"<font size="12">한도</font></string>
+    <string name="data_usage_sweep_warning"><font size="21">^1</font><font size="9">^2</font>""<font size="12">경고</font></string>
+    <string name="data_usage_sweep_limit"><font size="21">^1</font><font size="9">^2</font>""<font size="12">한도</font></string>
     <string name="data_usage_uninstalled_apps">삭제된 앱</string>
     <string name="data_usage_uninstalled_apps_users">삭제된 앱 및 사용자</string>
     <string name="data_usage_received_sent">%1$s 수신됨, %2$s 전송됨</string>
