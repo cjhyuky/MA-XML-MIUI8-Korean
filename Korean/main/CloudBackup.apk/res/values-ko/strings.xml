@@ -32,12 +32,7 @@
     <string name="cloud_back_up_share_activity_title">Mi 계정 업그레이드</string>
     <string name="cloud_back_up_share_activity_discription">더 많은 저장 공간 확보, 매일 백업, 더 보기.</string>
     <string name="cloud_back_up_share_activity_confirm">업그레이드</string>
-    <string name="cloud_back_up_detail_discription">"기기가 Wi-Fi에 연결되어 있을 때 다음의 항목들이 Mi 클라우드에 백업될 것입니다: 
-*\u0009\u0009\u0009\u0009앱, 홈 화면 레이아웃, 배경 화면 
-*\u0009\u0009\u0009\u0009알람, 시계, 시간 설정 
-*\u0009\u0009\u0009\u0009알림 설정 
-*\u0009\u0009\u0009\u0009MIUI와 시스템 설정 
-\"참고: 설치된 어플의 데이터는 Mi 클라우드에 백업되지 않습니다.\""</string>
+    <string name="cloud_back_up_detail_discription">"기기가 Wi-Fi에 연결되어 있을 때 다음의 항목들이 Mi 클라우드에 백업될 것입니다: *\u0009\u0009\u0009\u0009앱, 홈 화면 레이아웃, 배경 화면 *\u0009\u0009\u0009\u0009알람, 시계, 시간 설정 *\u0009\u0009\u0009\u0009알림 설정 *\u0009\u0009\u0009\u0009MIUI와 시스템 설정 \"참고: 설치된 어플의 데이터는 Mi 클라우드에 백업되지 않습니다.\""</string>
     <string name="cloud_app_no_data">백업 없음</string>
     <string name="cloud_app_restore_error">복원하지 못했습니다.</string>
     <string name="cloud_app_restore_success">앱 복원됨</string>
