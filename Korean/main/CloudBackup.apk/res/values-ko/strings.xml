@@ -94,10 +94,8 @@
     <string name="as_new_device">이전의 홈 화면과 설정 교체하기</string>
     <string name="as_new_device_summary">이전의 Mi 클라우드 백업 지우기</string>
     <string name="restore_data_summary">이 기능은 인터넷 연결을 필요로 합니다.</string>
-    <string name="query_restore_summary">이 기기를 위한 Mi 클라우드 백업 파일을 찾았습니다. 홈 화면 앱과 설정을 복원하거나 새로운 기기를 이용하여 이전 Mi 클라우드 백업을 삭제하시겠습니까?</string>
     <string name="query_restore_back_view">Mi 클라우드 백업</string>
     <string name="restore_home_screen_apps">Mi 클라우드 백업에서 복원</string>
-    <string name="query_restore_description">이 백업을 사용하여 홈 화면 앱과 설정을 복구합니다. 이미 기기에 설치되어있는 중복된 어플을 덮어씌우게될 것입니다. 앱이 백업에 포함되어 있지 않다면 마지막 홈 화면으로 이동될 것입니다.</string>
     <string name="restore_from_this_device">이 백업을 사용하여 복원</string>
     <string name="confirm_restore_title">복원</string>
     <string name="confirm_restore_summary">Wi-Fi에 연결되어있을 때 홈 화면이 재시작되고 앱이 자동으로 다운로드될 것입니다.</string>
