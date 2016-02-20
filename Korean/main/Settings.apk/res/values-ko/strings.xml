@@ -2941,7 +2941,7 @@
     <string name="set_password_action">비밀번호 설정</string>
     <string name="deny_sms_title">SMS 잠금</string>
     <string name="deny_sms_message">설치한 앱이 SMS를 보내도록 허용 안 함</string>
-    <string name="wakeup_for_keyguard_notification_title">알림에 잠금화면 켜기</string>
+    <string name="wakeup_for_keyguard_notification_title">잠금화면에 알림 표시</string>
     <string name="experience_optimization_category">최적화</string>
     <string name="advanced_text_layout">고급 문자 레이아웃 사용 가능</string>
     <string name="pref_edge_handgrip">에지 컨트롤</string>
