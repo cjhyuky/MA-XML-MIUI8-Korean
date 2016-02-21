@@ -2311,7 +2311,6 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="search_label">설정</string>
     <string name="search_hint">검색 설정</string>
     <string name="search_description">검색 설정</string>
-    <string name="remove_from_frequently_fragment">빠른 설정에서 %s을(를) 제거하시겠습니까?</string>
     <string name="frequently_fragment_tempty">자주 사용된 항목이 여기에 나열됩니다.</string>
     <string name="frequently_fragment_delete">제거</string>
     <string name="show_fc">강제로 종료된 앱</string>
