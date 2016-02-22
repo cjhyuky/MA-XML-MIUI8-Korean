@@ -323,7 +323,7 @@
     <string name="no_display_file">%1$s을(를) 표시할 수 없습니다.</string>
     <string name="delete_selected_tasks">선택 사항을 삭제하시겠습니까?</string>
     <string name="kuaipan_delete_guide_des">가이드를 삭제하시겠습니까?</string>
-    <string name="kuaipan_data_formater_with_year">월 M 일 d 년 YYYY</string>
+    <string name="kuaipan_data_formater_with_year">yyyy 년 M 월 d 일</string>
     <string name="kuaipan_data_formater_without_year">M 월 d 일</string>
     <string name="kuaipan_photo_locate">%1$s에 위치됨</string>
     <string name="kuaipan_photo_folder_divider">,</string>
