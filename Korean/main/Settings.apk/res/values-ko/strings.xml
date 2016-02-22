@@ -246,6 +246,7 @@
     <string name="display_font_size_label">글꼴 크기:</string>
     <string name="intent_sender_sendbroadcast_text">전송broadcast</string>
     <string name="intent_sender_action_label">Action:</string>
+    <string name="intent_sender_startactivity_text">activity 시작</string>
     <string name="intent_sender_resource_label">Resource:</string>
     <string name="intent_sender_account_label">계정:</string>
     <string name="proxy_settings_title">프록시</string>
@@ -317,6 +318,7 @@
     <string name="skip_label">건너뛰기</string>
     <string name="next_label">다음</string>
     <string name="language_picker_title">언어</string>
+    <string name="activity_picker_label">작업 선택</string>
     <string name="device_info_label">장치정보</string>
     <string name="battery_info_label">배터리 정보</string>
     <string name="display_label">화면</string>
@@ -1027,6 +1029,13 @@ PIN이 잘못된 것 같습니다."</string>
     <string name="copyright_title">저작권</string>
     <string name="license_title">라이선스</string>
     <string name="terms_title">약관</string>
+    <string name="settings_license_activity_title">오픈소스 라이선스</string>
+    <string name="settings_license_activity_unavailable">라이선스를 로드하는 동안 문제가 발생했습니다.</string>
+    <string name="settings_license_activity_loading">로드 중...</string>
+    <string name="settings_safetylegal_title">안전 정보</string>
+    <string name="settings_safetylegal_activity_title">안전 정보</string>
+    <string name="settings_safetylegal_activity_unreachable">데이터 서비스에 연결되어 있지 않습니다. 지금 정보를 보려면 인터넷에 연결된 컴퓨터에서 %s(으)로 이동하세요.</string>
+    <string name="settings_safetylegal_activity_loading">로드 중...</string>
     <string name="lockpassword_choose_your_password_header">비밀번호 선택</string>
     <string name="lockpassword_choose_your_pattern_header">패턴 선택</string>
     <string name="lockpassword_choose_your_pin_header">PIN을 설정하십시오.</string>
@@ -1066,6 +1075,7 @@ PIN이 잘못된 것 같습니다."</string>
     <string name="lockpattern_settings_help_how_to_record">잠금해제 패턴을 그리는 방법</string>
     <string name="lockpattern_too_many_failed_confirmation_attempts_header">잘못된 시도 횟수가 너무 많습니다.</string>
     <string name="lockpattern_too_many_failed_confirmation_attempts_footer">%d초 후에 다시 시도하세요.</string>
+    <string name="activity_not_found">휴대전화에 설치되어 있지 않은 애플리케이션입니다.</string>
     <string name="manageapplications_settings_title">앱 관리</string>
     <string name="manageapplications_settings_summary">설치된 앱 관리 및 제거</string>
     <string name="applications_settings">설치된 앱</string>
@@ -1334,6 +1344,9 @@ PIN이 잘못된 것 같습니다."</string>
     <string name="enable_terminal_summary">로컬 셸 액세스를 제공하는 터미널 앱 사용</string>
     <string name="gadget_picker_title">가젯 선택</string>
     <string name="widget_picker_title">위젯 선택</string>
+    <string name="allow_bind_app_widget_activity_allow_bind_title">위젯을 만들고 액세스를 허용하시겠습니까?</string>
+    <string name="allow_bind_app_widget_activity_allow_bind">위젯을 만든 다음에는 %1$s에서 위젯이 표시하는 모든 데이터에 액세스할 수 있습니다.</string>
+    <string name="allow_bind_app_widget_activity_always_allow_bind">%1$s에서 위젯을 만들고 자체 데이터에 액세스할 수 있도록 항상 허용</string>
     <string name="battery_history_days">%1$d일 %2$d시간 %3$d분 %4$d초</string>
     <string name="battery_history_hours">%1$d시간 %2$d분 %3$d초</string>
     <string name="battery_history_minutes">%1$d분 %2$d초</string>
@@ -2311,6 +2324,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="search_label">설정</string>
     <string name="search_hint">검색 설정</string>
     <string name="search_description">검색 설정</string>
+    <string name="remove_from_frequently_fragment">빠른 설정에서 %s을(를) 제거하시겠습니까?</string>
     <string name="frequently_fragment_tempty">자주 사용된 항목이 여기에 나열됩니다.</string>
     <string name="frequently_fragment_delete">제거</string>
     <string name="show_fc">강제로 종료된 앱</string>
