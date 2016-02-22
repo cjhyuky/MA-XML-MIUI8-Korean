@@ -2397,7 +2397,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="virus_scanner_select_Cancel">취소</string>
     <string name="virus_scanner_provider">%s 제공</string>
     <string name="virus_scanner_auto_update">자동으로 업데이트</string>
-    <string name="virus_scanner_date_formater">Yyyy, MM dd</string>
+    <string name="virus_scanner_date_formater">yyyy, MM dd</string>
     <string name="virus_scanner_manual_update">%s에 업데이트됨</string>
     <string name="virus_scanner_lib_updating">정의 업데이트 중…</string>
     <string name="virus_scanner_lib_already_latest">바이러스 정의가 이미 최신입니다.</string>
