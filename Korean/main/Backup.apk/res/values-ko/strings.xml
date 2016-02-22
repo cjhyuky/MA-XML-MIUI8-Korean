@@ -155,7 +155,7 @@
     <string name="cloud_no_backup">백업 없음</string>
     <string name="current_account">안녕하세요, %s</string>
     <string name="current_sim">현재 SIM 카드</string>
-    <string name="date_format">Yyyy-MM-dd HH:mm:ss</string>
+    <string name="date_format">yyyy-MM-dd HH:mm:ss</string>
     <string name="dir_date_format">yyyyMMdd_HHmmss</string>
     <string name="no_network">네트워크에 연결할 수 없습니다.</string>
     <string name="retry">다시 시도</string>
