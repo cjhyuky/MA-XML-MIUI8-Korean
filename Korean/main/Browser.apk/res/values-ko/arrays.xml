@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="search_engines">
-        <item>Google</item>
-        <item>Yahoo</item>
-        <item>Bing</item>
-    </string-array>
-    
     <string-array name="pref_homepage_choices">
         <item>기본 시작 페이지</item>
         <item>사용자 지정</item>
@@ -63,16 +57,6 @@
         <item>https://www.google.co.kr</item>
         <item>날씨</item>
         <item>http://m.kma.go.kr/</item>
-    </string-array>
-    <string-array name="search_engines_default">
-        <item>Google</item>
-        <item>Yahoo</item>
-        <item>Bing</item>
-    </string-array>
-    <string-array name="search_bar_search_engines_default">
-        <item>Google</item>
-        <item>Yahoo</item>
-        <item></item>
     </string-array>
     <string-array name="menu_theme_setting">
         <item>화이트</item>
