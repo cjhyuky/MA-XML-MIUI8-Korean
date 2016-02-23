@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="search_engines">
-        <item>구글</item>
-        <item>야후</item>
-        <item>빙</item>
+        <item>Google</item>
+        <item>Yahoo</item>
+        <item>Bing</item>
     </string-array>
     
     <string-array name="pref_homepage_choices">
@@ -65,13 +65,13 @@
         <item>http://m.kma.go.kr/</item>
     </string-array>
     <string-array name="search_engines_default">
-        <item>구글</item>
-        <item>야후</item>
-        <item>빙</item>
+        <item>Google</item>
+        <item>Yahoo</item>
+        <item>Bing</item>
     </string-array>
     <string-array name="search_bar_search_engines_default">
-        <item>구글</item>
-        <item>야후</item>
+        <item>Google</item>
+        <item>Yahoo</item>
         <item></item>
     </string-array>
     <string-array name="menu_theme_setting">
