@@ -3,9 +3,9 @@
     <string name="label">MIUI SDK</string>
     <string name="send">전송</string>
     <string name="close">닫기</string>
-    <string name="date_picker_label_year" />
-    <string name="date_picker_label_month" />
-    <string name="date_picker_label_day" />
+    <string name="date_picker_label_year">년</string>
+    <string name="date_picker_label_month">월</string>
+    <string name="date_picker_label_day">일</string>
     <string name="copyright">저작권</string>
     <string name="user_agreement">이용 약관</string>
     <string name="privacy_policy">개인 정보 보호 정책</string>
