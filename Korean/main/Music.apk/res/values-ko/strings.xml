@@ -519,11 +519,11 @@
     <string name="notification_headset_settings">헤드폰 연결됨</string>
     <string name="notification_headset_info">탭하여 설정 보기</string>
     <string name="notification_headset_custom">무시</string>
-    <string name="android_sdk_too_low">"For android version is too low, music can't upgrade.Please update."</string>
+    <string name="android_sdk_too_low">"안드로이드 버젼이 낮아서, 어플을 업그레이드 할 수 없습니다. 업데이트 해주세요."</string>
     <string name="start_download_music">뮤직 업그레이드 패키지 다운로드를 시작합니다</string>
     <string name="miui_music">Mi 뮤직</string>
-    <string name="time_to_upgrade">Should Update Mi Music</string>
+    <string name="time_to_upgrade">Mi 뮤직을 업그레이드 해야합니다.</string>
     <string name="update_now">지금 업데이트</string>
-    <string name="start_to_use">Start to enjoy</string>
-    <string name="welcome_to_new_music">Wecome to new version of Mi Music</string>
+    <string name="start_to_use">시작하기</string>
+    <string name="welcome_to_new_music">환영합니다! 새로운 Mi 뮤직입니다.</string>
 </resources>
