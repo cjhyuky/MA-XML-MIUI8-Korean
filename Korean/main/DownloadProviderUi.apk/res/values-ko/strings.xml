@@ -12,6 +12,9 @@
   <string name="delete_downloads_records">다운로드 삭제</string>
   <string name="delete_the_downloaded_file">다운로드된 파일도 삭제</string>
   <string name="deselect_all">전체 선택해제</string>
+  <string name="dialog_confirm_delete_downloads_message">%d 삭제하시겠습니까?</string>
+  <string name="dialog_confirm_delete_the_download_item_message">이 작업을 삭제하시겠습니까?</string>
+  <string name="dialog_confirm_delete_checkbox_message">저장된 파일도 같이 지웁니다</string>
   <string name="dialog_cannot_resume">다운로드가 끊어졌고 재개할 수 없습니다.</string>
   <string name="dialog_failed_body">지금 다운로드를 재시도 하시겠습니까? 아니면 대기열에서 삭제하시겠습니까?</string>
   <string name="dialog_file_already_exists">대상 파일이 이미 존재하여 다운로드 할 수 없습니다.</string>
