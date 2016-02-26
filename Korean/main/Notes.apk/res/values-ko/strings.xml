@@ -35,8 +35,6 @@
   <string name="file_name_txt_format">notes_%s.txt</string>
   <string name="file_path">/MIUI/notes/</string>
   <string name="folder_exist">%1$s 폴더는 이미 존재합니다. 이름을 변경하세요.</string>
-  <string name="format_date_ymd">yyyy년 MM월 dd일</string>
-  <string name="format_datetime_mdhm">MM월 dd일 kk시 mm분</string>
   <string name="format_exported_file_location">내보낸 txt파일(%1$s)은 SD 카드의 (%2$s)폴더에 저장됩니다.</string>
   <string name="format_folder_files_count">(%d)</string>
   <string name="format_move_notes_to_folder">선택한 %1$d 노트를 %2$s 폴더로 이동했습니다.</string>
