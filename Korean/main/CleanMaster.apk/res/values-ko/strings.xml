@@ -259,7 +259,7 @@
     <string name="pref_title_auto_deepclean_and_alert">사용하지 않는 앱 알림</string>
     <string name="notification_summary_of_apps_cleanup">사용하지 않는 앱이 저장소 %s 자리를 차지하고 있습니다</string>
     <string name="notification_title_of_apps_cleanup">사용하지 않는 앱</string>
-    <string name="pref_title_apps_check_time">주파수</string>
+    <string name="pref_title_apps_check_time">청소 주기</string>
     <string name="pref_title_apps_check_size">저장소 용량 제한</string>
     <string name="network_not_available">네크워크에 연결할 수 없습니다.</string>
     <string name="no_network_btn">다시 시도</string>
