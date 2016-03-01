@@ -617,15 +617,9 @@
     <string name="wild_msg_title">동기화할 전화번호 선택</string>
     <string name="select_message_send_sim">SIM 카드 선택</string>
     <string name="card_insert_to_contact">연락처 가져오기</string>
-    <string name="red_package_default_hint">恭喜发财，万事如意!</string>
     <string name="red_package_btn">열기</string>
     <string name="snippet_red_package">[행운의 돈]</string>
-    <string name="toast_feedback_start">로그 데이터 받는 중…</string>
-    <string name="toast_feedback_finish">Wi-Fi가 연결되면 리포트가 전송됩니다.</string>
-    <string name="toast_feedback_max">하루에 3개 이상 리포트를 전송할 수 없습니다.</string>
-    <string name="toast_description_required">설명은 비워둘 수 없습니다.</string>
-    <string name="pref_key_mx_feedback">피드백</string>
-    <string name="pref_summary_mx_feedback">버그 보고 및 피드백 전송</string>
-    <string name="feedback_description_hint">여기에 피드백을 작성하십시오.</string>
-    <string name="feedback_submit">전송</string>
+    <string name="title_red_package">복 많이 받으시고 부자되세요!</string>
+    <string name="title_send_red_package">행운의 돈 확인</string>
+    <string name="title_recv_red_package">행운의 돈 얻기</string>
 </resources>
