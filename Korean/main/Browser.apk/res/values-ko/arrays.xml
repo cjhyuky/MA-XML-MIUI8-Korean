@@ -28,34 +28,6 @@
         <item>프로요-넥서스원</item>
         <item>허니콤-줌</item>
     </string-array>
-    <string-array name="search_engines_default">
-        <item>google</item>
-        <item>yahoo</item>
-        <item>naver</item>
-    </string-array>
-	<string-array name="search_engines">
-        <item>baidu</item>
-        <item>sogou</item>
-        <item>google</item>
-        <item>naver</item>
-	</string-array>	
-	<string-array name="search_bar_search_engines_default">
-        <item>google</item>
-        <item>naver</item>
-    </string-array>
-	 <string-array name="naver">
-        <item>naver</item>
-        <item>naver.com</item>
-        <item>http://www.naver.com/favicon.ico</item>
-        <item>https://search.naver.com/search.naver?where=nexearch&query={searchTerms}</item>
-        <item>UTF-8</item>
-        <item>https://search.naver.com/search.naver?where=nexearch&query={searchTerms}</item>
-    </string-array>
-	<string-array name="naver_in_list">
-        <item>search_naver</item>
-        <item>ic_search_engine_naver</item>
-        <item>naver</item>
-    </string-array>
     <string-array name="pref_data_preload_choices">
         <item>안함</item>
         <item>Wi-Fi 에서만</item>
@@ -71,7 +43,7 @@
         <item>Wi-Fi 에서만</item>
         <item>항상</item>
     </string-array>
-    <string-array name="bookmarks_ko">
+    <string-array name="bookmarks">
         <item>네이버</item>
         <item>http://www.naver.com</item>
         <item>트위터</item>
