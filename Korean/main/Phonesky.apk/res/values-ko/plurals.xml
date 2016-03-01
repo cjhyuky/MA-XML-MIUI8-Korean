@@ -1,1 +1,95 @@
-test
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="circles_multiple">
+        <item quantity="other">서클 %1$s개</item>
+        <item quantity="one">서클 %1$s개</item>
+    </plurals>
+    <plurals name="content_description_rated">
+        <item quantity="other">내 평점: 별 %1$s개</item>
+        <item quantity="one">내 평점: 별 %1$s개</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_review_count">
+        <item quantity="other">리뷰 %1$d개</item>
+        <item quantity="one">리뷰 %1$d개</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_row">
+        <item quantity="other">별표 평점이 %2$d인 리뷰 %1$d개</item>
+        <item quantity="one">별표 평점이 %2$d인 리뷰 %1$d개</item>
+    </plurals>
+    <plurals name="content_description_review_tip_review_count">
+        <item quantity="other">%1$s(%2$s개 리뷰에 포함)</item>
+        <item quantity="one">%1$s(%2$s개 리뷰에 포함)</item>
+    </plurals>
+    <plurals name="my_apps_selected">
+        <item quantity="other">%1$d개 선택됨</item>
+        <item quantity="one">%1$d개 선택됨</item>
+    </plurals>
+    <plurals name="notification_need_approval_message">
+        <item quantity="other">%1$d개 업데이트 승인이 필요함</item>
+        <item quantity="one">%1$d개 업데이트 승인이 필요함</item>
+    </plurals>
+    <plurals name="notification_new_updates_available_message">
+        <item quantity="other">새 업데이트 %1$d개</item>
+        <item quantity="one">새 업데이트 %1$d개</item>
+    </plurals>
+    <plurals name="notification_outstanding_updates_message">
+        <item quantity="other">업데이트 %1$d개 대기 중</item>
+        <item quantity="one">업데이트 %1$d개 대기 중</item>
+    </plurals>
+    <plurals name="notification_update_all_button_text">
+        <item quantity="other">모두 업데이트</item>
+        <item quantity="one">업데이트</item>
+    </plurals>
+    <plurals name="notification_update_success_message">
+        <item quantity="other">애플리케이션 %1$d개 업데이트 완료</item>
+        <item quantity="one">애플리케이션 %1$d개 업데이트 완료</item>
+    </plurals>
+    <plurals name="review_author_stars">
+        <item quantity="other">&amp;lt;b>%1$s&amp;lt;/b> 별 %2$s개</item>
+        <item quantity="one">&amp;lt;b>%1$s&amp;lt;/b> 별 %2$s개</item>
+    </plurals>
+    <plurals name="review_author_stars_title">
+        <item quantity="other">&amp;lt;b>%1$s&amp;lt;/b> 별 %2$s개 - %3$s</item>
+        <item quantity="one">&amp;lt;b>%1$s&amp;lt;/b> 별 %2$s개 - %3$s</item>
+    </plurals>
+    <plurals name="review_author_stars_title_comment">
+        <item quantity="other">&amp;lt;b>%1$s&amp;lt;/b> 별 %2$s개 - %3$s - %4$s</item>
+        <item quantity="one">&amp;lt;b>%1$s&amp;lt;/b> 별 %2$s개 - %3$s - %4$s</item>
+    </plurals>
+    <plurals name="review_feedback_helpful_icon_description">
+        <item quantity="other">사용자 %1$d명이 이 리뷰가 유용하다고 평가했습니다. 댓글 평가: 유용함</item>
+        <item quantity="one">사용자 %1$d명이 이 리뷰가 유용하다고 평가했습니다. 댓글 평가: 유용함</item>
+    </plurals>
+    <plurals name="review_feedback_unmark_helpful_icon_description">
+        <item quantity="other">"사용자 %1$d명이 이 리뷰가 유용하다고 평가했습니다. '댓글 평가: 유용함' 취소"</item>
+        <item quantity="one">"사용자 %1$d명이 이 리뷰가 유용하다고 평가했습니다. '댓글 평가: 유용함' 취소"</item>
+    </plurals>
+    <plurals name="review_just_stars">
+        <item quantity="other">&amp;lt;b>별 %1$s개&amp;lt;/b>로 평가했습니다.</item>
+        <item quantity="one">&amp;lt;b>별 %1$s개&amp;lt;/b>로 평가했습니다.</item>
+    </plurals>
+    <plurals name="review_stars_title">
+        <item quantity="other">&amp;lt;b>별 %1$s개&amp;lt;/b> %2$s</item>
+        <item quantity="one">&amp;lt;b>별 %1$s개&amp;lt;/b> %2$s</item>
+    </plurals>
+    <plurals name="setup_wizard_apps_loading_error_menu_title">
+        <item quantity="other">항목을 로드할 수 없습니다. 다시 백업을 시도해 보세요.</item>
+        <item quantity="one">항목을 로드할 수 없습니다. 나중에 다시 시도해 주세요.</item>
+    </plurals>
+    <plurals name="setup_wizard_device_last_used_message">
+        <item quantity="other">최근 사용: %1$d일 전</item>
+        <item quantity="one">최근 사용: %1$d일 전</item>
+    </plurals>
+    <plurals name="setup_wizard_selected_apps">
+        <item quantity="other">선택한 앱</item>
+        <item quantity="one">선택한 앱</item>
+    </plurals>
+    <plurals name="stars_without_numbers">
+        <item quantity="other">별</item>
+        <item quantity="one">별</item>
+    </plurals>
+    <plurals name="tip_header_subtitle">
+        <item quantity="other">%1$s명의 의견</item>
+        <item quantity="one">%1$s명의 의견</item>
+    </plurals>
+</resources>
