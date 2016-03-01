@@ -23,7 +23,7 @@
     <string name="music_hifi_volume">Hi-Fi 불륨</string>
     <string name="music_hifi_summary">노이즈와 왜곡을 줄이고 음질을 향상시킵니다.</string>
     <string name="music_mi_effect_title">Mi 사운드 강화</string>
-    <string name="music_mi_effect_summary">헤드폰 사용 시 Mi 사운드 강화 사용</string>
+    <string name="music_mi_effect_summary">스피커를 사용할 때 Mi 사운드 인핸서 사용</string>
     <string name="music_headphone_settings">헤드폰 유형 선택</string>
     <string name="music_dirac_control">음질 최적화</string>
     <string name="music_dirac_mode_off">Dirac 꺼짐</string>
@@ -185,7 +185,7 @@
     <string name="battery_info_health_cold">전력량 낮음</string>
     <string name="bluetooth">블루투스</string>
     <string name="bluetooth_is_discoverable">모든 가까운 블루투스 기기에 표시(%1$s)</string>
-    <string name="bluetooth_is_discoverable_always">모든 가까운 블루투스 기기에 표시</string>
+    <string name="bluetooth_is_discoverable_always">이 기기를 주변 블루투스 기기들이 볼수있도록 하시겠습니까?</string>
     <string name="bluetooth_not_visible_to_other_devices">다른 블루투스 기기에 표시되지 않음</string>
     <string name="bluetooth_only_visible_to_paired_devices">페어링된 기기에만 표시</string>
     <string name="bluetooth_visibility_timeout">검색 가능 제한시간</string>
@@ -339,7 +339,9 @@
     <string name="roaming_reenable_message">데이터 로밍을 사용 중지한 상태에서 홈 네트워크를 벗어났으므로 데이터 연결이 끊어졌습니다.</string>
     <string name="roaming_turn_it_on_button">사용</string>
     <string name="roaming_warning">데이터 로밍을 허용하면 높은 로밍 요금이 부과될 수 있습니다.</string>
-    <string name="roaming_warning_multiuser">데이터 로밍을 허용하면 높은 로밍 요금이 부과될 수 있습니다. 이 설정은 휴대전화의 모든 사용자에게 영향을 줍니다.</string>
+    <string name="roaming_warning_multiuser">"데이터 로밍을 허용하면 높은 로밍 요금이 부과될 수 있습니다.
+
+이 설정은 휴대전화의 모든 사용자에게 영향을 줍니다."</string>
     <string name="roaming_reenable_title">데이터 로밍을 허용하시겠습니까?</string>
     <string name="networks">운영자 선택</string>
     <string name="sum_carrier_select">네트워크 운영자 선택</string>
@@ -385,7 +387,9 @@
     <string name="crypt_keeper_encrypt_title">휴대전화 암호화</string>
     <string name="crypt_keeper_encrypt_summary">휴대전화를 켤 때마다 휴대전화의 암호화를 해제할 비밀번호 요구</string>
     <string name="crypt_keeper_encrypted_summary">암호화됨</string>
-    <string name="crypt_keeper_desc">계정, 설정, 다운로드된 애플리케이션과 데이터, 미디어 및 기타 파일을 암호화할 수 있습니다. 휴대전화를 암호화하면 전원을 켤 때마다 숫자 PIN 또는 비밀번호를 입력하여 암호를 해제해야 합니다. 초기화하여 모든 데이터를 삭제해야만 휴대전화 암호화를 해제할 수 있습니다. 암호화에는 1시간 이상이 걸릴 수 있습니다. 충전된 배터리로 암호화를 시작하고 완료될 때까지 휴대전화의 전원 연결을 해제하지 않아야 합니다. 암호화 프로세스를 중단하면 데이터의 일부 또는 전부를 잃게 됩니다.</string>
+    <string name="crypt_keeper_desc">"계정, 설정, 다운로드된 애플리케이션과 데이터, 미디어 및 기타 파일을 암호화할 수 있습니다. 휴대전화를 암호화하면 전원을 켤 때마다 숫자 PIN 또는 비밀번호를 입력하여 암호를 해제해야 합니다. 초기화하여 모든 데이터를 삭제해야만 휴대전화 암호화를 해제할 수 있습니다.
+
+암호화에는 1시간 이상이 걸릴 수 있습니다. 충전된 배터리로 암호화를 시작하고 완료될 때까지 휴대전화의 전원 연결을 해제하지 않아야 합니다. 암호화 프로세스를 중단하면 데이터의 일부 또는 전부를 잃게 됩니다."</string>
     <string name="crypt_keeper_button_text">휴대전화 암호화</string>
     <string name="crypt_keeper_low_charge_text">배터리를 충전한 다음 다시 시도하세요.</string>
     <string name="crypt_keeper_unplugged_text">충전기를 연결한 다음 다시 시도하세요.</string>
@@ -398,7 +402,9 @@
     <string name="crypt_keeper_cooldown">^1초 후에 다시 시도하세요.</string>
     <string name="crypt_keeper_enter_password">비밀번호 입력</string>
     <string name="crypt_keeper_failed_title">암호화하지 못했습니다.</string>
-    <string name="crypt_keeper_failed_summary">암호화가 중단되어 완료할 수 없습니다. 따라서 휴대전화의 데이터에 더 이상 액세스할 수 없습니다. 휴대전화를 다시 사용하려면 초기화해야 합니다. 초기화한 후 휴대전화를 설정하면, Google 계정에 백업되어 있던 데이터를 복원할 수 있습니다.</string>
+    <string name="crypt_keeper_failed_summary">"암호화가 중단되어 완료할 수 없습니다. 따라서 휴대전화의 데이터에 더 이상 액세스할 수 없습니다. 
+
+휴대전화를 다시 사용하려면 초기화해야 합니다. 초기화한 후 휴대전화를 설정하면, Google 계정에 백업되어 있던 데이터를 복원할 수 있습니다."</string>
     <string name="crypt_keeper_switch_input_method">입력 방법 전환</string>
     <string name="lock_settings_picker_title">화면 잠금 선택</string>
     <string name="backup_lock_settings_picker_title">백업 잠금 선택</string>
@@ -587,7 +593,7 @@
     <string name="wifi_access_points">Wi-Fi 네트워크</string>
     <string name="wifi_menu_wps_pbc">WPS 푸시 버튼</string>
     <string name="wifi_menu_more_options">추가 옵션</string>
-    <string name="wifi_menu_wps_pin">WPS PIN 입력</string>
+    <string name="wifi_menu_wps_pin">WPS PIN 입장</string>
     <string name="wifi_menu_p2p">Wi-Fi Direct</string>
     <string name="wifi_menu_scan">검색</string>
     <string name="wifi_menu_advanced">고급</string>
@@ -642,7 +648,9 @@
     <string name="wifi_secured_first_item">%1$s(으)로 보안</string>
     <string name="wifi_secured_second_item">%1$s(으)로 보안</string>
     <string name="wifi_security_none">없음</string>
-    <string name="wifi_scan_always_turnon_message">위치 정확성 개선 등의 목적으로 %1$s에서 Wi-Fi가 꺼져 있을 때에도 네트워크 검색을 사용하도록 설정하려 합니다. 검색하려는 모든 앱에 대해 이를 허용하시겠습니까?</string>
+    <string name="wifi_scan_always_turnon_message">"위치 정확성 개선 등의 목적으로 %1$s에서 Wi-Fi가 꺼져 있을 때에도 네트워크 검색을 사용하도록 설정하려 합니다.
+
+검색하려는 모든 앱에 대해 이를 허용하시겠습니까?"</string>
     <string name="wifi_scan_always_confirm_allow">허용</string>
     <string name="wifi_scan_always_confirm_deny">거부</string>
     <string name="wifi_connect">연결</string>
@@ -654,7 +662,9 @@
     <string name="wifi_cancel">취소</string>
     <string name="wifi_skip_anyway">건너뛰기</string>
     <string name="wifi_dont_skip">건너뛰지 않음</string>
-    <string name="wifi_skipped_message">경고: 추가 이동통신 데이터 요금이 발생할 수 있습니다. 휴대전화 설정은 상당한 네트워크 활동을 요구할 수 있습니다.</string>
+    <string name="wifi_skipped_message">"경고: 추가 이동통신 데이터 요금이 발생할 수 있습니다.
+
+휴대전화 설정은 상당한 네트워크 활동을 요구할 수 있습니다."</string>
     <string name="wifi_and_mobile_skipped_message">경고: 인터넷에 연결되어 있어야 휴대전화에서 소프트웨어의 최신 상태 여부를 확인할 수 있습니다.</string>
     <string name="wifi_connect_failed_message">Wi-Fi 네트워크에 연결하지 못했습니다.</string>
     <string name="wifi_advanced_titlebar">고급 Wi-Fi</string>
@@ -717,9 +727,9 @@
     <string name="media_volume_summary">음악 및 동영상에 대한 볼륨 설정</string>
     <string name="alarm_volume_title">알람</string>
     <string name="dock_settings_summary">연결된 도크에 대한 오디오 설정</string>
-    <string name="dtmf_tone_enable_title">다이얼패드 터치음</string>
+    <string name="dtmf_tone_enable_title">다이얼패드 신호음</string>
     <string name="sound_effects_enable_title">터치음</string>
-    <string name="lock_sounds_enable_title">화면 잠금 소리</string>
+    <string name="lock_sounds_enable_title">화면 잠금 사운드</string>
     <string name="haptic_feedback_enable_title">터치 시 진동</string>
     <string name="audio_record_proc_title">소음 제거</string>
     <string name="volume_media_description">음악, 동영상, 게임, 기타 미디어</string>
@@ -785,9 +795,11 @@
     <string name="sim_change_pin">SIM PIN</string>
     <string name="sim_bad_pin">PIN은 4-8자리의 숫자여야만 합니다.</string>
     <string name="sim_pins_dont_match">PIN이 일치하지 않음</string>
-    <string name="sim_change_failed">PIN을 변경할 수 없습니다. PIN이 잘못된 것 같습니다.</string>
+    <string name="sim_change_failed">"PIN을 변경할 수 없습니다.
+PIN이 잘못된 것 같습니다."</string>
     <string name="sim_change_succeeded">SIM PIN이 변경되었습니다.</string>
-    <string name="sim_lock_failed">SIM 카드 잠금 상태를 변경할 수 없습니다. PIN이 잘못된 것 같습니다.</string>
+    <string name="sim_lock_failed">"SIM 카드 잠금 상태를 변경할 수 없습니다.
+PIN이 잘못된 것 같습니다."</string>
     <string name="sim_enter_ok">확인</string>
     <string name="sim_enter_cancel">취소</string>
     <string name="wrong_pin_code_pukked">SIM PIN 코드가 잘못되었습니다. 이동통신사에 문의하여 기기를 잠금 해제해야 합니다.</string>
@@ -911,14 +923,25 @@
     <string name="error_mcc_not3">MCC는 3자리 숫자여야 합니다.</string>
     <string name="error_mnc_not23">MNC는 2~ 3자리 숫자여야 합니다.</string>
     <string name="restore_default_apn">기본 APN 설정 복원 중</string>
-    <string name="menu_restore">초기화</string>
+    <string name="menu_restore">재설정</string>
     <string name="restore_default_apn_completed">기본 APN 설정을 초기화했습니다.</string>
     <string name="master_clear_title">공장 초기화</string>
     <string name="master_clear_summary">스마트폰의 모든 데이터 삭제</string>
-    <string name="master_clear_desc">공장 초기화하면 휴대전화 <b>내부 저장소의 모든 데이터가 삭제됩니다.</b> <li>Google 계정</li> <li>시스템과 앱 데이터 및 설정</li> <li>다운로드된 앱</li></string>
-    <string name="master_clear_accounts">현재 로그인한 계정:</string>
-    <string name="master_clear_desc_also_erases_external"><li>음악</li> <li>사진</li> <li>기타 사용자 데이터</li></string>
-    <string name="master_clear_desc_erase_external_storage">음악이나 사진, 기타 사용자 데이터를 지우려면 <b>SD 카드</b>를 삭제해야 합니다.</string>
+    <string name="master_clear_desc">공장 초기화하면 휴대전화 <b>내부 저장소의 모든 데이터가 삭제됩니다.</b>"
+
+"<li>Google 계정</li>"
+"<li>시스템과 앱 데이터 및 설정</li>"
+"<li>다운로드된 앱</li></string>
+    <string name="master_clear_accounts">"
+
+현재 로그인한 계정:
+"</string>
+    <string name="master_clear_desc_also_erases_external"><li>음악</li>"
+"<li>사진</li>"
+"<li>기타 사용자 데이터</li></string>
+    <string name="master_clear_desc_erase_external_storage">"
+
+음악이나 사진, 기타 사용자 데이터를 지우려면 "<b>SD 카드</b>를 삭제해야 합니다.</string>
     <string name="erase_external_storage">SD 카드 지우기</string>
     <string name="erase_external_storage_description">SD 카드에 있는 모든 데이터(예: 음악 또는 사진)를 지웁니다.</string>
     <string name="master_clear_button_text">휴대전화 초기화</string>
@@ -1102,7 +1125,15 @@
     <string name="show_background_processes">캐시된 프로세스 표시</string>
     <string name="reset_app_preferences">앱 환경설정 재설정</string>
     <string name="reset_app_preferences_title">앱 환경설정을 재설정하시겠습니까?</string>
-    <string name="reset_app_preferences_desc">이 작업을 수행하면 <li>사용 중지된 앱</li> <li>사용 중지된 앱 알림</li> <li>작업을 수행할 때 사용하는 기본 애플리케이션</li> <li>앱에 대한 백그라운드 데이터 제한</li> <li>그 밖의 권한 제한</li>에 대한 모든 환경설정이 재설정됩니다. 앱 데이터는 손실되지 않습니다.</string>
+    <string name="reset_app_preferences_desc">"이 작업을 수행하면
+
+ "<li>사용 중지된 앱</li>"
+ "<li>사용 중지된 앱 알림</li>"
+ "<li>작업을 수행할 때 사용하는 기본 애플리케이션</li>"
+ "<li>앱에 대한 백그라운드 데이터 제한</li>"
+ "<li>그 밖의 권한 제한</li>"에 대한 모든 환경설정이 재설정됩니다.
+
+ 앱 데이터는 손실되지 않습니다."</string>
     <string name="reset_app_preferences_button">앱 재설정</string>
     <string name="manage_space_text">공간 관리</string>
     <string name="filter">필터</string>
@@ -1211,7 +1242,7 @@
     <string name="hardkeyboard_category">물리적 키보드 설정</string>
     <string name="auto_punctuate_summary">"스페이스바를 두 번 눌러 '.' 삽입"</string>
     <string name="show_password">비밀번호 표시</string>
-    <string name="ime_security_warning">%1$sThis keyboard can record everything you type, including passwords, credit card numbers, and other personal data.</string>
+    <string name="ime_security_warning">%1$s이 키보드는 귀하가 타이핑한 비밀번호, 신용카드 번호, 기타 개인 데이터 등을 포함한 모든 내용을 기록할 수 있습니다.</string>
     <string name="spellchecker_security_warning">%1$s 앱에서 지원하는 이 맞춤법 검사기를 사용하면 비밀번호 및 신용카드 번호와 같은 개인 정보를 비롯하여 입력한 모든 텍스트가 수집될 수 있습니다. 사용하시겠습니까?</string>
     <string name="spellchecker_quick_settings">설정</string>
     <string name="spellchecker_language">언어</string>
@@ -1242,7 +1273,8 @@
     <string name="user_dict_settings_edit_dialog_title">단어 수정</string>
     <string name="user_dict_settings_context_menu_edit_title">수정</string>
     <string name="user_dict_settings_context_menu_delete_title">삭제</string>
-    <string name="user_dict_settings_empty_text">사전이 필요 없습니다. 추가(+) 버튼을 터치하여 단어를 추가하십시오.</string>
+    <string name="user_dict_settings_empty_text">"사전이 필요 없습니다.
+추가(+) 버튼을 터치하여 단어를 추가하십시오."</string>
     <string name="user_dict_settings_all_languages">모든 언어로 설정</string>
     <string name="user_dict_settings_more_languages">다른 언어</string>
     <string name="testing">테스트 중</string>
@@ -1305,7 +1337,9 @@
     <string name="enforce_read_external_title">SD 카드 보호</string>
     <string name="enforce_read_external_summary">SD카드를 읽으려면 앱이 권한을 요청해야함</string>
     <string name="enforce_read_external_confirm_title">SD 카드를 보호하시겠습니까?</string>
-    <string name="enforce_read_external_confirm_message">SD 카드를 보호하도록 설정한 경우 앱이 외부 저장소에서 데이터를 읽을 수 있는 권한을 요청해야 합니다. 일부 앱은 개발자가 업데이트할 때까지 작동하지 않을 수 있습니다.</string>
+    <string name="enforce_read_external_confirm_message">"SD 카드를 보호하도록 설정한 경우 앱이 외부 저장소에서 데이터를 읽을 수 있는 권한을 요청해야 합니다.
+
+일부 앱은 개발자가 업데이트할 때까지 작동하지 않을 수 있습니다."</string>
     <string name="enable_terminal_title">로컬 터미널</string>
     <string name="enable_terminal_summary">로컬 셸 액세스를 제공하는 터미널 앱 사용</string>
     <string name="gadget_picker_title">가젯 선택</string>
@@ -1332,11 +1366,25 @@
     <string name="accessibility_system_title">시스템</string>
     <string name="accessibility_captioning_title">캡션</string>
     <string name="accessibility_screen_magnification_title">확대 동작</string>
-    <string name="accessibility_screen_magnification_summary">이 기능을 사용하면 화면을 3번 탭하여 확대 및 축소할 수 있습니다. 화면을 확대한 상태에서 다음 작업을 수행할 수 있습니다.<ul><li>이동: 화면에서 두 개 이상의 손가락을 드래그<li>확대/축소 수준 조정: 두 개 이상의 손가락을 오므리거나 벌림</li></li></ul>또한 3번 탭한 상태를 유지하여 손가락 아래에 있는 항목을 일시적으로 확대할 수 있습니다. 확대한 상태에서 손가락을 드래그하여 화면의 다른 부분을 탐색할 수 있습니다. 손가락을 떼면 이전 상태로 돌아갑니다.참고: 세 번 탭하여 확대 기능은 키보드와 탐색 바에서는 작동하지 않습니다.</string>
+    <string name="accessibility_screen_magnification_summary">"이 기능을 사용하면 화면을 3번 탭하여 확대 및 축소할 수 있습니다.
+
+화면을 확대한 상태에서 다음 작업을 수행할 수 있습니다.
+"<li><ul>"이동: 화면에서 두 개 이상의 손가락을 드래그
+"<li>확대/축소 수준 조정: 두 개 이상의 손가락을 오므리거나 벌림</li></ul></li>"
+
+또한 3번 탭한 상태를 유지하여 손가락 아래에 있는 항목을 일시적으로 확대할 수 있습니다. 확대한 상태에서 손가락을 드래그하여 화면의 다른 부분을 탐색할 수 있습니다. 손가락을 떼면 이전 상태로 돌아갑니다.
+
+참고: 세 번 탭하여 확대 기능은 키보드와 탐색 바에서는 작동하지 않습니다."</string>
     <string name="accessibility_global_gesture_preference_title">접근성 단축키</string>
     <string name="accessibility_global_gesture_preference_summary_on">켜기</string>
     <string name="accessibility_global_gesture_preference_summary_off">사용 안함</string>
-    <string name="accessibility_global_gesture_preference_description">이 기능을 사용하면 다음 두 단계를 통해 접근성 기능을 빠르게 사용하도록 설정할 수 있습니다. 1단계: 소리가 나거나 진동이 느껴질 때까지 전원 버튼을 길게 누릅니다. 2단계: 확인음이 들릴 때까지 두 손가락으로 길게 터치합니다. 기기를 여러 사용자가 사용하는 경우 잠금 화면에 있는 바로가기를 사용하여 기기가 잠길 때까지 임시적으로 접근성 기능을 사용하도록 설정할 수 있습니다.</string>
+    <string name="accessibility_global_gesture_preference_description">"이 기능을 사용하면 다음 두 단계를 통해 접근성 기능을 빠르게 사용하도록 설정할 수 있습니다.
+
+1단계: 소리가 나거나 진동이 느껴질 때까지 전원 버튼을 길게 누릅니다.
+
+2단계: 확인음이 들릴 때까지 두 손가락으로 길게 터치합니다.
+
+기기를 여러 사용자가 사용하는 경우 잠금 화면에 있는 바로가기를 사용하여 기기가 잠길 때까지 임시적으로 접근성 기능을 사용하도록 설정할 수 있습니다."</string>
     <string name="accessibility_toggle_large_text_preference_title">큰 텍스트</string>
     <string name="accessibility_toggle_screen_magnification_preference_title">화면 확대</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">화면 확대 자동 업데이트</string>
@@ -1402,7 +1450,8 @@
     <string name="print_print_job">인쇄 작업</string>
     <string name="print_restart">다시 시작</string>
     <string name="print_cancel">취소</string>
-    <string name="print_job_summary">%1$s %2$s</string>
+    <string name="print_job_summary">"%1$s
+%2$s"</string>
     <string name="print_printing_state_title_template">%1$s 인쇄 중</string>
     <string name="print_cancelling_state_title_template">%1$s 취소 중</string>
     <string name="print_failed_state_title_template">프린터 오류: %1$s</string>
@@ -1662,7 +1711,9 @@
     <string name="wifi_setup_status_eap_not_supported">EAP는 지원되지 않습니다.</string>
     <string name="wifi_setup_eap_not_supported">설정 중에는 EAP Wi-Fi 연결을 구성할 수 없습니다. 설정 후에 무선 > 네트워크 &amp; 설정으로 이동할 수 있습니다.</string>
     <string name="wifi_setup_description_connecting">연결 시 몇 분 정도 걸릴 수 있습니다.</string>
-    <string name="wifi_setup_description_connected"><b>다음</b>을 터치하여 설정을 계속하십시오.<b>뒤로</b>를 터치하여 다른 Wi-Fi 네트워크에 연결하십시오.</string>
+    <string name="wifi_setup_description_connected"><b>다음</b>"을 터치하여 설정을 계속하십시오.
+
+"<b>뒤로</b>를 터치하여 다른 Wi-Fi 네트워크에 연결하십시오.</string>
     <string name="accessibility_sync_enabled">동기화 사용</string>
     <string name="accessibility_sync_disabled">동기화 사용중지됨</string>
     <string name="accessibility_sync_error">동기화 오류입니다.</string>
@@ -1685,11 +1736,13 @@
     <string name="settings_backup_summary">내 설정 백업</string>
     <string name="sync_menu_sync_now">지금 동기화</string>
     <string name="sync_menu_sync_cancel">동기화 취소</string>
-    <string name="sync_one_time_sync">지금 동기화하려면 터치%1$s</string>
+    <string name="sync_one_time_sync">"지금 동기화하려면 터치
+%1$s"</string>
     <string name="sync_gmail">Gmail</string>
     <string name="sync_calendar">캘린더</string>
     <string name="sync_contacts">연락처</string>
-    <string name="sync_plug"><font fgcolor="#ffffffff">Google 동기화에 오신 것을 환영합니다.</font>Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액세스할 수 있도록 데이터를 동기화하는 Google 서비스입니다.</string>
+    <string name="sync_plug"><font fgcolor="#ffffffff">Google 동기화에 오신 것을 환영합니다.</font>" 
+Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액세스할 수 있도록 데이터를 동기화하는 Google 서비스입니다."</string>
     <string name="header_application_sync_settings">앱 동기화 설정</string>
     <string name="header_data_and_synchronization">데이터 및 동기화</string>
     <string name="preference_change_password_title">비밀번호 변경</string>
@@ -1799,10 +1852,16 @@
     <string name="data_usage_app_restrict_background_summary">모바일 네트워크에서 백그라운드 데이터를 사용하지 않도록 설정합니다. 가능한 경우 모바일이 아닌 네트워크가 사용됩니다.</string>
     <string name="data_usage_app_restrict_background_summary_disabled">이 앱에 대해 백그라운드 데이터를 제한하려면 먼저 모바일 데이터 제한을 설정하세요.</string>
     <string name="data_usage_app_restrict_dialog_title">백그라운드 데이터 사용 제한</string>
-    <string name="data_usage_app_restrict_dialog">모바일 네트워크만 사용할 수 있는 경우 백그라운드 데이터에 의존하는 앱이 중단될 수 있습니다. 앱 설정에서 데이터 사용을 더 적절하게 관리할 수 있는 컨트롤을 찾아볼 수 있습니다.</string>
+    <string name="data_usage_app_restrict_dialog">"모바일 네트워크만 사용할 수 있는 경우 백그라운드 데이터에 의존하는 앱이 중단될 수 있습니다.
+
+앱 설정에서 데이터 사용을 더 적절하게 관리할 수 있는 컨트롤을 찾아볼 수 있습니다."</string>
     <string name="data_usage_restrict_denied_dialog">백그라운드 데이터는 모바일 데이터 한도를 설정한 경우에만 제한할 수 있습니다.</string>
     <string name="data_usage_auto_sync_on_dialog_title">데이터 자동 동기화를 사용하시겠습니까?</string>
-    <string name="data_usage_auto_sync_on_dialog">"웹에서 변경한 계정 정보는 모두 휴대전화에 자동으로 복사됩니다. 또한 일부 계정은 휴대전화의 변경사항을 웹에 자동으로 복사할 수 있습니다. Google 계정은 이러한 자동 동기화를 지원합니다. 각 계정에서 동기화하려는 정보의 종류를 선택하려면 '설정 > 계정'으로 이동하세요."</string>
+    <string name="data_usage_auto_sync_on_dialog">"웹에서 변경한 계정 정보는 모두 휴대전화에 자동으로 복사됩니다.
+
+또한 일부 계정은 휴대전화의 변경사항을 웹에 자동으로 복사할 수 있습니다. Google 계정은 이러한 자동 동기화를 지원합니다.
+
+각 계정에서 동기화하려는 정보의 종류를 선택하려면 '설정 > 계정'으로 이동하세요."</string>
     <string name="data_usage_auto_sync_off_dialog_title">데이터 자동 동기화를 사용 중지하시겠습니까?</string>
     <string name="data_usage_auto_sync_off_dialog">이 경우 데이터와 배터리 사용량이 절약되지만, 최근 정보를 수집하려면 각 계정을 직접 동기화해야 합니다. 또한 업데이트가 발생해도 알림을 받지 못합니다.</string>
     <string name="data_usage_cycle_editor_title">사용 주기 재설정</string>
@@ -1811,7 +1870,9 @@
     <string name="data_usage_warning_editor_title">데이터 사용 경고 설정</string>
     <string name="data_usage_limit_editor_title">데이터 사용 한도 설정</string>
     <string name="data_usage_limit_dialog_title">데이터 사용 제한 중</string>
-    <string name="data_usage_limit_dialog_mobile">지정된 한도에 도달하면 모바일 데이터 연결 사용이 중지됩니다. 휴대전화를 기준으로 데이터 사용량이 측정되며 이동통신사에서는 사용량을 다르게 계산할 수 있으므로 한도를 최대한 낮춰 사용하세요.</string>
+    <string name="data_usage_limit_dialog_mobile">"지정된 한도에 도달하면 모바일 데이터 연결 사용이 중지됩니다.
+
+휴대전화를 기준으로 데이터 사용량이 측정되며 이동통신사에서는 사용량을 다르게 계산할 수 있으므로 한도를 최대한 낮춰 사용하세요."</string>
     <string name="data_usage_restrict_background_title">백그라운드 데이터 사용을 제한하시겠습니까?</string>
     <string name="data_usage_restrict_background">백그라운드 모바일 데이터를 제한할 경우, Wi-Fi 네트워크에 연결되어 있지 않으면 일부 앱과 서비스가 작동하지 않습니다.</string>
     <string name="data_usage_restrict_background_multiuser">백그라운드 모바일 데이터를 제한할 경우, Wi-Fi 네트워크에 연결되어 있지 않으면 일부 앱과 서비스가 제대로 작동하지 않습니다.</string>
@@ -2002,7 +2063,7 @@
     <string name="dndm_auto_time_turn_off_title">방해 금지 모드 자동으로 끄기</string>
     <string name="dndm_dlg_remove_vip">방해 금지 모드가 켜져 있는 동안 이 사람으로부터 오는 전화는 무음입니다.</string>
     <string name="dndm_dlg_remove_ok">제거</string>
-    <string name="dndm_menu_add_vip_custom">예외 추가</string>
+    <string name="dndm_menu_add_vip_custom">추가</string>
     <string name="dndm_mute_all">통화와 메시지를 무음 설정 중입니다.</string>
     <string name="dndm_special_call_setting_group">예외</string>
     <string name="dndm_vip_call_setting_title">예외</string>
@@ -2015,12 +2076,12 @@
     <string name="dndm_vip_list_custom">사용자 정의</string>
     <string name="dndm_vip_list_contact">모든 연락처</string>
     <string name="dndm_vip_list_custom_group">예외</string>
-    <string name="dndm_repeated_call_setting_title">반복된 통화</string>
+    <string name="dndm_repeated_call_setting_title">반복 발신자</string>
     <string name="dndm_repeated_call_summary_none">동일한 번호로부터 오는 반복된 통화 무음 설정</string>
     <string name="dndm_repeated_call_summary_3min">3분 이내에 같은 번호로부터 오는 두 번째 통화 수신 시 벨소리</string>
     <string name="dndm_twelve_hour_time_format">h:mm a</string>
     <string name="dndm_twenty_four_hour_time_format">HH:mm</string>
-    <string name="dndm_wristband">Mi 밴드</string>
+    <string name="dndm_wristband">Mi 밴드와 활성화</string>
     <string name="legal_workday_invalidate">월-금(휴일 정보 만료됨)</string>
     <string name="legal_workday_invalidate_message">탭하여 공휴일 정보 업데이트</string>
     <string name="legal_workday_message">(휴일 건너뛰기)</string>
@@ -2103,7 +2164,7 @@
     <string name="apn_general">일반</string>
     <string name="touch_title">터치</string>
     <string name="touch_sensitive_title">글러브 모드</string>
-    <string name="touch_sensitive_summary">화면을 압력에 더 예민하게 만들기</string>
+    <string name="touch_sensitive_summary">화면을 압력에 더 민감하게</string>
     <string name="touch_sensitive_turn_off_title">글러브 모드가 꺼져 있습니다.</string>
     <string name="touch_sensitive_turn_off_summary">주머니에서 다이얼 눌림 방지 기능도 같이 끄시겠습니까?</string>
     <string name="touch_sensitive_turn_off_confirm">확인</string>
@@ -2200,21 +2261,21 @@
     <string name="mms_breathing_light_color_title">메시지 표시등 색상</string>
     <string name="breathing_light_color_menu_title">표시등 색상</string>
     <string name="breathing_light_color_summary">새 알림을 수신할 때 LED 색상</string>
-    <string name="breathing_light_freq_title">LED 플래시 빈도</string>
-    <string name="incoming_call_breathing_light_freq_title">통화 LED 플래시 빈도</string>
-    <string name="notification_breathing_light_freq_title">알림 LED 플래시 빈도</string>
-    <string name="mms_breathing_light_freq_title">메시지 LED 플래시 빈도</string>
+    <string name="breathing_light_freq_title">LED 등 점등 빈도</string>
+    <string name="incoming_call_breathing_light_freq_title">통화 LED 등 점등 빈도</string>
+    <string name="notification_breathing_light_freq_title">알림 LED 등 점등 빈도</string>
+    <string name="mms_breathing_light_freq_title">메시지 LED 등 점등 빈도</string>
     <string name="breathing_light_freq_summary">새 알림이 있을 때 반복 점등</string>
     <string name="led_settings">알림 표시등</string>
     <string name="led_colors_summary">알림</string>
-    <string name="led_frequence_summary">LED 깜빡임 사이에 간격 설정</string>
+    <string name="led_frequence_summary">LED 등의 점등 간격 설정</string>
     <string name="led_pulse_summary">새 알림이 수신됐을 때 알림 표시등 반복 점등</string>
     <string name="show_rounded_corners">둥근 모서리 표시</string>
     <string name="pref_operational_key">탐색 버튼</string>
     <string name="pref_button_light">버튼 표시등</string>
     <string name="pref_button_light_summary">메뉴, 홈, 뒤로 버튼 점등</string>
-    <string name="button_light_timeout">버튼 표시등 지속 시간</string>
-    <string name="battery_light_title">배터리 표시등</string>
+    <string name="button_light_timeout">불이 들어올 때까지 버튼을 누르십시오</string>
+    <string name="battery_light_title">충전 중에 LED 점등</string>
     <string name="sim_change_failed_enable_sim_lock">지금 SIM 잠금 켜기</string>
     <string name="sim_lock_change_not_supported">SIM 잠금을 변경할 수 없습니다.</string>
     <string name="apn_new">새 액세스 포인트</string>
@@ -2237,13 +2298,13 @@
     <string name="wifi_wapi_certification_dont_exist">입력한 네트워크 비밀번호가 올바르지 않습니다.</string>
     <string name="please_type_passphrase">비밀번호</string>
     <string name="wifi_certificate">인증서</string>
-    <string name="wifi_wapi_cert_mgmt_titlebar">WAPI 인증서 관리</string>
+    <string name="wifi_wapi_cert_mgmt_titlebar">WAPI 인증</string>
     <string name="wifi_wapi_cert_install">WAPI 인증서 설치</string>
     <string name="wifi_wapi_cert_install_button">설치</string>
     <string name="wifi_wapi_cert_uninstall_button">설치 제거</string>
     <string name="wifi_wapi_cert_cancel_button">취소</string>
     <string name="wifi_wapi_cert_uninstall">WAPI 인증서 설치 제거</string>
-    <string name="wifi_wapi_cert_create_subdir">디렉토리 만들기</string>
+    <string name="wifi_wapi_cert_create_subdir">폴더 생성</string>
     <string name="wifi_wapi_cert_delet_subdir">해당 인증서 선택</string>
     <string name="wifi_wapi_as_cert">AS 인증서</string>
     <string name="wifi_wapi_user_cert">사용자 인증서</string>
@@ -2307,13 +2368,15 @@
     <string name="input_settings">입력 설정</string>
     <string name="show_magnifier_when_input">텍스트 돋보기</string>
     <string name="volume_hifi_description">Hi-Fi 설정</string>
-    <string name="volume_voice_description">음성</string>
+    <string name="volume_voice_description">음성통화 볼륨</string>
     <string name="volume_system_description">카메라, 잠금 화면, 기타 시스템 알림</string>
     <string name="volume_bluetooth_description">블루투스</string>
     <string name="volume_restore">수준 초기화</string>
-    <string name="volume_restore_alert">모든 볼륨 수준이 초기화됩니다.</string>
+    <string name="volume_restore_alert">모든 볼륨 수준을 기본값으로 재설정하시겠습니까?</string>
     <string name="font_size_preview">MIUI</string>
-    <string name="font_size_summary">홈 화면, 드롭다운 메뉴, 다이얼러, 시스템 메뉴의 글자 크기를 변경하십시오.</string>
+    <string name="font_size_summary">"홈 화면, 드롭다운 메뉴, 다이얼러, 시스템 메뉴의 글자 크기를 변경하십시오.
+
+"</string>
     <string name="font_size_summary1">"시스템의 텍스트가 아직도 너무 작으면, 시도하십시오. "</string>
     <string name="font_size_summary2">라이트 모드</string>
     <string name="font_size_small">더 작게</string>
@@ -2334,7 +2397,7 @@
     <string name="virus_scanner_select_Cancel">취소</string>
     <string name="virus_scanner_provider">%s 제공</string>
     <string name="virus_scanner_auto_update">자동으로 업데이트</string>
-    <string name="virus_scanner_date_formater">yyyy, MM dd</string>
+    <string name="virus_scanner_date_formater">yyyy년 MMM d일</string>
     <string name="virus_scanner_manual_update">%s에 업데이트됨</string>
     <string name="virus_scanner_lib_updating">정의 업데이트 중…</string>
     <string name="virus_scanner_lib_already_latest">바이러스 정의가 이미 최신입니다.</string>
@@ -2365,7 +2428,7 @@
     <string name="dolby_bassboost_title">베이스:</string>
     <string name="dolby_bassboost_low">부드러운</string>
     <string name="dolby_bassboost_normal">보통</string>
-    <string name="dolby_bassboost_high">강함</string>
+    <string name="dolby_bassboost_high">강한</string>
     <string name="dolby_roomsize_title">서라운드:</string>
     <string name="dolby_roomsize_summary">헤드폰에서만 이용 가능한 서라운드 사운드 설정</string>
     <string name="dolby_roomsize_low">실내</string>
@@ -2409,13 +2472,15 @@
     <string name="high_performance_notif_summary">무거운 작업을 할 경우 장치가 뜨거워질 수 있습니다</string>
     <string name="skip_step">건너뛰기</string>
     <string name="msd_help_title">도움말</string>
-    <string name="msd_help_summary">기기에 연결할 수 없습니까? 운영 체제를 선택하십시오.</string>
+    <string name="msd_help_summary">"기기에 연결할 수 없습니까?
+운영 체제를 선택하십시오."</string>
     <string name="msd_install_succeed">드라이버 설치됨</string>
     <string name="msd_install_next">다음</string>
     <string name="msd_install">드라이버를 재설치하시겠습니까?</string>
     <string name="msd_install_finish">확인</string>
     <string name="msd_pc_system_install_summary_xp">1. 설치하려면 setup.exe을 실행하십시오.</string>
-    <string name="msd_pc_system_install_finish_summary_xp">드라이브 설치 후 컴퓨터에 연결하면 %1$s이(가) USB 저장 장치가 표시됩니다.</string>
+    <string name="msd_pc_system_install_finish_summary_xp">"드라이브 설치 후 컴퓨터에 연결하면 
+%1$s이(가) USB 저장 장치가 표시됩니다."</string>
     <string name="msd_pc_system_install_finish_summary_vista">Windows Vista 이후 버전에서는 컴퓨터에 연결하면 %1$s이(가) USB 저장 장치가 표시됩니다.</string>
     <string name="msd_install_retry">컴퓨터가 아직도 기기를 발견하지 못하면 다음을 시도하십시오.</string>
     <string name="msd_install_retry_connect">USB 케이블에 재연결합니다.</string>
@@ -2514,7 +2579,7 @@
     <string name="app_floating_window_dlg_enable">%1$s의 부동 창 설정을 켜려면 자동 시작 앱이 필요합니다.</string>
     <string name="app_floating_window_dlg_disable">%1$s의 부동 창 설정을 끄려면 자동 시작 앱이 필요합니다.</string>
     <string name="wps_category">WPS</string>
-    <string name="wps_connect_title">WPS 연결</string>
+    <string name="wps_connect_title">WPS 푸시 버튼</string>
     <string name="wps_connect_summary">라우터가 WPS를 지원하고 활성화했는지 확인하십시오.</string>
     <string name="retry">재시도</string>
     <string name="brightness_auto_adjust_off">화면 밝기가 일정하게 유지됩니다.</string>
@@ -2581,7 +2646,8 @@
     <string name="wifi_share_add">내 공용 네트워크 공유</string>
     <string name="wifi_share_count">%d 네트워크 공유됨</string>
     <string name="wifi_share_notification_summary">MIUI가 당신을 공용 Wi-Fi 네트워크에 연결했습니다.</string>
-    <string name="wifi_share_add_summary">당신의 공용 네트워크를 공유하면 다른 사용자의 네트워크도 사용할 수 있습니다.</string>
+    <string name="wifi_share_add_summary">"당신의 공용 네트워크를 공유하면
+ 다른 사용자의 네트워크도 사용할 수 있습니다."</string>
     <string name="wifi_share_login">Wi-Fi 네트워크 공유</string>
     <string name="wifi_share_login_summary">공용 네트워크는 다른 MIUI 사용자들과 공유할 수 있습니다.</string>
     <string name="wifi_share_connected_title">MIUI가 Wi-Fi를 공유했음</string>
@@ -2619,7 +2685,7 @@
     <string name="phone_call_noise_suppression">통화 중 소음 억제</string>
     <string name="lock_settings_common_title">잠금 설정</string>
     <string name="turn_off_security_lock">잠금 끄기</string>
-    <string name="change_password">비밀번호 변경</string>
+    <string name="change_password">잠금 화면 변경</string>
     <string name="change_security_lock">잠금 해제할 다른 방법 시도</string>
     <string name="sync_wifi_only">Wi-Fi 전용</string>
     <string name="line_breaking_title">텍스트 최적화</string>
@@ -2806,12 +2872,12 @@
     <string name="layout_size_large">대</string>
     <string name="layout_size_huge">특대</string>
     <string name="layout_size_exhuge">특특대</string>
-    <string name="layout_size_small_text">Extra small</string>
-    <string name="layout_size_normal_text">Small</string>
-    <string name="layout_size_medium_text">Medium</string>
-    <string name="layout_size_large_text">Large</string>
-    <string name="layout_size_huge_text">Extra large</string>
-    <string name="layout_size_exhuge_text">XXL</string>
+    <string name="layout_size_small_text">매우 작게</string>
+    <string name="layout_size_normal_text">작게</string>
+    <string name="layout_size_medium_text">중간</string>
+    <string name="layout_size_large_text">크게</string>
+    <string name="layout_size_huge_text">매우 크게</string>
+    <string name="layout_size_exhuge_text">가장 크게</string>
     <string name="page_layout_confirm_title">화면 설정 변경</string>
     <string name="page_layout_confirm_message">이 변경을 적용하기 위해 기기 재시작이 요구됩니다. 1분 정도 소요됩니다.</string>
     <string name="provision_page_layout_confirm_message">이 변경을 적용하기 위해 기기 재시작이 요구됩니다. 1분 정도 소요됩니다.</string>
@@ -2849,20 +2915,20 @@
     <string name="page_layout_medium_title">중간</string>
     <string name="page_layout_large_title">크게</string>
     <string name="page_layout_huge_title">매우 크게</string>
-    <string name="page_layout_godzilla_title">XXL</string>
-    <string name="page_layout_page2_title">Preview</string>
-    <string name="page_layout_page2_small_title">Extra small</string>
-    <string name="page_layout_page2_normal_title">Small</string>
-    <string name="page_layout_page2_medium_title">Medium</string>
-    <string name="page_layout_page2_large_title">Large</string>
-    <string name="page_layout_page2_huge_title">Extra large</string>
-    <string name="page_layout_page2_godzilla_title">XXL</string>
-    <string name="page_layout_page2_small_summary">Extra small</string>
-    <string name="page_layout_page2_normal_summary">Small</string>
-    <string name="page_layout_page2_medium_summary">Medium</string>
-    <string name="page_layout_page2_large_summary">Large</string>
-    <string name="page_layout_page2_huge_summary">Extra large</string>
-    <string name="page_layout_page2_godzilla_summary">XXL</string>
+    <string name="page_layout_godzilla_title">가장 크게</string>
+    <string name="page_layout_page2_title">미리보기</string>
+    <string name="page_layout_page2_small_title">매우 작게</string>
+    <string name="page_layout_page2_normal_title">작게</string>
+    <string name="page_layout_page2_medium_title">중간</string>
+    <string name="page_layout_page2_large_title">크게</string>
+    <string name="page_layout_page2_huge_title">매우 크게</string>
+    <string name="page_layout_page2_godzilla_title">가장 크게</string>
+    <string name="page_layout_page2_small_summary">매우 작게</string>
+    <string name="page_layout_page2_normal_summary">작게</string>
+    <string name="page_layout_page2_medium_summary">중간</string>
+    <string name="page_layout_page2_large_summary">크게</string>
+    <string name="page_layout_page2_huge_summary">매우 크게</string>
+    <string name="page_layout_page2_godzilla_summary">가장 크게</string>
     <string name="smartcover_sensitive_title">스마트 커버 모드</string>
     <string name="oldman_mode_entry_title">라이트 모드</string>
     <string name="oldman_mode_entry_name">라이트 모드</string>
@@ -2902,7 +2968,7 @@
     <string name="wifi_disconnected_notification_title">Wi-Fi 연결 끊김</string>
     <string name="wifi_disconnected_notification_summary">더 이상 Wi-Fi에 연결되지 않습니다.</string>
     <string name="wifi_off_airplane_on_title">비행기 모드의 Wi-Fi</string>
-    <string name="wifi_off_airplane_on_content">비행기 모드가 켜져 있으면 Wi-Fi를 수동으로 켤 수 있습니다.</string>
+    <string name="wifi_off_airplane_on_content">비행기 모드가 켜져 있을 때 Wi-Fi를 수동으로 켤 수 있습니다.</string>
     <string name="wifi_off_airplane_on_not_remind">다시 표시하지 않음</string>
     <string name="wifi_off_airplane_on_cancel">취소</string>
     <string name="wifi_off_airplane_on_confirm">확인</string>
@@ -2942,15 +3008,15 @@
     <string name="deny_sms_title">SMS 잠금</string>
     <string name="deny_sms_message">설치한 앱이 SMS를 보내도록 허용 안 함</string>
     <string name="wakeup_for_keyguard_notification_title">알림수신시 잠금화면 켜기</string>
-    <string name="experience_optimization_category">최적화</string>
+    <string name="experience_optimization_category">사용자 체험 프로그램</string>
     <string name="advanced_text_layout">고급 문자 레이아웃 사용 가능</string>
     <string name="pref_edge_handgrip">에지 컨트롤</string>
-    <string name="apply_password_to_category_title">비밀번호가 필요합니다.</string>
-    <string name="turn_on_security_lock">보안 비밀번호 추가</string>
-    <string name="secure_keyguard_business_title">잠금 화면 비밀번호</string>
-    <string name="fingerprint_and_password_entrance_title">비밀번호 &amp; 지문</string>
-    <string name="password_entrance_title">비밀번호</string>
-    <string name="turn_off_common_password_confirm_msg">비밀번호가 꺼질 예정입니다.</string>
+    <string name="apply_password_to_category_title">잠금 해제 요청</string>
+    <string name="turn_on_security_lock">화면 잠금 선택</string>
+    <string name="secure_keyguard_business_title">화면 잠금 설정</string>
+    <string name="fingerprint_and_password_entrance_title">화면 잠금 &amp; 지문</string>
+    <string name="password_entrance_title">화면 잠금</string>
+    <string name="turn_off_common_password_confirm_msg">이 옵션을 끄시면 비밀번호도 잠길 것입니다.</string>
     <string name="apply_fingerprint_to_category_title">지문 적용…</string>
     <string name="fingerprint_list_title">지문</string>
     <string name="add_fingerprint_text">지문 추가</string>
@@ -2983,10 +3049,18 @@
     <string name="fp_nav_center_back_to_home_title">홈 버튼을 탭하여 홈 화면으로 돌아가기</string>
     <string name="convenience_key_category_title">바로가기</string>
     <string name="zen_mode_settings_title">방해 금지</string>
-    <string name="zen_mode_important_category">소리</string>
+    <string name="zen_mode_important_category">설정</string>
     <string name="zen_mode_phone_calls">통화</string>
     <string name="zen_mode_messages">메시지</string>
     <string name="zen_mode_events">이벤트</string>
+    <string name="display_auto_rotate_title">화면 내용 회전</string>
+    <string name="display_auto_rotate_rotate">켜짐</string>
+    <string name="display_auto_rotate_stay_in_portrait">세로 방향 고정</string>
+    <string name="display_auto_rotate_stay_in_landscape">가로 방향 고정</string>
+    <string name="display_auto_rotate_stay_in_current">끔</string>
+    <string name="dndm_summary">전화나 알림이 있어도 방해 금지 모드 상태 일때는 무음 상태가 될 것입니다.</string>
+    <string name="dndm_vip_list_all">전체</string>
+    <string name="dndm_vip_list_starred_contact">즐겨찾기</string>
     <string name="dndm_alarm_content">소리</string>
     <string name="dndm_alarm_content_all">전체 허용</string>
     <string name="dndm_alarm_content_event_and_call">알림 &amp; 통화</string>
@@ -2996,23 +3070,39 @@
     <string name="dndm_alarm_content_call">통화</string>
     <string name="dndm_alarm_content_sms">메시지</string>
     <string name="dndm_alarm_content_not_all">모두 무음</string>
-    <string name="quiet_off_mode">항상 방해 허용</string>
-    <string name="quiet_important_interruptions_mode">예외만 허용</string>
-    <string name="quiet">방해 금지</string>
-    <string name="quiet_group">방해 금지</string>
+    <string name="quiet_off_mode">꺼짐</string>
+    <string name="quiet_no_interruptions_mode">모든 항목 무음</string>
+    <string name="quiet_important_interruptions_mode">선택된 예외 항목 허용</string>
+    <string name="quiet">방해 금지 모드</string>
+    <string name="quiet_group">방해 금지 모드</string>
+    <string name="zen_mode_from_call">"수신된 전화 "</string>
+    <string name="zen_mode_from_sms">"에서 온 메시지 "</string>
     <string name="sound_vibrate_settings">소리 &amp; 진동</string>
+    <string name="max_cpu4_info">"Quad-core Max "</string>
+    <string name="max_cpu6_info">"Hexa-core Max "</string>
+    <string name="max_cpu8_info">"옥타 코어 맥스 "</string>
+    <string name="enable_snapshot_screenlock">사진을 촬영하려면 \"뒤로\" 버튼을 길게 누르십시오.</string>
+    <string name="battery_light_summary">기기 충전 중에 알림 등 켜기</string>
+    <string name="vpn_enable">VPN</string>
     <string name="screen_resolution_title">화면 해상도</string>
     <string name="screen_resolution_switch">해상도 전환</string>
     <string name="screen_resolution_summary">화면의 해상도를 낮추시면 배터리 수명과 시스템 성능이 향상될 수 있지만 화면상의 이미지 선명도가 떨어질 수 있습니다. 변경 사항을 적용하려면 기기를 재시작하셔야 합니다.</string>
     <string name="screen_resolution_confirm">재시작</string>
+    <string name="wifi_dialog_remind_type_title">모바일 데이터 네트워크</string>
+    <string name="miui_data_usage_menu_metered">모바일 핫스팟</string>
+    <string name="location_agps_register_network_type_dialog_summary">네트워크 선택</string>
     <string name="zen_mode_option_miui_silent">무음 모드</string>
-    <string name="zen_mode_option_miui_vibrate">방해 금지</string>
+    <string name="zen_mode_option_miui_vibrate">방해 금지 모드</string>
     <string name="zen_mode_miui_silent_category">허용</string>
     <string name="miui_allow_music">미디어</string>
     <string name="miui_allow_alarm">알람</string>
     <string name="miui_allow_vibrate">진동</string>
     <string name="miui_allow_light">알림 표시등</string>
     <string name="zen_mode_alarm_use">소리</string>
+    <string name="wifi_switch_to_gsm_title">GSM 네트워크를 사용하시겠습니까?</string>
+    <string name="wifi_switch_to_gsm_message">Wi-Fi 연결이 해제되었습니다. 모바일 데이터 연결을 사용하시겠습니까?</string>
+    <string name="edge_mode_notification_title">엣지 컨트롤 사용</string>
+    <string name="edge_mode_notification_summary">탭하여 더 알아보기.</string>
     <string name="edge_mode_photo">사진 찍기</string>
     <string name="edge_mode_back">돌아가기</string>
     <string name="edge_mode_clean">시스템 캐시 지우기</string>
@@ -3021,31 +3111,13 @@
     <string name="edge_mode_back_summary">화면 가장자리를 두번 탭해 돌아가십시오.</string>
     <string name="edge_mode_clean_summary">화면 양쪽 가장자리를 동시에 문질러 시스템 캐시를 지우십시오.</string>
     <string name="edge_mode_screenshot_summary">화면 양쪽 가장자리를 두번 탭해 스크린샷을 찍으십시오.</string>
-    <string name="dndm_summary">전화나 알림이 있어도 방해 금지 모드 상태 일때는 무음 상태가 될 것입니다.</string>
-    <string name="max_cpu6_info">헥사 코어 최대</string>
-    <string name="max_cpu8_info">"옥타 코어 맥스 "</string>
-    <string name="vpn_enable">VPN</string>
-    <string name="wifi_dialog_remind_type_title">모바일 데이터 네트워크</string>
-    <string name="miui_data_usage_menu_metered">모바일 핫스팟</string>
-    <string name="wifi_switch_to_gsm_title">GSM 네트워크를 사용하시겠습니까?</string>
-    <string name="wifi_switch_to_gsm_message">Wi-Fi 연결이 해제되었습니다. 모바일 데이터 연결을 사용하시겠습니까?</string>
-    <string name="edge_mode_notification_title">엣지 컨트롤 사용</string>
-    <string name="edge_mode_notification_summary">탭하여 더 알아보기.</string>
     <string name="edge_mode_guide_title">엣지 컨트롤을 사용하기 위해서 강조된 부분을 터치하십시오.</string>
+    <string name="crypt_keeper_content_title">기기 암호화</string>
+    <string name="crypt_keeper_content">계정, 설정, 다운로드된 앱과 데이터, 미디어, 기타 파일 등을 암호화할 수 있습니다.</string>
+    <string name="crypt_keeper_decrypt_methods_title">기기 암호화 해제</string>
+    <string name="crypt_keeper_decrypt_methods">스마트폰을 암호화 하신 후 화면 잠금을 설정하셨다면 (패턴, 숫자 PIN, 비밀번호), 매번 스마트폰을 켜실 때마다 화면 잠금 해제가 필요합니다. 단 한가지 비밀번호 해제 방법으로 공장 초기화 방법이 있습니다. 이 방법은 귀하의 모든 데이터를 삭제하게 될 것입니다.</string>
+    <string name="crypt_keeper_conditions_title">기기 암호화 정보</string>
+    <string name="crypt_keeper_conditions">암호화 과정에 한 시간 혹은 더 걸리게 됩니다. 시작하시기 전 스마트폰의 배터리가 과정을 진행하기에 충분한지 확인해주십시오. 만약 중단된다면 부분 혹은 전체 데이터를 잃게 될 것입니다.</string>
     <string name="usb_mount">USB 저장소 장착</string>
     <string name="usb_eject">USB 저장소 분리</string>
-    <string name="enable_snapshot_screenlock">사진을 촬영하려면 \"뒤로\" 버튼을 길게 누르십시오.</string>
-    <string name="display_auto_rotate_rotate">켜짐</string>
-    <string name="display_auto_rotate_stay_in_current">끔</string>
-    <string name="display_auto_rotate_stay_in_landscape">가로 방향 고정</string>
-    <string name="display_auto_rotate_stay_in_portrait">세로 방향 고정</string>
-    <string name="display_auto_rotate_title">화면 자동 회전</string>
-    <string name="location_agps_register_network_type_dialog_summary">네트워크 선택</string>
-    <string name="quiet_no_interruptions_mode">모든 방해 무음</string>
-    <string name="zen_mode_from_call">"에서 온 전화 "</string>
-    <string name="zen_mode_from_sms">"에서 온 메시지 "</string>
-    <string name="battery_light_summary">충전중일 때 LED 등이 켜짐</string>
-    <string name="dndm_vip_list_all">전체</string>
-    <string name="dndm_vip_list_starred_contact">모든 별 표시된 연락처</string>
-    <string name="max_cpu4_info">쿼드 코어 맥스</string>
 </resources>
