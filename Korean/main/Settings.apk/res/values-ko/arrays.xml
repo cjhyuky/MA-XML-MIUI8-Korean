@@ -40,12 +40,10 @@
         <item>30분</item>
     </string-array>
     <string-array name="entries_font_size">
-        <item>소</item>
-        <item>중</item>
-        <item>대</item>
-        <item>특대</item>
-        <item>특특대</item>
-        <item>특특특대</item>
+        <item>작게</item>
+        <item>보통</item>
+        <item>크게</item>
+        <item>아주 크게</item>
     </string-array>
     <string-array name="tts_rate_entries">
         <item>매우 느림</item>
@@ -521,7 +519,7 @@
         <item>5초</item>
         <item>10초</item>
         <item>20초</item>
-        <item>항상 켜짐</item>
+        <item>항상</item>
     </string-array>
     <string-array name="wfd_status">
         <item>세션 시작 중…</item>
@@ -556,6 +554,14 @@
     <string-array name="msd_pc_system_retry_xp">
         <item>@string/msd_install_retry_connect</item>
         <item>Mi 폰 매니저 재설치</item>
+    </string-array>
+    <string-array name="msd_pc_system_retry_vista">
+        <item>@string/msd_install_retry_connect</item>
+    </string-array>
+    <string-array name="msd_pc_system_retry_mac">
+        <item>@string/msd_install_retry_reinstall_mac</item>
+        <item>@string/msd_install_retry_connect</item>
+        <item>@string/msd_install_retry_reinstall</item>
     </string-array>
     <string-array name="msd_pc_system_retry_linux">
         <item>Install tool: sudo aptitude install mtpfs libfuse-dev libmad0-dev</item>
@@ -715,6 +721,14 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>이 설정을 적용하기 위해 기기를 재부팅하시겠습니까?</item>
         <item>이 설정을 적용하기 위해 기기를 재부팅하시겠습니까?</item>
     </string-array>
+    <string-array name="miui_entries_font_size">
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
+        <item>XXL</item>
+        <item>XXXL</item>
+    </string-array>
     <string-array name="organized_locales">
         <item>dz</item>
         <item>ao</item>
@@ -762,6 +776,34 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>vn</item>
         <item>zm</item>
         <item>zw</item>
+    </string-array>
+    <string-array name="broadcast_locales">
+        <item>TW</item>
+        <item>AR</item>
+        <item>BO</item>
+        <item>BR</item>
+        <item>CL</item>
+        <item>CO</item>
+        <item>CR</item>
+        <item>CU</item>
+        <item>DO</item>
+        <item>EC</item>
+        <item>SV</item>
+        <item>GQ</item>
+        <item>GF</item>
+        <item>GT</item>
+        <item>GY</item>
+        <item>HT</item>
+        <item>HN</item>
+        <item>JM</item>
+        <item>MX</item>
+        <item>NI</item>
+        <item>PA</item>
+        <item>PY</item>
+        <item>PE</item>
+        <item>UY</item>
+        <item>VE</item>
+        <item>IN</item>
     </string-array>
     <string-array name="common_password_business_names">
         <item>잠금 화면</item>
