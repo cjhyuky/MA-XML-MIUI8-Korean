@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="action_use_network">현재 상태로 이 네트워크 사용</string>
+    <string name="action_do_not_use_network">이 네트워크 사용 안함</string>
+    <string name="action_bar_label">네트워크에 로그인</string>
+</resources>
