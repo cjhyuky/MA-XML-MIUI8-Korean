@@ -265,6 +265,10 @@
     <string name="HIPS_Perm_use_sip_Desc">동영상 스트리밍을 위해 세션 시작 프로토콜을 사용</string>
     <string name="HIPS_Perm_process_outgoing_calls">폰 앱에 접근</string>
     <string name="HIPS_Perm_process_outgoing_calls_Desc">모니터 및 통화 종료</string>
+    <string name="HIPS_Perm_process_nfc">근거리통신(NFC)</string>
+    <string name="HIPS_Perm_process_nfc_Desc">근거리 통신(NFC) 허용</string>
+    <string name="HIPS_Perm_install_shortcut">홈화면 바로가기</string>
+    <string name="HIPS_Perm_install_shortcut_Desc">홈화면에 바로가기 추가</string>    
     <string name="permission_group_title_charges_related">요금</string>
     <string name="permission_group_title_privacy_related">개인 정보 보호</string>
     <string name="permission_group_title_media_related">멀티미디어</string>
