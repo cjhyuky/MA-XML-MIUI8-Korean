@@ -5,11 +5,11 @@
     <string name="menu_record_stop">녹음 중지</string>
     <string name="menu_sleep">수면 타이머</string>
     <string name="menu_sleep_cancel">수면 타이머 취소</string>
-    <string name="menu_record_list">녹음</string>
+    <string name="menu_record_list">녹음파일</string>
     <string name="menu_scan_start">스캔</string>
     <string name="menu_new_station">추가</string>
-    <string name="menu_save_station_list">미리 설정에 추가</string>
-    <string name="menu_save_station_presets">미리 설정에 추가</string>
+    <string name="menu_save_station_list">주파수 수동 설정</string>
+    <string name="menu_save_station_presets">주파수 수동 설정</string>
     <string name="menu_speaker">스피커로 전환</string>
     <string name="menu_headset">블루투스 헤드셋으로 전환</string>
     <string name="menu_exit">종료</string>
