@@ -2,18 +2,18 @@
 <resources>
     <string-array name="passport_alphabet_table">
         <item>ㄱ</item>
-		<item>ㄴ</item>
-		<item>ㄷ</item>
-		<item>ㄹ</item>
-		<item>ㅁ</item>
-		<item>ㅂ</item>
-		<item>ㅅ</item>
-		<item>ㅇ</item>
-		<item>ㅈ</item>
-		<item>ㅊ</item>
-		<item>ㅋ</item>
-		<item>ㅍ</item>
-		<item>ㅎ</item>
+	<item>ㄴ</item>
+	<item>ㄷ</item>
+	<item>ㄹ</item>
+	<item>ㅁ</item>
+	<item>ㅂ</item>
+	<item>ㅅ</item>
+	<item>ㅇ</item>
+	<item>ㅈ</item>
+	<item>ㅊ</item>
+	<item>ㅋ</item>
+	<item>ㅍ</item>
+	<item>ㅎ</item>
         <item>A</item>
         <item>B</item>
         <item>C</item>
