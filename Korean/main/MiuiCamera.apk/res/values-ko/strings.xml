@@ -104,7 +104,7 @@
     <string name="pref_camera_coloreffect_entry_sketch">스케치</string>
     <string name="pref_camera_coloreffect_entry_seventy">1970년대</string>
     <string name="pref_camera_coloreffect_entry_fisheye">어안 렌즈</string>
-    <string name="pref_camera_coloreffect_entry_jstyle">일본어</string>
+    <string name="pref_camera_coloreffect_entry_jstyle">일본스타일</string>
     <string name="pref_camera_coloreffect_entry_xproii">X-Pro II</string>
     <string name="pref_camera_coloreffect_entry_mosaic">모자이크</string>
     <string name="pref_camera_coloreffect_entry_earlybird">가을</string>
