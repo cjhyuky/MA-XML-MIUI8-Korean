@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="slider_text">위로 밀어서 무음 설정</string>
+    <string name="slider_text">위로 밀어서 알람 끄기</string>
     <string name="snooze_confirm_cancel">알람 취소</string>
     <string name="timer_alarm_cancel_pad">화면을 탭 하시면 알람이 종료됩니다.</string>
     <string name="timer_alarm_alert_pad">%s</string>
