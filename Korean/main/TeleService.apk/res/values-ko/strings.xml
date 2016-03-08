@@ -356,7 +356,7 @@
     <string name="card_title_deflectedcall">차단된 통화</string>
     <string name="notification_missedCallsTitle">부재중 전화</string>
     <string name="notification_missedCallsMsg">부재중 전화 %s</string>
-    <string name="notification_missedCallTicker">%s번에서 걸려 온 부재 중 전화</string>
+    <string name="notification_missedCallTicker">%s번에서 걸려 온 부재중 전화</string>
     <string name="notification_voicemail_title">새 음성 메일</string>
     <string name="notification_voicemail_title_count">새로운 음성메시지(%d)</string>
     <string name="notification_voicemail_text_format">%s번으로 전화걸기</string>
