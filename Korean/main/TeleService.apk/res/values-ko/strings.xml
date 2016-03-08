@@ -354,8 +354,8 @@
     <string name="card_title_callconnectingect">ECT에 전화 연결 중</string>
     <string name="card_title_callconnectedect">ECT에 전화 연결됨</string>
     <string name="card_title_deflectedcall">차단된 통화</string>
-    <string name="notification_missedCallsTitle">부재 중 전화</string>
-    <string name="notification_missedCallsMsg">부재 중 전화 %s</string>
+    <string name="notification_missedCallsTitle">부재중 전화</string>
+    <string name="notification_missedCallsMsg">부재중 전화 %s</string>
     <string name="notification_missedCallTicker">%s번에서 걸려 온 부재 중 전화</string>
     <string name="notification_voicemail_title">새 음성 메일</string>
     <string name="notification_voicemail_title_count">새로운 음성메시지(%d)</string>
