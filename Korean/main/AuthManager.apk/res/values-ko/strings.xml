@@ -160,7 +160,7 @@
     <string name="HIPS_Perm_EndCall">통화 종료</string>
     <string name="HIPS_Perm_AnswerCall">전화 받기</string>
     <string name="HIPS_Perm_SilenceRinger">수신 전화 무음 설정</string>
-    <string name="HIPS_Perm_CancelMissedCalls">부재 중 전화 기록 삭제</string>
+    <string name="HIPS_Perm_CancelMissedCalls">부재중 전화 기록 삭제</string>
     <string name="HIPS_Perm_AdjustVolumeInCall">수신 전화 음량 조정</string>
     <string name="HIPS_Perm_AdjustRingerVolume">벨소리 볼륨 조정</string>
     <string name="HIPS_Perm_Recorder_Camera">이미지 캡쳐 위한 카메라 접근</string>
