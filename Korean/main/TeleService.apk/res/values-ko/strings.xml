@@ -724,7 +724,7 @@
     <string name="reject_via_sms_summary">미리 작성된 텍스트 응답 수정</string>
     <string name="reject_via_sms_title">빠른 답장</string>
     <string name="missed_call_notify_times_title">부재중 전화 미리 알림</string>
-    <string name="missed_call_notify_times_summary">부재 중 전화 알림 횟수를 선택하십시오(5분 간격).</string>
+    <string name="missed_call_notify_times_summary">부재중 전화 알림 횟수를 선택하십시오(5분 간격).</string>
     <string name="missed_call_notify_none">미리 알림 없음</string>
     <string name="missed_call_notify_once">1회</string>
     <string name="missed_call_notify_twice">2회</string>
