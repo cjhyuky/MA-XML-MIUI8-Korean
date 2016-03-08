@@ -12,7 +12,7 @@
         <item>500KB</item>
         <item>200KB</item>
         <item>100KB</item>
-        <item>제한 안함</item>
+        <item>무제한</item>
     </string-array>
     <string-array name="prefValues_max_bytes_limit">
         <item>1048576000</item>
