@@ -1086,8 +1086,8 @@
     <string name="hardware">하드웨어</string>
     <string name="select_keyboard_layout_notification_title">키보드 레이아웃 선택</string>
     <string name="select_keyboard_layout_notification_message">터치하여 키보드 레이아웃을 선택합니다.</string>
-    <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
-    <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+    <string name="fast_scroll_alphabet">" ㄱㄴㄷㄹㅁㅂㅅㅇㅈㅊㅋㅌㅍㅎAFJOSZ#"</string>
+    <string name="fast_scroll_numeric_alphabet">" 0123456789ㄱㄴㄷㄹㅁㅂㅅㅇㅈㅊㅋㅌㅍㅎAFJOSZ#"</string>
     <string name="candidates_style"><u>가능한 원인</u></string>
     <string name="ext_media_checking_notification_title">SD 카드 준비 중</string>
     <string name="ext_media_checking_notification_message">오류 확인 중입니다.</string>
