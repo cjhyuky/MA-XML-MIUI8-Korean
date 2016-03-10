@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_count">
+        <item quantity="other">%1$s 다운로드</item>
+    </plurals>
+    <plurals name="app_user_used">
+        <item quantity="other">%1$s 사용자</item>
+    </plurals>
+    <plurals name="match_brand_selection_des">
+        <item quantity="other">%d 모델 사용가능</item>
+    </plurals>
+</resources>
