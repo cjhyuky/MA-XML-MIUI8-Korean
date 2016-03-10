@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="see_n_more">
+        <item quantity="other">%1$d개 더보기</item>
+        <item quantity="one">%1$d개 더보기</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item quantity="other">%1$d일 후 만료됨</item>
+        <item quantity="one">%1$d일 후 만료됨</item>
+    </plurals>
+    <plurals name="hours_remaining">
+        <item quantity="other">%1$d시간 후 만료됨</item>
+        <item quantity="one">%1$d시간 후 만료됨</item>
+    </plurals>
+</resources>
