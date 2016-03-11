@@ -348,7 +348,7 @@
     <string name="explore_tutorial_latest">최신곡 및 인기 차트를 확인하세요.</string>
     <string name="explore_tutorial_playlists">음악 전문가 팀이 만든 재생목록을 감상해 보세요.</string>
     <string name="fail_to_start_stream">요청한 스트림을 재생할 수 없습니다.</string>
-    <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+    <string name="fast_scroll_alphabet">" ㄱㄴㄷㄹㅁㅂㅅㅇㅈㅊㅋㅌㅍㅎAFJOSZ#"</string>
     <string name="faux_art_all_songs_label">모든 노래</string>
     <string name="faux_art_playlist_auto_playlist_label">자동 재생 목록</string>
     <string name="faux_art_playlist_instant_mix_label">인스턴트 믹스</string>
