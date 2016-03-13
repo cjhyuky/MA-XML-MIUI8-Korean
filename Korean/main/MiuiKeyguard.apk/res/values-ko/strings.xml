@@ -15,8 +15,8 @@
     <string name="incorrect_pukcode">잘못된 PUK 코드</string>
     <string name="incorrect_pincode">잘못된 PIN 코드</string>
     <string name="open_wifi_settings">공개 네트워크 연결</string>
-    <string name="lock_screen_date">MMMM d, EEEE</string>
-    <string name="lock_screen_date_12">MMMM d, EEEE</string>
+    <string name="lock_screen_date">MMMM d일 EEEE</string>
+    <string name="lock_screen_date_12">MMMM d일 EEEE</string>
     <string name="lockscreen_glogin_password_hint">비밀번호</string>
     <string name="lockscreen_glogin_checking_password">확인 중…</string>
     <string name="login_website_in_case_forget_password">비밀번호를 재설정하려면 www.mi.com/micloud로 이동하십시오.</string>
