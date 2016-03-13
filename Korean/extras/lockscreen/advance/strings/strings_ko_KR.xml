@@ -1,4 +1,4 @@
 <resources>
-    <string name="date_format">EEEE, MMMM d일</string>
+    <string name="date_format">MMMM d일 EEEE</string>
     <string name="emergency_call">긴급전화</string>
 </resources>
