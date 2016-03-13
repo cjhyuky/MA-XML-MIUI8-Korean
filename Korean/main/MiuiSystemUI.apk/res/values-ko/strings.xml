@@ -83,7 +83,7 @@
     <string name="accessibility_clear_all">모든 알림 지우기</string>
     <string name="status_bar_notification_inspect_item_title">앱 정보</string>
     <string name="status_bar_date_format">"EEEE
-d MMMM"</string>
+    MMMM d일"</string>
     <string name="status_bar_recent_guide_all">"위로 슬라이드하여 닫기
 아래로 슬라이드하여 잠그기"</string>
     <string name="status_bar_recent_guide_top">위로 슬라이드하여 닫기</string>
@@ -93,7 +93,7 @@ d MMMM"</string>
     <string name="description_direction_left">%s하려면 왼쪽으로 슬라이드</string>
     <string name="description_target_search">검색</string>
     <string name="status_bar_date_format_12">"EEEE
-d MMMM"</string>
+    MMMM d일"</string>
     <string name="status_bar_recent_memory_info1">%2$sB 중 %1$sB 사용 가능</string>
     <string name="status_bar_recent_memory_info2" />
     <string name="usb_mode_notification">USB 저장소</string>
