@@ -177,7 +177,7 @@
     <string name="gadget_weather_title_24">날씨</string>
     <string name="gadget_weather_title_14">날씨</string>
     <string name="gadget_weather_app_not_installed">터치하여 MIUI의 날씨 앱 다운로드</string>
-    <string name="gadget_weather_time_format">MMMM d, EEEE</string>
+    <string name="gadget_weather_time_format">MMMM d일 EEEE</string>
     <string name="gadget_weather_theme_type">가젯 유형</string>
     <string name="gadget_weather_download_title">다운로드</string>
     <string name="gadget_weather_download_message">앱 콘텐츠 %1$s(%2$s)을(를) 다운로드해야 합니다. 다운로드 완료 후 앱을 다시 시작하십시오.</string>
