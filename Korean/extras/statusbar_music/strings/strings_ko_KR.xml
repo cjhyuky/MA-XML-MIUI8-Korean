@@ -2,4 +2,5 @@
 <strings>
     <string name="no_title" value="제목없음"/>
     <string name="no_artist" value="알수없는아티스트"/>
+    <string name="language" value="ko_KR"/>
 </strings>
