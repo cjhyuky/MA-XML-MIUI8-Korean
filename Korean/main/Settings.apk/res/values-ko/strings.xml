@@ -2943,7 +2943,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="msd_driver_download_mac">OSX: 드라이버를 다운로드하여 AndroidFileTransfer.dmg를 설치하십시오.</string>
     <string name="msd_driver_download_mac_url">http://www.android.com/filetransfer/에서 드라이버 받기</string>
     <string name="msd_install_download_zhushou">Mi 폰 매니저를 다운로드했습니다.</string>
-    <string name="vpn_settings_password">VPN</string>
+    <string name="vpn_settings_password">VPN 암호 설정</string>
     <string name="vpn_safe">보안</string>
     <string name="vpn_configure">환경 설정</string>
     <string name="vpn_enable">VPN</string>
