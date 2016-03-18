@@ -948,6 +948,8 @@ PIN이 잘못된 것 같습니다."</string>
     <string name="sd_mount_summary" />
     <string name="sd_format">SD 카드 지우기</string>
     <string name="sd_format_summary">SD 카드에 있는 모든 데이터(예: 음악 및 사진) 지우기</string>
+    
+    
     <string name="memory_clear_cache_title">캐시된 데이터를 지우시겠습니까?</string>
     <string name="memory_clear_cache_message">모든 앱의 캐시된 데이터가 지워집니다.</string>
     <string name="mtp_ptp_mode_summary">MTP 또는 PTP 기능 사용 중</string>
@@ -2508,6 +2510,21 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="encrypt_talkback_dialog_message_password">기기를 시작하기 위해 비밀번호를 입력할 때에는 %1$s 등의 접근성 서비스가 지원되지 않습니다.</string>
     <string name="usb_charging_title">충전 속도 가속</string>
     <string name="usb_charging_summary">다른 모든 USB 연결 기능을 꺼서 충전 속도를 높이십시오.</string>
+    <string name="usb_eject">USB 저장소 꺼내기</string>
+    <string name="usb_eject_summary">안전하게 USB저장소 제거</string>
+    <string name="usb_format">USB 저장소 지우기(포맷)</string>
+    <string name="usb_format_summary">USB 저장소의 모든 데이터를 지웁니다 (예: 음악, 사진, 등)</string>
+    <string name="usb_insert_summary">USB 저장소를 연결하세요</string>
+    <string name="usb_media_format_button_text">USB 저장소 지우기</string>
+    <string name="usb_media_format_desc">USB 저장소를 지울까요? 저장된 &lt;b&gt;모든&lt;/b&gt; 데이터를 잃게 됩니다.</string>
+    <string name="usb_media_format_final_desc">USB 저장소에 저장된 모든 파일이 영구적으로 삭제됩니다.</string>
+    <string name="usb_media_format_gesture_explanation">정말 USB 저장소 삭제를 원하시면 패턴을 그려주세요.</string>
+    <string name="usb_media_format_summary">USB 저장소의 모든 데이터를 지웁니다</string>
+    <string name="usb_media_format_title">USB 저장소 지우기</string>
+    <string name="usb_mount">USB 저장소 삽입</string>
+    <string name="usb_mount_summary"/>
+    <string name="usb_sdcard_summary">SD 카드의 미디어파일을 컴퓨터와 주고 받아보세요</string>
+    <string name="usb_sdcard_title">SD 카드 마운트</string>
     <string name="wifi_display_settings_empty_list_wifi_display_disabled">Wi-Fi가 꺼져 있어서 무선 디스플레이를 사용할 수 없습니다.</string>
     <string name="do_not_disturb_mode">방해 금지 모드</string>
     <string name="dndm_notification">방해 금지 모드가 켜져 있습니다.</string>
