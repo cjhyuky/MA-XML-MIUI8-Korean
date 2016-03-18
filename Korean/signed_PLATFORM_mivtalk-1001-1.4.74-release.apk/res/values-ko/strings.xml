@@ -384,7 +384,7 @@
     <string name="invalid_packet_dialog_open_btn">브라우저 열기</string>
     <string name="invite">초대</string>
     <string name="invite_contact">연락처에서 초대</string>
-    <string name="invite_contact_msg">제가 사용하고 있는 Mi 영상통화를 당신에게 추천합니다. 설치하시면 무료로 영상통화를 할 수 있습니다 : https://drive.google.com/folderview?id=0B_kT-ZqaN7DCREN4blpkU2h1UEU&usp=sharing</string>
+    <string name="invite_contact_msg">제가 사용하고 있는 Mi 영상통화를 당신에게 추천합니다. 설치하시면 무료로 영상통화를 할 수 있습니다 : call.mi.com</string>
     <string name="invite_contacts_tip">"설치한 친구들이 없습니다.
 초대하세요."</string>
     <string name="invite_friends">그룹 만들기</string>
@@ -742,7 +742,7 @@
     <string name="smiley_click_to_download">다운로드</string>
     <string name="smiley_default_description">[Dynamic emoji]</string>
     <string name="smiley_nopackage_click_to_download">"(아직 Mi 모션페키지를 받지 않으셨습니다 (약 1M), 다운로드해주세요.)"</string>
-    <string name="sms_message">"제가 사용하고 있는 Mi 영상통화를 당신에게 추천합니다. 설치하시면 무료로 영상통화를 할 수 있습니다 : https://drive.google.com/folderview?id=0B_kT-ZqaN7DCREN4blpkU2h1UEU&usp=sharing"</string>
+    <string name="sms_message">"제가 사용하고 있는 Mi 영상통화를 당신에게 추천합니다. 설치하시면 무료로 영상통화를 할 수 있습니다 : call.mi.com"</string>
     <string name="sms_message_cannot_send">"이 기기는 문자메세지를 보낼수 없습니다"</string>
     <string name="sns_unknown_error">알수없는 에러</string>
     <string name="source_message">메세지</string>
