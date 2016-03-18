@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_contact">
+        <item>연락처 추가</item>
+        <item>기존연락처에서 추가</item>
+        <item>차단목록에 추가</item>
+    </string-array>
+    <string-array name="add_new_contact">
+        <item>새로운 연락처 추가</item>
+        <item>기존연락처에 추가</item>
+    </string-array>
+    <string-array name="choice_engine_type">
+        <item>갈릴레오 엔진</item>
+        <item>아고라 엔진</item>
+    </string-array>
+    <string-array name="contact_detail_click">
+        <item>수정</item>
+        <item>차단목록에 추가</item>
+    </string-array>
+    <string-array name="edit_image">
+        <item>필터</item>
+        <item>삭제</item>
+    </string-array>
+    <string-array name="effect_name">
+        <item>자연스러운 미백</item>
+        <item>밤처럼 어둡게</item>
+        <item>따뜻한 햇살</item>
+        <item>생그러운 미백</item>
+        <item>로모필름효과</item>
+        <item>초록필름효과</item>
+        <item>빨강필름효과</item>
+        <item>단풍나무 효과</item>
+    </string-array>
+    <string-array name="intercept_long_click_func">
+        <item>영상 통화</item>
+        <item>음성 통화</item>
+        <item>폰 연락처에 추가</item>
+    </string-array>
+    <string-array name="intercept_long_click_func_short">
+        <item>영상 통화</item>
+        <item>음성 통화</item>
+    </string-array>
+    <string-array name="more_close_face_beauty">
+        <item>효과 빼기</item>
+        <item>멤버 추가</item>
+    </string-array>
+    <string-array name="more_open_face_beauty">
+        <item>효과 넣기</item>
+        <item>멤버 추가</item>
+    </string-array>
+    <string-array name="pick_image">
+        <item>앨범에서 선택</item>
+        <item>사진 찍고 업로드</item>
+    </string-array>
+    <string-array name="pick_long_click_func">
+        <item>더보기 취소</item>
+        <item>대화내용삭제</item>
+    </string-array>
+    <string-array name="pick_long_click_func_top">
+        <item>더보기</item>
+        <item>대화내용삭제</item>
+        <item>폰 연락처에 추가</item>
+    </string-array>
+</resources>
