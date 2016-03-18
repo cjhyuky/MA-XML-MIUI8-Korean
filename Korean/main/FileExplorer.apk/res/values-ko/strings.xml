@@ -363,8 +363,8 @@
     <string name="storage_info_detail">이용 가능:%1$s 전체:%2$s</string>
     <string name="just_now">지금 바로</string>
     <string name="yesterday">어제</string>
-    <string name="month_day_format">MMM dd</string>
-    <string name="year_month_day_format">MMM dd, yyyy</string>
+    <string name="month_day_format">MMMM dd일</string>
+    <string name="year_month_day_format">yyyy년 MMMM dd일</string>
     <string name="operation_del_fav">별 표시에서 제거 중…</string>
     <string name="operation_add_fav">별 표시에 추가 중…</string>
     <string name="port_range">포트는 1024–65535 사이에 있어야 합니다.</string>
