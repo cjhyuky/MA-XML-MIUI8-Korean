@@ -33,6 +33,7 @@
     <string name="music_dirac_mode_general_earbuds">일반</string>
     <string name="music_dirac_mode_general_inear">일반 이어폰</string>
     <string name="music_dirac_mode_in_ear">Mi 이어폰</string>
+    <string name="music_dirac_mode_in_ear_pro">Mi 하이브리드</string>
     <string name="music_dirac_mode_earbuds">Mi 이어버드</string>
     <string name="music_dirac_mode_piston_100">Mi 피스톤</string>
     <string name="music_dirac_mode_piston_1">Mi 피스톤 1</string>
