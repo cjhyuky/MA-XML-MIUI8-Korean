@@ -1594,6 +1594,7 @@ PIN이 잘못된 것 같습니다."</string>
     <string name="print_print_job">인쇄 작업</string>
     <string name="print_restart">다시 시작</string>
     <string name="print_cancel">취소</string>
+    <string name="print_enable">인쇄 활성화</string>
     <string name="print_job_summary">"%1$s
 %2$s"</string>
     <string name="print_printing_state_title_template">%1$s 인쇄 중</string>
@@ -3205,6 +3206,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="restrict_background_data_dialog_summary">백그라운드에서 실행 중인 앱은 메시지를 받을 수 없습니다.</string>
     <string name="restrict_background_data_notification_summary">백그라운드 데이터가 제한될 경우 앱을 네트워크에 연결할 수 없습니다.</string>
     <string name="accessibility_screen_magnification_enable">확대 제스처</string>
+    <string name="miui_experience_optimization">MIUI 최적화 켜기</string>
     <string name="miui_screensaver_state_on">켜짐</string>
     <string name="miui_screensaver_state_off">꺼짐</string>
     <string name="miui_screensaver_title">스크린 세이버</string>
