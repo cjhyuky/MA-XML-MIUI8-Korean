@@ -7,7 +7,7 @@
         <item quantity="other">%d개 앱 데이터 사용량 추적</item>
     </plurals>
     <plurals name="hints_traffic_saving_optimized">
-        <item quantity="other">%d개 앱 최적화 됨/item>
+        <item quantity="other">%d개 앱 최적화 됨</item>
     </plurals>
     <plurals name="hints_traffic_saving_need_optimize">
         <item quantity="other">%d개 앱 최적화 되지 않음</item>
