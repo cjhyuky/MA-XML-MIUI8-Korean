@@ -6,6 +6,7 @@
     <string name="cta_button_text_cancel">취소</string>
     <string name="cta_button_text_agree">확인</string>
     <string name="cta_settings">인터넷 연결 허용</string>
+    <string name="pc_install_manager">USB로 설치 허용</string>
     <string name="power_center_title">전원</string>
     <string name="power_center_consume_rank">배터리 사용</string>
     <string name="power_center_custom_title">배터리 프로필</string>
