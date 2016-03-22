@@ -216,6 +216,7 @@
     <string name="never">한 번</string>
     <string name="power_20s_shutdown">20초 후 기기 전원이 꺼집니다.</string>
     <string name="boot_reminder">예약된 시간에 기기 전원 켜짐</string>
+    <string name="showpattern">패턴 표시</string>
     <string name="shutdown_cancel_reminder">전원이 꺼지지 않았습니다.</string>
     <string name="shutdown_cancel_reminder_detail">통화 중이었기에 기기 전원이 꺼지지 않았습니다.</string>
     <string name="legal_workday_invalidate">월-금(법정 근무일 정보 만료됨)</string>
@@ -235,6 +236,8 @@
     <string name="battery_stats_wake_lock_label">켜짐</string>
     <string name="battery_stats_phone_signal_label">모바일 네트워크 신호</string>
     <string name="prompt_input_time_illegal">이 시간으로 설정 할 수 없습니다, 바꿔서 다시 시도해주십시오.</string>
+    <string name="app_name">앱 잠금</string>
+    <string name="app_name_na">데이터 사용량</string>
     <string name="app_name_securitycenter">보안</string>
     <string name="ok">확인</string>
     <string name="cancel">취소</string>
@@ -255,6 +258,14 @@
     <string name="menu_text_garbage_cleanup">클리너</string>
     <string name="menu_text_power_manager">배터리 사용량</string>
     <string name="menu_text_power_percent_title">전원 %s</string>
+    <string name="mi_service_app_detail">세부 데이터 사용량</string>
+    <string name="mi_service_framework">Mi 서비스 프레임워크</string>
+    <string name="mi_service_traffic_detail">프레임워크 세부사항</string>
+    <string name="mian_page_primary_txt">국제 로밍</string>
+    <string name="modify_password_info">패턴으로 잠금해제</string>
+    <string name="modifypassword">비밀번호 변경</string>
+    <string name="monitor_requests_from_pc">USB로 앱설치 관리</string>    
+    <string name="go_to_setting_fingerprint">설정으로 이동</string> 
     <string name="handle_text_system">시스템</string>
     <string name="handle_text_memory">메모리</string>
     <string name="handle_text_cache">캐시</string>
@@ -271,6 +282,17 @@
     <string name="examination_score_80_60">일부 항목 최적화 가능</string>
     <string name="examination_score_60_0">지금 스캔</string>
     <string name="examination_score_has_virus">일부 의심스러운 앱이 발견되었습니다.</string>
+    <string name="finger_remind_message">앱 잠금은 지문인식 해제를 지원합니다. 지문을 추가하시겠습니까?</string>
+    <string name="fingerprint_identify_msg">지문 인식중…</string>
+    <string name="fingerprint_not_identified_msg">기기를 잠금해제하기 위해 비밀번호를 입력하세요</string>
+    <string name="fingerprint_not_remind">"다시 묻지 않기"</string>
+    <string name="fingerprint_remind_dialog_title">지문인식 잠금해제</string>
+    <string name="fingerprint_to_lock">지문으로 잠금해제</string>
+    <string name="fingerprint_verification">지문 인증</string>
+    <string name="fingerprint_verification_message">이 기능을 사용하려면 현재 등록된 지문 인증이 필요합니다.</string>
+    <string name="fingerprint_verify_failed">"인증 실패"</string>
+    <string name="fingerprint_verify_succeed">인증 완료</string>
+    <string name="fingerprint_verify_try_agin">"스캔 불가, 다시 시도하세요"</string>    
     <string name="descx_cleanuping_item">%s 최적화 중</string>
     <string name="descx_scanning_item">%s 스캔 중</string>
     <string name="descx_start_scan_system">시스템 보호 스캔 시작 중</string>
@@ -285,6 +307,12 @@
     <string name="descx_finish_scan_cache">캐시 스캔 종료 중</string>
     <string name="descx_start_cleanup_cache">캐시 최적화 시작 중</string>
     <string name="descx_finish_cleanup_cache">캐시 최적화 종료 중</string>
+    <string name="access_control_need_password">"%s 잠금 추가 완료"</string>
+    <string name="access_control_need_to_unlock">"지문인식 잠금해제 
+또는 암호를 입력해주세요"</string>
+    <string name="access_control_need_to_unlock_nofingerprint">잠금해제 비밀번호를 입력하세요</string>
+    <string name="access_control_recording_intro_header">앱 잠금에 패턴을 추가</string>
+    <string name="access_control_reset_by_account">앱 잠금 리셋을 위해 Mi계정 로그인</string>
     <string name="activity_title_settings">설정</string>
     <string name="activity_title_antivirus">바이러스 스캔</string>
     <string name="activity_title_networkassistants">데이터 사용량</string>
@@ -296,6 +324,8 @@
     <string name="activity_title_memory">메모리</string>
     <string name="activity_title_trash">캐시</string>
     <string name="activity_title_network_speed_detail">연결</string>
+    <string name="system_app">시스템 앱</string>
+    <string name="system_application">시스템 앱</string>
     <string name="system_check_content">%1$d 위험</string>
     <string name="memory_check_content_none">비어 있음</string>
     <string name="system_check_content_none">안전</string>
@@ -549,6 +579,7 @@
     <string name="toast_cleaner_cloudscan">클리너가 온라인 정의 사용</string>
     <string name="toast_garbage_lib">클리너 자동 업데이트 켜짐</string>
     <string name="info_and_call">전화와 메시지</string>
+    <string name="third_application">써드파티 앱</string>
     <string name="SMS_and_MMS">SMS와 MMS</string>
     <string name="permission_with_SMS_and_MMS">SMS와 MMS 관련 권한</string>
     <string name="call_and_contact">전화와 연락처</string>
@@ -585,6 +616,7 @@
     <string name="antivirus_privacy_dialog_ok">확인</string>
     <string name="antivirus_more_engine_dialog_title">주의</string>
     <string name="antivirus_more_engine_dialog_summary">다중 정의 세트를 사용하여 스캔할 경우 더 많은 시간이 소모될 수 있습니다.</string>
+    <string name="security_app_lock">앱 잠금</string>
     <string name="security_scan_optimizing">최적화 중…</string>
     <string name="preferred_app_entries_launcher">런처</string>
     <string name="preferred_app_entries_dial">다이얼</string>
