@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="lockscreen_magazine_subscribe">
+        <item quantity="other">%1$s명의 팔로워들</item>
+        <item quantity="one">%1$s명의 팔로워</item>
+    </plurals>
+    <plurals name="lockscreen_magazine_system_subscribe">
+        <item quantity="other">%1$s개의 바탕화면들</item>
+        <item quantity="one">%1$s개의 바탕화면</item>
+    </plurals>
+</resources>

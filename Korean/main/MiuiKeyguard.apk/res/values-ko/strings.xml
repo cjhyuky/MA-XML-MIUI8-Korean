@@ -55,7 +55,7 @@
     <string name="invalid_confirm_pin_hint">PIN이 일치하지 않습니다.</string>
     <string name="unlock_string">잠금 해제</string>
     <string name="open_camera_hint_text">왼쪽으로 스와이프하여 카메라 열기</string>
-    <string name="open_remote_center_hint_text">오른쪽으로 스와이프하여 Mi 리모트 열기</string>
+    <string name="open_remote_center_hint_text">오른쪽으로 스와이프하여 전화 열기</string>
     <string name="click_to_enter_text">탭하여 보기</string>
     <string name="fingerprint_try_again_text">다시 시도</string>
     <string name="fingerprint_not_identified_title">비밀번호 입력</string>

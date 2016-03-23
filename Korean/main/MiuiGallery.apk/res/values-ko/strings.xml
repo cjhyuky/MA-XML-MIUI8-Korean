@@ -479,11 +479,11 @@
     <string name="click_top_right">이 아이콘을 탭하십시오.</string>
     <string name="cloud_camera_display_name">카메라 사진</string>
     <string name="camera_folder_display_name">카메라 사진</string>
-    <string name="cloud_screenshots_display_name">스크린 샷</string>
+    <string name="cloud_screenshots_display_name">스크린샷</string>
     <string name="secret_album_display_name">숨겨진 앨범</string>
-    <string name="miui_capture_screen_folder_display_name">스크린 샷</string>
+    <string name="miui_capture_screen_folder_display_name">스크린샷</string>
     <string name="internal_camera_folder_display_name">내부 카메라 사진</string>
-    <string name="internal_miui_capture_screen_folder_display_name">내부 스크린 샷</string>
+    <string name="internal_miui_capture_screen_folder_display_name">내부 스크린샷</string>
     <string name="miliao_folder_display_name">Mi 톡</string>
     <string name="miliao_painting_folder_display_name">Mi 톡 낙서</string>
     <string name="miliao_saved_folder_display_name">Mi 톡</string>

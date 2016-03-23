@@ -132,7 +132,7 @@ MMMM d일"</string>
     <string name="camera_key_action_toggle_title">트리거 토글</string>
     <string name="camera_key_action_app_title">앱 열기</string>
     <string name="camera_key_action_shortcut_home">홈 화면으로 돌아가기</string>
-    <string name="camera_key_action_shortcut_screenshot">스크린 샷</string>
+    <string name="camera_key_action_shortcut_screenshot">스크린샷</string>
     <string name="camera_key_action_shortcut_search">검색</string>
     <string name="camera_key_action_shortcut_call">통화</string>
     <string name="camera_key_action_shortcut_wake">기기 잠그기/절전 모드 해제</string>
