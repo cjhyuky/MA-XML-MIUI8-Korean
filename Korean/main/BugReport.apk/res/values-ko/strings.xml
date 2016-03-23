@@ -35,7 +35,7 @@
     <string name="non_system_app_select">다운로드한 앱</string>
     <string name="system_app_select">내장 앱</string>
     <string name="section_description">설명</string>
-    <string name="section_screenshot">스크린 샷</string>
+    <string name="section_screenshot">스크린샷</string>
     <string name="toast_report_sent_succeed">리포트를 전송했습니다.</string>
     <string name="toast_report_sent_failed">리포트를 전송할 수 없습니다.</string>
     <string name="toast_report_copied_to_clipboard">리포트가 클립보드에 복사됨</string>

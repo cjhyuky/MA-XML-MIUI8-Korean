@@ -71,7 +71,7 @@
     <string name="status_bar_settings_notification_led">알림 표시등</string>
     <string name="status_bar_settings_notification_bar">알림 지우기</string>
     <string name="status_bar_settings_toggle_collapse_after_clicked">터치 후 축소</string>
-    <string name="status_bar_settings_show_screenshot_notification">스크린 샷 알림 표시</string>
+    <string name="status_bar_settings_show_screenshot_notification">스크린샷 알림 표시</string>
     <string name="status_bar_settings_status_bar">상태 표시줄</string>
     <string name="status_bar_settings_show_notification_icon">알림 아이콘 표시</string>
     <string name="status_bar_settings_show_network_speed">연결 속도 표시</string>
@@ -2718,7 +2718,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="camera_key_action_toggle_title">트리거 토글</string>
     <string name="camera_key_action_app_title">앱 열기</string>
     <string name="camera_key_action_shortcut_home">홈 화면</string>
-    <string name="camera_key_action_shortcut_screenshot">스크린 샷</string>
+    <string name="camera_key_action_shortcut_screenshot">스크린샷</string>
     <string name="camera_key_action_shortcut_search">검색</string>
     <string name="camera_key_action_shortcut_call">통화</string>
     <string name="camera_key_action_shortcut_wake">기기 잠금</string>
@@ -3482,7 +3482,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="set_password_action">비밀번호 설정</string>
     <string name="deny_sms_title">SMS 잠금</string>
     <string name="deny_sms_message">설치한 앱이 SMS를 보내도록 허용 안 함</string>
-    <string name="wakeup_for_keyguard_notification_title">알림수신시 잠금화면 켜기</string>
+    <string name="wakeup_for_keyguard_notification_title">알림 수신시 잠금화면 켜기</string>
     <string name="pref_edge_handgrip">에지 컨트롤</string>
     <string name="edge_mode_notification_title">엣지 컨트롤을 사용합니다.</string>
     <string name="edge_mode_notification_summary">탭하여 더 알아보기.</string>

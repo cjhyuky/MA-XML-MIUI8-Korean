@@ -11,7 +11,7 @@
     <string name="status_bar_toggle_privacy_mode">게스트</string>
     <string name="status_bar_toggle_rotate">화면 회전 꺼짐</string>
     <string name="status_bar_toggle_screen_button">버튼</string>
-    <string name="status_bar_toggle_screenshot">스크린 샷</string>
+    <string name="status_bar_toggle_screenshot">스크린샷</string>
     <string name="status_bar_toggle_sync">동기화</string>
     <string name="status_bar_toggle_torch">손전등</string>
     <string name="status_bar_toggle_vibrate">진동</string>

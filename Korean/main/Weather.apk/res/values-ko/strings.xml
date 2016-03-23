@@ -44,7 +44,7 @@
     <string name="share_btn_confirm">공유</string>
     <string name="share_subject">공유</string>
     <string name="share_button">공유</string>
-    <string name="share_weather_save_pic_fail">스크린 샷을 찍지 못했습니다.</string>
+    <string name="share_weather_save_pic_fail">스크린샷을 찍지 못했습니다.</string>
     <string name="share_title">날씨 공유</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_desc">\#MIUI 날씨#오늘 %1$s %2$s</string>
