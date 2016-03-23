@@ -3,8 +3,10 @@
 # Credits
     ingbrzy - Builder of MultiRom, Bug reports.
     cjhyuky - Builder of MIUI7 Korean translation
+
     Thanks to ruinses, ginam kim, lecahel 
 (for bug reports and translation suggestions).
+
     This sources are based on the Korean translation pack from en.miui.com's global ROM.
 
 If you have any request, then email me with screenshot cjhyuky@gmail.com
