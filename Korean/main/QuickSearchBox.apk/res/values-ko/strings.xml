@@ -20,7 +20,7 @@
   <string name="cta_declaration_negative_text">나가기</string>
   <string name="cta_declaration_positive_text">허용</string>
   <string name="cta_declaration_title">서비스 약관</string>
-  <string name="default_hint">무엇이든 찾아드립니다</string>
+  <string name="default_hint">검색어를 입력해주세요</string>
   <string name="device_settings_category_title">바로가기 삭제</string>
   <string name="distance_unit_kilometer">킬로미터</string>
   <string name="distance_unit_meter">미터</string>
