@@ -923,7 +923,7 @@ PIN이 잘못된 것 같습니다."</string>
     <string name="status_signal_strength">신호 강도</string>
     <string name="status_roaming">로밍</string>
     <string name="status_operator">네트워크</string>
-    <string name="status_wifi_mac_address">Wi-Fi MAC 어드레스</string>
+    <string name="status_wifi_mac_address">Wi-Fi MAC 주소</string>
     <string name="status_bt_address">블루투스 주소</string>
     <string name="status_serial_number">일련번호</string>
     <string name="status_unavailable">사용할 수 없음</string>
@@ -974,6 +974,7 @@ PIN이 잘못된 것 같습니다."</string>
     <string name="storage_other_users">다른 사용자</string>
     <string name="battery_status_title">배터리 상태</string>
     <string name="battery_level_title">배터리 수준</string>
+    <string name="battery_light_title">충전 중일 때 알림 표시등 켜기</string>
     <string name="apn_settings">APN</string>
     <string name="apn_edit">액세스 포인트(APN) 편집</string>
     <string name="apn_not_set">설정되지 않음</string>
@@ -1349,6 +1350,12 @@ PIN이 잘못된 것 같습니다."</string>
     <string name="auto_replace_summary">오타 교정</string>
     <string name="auto_caps">자동 대문자화</string>
     <string name="auto_caps_summary">문장의 첫 글자를 대문자로</string>
+    <string name="auto_disable_screenbuttons_ask">비활성화 전 묻기</string>
+    <string name="auto_disable_screenbuttons_auto">항상 비활성화</string>
+    <string name="auto_disable_screenbuttons_cancel">취소</string>
+    <string name="auto_disable_screenbuttons_no">비활성화 안함</string>
+    <string name="auto_disable_screenbuttons_summary">선택한 앱을 사용 중일 때 자동으로 네비게이션 버튼을 비활성화 합니다. 아무 네비게이션 버튼을 두번 탭하여 재활성화 할 수 있습니다.</string>
+    <string name="auto_disable_screenbuttons_title">자동으로 네비게이션 버튼 비활성화</string>
     <string name="auto_punctuate">자동 구두점 입력</string>
     <string name="hardkeyboard_category">물리적 키보드 설정</string>
     <string name="auto_punctuate_summary">"스페이스바를 두 번 눌러 '.' 삽입"</string>
@@ -2398,7 +2405,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="notification_ringtone_title">기본 알림 벨소리</string>
     <string name="vibrate_when_ringing_title">전화 올 때 벨소리와 함께 진동</string>
     <string name="notification_section_header">알림</string>
-    <string name="notification_pulse_title">알림등 반복 표시</string>
+    <string name="notification_pulse_title">알림 표시등 반복 표시</string>
     <string name="lock_screen_notifications_title">기기가 잠겼을 때</string>
     <string name="lock_screen_notifications_summary_show">모든 알림 내용 표시</string>
     <string name="lock_screen_notifications_summary_hide">민감한 알림 내용 숨기기</string>
@@ -2523,7 +2530,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="usb_media_format_gesture_explanation">정말 USB 저장소 삭제를 원하시면 패턴을 그려주세요.</string>
     <string name="usb_media_format_summary">USB 저장소의 모든 데이터를 지웁니다</string>
     <string name="usb_media_format_title">USB 저장소 지우기</string>
-    <string name="usb_mount">USB 저장소 삽입</string>
+    <string name="usb_mount">USB 저장소 마운트</string>
     <string name="usb_mount_summary"/>
     <string name="usb_sdcard_summary">SD 카드의 미디어파일을 컴퓨터와 주고 받아보세요</string>
     <string name="usb_sdcard_title">SD 카드 마운트</string>

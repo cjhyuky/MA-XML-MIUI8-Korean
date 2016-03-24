@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="lockscreen_magazine_title">Daily lock screens</string>
+    <string name="lockscreen_magazine_title">추천 잠금화면</string>
     <string name="lockscreen_magazine_summary">매일 당신의 잠금화면으로 설정되는 배경화면을 얻으세요.</string>
     <string name="lockscreen_magazine_system_title">기본값</string>
-    <string name="theme_apply_success">잠금화면 적용</string>
+    <string name="theme_apply_success">잠금화면 적용됨</string>
     <string name="theme_apply_failured">"적용할 수 없습니다, 나중에 다시 시도하세요"</string>
     <string name="theme_applying">적용 중…</string>
-    <string name="app_name">Daily lock screens</string>
+    <string name="app_name">추천 잠금화면</string>
     <string name="declaration_title">이용 약관</string>
-    <string name="declaration_lockscreen_title">Daily lock screens 켜기</string>
+    <string name="declaration_lockscreen_title">추천 잠금화면 켜기</string>
     <string name="declaration">Enjoy free subscriptions to the top global media. Keep up to date with the latest news, movie releases, and celebrity buzz.</string>
     <string name="cancel">종료</string>
     <string name="no_long_show">"다시 표시하지 않기"</string>
