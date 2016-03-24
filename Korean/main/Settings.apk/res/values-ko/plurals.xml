@@ -57,7 +57,7 @@
     </plurals>
     <plurals name="auto_disable_screenbuttons_enabled_header_title">
         <item quantity="other">%d개의 어플리케이션 항상 비활성화</item>
-        <item quantity="one">1개의 어플리케이션 항상 비활성화/item>
+        <item quantity="one">1개의 어플리케이션 항상 비활성화</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_disabled_header_title">
         <item quantity="other">%d개의 어플리케이션 비활성화 안함</item>
