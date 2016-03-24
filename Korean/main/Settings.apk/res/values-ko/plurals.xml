@@ -55,4 +55,12 @@
     <plurals name="show_rep_countdown">
         <item quantity="other">버그 신고까지 %1$d단계 남았습니다.</item>
     </plurals>
+    <plurals name="auto_disable_screenbuttons_enabled_header_title">
+        <item quantity="other">%d개의 어플리케이션 항상 비활성화</item>
+        <item quantity="one">1개의 어플리케이션 항상 비활성화/item>
+    </plurals>
+    <plurals name="auto_disable_screenbuttons_disabled_header_title">
+        <item quantity="other">%d개의 어플리케이션 비활성화 안함</item>
+        <item quantity="one">1개의 어플리케이션 비활성화 안함</item>
+    </plurals>
 </resources>

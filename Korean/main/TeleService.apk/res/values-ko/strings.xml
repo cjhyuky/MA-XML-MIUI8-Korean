@@ -825,6 +825,8 @@
     <string name="gsm_umts_network_preferences_dialogtitle">네트워크 기본 설정</string>
     <string name="uplmn_numeric_is_empty">네트워크 ID 입력</string>
     <string name="voip_setting">VoIP 설정</string>
+    <string name="volte_switch_summary">음성 및 영상통화 성능을 향상시키기 위하여 VoLTE 사용</string>
+    <string name="volte_switch_title">VoLTE 활성화</string>
     <string name="msim_setting_screen_title">SIM 카드 &amp; 모바일 네트워크</string>
     <string name="msim_setting_categery_title">SIM 카드 설정</string>
     <string name="msim_general_setting">설정</string>
