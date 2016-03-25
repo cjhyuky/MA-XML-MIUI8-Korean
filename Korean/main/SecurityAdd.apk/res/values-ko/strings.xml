@@ -9,12 +9,12 @@
     <string name="miuishare_title_share">공유</string>
     <string name="miuishare_wechat_timeline_title">WeChat 타임라인</string>
     <string name="miuishare_weibo_title">Weibo</string>
-    <string name="network_not_available">네크워크에 연결할 수 없습니다.</string>
+    <string name="network_not_available">네트워크에 연결할 수 없습니다.</string>
     <string name="no_network_btn">다시 시도</string>
     <string name="main_toolbar_purchase">충전</string>
     <string name="usage_sorted_loading_text">잠시만 기다려 주십시오…</string>
     <string name="month_report_activity_label">월간 리포트</string>
-    <string name="month_report_disconnect_tip">네크워크에 연결할 수 없습니다.</string>
+    <string name="month_report_disconnect_tip">네트워크에 연결할 수 없습니다.</string>
     <string name="month_report_click_reconnect_network">다시 시도</string>
     <string name="month_report_warning_dialog_title">월간 보안 리포트</string>
     <string name="month_report_warning_dialog_description">월간 리포트를 보려면 보안 앱 설정에서 이 기능을 켜야 합니다.</string>
