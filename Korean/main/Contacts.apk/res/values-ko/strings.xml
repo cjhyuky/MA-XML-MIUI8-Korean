@@ -618,7 +618,7 @@
     <string name="contact_detail_profile_switch_fail_toast">서버에 문제가 발생하였습니다.</string>
     <string name="contact_detail_profile_switch_off_success_toast">연락처 카드 꺼짐</string>
     <string name="contact_detail_profile_switch_off_fail_toast">연락처 카드를 끄지 못했습니다.</string>
-    <string name="contact_detail_profile_switch_fail_network_toast">네크워크에 연결할 수 없습니다.</string>
+    <string name="contact_detail_profile_switch_fail_network_toast">네트워크에 연결할 수 없습니다.</string>
     <string name="contact_detail_miprofile_settings_header">추가 설정</string>
     <string name="contact_detail_miprofile_binded_label">확인됨</string>
     <string name="contact_detail_miprofile_subtitle">이미 카드를 교환함</string>
@@ -1106,7 +1106,7 @@
     <string name="yellowpage_navigation_search_city_name_hint">도시</string>
     <string name="yellowpage_navigation_search_select_city">도시 선택</string>
     <string name="yellowpage_navigation_search_result_no_more">결과가 더 이상 없음</string>
-    <string name="yellowpage_navigation_search_result_network_error">네크워크에 연결할 수 없습니다.</string>
+    <string name="yellowpage_navigation_search_result_network_error">네트워크에 연결할 수 없습니다.</string>
     <string name="yellowpage_navigation_search_result_service_error">서비스 이용 불가</string>
     <string name="yellowpage_navigation_search_result_unknown_error">알 수 없는 오류</string>
     <string name="yellowpage_navigation_search_result_average_price">평균 RMB %d</string>
