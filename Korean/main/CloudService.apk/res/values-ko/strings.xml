@@ -322,7 +322,7 @@ Mi 클라우드를 다시 활성화하십시오."</string>
     <string name="micloud_member_buy_content" formatted="false">"%s-%s-%s
 
 %s Mi 크레딧에 해당"</string>
-    <string name="micloud_member_net_error_alert_title">네크워크에 연결할 수 없습니다.</string>
+    <string name="micloud_member_net_error_alert_title">네트워크에 연결할 수 없습니다.</string>
     <string name="micloud_member_net_error_alert_message">인터넷이 연결되지 않았습니다.</string>
     <string name="micloud_member_pay_fail_toast">지불을 완료하지 못했습니다.</string>
     <string name="micloud_member_webload_fail_toast_5xx">서버 오류</string>
