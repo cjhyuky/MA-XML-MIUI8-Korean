@@ -640,13 +640,13 @@
     <string name="pref_version_info">버전 정보</string>
     <string name="find_new_version">업데이트 가능</string>
     <string name="skip_current_version">이 버전 건너 뛰기</string>
-    <string name="update_no_network_toast">네크워크에 연결할 수 없습니다.</string>
+    <string name="update_no_network_toast">네트워크에 연결할 수 없습니다.</string>
     <string name="version_check_failed">업데이트 확인 실패</string>
     <string name="version_check_button_default">업데이트 확인</string>
     <string name="version_check_button_checking">확인 중…</string>
     <string name="version_check_button_downloading">다운로드 중…</string>
     <string name="version_check_button_newest">사용할 수 있는 업데이트 없음</string>
-    <string name="version_check_button_no_network">네크워크에 연결할 수 없습니다.</string>
+    <string name="version_check_button_no_network">네트워크에 연결할 수 없습니다.</string>
     <string name="version_check_button_install">설치</string>
     <string name="version_check_button_resume_download">다운로드 재개</string>
     <string name="version_check_button_download_failed">다운로드 재개</string>
@@ -731,7 +731,7 @@
     <string name="menu_title_clear_all">모두 지우기</string>
     <string name="menu_title_open_file_management">파일 탐색기 열기</string>
     <string name="open_file_explorer_failed">파일 탐색기를 열 수 없습니다.</string>
-    <string name="retry_after_network_available">네크워크에 연결할 수 없습니다.</string>
+    <string name="retry_after_network_available">네트워크에 연결할 수 없습니다.</string>
     <string name="download_filter_all">전체</string>
     <string name="download_filter_application">앱</string>
     <string name="download_filter_video">동영상</string>
