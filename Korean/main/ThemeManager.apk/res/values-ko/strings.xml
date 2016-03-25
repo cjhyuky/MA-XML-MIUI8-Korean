@@ -48,7 +48,7 @@
     <string name="resource_buy">구매</string>
     <string name="resource_importing">가져오는 중…</string>
     <string name="resource_ringtone_playing_error">오류</string>
-    <string name="online_no_network">네크워크에 연결할 수 없습니다.</string>
+    <string name="online_no_network">네트워크에 연결할 수 없습니다.</string>
     <string name="online_search_hint">온라인 리소스 검색</string>
     <string name="loading">잠시만 기다려주십시오…</string>
     <string name="download_failed">다운로드 실패</string>
@@ -76,7 +76,7 @@
     <string name="resource_no_result">아무것도 찾지 못함</string>
     <string name="resource_failed_to_load_list">테마를 불러올 수 없습니다.</string>
     <string name="resource_search_list_empty">아무 것도 찾지 못함.</string>
-    <string name="resource_no_network_text">네크워크에 연결할 수 없습니다.</string>
+    <string name="resource_no_network_text">네트워크에 연결할 수 없습니다.</string>
     <string name="resource_network_diagnostics"><u>네트워크 진단</u></string>
     <string name="resource_list_title">최근에 선택됨</string>
     <string name="resource_get_auth_checking">확인 중…</string>
