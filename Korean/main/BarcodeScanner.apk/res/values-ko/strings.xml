@@ -66,7 +66,7 @@
     <string name="find_cloud_album">앨범 QR 코드 스캔</string>
     <string name="wifi_connecting">연결 중…</string>
     <string name="wifi_open_fail">Wi-Fi를 실행할 수 없습니다.</string>
-    <string name="wifi_connect_fail">네크워크에 연결할 수 없습니다.</string>
+    <string name="wifi_connect_fail">네트워크에 연결할 수 없습니다.</string>
     <string name="wifi_connect_success">네트워크에 연결됨</string>
     <string name="wifi_connect_not_found">WiFi 네드워크 발견되지 않음</string>
     <string name="wifi_connect_current_connetion">Wi-Fi에 연결됨</string>
