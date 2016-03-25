@@ -71,7 +71,7 @@
     <string name="daily_forcast_no_wind">바람 없음</string>
     <string name="daily_forcast_whirl_wind">회오리바람</string>
     <string name="title_share_link">URL 공유</string>
-    <string name="network_not_available">네크워크에 연결할 수 없습니다.</string>
+    <string name="network_not_available">네트워크에 연결할 수 없습니다.</string>
     <string name="no_network_btn">다시 시도</string>
     <string name="share">공유</string>
     <string name="open_browser">브라우저로 열기</string>
