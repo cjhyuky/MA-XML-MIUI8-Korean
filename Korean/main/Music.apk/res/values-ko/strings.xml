@@ -30,8 +30,8 @@
     <string name="vip_required_with_song">\"프리미엄 뮤직 패키지를 구독하여 “%s” 재생하십시오. 원하신다면 이 과정을 건너뛰실 수 있습니다.\"</string>
     <string name="vip_required">프리미엄 뮤직 패키지를 구독하여 이 노래를 재생하십시오. 원하신다면 이 과정을 건너뛰실 수 있습니다.</string>
     <string name="alaka_required">이 음악은 사용 불가능합니다.</string>
-    <string name="network_settings_error">네크워크에 연결할 수 없습니다.</string>
-    <string name="network_request_error">네크워크에 연결할 수 없습니다.</string>
+    <string name="network_settings_error">네트워크에 연결할 수 없습니다.</string>
+    <string name="network_request_error">네트워크에 연결할 수 없습니다.</string>
     <string name="server_error">서버 오류. 조금 뒤에 다시 시도해주세요</string>
     <string name="lrc_search_failed">가사를 찾지 못했습니다.</string>
     <string name="lrc_searching">검색중…</string>
@@ -485,7 +485,7 @@
     <string name="miuishare_publish">보내기</string>
     <string name="miuishare_share_done">성공적으로 공유 되었습니다.</string>
     <string name="miuishare_share_editor_title">공유</string>
-    <string name="miuishare_no_network">네크워크에 연결할 수 없습니다.</string>
+    <string name="miuishare_no_network">네트워크에 연결할 수 없습니다.</string>
     <string name="download_start">다운로드 시작 중…</string>
     <string name="already_download">다운로드 중…</string>
     <string name="download_complete">다운로드 완료</string>
