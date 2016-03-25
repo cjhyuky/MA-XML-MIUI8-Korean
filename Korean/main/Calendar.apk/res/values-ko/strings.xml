@@ -319,7 +319,7 @@
     <string name="today_train_event">기차</string>
     <string name="departure">출발</string>
     <string name="guide_card_hint_text">탭하여 Mi 클라우드를 열기</string>
-    <string name="network_not_available">네크워크에 연결할 수 없습니다.</string>
+    <string name="network_not_available">네트워크에 연결할 수 없습니다.</string>
     <string name="no_network_btn">다시 시도</string>
     <string name="more_string">%1$s명 이상</string>
     <string name="copy_email">이메일 주소 복사</string>
