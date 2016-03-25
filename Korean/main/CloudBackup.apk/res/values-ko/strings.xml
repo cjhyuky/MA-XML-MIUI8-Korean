@@ -72,7 +72,7 @@
     <string name="recover_from_micloud">Mi 클라우드 백업에서 복원</string>
     <string name="click_try_to_restore_again">탭하여 다시 시도</string>
     <string name="open_wifi">지금 Wi-Fi 켜기</string>
-    <string name="open_wifi_description">Wi-Fi 네크워크에 연결하여 앱 복원</string>
+    <string name="open_wifi_description">Wi-Fi 네트워크에 연결하여 앱 복원</string>
     <string name="open_wifi_setting">Wi-Fi 설정</string>
     <string name="name_model">%1$s의 %2$s</string>
     <string name="download_settings">홈 화면 설정 %s%% 다운로드 중</string>
