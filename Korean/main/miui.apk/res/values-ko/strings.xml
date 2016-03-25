@@ -296,7 +296,7 @@
     <string name="permdesc_sendSmsNoConfirmation">앱에서 SMS 메시지를 귀하의 권한 요청 없이 전송할 수 있습니다. 통신사에서 이 메시지에 대한 요금을 부과 할 수 있습니다.</string>
     <string name="web_sso_login_message">로그인 중…</string>
     <string name="web_sso_login_fail">다시 로그인해야 합니다.</string>
-    <string name="no_network">네크워크에 연결할 수 없습니다.</string>
+    <string name="no_network">네트워크에 연결할 수 없습니다.</string>
     <string name="webview_reload">다시 시도</string>
     <string name="hybrid_provider">이 웹페이지는 %1$s에서 제공되었습니다.</string>
 </resources>
