@@ -800,7 +800,7 @@
     <string name="other_settings_category">기타</string>
     <string name="caller_id_title">발신자 ID</string>
     <string name="caller_id_summary">발신 통화 시 내 번호 숨기기(통신사에서 이 기능 지원하는지 확인)</string>
-    <string name="get_smsc_address_error">네크워크에 연결할 수 없습니다.</string>
+    <string name="get_smsc_address_error">네트워크에 연결할 수 없습니다.</string>
     <string name="get_smsc_address_timeout">연결 시간 초과</string>
     <string name="set_smsc_address_error">번호를 설정할 수 없습니다.</string>
     <string name="set_smsc_address_timeout">연결 시간 초과</string>
