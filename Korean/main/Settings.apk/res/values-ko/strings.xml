@@ -2842,7 +2842,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="failed_to_check_find_device_status_content">디바이스 찾기 상태를 확인 할 수 없습니다. 1분에서 2분정도 기다리신 후에 다시 시도하여 주십시오.</string>
     <string name="failed_to_shut_down_find_device_title">디바이스 찾기를 끌수 없습니다.</string>
     <string name="failed_to_shut_down_find_device_content">디바이스 찾기를 끌수 없습니다. 1분에서 2분정도 기다리신 후에 다시 시도하여 주십시오.</string>
-    <string name="shut_down_find_device_network_failure_title">네크워크에 연결할 수 없습니다.</string>
+    <string name="shut_down_find_device_network_failure_title">네트워크에 연결할 수 없습니다.</string>
     <string name="shut_down_find_device_network_failure_content">디바이스 찾기를 끌수 없습니다. 디바이스가 인터넷에 연결되어 있는지 확인 해주십시오.</string>
     <string name="check_find_device_status_failure_confirm">확인</string>
     <string name="shut_down_find_device_failure_confirm">확인</string>
