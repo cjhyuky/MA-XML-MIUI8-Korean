@@ -698,7 +698,7 @@
     <string name="project_available_tip">화면 감지됨</string>
     <string name="single_device_project_dialog_title">%s에게 전달됨</string>
     <string name="single_device_project_dialog_checkbox_text">이 화면 기억</string>
-    <string name="network_connected_rescan">네크워크에 연결할 수 없습니다.</string>
+    <string name="network_connected_rescan">네트워크에 연결할 수 없습니다.</string>
     <string name="no_secret_photo">숨겨진 사진 없음</string>
     <string name="in_home_page_long_press_photo_setting_secret_photo">사진을 숨기려면 사진을 길게 &amp; 누른 다음, 왼쪽 아래 모서리의 메뉴에서 \"숨겨진 앨범에 추가\"를 선택하십시오.</string>
     <string name="all_video_album_display_name">모든 동영상</string>
@@ -777,7 +777,7 @@
     <string name="contrast_abbr">C</string>
     <string name="hybrid_check_network">네트워크 설정</string>
     <string name="hybrid_try_again">다시 시도</string>
-    <string name="hybrid_network_unavaliable">네크워크에 연결할 수 없습니다.</string>
+    <string name="hybrid_network_unavaliable">네트워크에 연결할 수 없습니다.</string>
     <string name="hybrid_network_access_denied">네트워크 접근 거부됨</string>
     <string name="hybrid_service_unavailiable">서비스 이용 불가</string>
     <string name="hybrid_data_error">오류 발생</string>
