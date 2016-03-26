@@ -954,10 +954,16 @@ PIN이 잘못된 것 같습니다."</string>
     <string name="memory_clear_cache_title">캐시된 데이터를 지우시겠습니까?</string>
     <string name="memory_clear_cache_message">모든 앱의 캐시된 데이터가 지워집니다.</string>
     <string name="mtp_ptp_mode_summary">MTP 또는 PTP 기능 사용 중</string>
+    <string name="dlg_confirm_uicc_unmount_title">UICC 저장소를 마운트 해제하시겠습니까?</string>
+    <string name="dlg_confirm_uicc_unmount_text">UICC 저장소를 마운트 해제하면 사용 중인 일부 앱이 중지되고 UICC 저장소를 다시 마운트할 때까지 사용할 수 없게 됩니다.</string>
     <string name="dlg_confirm_unmount_title">SD 카드를 마운트 해제하시겠습니까?</string>
     <string name="dlg_confirm_unmount_text">SD 카드를 마운트 해제하면 사용 중인 일부 앱이 중지되고 SD 카드를 다시 마운트할 때까지 사용할 수 없게 됩니다.</string>
+    <string name="dlg_confirm_usb_unmount_title">USB 저장소를 마운트 해제하시겠습니까?</string>
+    <string name="dlg_confirm_usb_unmount_text">USB 저장소를 마운트 해제하면 사용 중인 일부 앱이 중지되고 USB 저장소를 다시 마운트할 때까지 사용할 수 없게 됩니다.</string>    
+    <string name="dlg_error_uicc_unmount_text">UICC 저장소를 마운트 해제하지 못했습니다. 나중에 다시 시도하세요.</string>
     <string name="dlg_error_unmount_title" />
     <string name="dlg_error_unmount_text">SD 카드를 마운트 해제하지 못했습니다. 나중에 다시 시도하세요.</string>
+    <string name="dlg_error_usb_unmount_text">USB 저장소를 마운트 해제하지 못했습니다. 나중에 다시 시도하세요.</string>
     <string name="unmount_inform_text">SD 카드가 마운트 해제됩니다.</string>
     <string name="sd_ejecting_title">마운트 해제 중</string>
     <string name="sd_ejecting_summary">마운트 해제 중</string>
