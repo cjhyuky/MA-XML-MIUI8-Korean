@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="hints_traffic_enable_title">
+        <item quantity="other">%d개의 앱 데이터 사용량 추적안함</item>
+    </plurals>
+    <plurals name="hints_traffic_disable_title">
+        <item quantity="other">%d개의 앱 데이터 사용량 추적함</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_optimized">
+        <item quantity="other">%d개의 앱 데이터 절약 최적화됨</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_need_optimize">
+        <item quantity="other">%d개의 앱 데이터 절약 최적화 필요</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_enable_title">
+        <item quantity="other">%d개의 앱 데이터 세이버 사용중</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_disable_title">
+        <item quantity="other">%d개의 앱 데이터 세이버 사용 안함</item>
+    </plurals>
+    <plurals name="hints_install_apps_interval">
+        <item quantity="other">%d일 전에 사용됨</item>
+    </plurals>
+    <plurals name="search_app_count_txt_na">
+        <item quantity="other">%d개의 앱 검색됨</item>
+    </plurals>
+    <plurals name="hints_roaming_enable_title">
+        <item quantity="other">%d개의 앱 데이터로밍 사용 허용</item>
+    </plurals>
+    <plurals name="hints_roaming_disable_title">
+        <item quantity="other">"%d개의 앱 데이터로밍 사용 차단"</item>
+    </plurals>
+    <plurals name="hints_roaming_found_app_count_title">
+        <item quantity="other">%d개의 앱 발견</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">비밀번호는 최소 %d자 이상의 글자를 포함하여야 합니다.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">비밀번호는 최소 %d자 이상의 소문자를 포함하여야 합니다.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">비밀번호는 최소 %d자 이상의 대문자를 포함하여야 합니다.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">비밀번호는 최소 %d자 이상의 숫자를 포함하여야 합니다.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">비밀번호는 최소 %d자 이상의 특수기호를 포함하여야 합니다.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">비밀번호는 문자가 숫자보다 최소 %d자 이상 많아야 합니다.</item>
+    </plurals>
+    <plurals name="number_locked">
+        <item quantity="other">%d개의 앱 잠김</item>
+    </plurals>
+    <plurals name="number_to_lock">
+        <item quantity="other">%d개의 앱 잠기지 않음</item>
+    </plurals>
+    <plurals name="find_applications">
+        <item quantity="other">%d개의 앱 중 검색</item>
+    </plurals>
+    <plurals name="found_apps_title">
+        <item quantity="other">%d개의 앱이 검색됨</item>
+        <item quantity="zero">검색된 앱 없음</item>
+    </plurals>
+    <plurals name="power_center_battery_day">
+        <item quantity="other">"%d 일 "</item>
+    </plurals>
+    <plurals name="power_center_battery_hour">
+        <item quantity="other">"%d 시간 "</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d 분 "</item>
+    </plurals>
+    <plurals name="hints_auto_start_enable_title">
+        <item quantity="other">%d 앱 자동 시작 가능</item>
+    </plurals>
+    <plurals name="hints_auto_start_disable_title">
+        <item quantity="other">%d 앱 자동 시작 불허</item>
+    </plurals>
+    <plurals name="hints_apps_perm_count">
+        <item quantity="other">%d개의 권한</item>
+    </plurals>
+    <plurals name="hints_permission_apps_count">
+        <item quantity="other">%d개의 앱</item>
+    </plurals>
+    <plurals name="hints_get_root_enable_title">
+        <item quantity="other">%d개의 앱 루트 권한 있음</item>
+    </plurals>
+    <plurals name="hints_get_root_disable_title">
+        <item quantity="other">%d개의 앱 루트 권한 없음</item>
+    </plurals>
+    <plurals name="summary_app_update">
+        <item quantity="other">%d개 앱 업데이트 가능</item>
+    </plurals>
+</resources>
