@@ -2279,7 +2279,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="restriction_settings_title">제한사항</string>
     <string name="restriction_menu_reset">제한사항 삭제</string>
     <string name="restriction_menu_change_pin">PIN 변경</string>
-    <string name="app_notifications_switch_label">공지</string>
+    <string name="app_notifications_switch_label">알림</string>
     <string name="help_label">도움말 및 의견</string>
     <string name="user_account_title">콘텐츠용 계정</string>
     <string name="user_picture_title">사진 ID</string>
