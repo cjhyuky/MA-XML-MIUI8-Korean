@@ -2701,7 +2701,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="title_font_current2">시스템 글꼴</string>
     <string name="title_layout_current2">텍스트 크기</string>
     <string name="handy_mode">한 손 조작 모드</string>
-    <string name="handy_mode_enter_ask">한 손 조작 모드 사용하기 전에 문의</string>
+    <string name="handy_mode_enter_ask">한 손 조작 모드시 팝업으로 묻기</string>
     <string name="handy_mode_tips">홈버튼에서 왼쪽이나 오른쪽으로 스와이프하여 화면을 한쪽으로 가깝게 당기십시오.</string>
     <string name="handy_mode_size">화면 크기</string>
     <string name="key_settings_title">버튼</string>
