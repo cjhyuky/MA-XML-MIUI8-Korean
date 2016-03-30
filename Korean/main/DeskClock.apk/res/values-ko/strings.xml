@@ -73,7 +73,7 @@
     <string name="turn_off_this_repeat_alarm">이 반복 알람을 끄기</string>
     <string name="today">오늘</string>
     <string name="tomorrow">내일</string>
-    <string name="full_wday_month_day_no_year">MMMM D EEEE</string>
+    <string name="full_wday_month_day_no_year">MMMM d일 EEEE</string>
     <string name="app_label">시계</string>
     <string name="alarm_list_title">알람</string>
     <string name="add_alarm">알람 추가</string>
