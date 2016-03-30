@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="slideshow_time_entries">
-        <item>5분</item>
-        <item>15분</item>
-        <item>30분</item>
-        <item>1시간</item>
-        <item>무제한</item>
-    </string-array>
     <string-array name="baby_sexy">
-        <item>소년</item>
-        <item>소녀</item>
+        <item>남아</item>
+        <item>여아</item>
     </string-array>
     <string-array name="owner_relation">
         <item>아버지</item>
@@ -18,5 +11,21 @@
         <item>친할머니</item>
         <item>외할아버지</item>
         <item>외할머니</item>
+    </string-array>
+    <string-array name="relation_with_me">
+        <item>본인</item>
+        <item>자녀</item>
+        <item>가족</item>
+        <item>대학교 친구</item>
+        <item>동창</item>
+        <item>친구</item>
+        <item>기타</item>
+    </string-array>
+    <string-array name="slideshow_time_entries">
+        <item>5분</item>
+        <item>15분</item>
+        <item>30분</item>
+        <item>1시간</item>
+        <item>무제한</item>
     </string-array>
 </resources>

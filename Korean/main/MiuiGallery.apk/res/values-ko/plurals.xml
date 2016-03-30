@@ -1,80 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="confirm_delete_album">
-        <item quantity="other">%1$s개의 앨범 (총 %2$s 개 항목)을 삭제하시겠습니까?</item>
-    </plurals>
-    <plurals name="confirm_delete_has_cloud_local_image_video_from_homepage">
-        <item quantity="other">&lt;Data>기기 내부 메모리와 Mi 클라우드에서 &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g>개 항목을 삭제하시겠습니까?&lt;/Data></item>
-    </plurals>
-    <plurals name="confirm_delete_has_cloud_local_image_from_homepage">
-        <item quantity="other">&lt;Data>&amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g>개 사진을 기기 내부 메모리와 Mi 클라우드에서 삭제하시겠습니까?&lt;/Data></item>
-    </plurals>
-    <plurals name="confirm_delete_has_cloud_local_video_from_homepage">
-        <item quantity="other">&lt;Data>&amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g>개 동영상을 기기 내부 메모리와 Mi 클라우드에서 삭제하시겠습니까?&lt;/Data></item>
-    </plurals>
-    <plurals name="confirm_delete_has_cloud_image_video_from_homepage">
-        <item quantity="other">&lt;Data>Mi 클라우드에서 &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g>개 항목을 삭제하시겠습니까?&lt;/Data></item>
-    </plurals>
-    <plurals name="confirm_delete_has_cloud_image_from_homepage">
-        <item quantity="other">&lt;Data>Mi 클라우드에서 &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g>개 사진을 삭제하시겠습니까?&lt;/Data></item>
-    </plurals>
-    <plurals name="confirm_delete_has_cloud_video_from_homepage">
-        <item quantity="other">&lt;Data>Mi 클라우드에서 &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g>개 동영상을 삭제하시겠습니까?&lt;/Data></item>
-    </plurals>
-    <plurals name="confirm_delete_has_cloud_image_video">
-        <item quantity="other">&lt;Data>이 앨범에서 &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g>개의 항목을 삭제하시겠습니까?&lt;/Data></item>
-    </plurals>
-    <plurals name="confirm_delete_has_local_image_video">
-        <item quantity="other">%s개의 항목을 삭제하시겠습니까?</item>
-    </plurals>
-    <plurals name="confirm_delete_has_cloud_image">
-        <item quantity="other">&lt;Data>Mi 클라우드에서 &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g>개 앨범을 삭제하시겠습니까?&lt;/Data></item>
-    </plurals>
-    <plurals name="confirm_delete_has_local_image">
-        <item quantity="other">%s장의 사진을 삭제하시겠습니까?</item>
-    </plurals>
-    <plurals name="confirm_delete_has_cloud_video">
-        <item quantity="other">&lt;Data>이 앨범에서 &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g>개의 동영상을 삭제하시겠습니까?&lt;/Data></item>
-    </plurals>
-    <plurals name="confirm_delete_has_local_video">
-        <item quantity="other">%s개의 동영상을 삭제하시겠습니까?</item>
-    </plurals>
-    <plurals name="confirm_delete_video_from_many_albums">
-        <item quantity="other">&lt;Data>%2$d앨범에서 &amp;lt;xliff:g id=ITEM>%1$d&amp;lt;/xliff:g>개 동영상을 삭제하시겠습니까?&lt;/Data></item>
-    </plurals>
-    <plurals name="confirm_delete_image_from_many_albums">
-        <item quantity="other">&lt;Data> %2$d 앨범에서 &amp;lt;xliff:g id=ITEM>%1$d&amp;lt;/xliff:g>개 사진을 삭제하시겠습니까?&lt;/Data></item>
-    </plurals>
-    <plurals name="number_of_items_selected">
-        <item quantity="other">%1$d개 선택됨</item>
-    </plurals>
-    <plurals name="number_of_pictures">
-        <item quantity="other">%1$d</item>
-    </plurals>
-    <plurals name="how_many_pics">
-        <item quantity="other">%d개 사진</item>
-    </plurals>
-    <plurals name="how_many_videos">
-        <item quantity="other">%d개 동영상</item>
-    </plurals>
-    <plurals name="how_many_sub_folders">
-        <item quantity="other">%d개 폴더</item>
-    </plurals>
-    <plurals name="message_no_delete_access_with_count">
-        <item quantity="other">귀하는 이 %d개의 파일을 삭제할 권한이 없습니다.</item>
-    </plurals>
-    <plurals name="pick_with_limited_upper_bound_title">
-        <item quantity="other">%d개 항목을 선택할 수 있습니다.</item>
-    </plurals>
-    <plurals name="number_of_images">
-        <item quantity="other">%1$d개 사진</item>
-    </plurals>
-    <plurals name="number_of_items">
-        <item quantity="other">%1$d개 항목</item>
-    </plurals>
-    <plurals name="seconds">
-        <item quantity="other">%d초</item>
-    </plurals>
     <plurals name="ignore_faces_alert_msg">
         <item quantity="other">이 얼굴(들)을 보이지 않게 하시겠습니까?</item>
     </plurals>
@@ -87,19 +12,28 @@
     <plurals name="baby_album_sharer_recommand_new_pictures">
         <item quantity="other">추가할 %2$s의 %1$d장의 사진</item>
     </plurals>
-    <plurals name="baby_age_subtitle_year">
-        <item quantity="other">%1$d년</item>
+    <plurals name="album_already_share_user_count">
+        <item quantity="other">이미 %d명과 공유됨</item>
     </plurals>
-    <plurals name="baby_age_subtitle_month">
-        <item quantity="other">"%1$d월 "</item>
+	<plurals name="delete_photo_msg_format">
+        <item quantity="other">%2$s %1$d장 사진을 삭제하시겠습니까?</item>
     </plurals>
-    <plurals name="baby_age_subtitle_day">
-        <item quantity="other">%1$d일</item>
+    <plurals name="delete_video_msg_format">
+        <item quantity="other">%2$s %1$d개 영상을 삭제하시겠습니까?</item>
     </plurals>
-    <plurals name="baby_album_share_user_count_tip">
-        <item quantity="other">%1$d 팔로워</item>
+    <plurals name="delete_media_msg_format">
+        <item quantity="other">%2$s %1$d개 항목을 삭제하시겠습니까?</item>
     </plurals>
-    <plurals name="number_of_images_to_upload">
+    <plurals name="album_item_msg_format">
+        <item quantity="other">(총 %d개의 항목)</item>
+    </plurals>
+    <plurals name="album_count">
+        <item quantity="other">%d장의 사진</item>
+    </plurals>
+    <plurals name="album_count_and_size">
+        <item quantity="other">%1$d개의 항목 | %2$s</item>
+    </plurals>
+	<plurals name="number_of_images_to_upload">
         <item quantity="other">%1$d개의 사진이 동기화 대기중</item>
     </plurals>
     <plurals name="number_of_videos_to_upload">
@@ -116,5 +50,92 @@
     </plurals>
     <plurals name="number_of_uploading_images_and_videos">
         <item quantity="other">%1$d개 항목 동기화 중…</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_image">
+        <item quantity="other">&lt;Data>Mi 클라우드에서 &amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;lt;/xliff:g>개 앨범을 삭제하시겠습니까?&lt;/Data></item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_image">
+        <item quantity="other">%s장의 사진을 삭제하시겠습니까?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_video">
+        <item quantity="other">&lt;Data>이 앨범에서 &amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;lt;/xliff:g>개의 동영상을 삭제하시겠습니까?&lt;/Data></item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_video">
+        <item quantity="other">%s개의 동영상을 삭제하시겠습니까?</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d개 선택됨</item>
+    </plurals>
+    <plurals name="number_of_pictures">
+        <item quantity="other">%1$d</item>
+    </plurals>
+    <plurals name="number_of_images">
+        <item quantity="other">%1$d개 사진</item>
+    </plurals>
+    <plurals name="number_of_items">
+        <item quantity="other">%1$d개 항목</item>
+    </plurals>
+    <plurals name="how_many_pics">
+        <item quantity="other">%d개 사진</item>
+    </plurals>
+    <plurals name="how_many_sub_folders">
+        <item quantity="other">%d개 폴더</item>
+    </plurals>
+    <plurals name="how_many_videos">
+        <item quantity="other">%d개 동영상</item>
+    </plurals>
+    <plurals name="message_no_delete_access_with_count">
+        <item quantity="other">귀하는 이 %d개의 파일을 삭제할 권한이 없습니다.</item>
+    </plurals>
+    <plurals name="pick_with_limited_upper_bound_title">
+        <item quantity="other">%d개 항목을 선택할 수 있습니다.</item>
+    </plurals>
+    <plurals name="confirm_delete_album">
+        <item quantity="other">%1$s개의 앨범 (총 %2$s 개 항목)을 삭제하시겠습니까?</item>
+    </plurals>
+    <plurals name="confirm_delete_video_from_many_albums">
+        <item quantity="other">&lt;Data>%2$d앨범에서 &amp;amp;lt;xliff:g id=ITEM>%1$d&amp;amp;lt;/xliff:g>개 동영상을 삭제하시겠습니까?&lt;/Data></item>
+    </plurals>
+    <plurals name="baby_age_subtitle_day">
+        <item quantity="other">%1$d일</item>
+    </plurals>
+    <plurals name="baby_age_subtitle_month">
+        <item quantity="other">"%1$d월 "</item>
+    </plurals>
+    <plurals name="baby_age_subtitle_year">
+        <item quantity="other">%1$d년</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_image_from_homepage">
+        <item quantity="other">&lt;Data>Mi 클라우드에서 &amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;lt;/xliff:g>개 사진을 삭제하시겠습니까?&lt;/Data></item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_image_video">
+        <item quantity="other">&lt;Data>이 앨범에서 &amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;lt;/xliff:g>개의 항목을 삭제하시겠습니까?&lt;/Data></item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_image_video_from_homepage">
+        <item quantity="other">&lt;Data>Mi 클라우드에서 &amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;lt;/xliff:g>개 항목을 삭제하시겠습니까?&lt;/Data></item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_image_from_homepage">
+        <item quantity="other">&lt;Data>&amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;lt;/xliff:g>개 사진을 기기 내부 메모리와 Mi 클라우드에서 삭제하시겠습니까?&lt;/Data></item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_image_video_from_homepage">
+        <item quantity="other">&lt;Data>기기 내부 메모리와 Mi 클라우드에서 &amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;lt;/xliff:g>개 항목을 삭제하시겠습니까?&lt;/Data></item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_video_from_homepage">
+        <item quantity="other">&lt;Data>&amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;lt;/xliff:g>개 동영상을 기기 내부 메모리와 Mi 클라우드에서 삭제하시겠습니까?&lt;/Data></item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_video_from_homepage">
+        <item quantity="other">&lt;Data>Mi 클라우드에서 &amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;lt;/xliff:g>개 동영상을 삭제하시겠습니까?&lt;/Data></item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_image_video">
+        <item quantity="other">%s개의 항목을 삭제하시겠습니까?</item>
+    </plurals>
+    <plurals name="confirm_delete_image_from_many_albums">
+        <item quantity="other">&lt;Data> %2$d 앨범에서 &amp;amp;lt;xliff:g id=ITEM>%1$d&amp;amp;lt;/xliff:g>개 사진을 삭제하시겠습니까?&lt;/Data></item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d초</item>
+    </plurals>
+    <plurals name="baby_album_share_user_count_tip">
+        <item quantity="other">%1$d 팔로워</item>
     </plurals>
 </resources>
