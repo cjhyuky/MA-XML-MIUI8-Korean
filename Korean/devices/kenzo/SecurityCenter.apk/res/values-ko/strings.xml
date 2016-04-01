@@ -10,7 +10,7 @@
 	<string name="access_control_need_password">"%s 잠금 추가 완료"</string>
 	<string name="access_control_need_to_unlock">"지문인식으로 잠금해제
 또는 암호를 입력하세요"</string>
-	<string name="access_control_need_to_unlock_nofingerprint">잠금해제 비밀번호를 입력하세요</string>
+	<string name="access_control_need_to_unlock_nofingerprint">잠금해제 패턴을 입력하세요</string>
 	<string name="access_control_recording_intro_header">앱 잠금을 추가하려면 패턴을 입력하세요</string>
 	<string name="access_control_reset_by_account">앱 잠금을 리셋하기위해 Mi 계정 로그인</string>
     <string name="activity_title_antispam">차단 목록</string>
@@ -381,7 +381,7 @@
     <string name="input_traffic_pkg">데이터 사용량 입력</string>
     <string name="input_used_hint">데이터 사용량 입력</string>
     <string name="input_used_max_hint">데이터 사용량 입력(%s보다 적게)</string>
-	<string name="install_title">via USB로 설치</string>
+	<string name="install_title">USB를 통해 설치</string>
     <string name="international_roaming_setting">국제 로밍</string>
     <string name="international_roaming_whitelist_count">국제 로밍 시 %d개 앱이 모바일 데이터 사용 가능</string>
     <string name="ip_address_exception_summary">IP 주소를 받지 못했습니다. 이 문제가 다시 발생하면 고정 IP 주소를 사용해 보십시오.</string>
@@ -526,7 +526,7 @@
     <string name="mian_page_primary_txt">국제 로밍</string>
 	<string name="modify_password_info">패턴으로 잠금해제</string>
 	<string name="modifypassword">비밀번호 변경</string>
-	<string name="monitor_requests_from_pc">via USB로 앱설치 관리</string>
+	<string name="monitor_requests_from_pc">USB를 통한 앱 설치 관리</string>
     <string name="month_report_month_report_switch">월간 리포트 표시</string>
     <string name="network_assistant_upgraded_body">터치하여 세부 정보 보기</string>
     <string name="network_assistant_upgraded_title">업데이트됨</string>
@@ -615,8 +615,8 @@
     <string name="packages_subtitle">패키지 포함</string>
 	<string name="passwordIncorrect">사용자이름 또는 비밀번호가 잘못되었습니다.</string>
     <string name="pay_charge">추가 데이터 구매</string>
-	<string name="pc_install_manager">via USB로 설치</string>
-	<string name="pc_to_phone_install">via USB로 설치 %s개 차단</string>
+	<string name="pc_install_manager">USB를 통한 설치</string>
+	<string name="pc_to_phone_install">USB를 통한 설치 %s개 차단</string>
     <string name="per_month_pkg_traffic_settings">데이터 한도 설정</string>
     <string name="percentage">%d%%</string>
     <string name="permission_action_accept">수락</string>
@@ -924,7 +924,7 @@
 	<string name="recommend_app">권장 앱</string>
 	<string name="reject_all">모두 제외</string>
 	<string name="reject_countdown">거절 (%d)</string>
-	<string name="reject_usb_install">via USB로 어플이 설치되는것을 막았습니다</string>
+	<string name="reject_usb_install">USB를 통해 어플이 설치되는것을 막았습니다</string>
     <string name="renew_ip">재시도</string>
     <string name="repair">수리</string>
     <string name="repair_loading_text">잠시기다려주세요…</string>
@@ -1258,7 +1258,7 @@
     <string name="usage_type_video">비디오</string>
     <string name="usage_type_wake_lock">계속 켜짐</string>
     <string name="usage_type_wifi_running">Wi-Fi 실행 중</string>
-	<string name="usb_install_desc">이 앱을 via USB로 설치하시겠습니까?</string>
+	<string name="usb_install_desc">이 앱을 USB를 통해 설치하시겠습니까?</string>
     <string name="usbsharenet_exception_summary">공유된 USB 연결을 사용하여 인터넷에 연결할 수 없습니다. 기기의 USB 연결을 확인한 후 Mi PC Suite를 다시 시작하십시오.</string>
     <string name="usbsharenet_exception_title">USB로 공유된 인터넷 테스트</string>
     <string name="usbsharenet_pc_exception_summary">공유된 USB 연결을 사용하여 인터넷에 연결할 수 없습니다. 컴퓨터의 인터넷 연결을 확인하십시오.</string>
