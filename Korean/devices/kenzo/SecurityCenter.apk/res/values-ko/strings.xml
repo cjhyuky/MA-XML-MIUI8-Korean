@@ -381,7 +381,7 @@
     <string name="input_traffic_pkg">데이터 사용량 입력</string>
     <string name="input_used_hint">데이터 사용량 입력</string>
     <string name="input_used_max_hint">데이터 사용량 입력(%s보다 적게)</string>
-	<string name="install_title">USB를 통해 설치</string>
+	<string name="install_title">USB를 통한 설치</string>
     <string name="international_roaming_setting">국제 로밍</string>
     <string name="international_roaming_whitelist_count">국제 로밍 시 %d개 앱이 모바일 데이터 사용 가능</string>
     <string name="ip_address_exception_summary">IP 주소를 받지 못했습니다. 이 문제가 다시 발생하면 고정 IP 주소를 사용해 보십시오.</string>
@@ -924,7 +924,7 @@
 	<string name="recommend_app">권장 앱</string>
 	<string name="reject_all">모두 제외</string>
 	<string name="reject_countdown">거절 (%d)</string>
-	<string name="reject_usb_install">USB를 통해 어플이 설치되는것을 막았습니다</string>
+	<string name="reject_usb_install">USB를 통하여 어플이 설치되는것을 막았습니다</string>
     <string name="renew_ip">재시도</string>
     <string name="repair">수리</string>
     <string name="repair_loading_text">잠시기다려주세요…</string>
@@ -1020,7 +1020,7 @@
     <string name="summary_saving_switch">앱이 모바일 데이터 연결을 사용하여 데이터를 전송하지 못하도록 제한</string>
     <string name="summary_show_notification">보안 센터 컨트롤을 드롭다운 메뉴에 고정</string>
     <string name="summary_telecom_operator">통신사에서 월간 데이터 사용량 통계를 가져올 수 없습니다.</string>
-    <string name="summary_usb">USB를 통해 오는 악성코드를 예방합니다.</string>
+    <string name="summary_usb">USB를 통하여 오는 악성코드를 예방합니다.</string>
     <string name="summary_virus">바이러스 제거로 디바이스의 보안을 유지합니다.</string>
     <string name="summary_virus_cloudscan">앱 이름과 세부 정보를 업로드하여 온라인 바이러스 정의로 스캔</string>
     <string name="summary_virus_update">자동으로 최신 바이러스 정보를 가져옵니다.</string>
@@ -1258,7 +1258,7 @@
     <string name="usage_type_video">비디오</string>
     <string name="usage_type_wake_lock">계속 켜짐</string>
     <string name="usage_type_wifi_running">Wi-Fi 실행 중</string>
-	<string name="usb_install_desc">이 앱을 USB를 통해 설치하시겠습니까?</string>
+	<string name="usb_install_desc">이 앱을 USB를 통하여 설치하시겠습니까?</string>
     <string name="usbsharenet_exception_summary">공유된 USB 연결을 사용하여 인터넷에 연결할 수 없습니다. 기기의 USB 연결을 확인한 후 Mi PC Suite를 다시 시작하십시오.</string>
     <string name="usbsharenet_exception_title">USB로 공유된 인터넷 테스트</string>
     <string name="usbsharenet_pc_exception_summary">공유된 USB 연결을 사용하여 인터넷에 연결할 수 없습니다. 컴퓨터의 인터넷 연결을 확인하십시오.</string>
