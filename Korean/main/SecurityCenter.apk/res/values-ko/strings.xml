@@ -615,7 +615,7 @@
     <string name="packages_subtitle">패키지 포함</string>
 	<string name="passwordIncorrect">사용자이름 또는 비밀번호가 잘못되었습니다.</string>
     <string name="pay_charge">추가 데이터 구매</string>
-	<string name="pc_install_manager">USB를 통하여 설치</string>
+	<string name="pc_install_manager">USB를 통한 설치</string>
 	<string name="pc_to_phone_install">USB를 통한 설치 %s개 차단</string>
     <string name="per_month_pkg_traffic_settings">데이터 한도 설정</string>
     <string name="percentage">%d%%</string>
