@@ -1,33 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="lockscreen_magazine_title">추천 잠금화면</string>
-    <string name="lockscreen_magazine_summary">매일 당신의 잠금화면으로 설정되는 배경화면을 얻으세요.</string>
-    <string name="lockscreen_magazine_system_title">기본값</string>
-    <string name="theme_apply_success">잠금화면 적용됨</string>
-    <string name="theme_apply_failured">"적용할 수 없습니다, 나중에 다시 시도하세요"</string>
-    <string name="theme_applying">적용 중…</string>
-    <string name="app_name">추천 잠금화면</string>
-    <string name="declaration_title">이용 약관</string>
-    <string name="declaration_lockscreen_title">추천 잠금화면 켜기</string>
-    <string name="declaration">Enjoy free subscriptions to the top global media. Keep up to date with the latest news, movie releases, and celebrity buzz.</string>
-    <string name="cancel">종료</string>
-    <string name="no_long_show">"다시 표시하지 않기"</string>
-    <string name="resource_apply">적용</string>
-    <string name="resource_no_network_text">"네트워크에 연결할 수 없습니다."</string>
-    <string name="setting_head">설정</string>
-    <string name="wlan_download">Wi-Fi에 연결 되었을 때 업데이트</string>
-    <string name="wlan_download_cn">WLAN에 연결 되었을 때 업데이트</string>
-    <string name="change_time">교체 주기</string>
-    <string name="hour_1">1시간</string>
-    <string name="hour_3">3시간</string>
-    <string name="day">1일</string>
-    <string name="minutes_15">15분</string>
-    <string name="auto_interval">자동</string>
-    <string name="summary">"시작하기 위해서 우리의 &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>이용 약관&lt;/a>과 &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>개인 정보 보호 정책&lt;/a>에 동의하세요. 인터넷 연결이 필요합니다.​"</string>
-    <string name="at_least_one">적어도 하나 이상의 카테고리를 선택하세요</string>
-    <string name="ok_network">동의 후 사용</string>
-    <string name="ok_lockscreen">확인</string>
-    <string name="ok_international">확인</string>
-    <string name="cancel_international">취소</string>
-    <string name="summary_international">"이 제품을 사용함으로써, 당신은 우리의 &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>이용 약관&lt;/a>과 &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>개인 정보 보호 정책&lt;/a>에 동의하게 됩니다. 이 어플리케이션이 정상적으로 동작하기 위해선 인터넷 연결이 필요합니다.​"</string>
+    <string name="app_name">Daily lock screens</string>
+    <string name="at_least_one">Select at least one category</string>
+    <string name="auto_interval">Auto</string>
+    <string name="cancel">Cancel</string>
+    <string name="cancel_international">Cancel</string>
+    <string name="change_time">Switch wallpapers</string>
+    <string name="day">Once a day</string>
+    <string name="declaration">Get new wallpapers delivered straight to your lock screen every day for free.</string>
+    <string name="declaration_lockscreen_title">Wallpaper Carousel</string>
+    <string name="declaration_title">Terms and Conditions</string>
+    <string name="hour_1">Every hour</string>
+    <string name="hour_3">Every 3 hours</string>
+    <string name="lockscreen_magazine_summary">Get wallpapers delivered straight to your lock screen every day.</string>
+    <string name="lockscreen_magazine_system_title">Default</string>
+    <string name="lockscreen_magazine_title">Daily lock screens</string>
+    <string name="minutes_15">15 Minutes</string>
+    <string name="no_long_show">"Don't show again"</string>
+    <string name="ok_international">OK</string>
+    <string name="ok_lockscreen">OK</string>
+    <string name="ok_network">Agree and turn on</string>
+    <string name="resource_apply">Apply</string>
+    <string name="resource_no_network_text">"Can't connect to the network."</string>
+    <string name="setting_head">Settings</string>
+    <string name="sst_favor_desc">Check favorite wallpapers</string>
+    <string name="sst_favor_title">Favorites</string>
+    <string name="sst_no_favor_wallpaper_hint">No favorite wallpaper</string>
+    <string name="sst_prov_enable_desc">Enjoy more wonderful wallpaper on lock screen</string>
+    <string name="sst_prov_enable_title">Enable Wallpaper Carousel</string>
+    <string name="sst_require_one_category_hint">Please subscribe one item at least</string>
+    <string name="sst_sti_desc">Set time interval for lock screen wallpaper switching</string>
+    <string name="sst_sti_title">Switching Time Interval</string>
+    <string name="sst_subscribe_title">Subscribe</string>
+    <string name="sst_wifi_only_desc">Suggest disable to save metered mobile connection charge</string>
+    <string name="sst_wifi_only_title">Enable Download Picture with Metered Mobile Connection</string>
+    <string name="summary">"Accept our &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>User Agreement&lt;/a> and &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>Privacy Policy&lt;/a> to start. Internet connection required.​"</string>
+    <string name="summary_international">"By using this feature, you're agreeing to our &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>User Agreement&lt;/a> and &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>Privacy Policy&lt;/a>. This feature needs to connect to the internet to work normally.​"</string>
+    <string name="theme_apply_failured">"Couldn't apply, try again later"</string>
+    <string name="theme_apply_success">Lock screen applied</string>
+    <string name="theme_applying">Applying…</string>
+    <string name="wlan_download">Update over Wi-Fi</string>
+    <string name="wlan_download_cn">Update over WLAN</string>
 </resources>
