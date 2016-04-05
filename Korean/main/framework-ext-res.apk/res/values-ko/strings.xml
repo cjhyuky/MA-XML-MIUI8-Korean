@@ -19,7 +19,7 @@
     <string name="status_bar_toggle_power_mode">성능</string>
     <string name="status_bar_toggle_wifi_ap">핫스팟</string>
     <string name="status_bar_toggle_quiet_mode">방해 금지 모드</string>
-    <string name="status_bar_toggle_paper_mode">읽기 모드</string>
+    <string name="status_bar_toggle_paper_mode">독서 모드</string>
     <string name="status_bar_toggle_midrop">Mi 드롭</string>
     <string name="screen_rotation_freeze_message">자동 회전 사용 불가</string>
     <string name="screen_button_disabled_message">탐색 버튼을 사용할 수 없습니다. 다시 사용하려면, 홈 버튼과 전원 버튼을 동시에 터치하십시오.</string>
@@ -68,7 +68,7 @@
     <string name="screen_on_proximity_sensor_hint">이 기능을 끄려면 \"뒤로\" 버튼과 \"볼륨 올리기\" 버튼을 동시에 누르십시오.</string>
     <string name="screen_button_notification_title">탐색 버튼이 꺼졌습니다.</string>
     <string name="screen_button_notification_text">이 기능을 켜려면 홈 버튼과 전원 버튼을 동시에 누르십시오.</string>
-    <string name="screen_paper_mode_enter_toast">읽기 모드가 켜져 있습니다. 언제든지 추가 설정 > 읽기 모드에서 이 기능을 켜거나 끌 수 있습니다.</string>
+    <string name="screen_paper_mode_enter_toast">독서 모드가 켜져 있습니다. 언제든지 추가 설정 > 독서 모드에서 이 기능을 켜거나 끌 수 있습니다.</string>
     <string name="sim_added_reboot_title">SIM 카드는 기기가 재시작된 후에 활성화됩니다.</string>
     <string name="sim_added_reboot_confirm">재시작</string>
     <string name="softap_notifif_title">핫스팟 \"%s\" 켜짐</string>
