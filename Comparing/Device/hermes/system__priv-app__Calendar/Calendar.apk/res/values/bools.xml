@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="show_calendar_controls">false</bool>
+    <bool name="show_agenda_with_month">false</bool>
+    <bool name="show_details_in_month">false</bool>
+    <bool name="show_event_details_with_agenda">false</bool>
+    <bool name="agenda_show_event_info_full_screen">true</bool>
+    <bool name="show_event_info_full_screen">true</bool>
+    <bool name="tablet_config">false</bool>
+    <bool name="multiple_pane_config">false</bool>
+    <bool name="enable_lunar_date">false</bool>
+    <bool name="enable_almanac">false</bool>
+    <bool name="enable_holiday">false</bool>
+    <bool name="enable_work_free_day">false</bool>
+    <bool name="enable_online_calendar">false</bool>
+    <bool name="enable_market_activity">false</bool>
+</resources>

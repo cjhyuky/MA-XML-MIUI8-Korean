@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextAppearance.StatusBar.EventContent" parent="@android:style/TextAppearance.StatusBar.EventContent">
+        <item name="android:textSize">10.0sp</item>
+    </style>
+    <style name="Theme.Translucent" parent="@miui:style/Theme.NoDisplay">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="Theme.Light.NoTitile.Transparent" parent="@miui:style/Theme.Light.NoTitle">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+    </style>
+</resources>

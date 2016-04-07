@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ThemeStatusBarTextWhite" parent="@miui:style/Theme.Light.NoTitle">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="miui:windowTranslucentStatus">transparentDark</item>
+    </style>
+    <style name="Theme.Light.NoTitile.TransparentDark" parent="@miui:style/Theme.Light.NoTitle">
+        <item name="miui:windowTranslucentStatus">transparentDark</item>
+    </style>
+    <style name="Theme.Light.TransparentDark" parent="@miui:style/Theme.Light">
+        <item name="miui:windowTranslucentStatus">transparentDark</item>
+        <item name="miui:startingWindowOverlay">@layout/start_window</item>
+    </style>
+    <style name="TextAppearance.WindowTitle" parent="@miui:style/TextAppearance.WindowTitle">
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="TextAppearance.WindowTitle.Subtitle" parent="@miui:style/TextAppearance.WindowTitle.Subtitle">
+        <item name="android:textColor">#ffcce6e6</item>
+    </style>
+    <style name="Theme.Light.NoTitile.Transparent" parent="@miui:style/Theme.Light.NoTitle">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+    </style>
+    <style name="Theme.Light.Immersion" parent="@miui:style/Theme.Light">
+        <item name="miui:immersionMenuEnabled">true</item>
+    </style>
+    <style name="ImageCheckbox" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="android:button">@drawable/image_checkbox</item>
+    </style>
+    <style name="DeepCleanItem">
+        <item name="android:background">@drawable/deepclean_item_bg</item>
+        <item name="android:paddingLeft">5.0dip</item>
+        <item name="android:paddingTop">13.0dip</item>
+        <item name="android:paddingBottom">10.0dip</item>
+    </style>
+    <style name="ResultItem">
+        <item name="android:paddingTop">13.0dip</item>
+        <item name="android:paddingBottom">10.0dip</item>
+    </style>
+    <style name="ResultButton">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">@color/result_button_text</item>
+        <item name="android:background">@drawable/common_button</item>
+    </style>
+    <style name="FunctionResultButton">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/result_transparent_button</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">44.0dip</item>
+    </style>
+    <style name="MarketText">
+        <item name="android:textColor">#ff7c7c7c</item>
+        <item name="android:background">@drawable/martket_background</item>
+        <item name="android:layout_marginRight">12.0dip</item>
+    </style>
+    <style name="ResultBottomText">
+        <item name="android:textColor">#ff7c7c7c</item>
+        <item name="android:layout_marginRight">6.0dip</item>
+    </style>
+    <style name="ListViewItem">
+        <item name="android:paddingLeft">13.0dip</item>
+        <item name="android:paddingRight">13.0dip</item>
+    </style>
+    <style name="ResultButtonBlue">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">@color/result_blue_button_text</item>
+        <item name="android:background">@drawable/common_button_blue</item>
+    </style>
+    <style name="DeepItemDesc">
+        <item name="android:textSize">13.0sp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_marginTop">10.0dip</item>
+        <item name="android:layout_marginBottom">10.0dip</item>
+        <item name="android:alpha">0.9</item>
+    </style>
+    <style name="DeepItemButton">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_marginTop">15.0dip</item>
+        <item name="android:layout_marginBottom">5.0dip</item>
+        <item name="android:alpha">0.8</item>
+    </style>
+    <style name="DeepItemLeft">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_gravity">center|left</item>
+        <item name="android:paddingLeft">13.0dip</item>
+        <item name="android:paddingRight">13.0dip</item>
+        <item name="android:alpha">0.9</item>
+    </style>
+    <style name="DeepItemContent">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:gravity">right</item>
+        <item name="android:layout_gravity">center|right</item>
+        <item name="android:paddingRight">15.0dip</item>
+        <item name="android:layout_marginBottom">5.0dip</item>
+        <item name="android:alpha">0.6</item>
+    </style>
+    <style name="DeepItemProgressBarText">
+        <item name="android:textSize">9.0sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_marginTop">7.0dip</item>
+        <item name="android:text">@string/hints_quick_deep_scanning</item>
+        <item name="android:alpha">0.6</item>
+    </style>
+    <style name="ResultButtonEmpty">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">@color/result_button_text</item>
+        <item name="android:background">@null</item>
+    </style>
+    <style name="ResultBottomTextWithRLine">
+        <item name="android:textColor">#ff7c7c7c</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_marginRight">6.0dip</item>
+        <item name="android:drawableRight">@drawable/ico_vertical_line</item>
+        <item name="android:drawablePadding">6.0dip</item>
+    </style>
+    <style name="GarbageRankText">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">@color/blackalpha60</item>
+        <item name="android:gravity">left</item>
+        <item name="android:drawablePadding">6.0dip</item>
+    </style>
+    <style name="FunctionTitleStyle">
+        <item name="android:textSize">15.0sp</item>
+        <item name="android:textColor">@color/blackalpha90</item>
+    </style>
+    <style name="CornerStyle">
+        <item name="android:textSize">13.0sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:background">@color/white</item>
+    </style>
+    <style name="FunctionSummaryStyle">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">@color/blackalpha60</item>
+    </style>
+    <style name="FunctionResultItem">
+        <item name="android:paddingLeft">13.299988dip</item>
+        <item name="android:paddingTop">16.0dip</item>
+        <item name="android:paddingRight">13.299988dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="ViewsStyle">
+        <item name="android:textSize">10.0sp</item>
+        <item name="android:textColor">@color/blackalpha50</item>
+    </style>
+</resources>

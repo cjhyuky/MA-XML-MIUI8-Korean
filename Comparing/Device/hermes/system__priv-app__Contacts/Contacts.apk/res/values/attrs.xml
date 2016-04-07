@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="mimeType" format="string" />
+    <attr name="remoteViews" format="reference" />
+    <attr name="icon" format="reference" />
+    <attr name="summaryColumn" format="string" />
+    <attr name="detailColumn" format="string" />
+    <attr name="edgeWidth" format="dimension" />
+    <attr name="listenEdges">
+        <flag name="left" value="0x00000001" />
+        <flag name="right" value="0x00000002" />
+    </attr>
+    <attr name="layout_narrowParentWidth" format="dimension" />
+    <attr name="layout_narrowWidth" format="dimension" />
+    <attr name="layout_narrowMarginLeft" format="dimension" />
+    <attr name="layout_narrowMarginRight" format="dimension" />
+    <attr name="layout_narrowPaddingLeft" format="dimension" />
+    <attr name="layout_narrowPaddingRight" format="dimension" />
+    <attr name="layout_wideParentWidth" format="dimension" />
+    <attr name="layout_wideWidth" format="dimension" />
+    <attr name="layout_wideMarginLeft" format="dimension" />
+    <attr name="layout_wideMarginRight" format="dimension" />
+    <attr name="layout_widePaddingLeft" format="dimension" />
+    <attr name="layout_widePaddingRight" format="dimension" />
+    <attr name="direction" format="string" />
+    <attr name="ratio" format="float" />
+    <attr name="contact_browser_list_padding_left" format="dimension" />
+    <attr name="contact_browser_list_padding_right" format="dimension" />
+    <attr name="contact_browser_background" format="reference" />
+    <attr name="list_item_height" format="dimension" />
+    <attr name="list_item_height_small" format="dimension" />
+    <attr name="list_section_header_height" format="dimension" />
+    <attr name="activated_background" format="reference" />
+    <attr name="section_header_background" format="reference" />
+    <attr name="list_item_divider" format="reference" />
+    <attr name="list_item_padding_top" format="dimension" />
+    <attr name="list_item_padding_right" format="dimension" />
+    <attr name="list_item_padding_bottom" format="dimension" />
+    <attr name="list_item_padding_left" format="dimension" />
+    <attr name="list_item_gap_between_image_and_text" format="dimension" />
+    <attr name="list_item_gap_between_label_and_data" format="dimension" />
+    <attr name="list_item_vertical_divider_margin" format="dimension" />
+    <attr name="list_item_presence_icon_margin" format="dimension" />
+    <attr name="list_item_presence_icon_size" format="dimension" />
+    <attr name="list_item_photo_size" format="dimension" />
+    <attr name="list_item_photo_left_margin" format="dimension" />
+    <attr name="list_item_profile_photo_size" format="dimension" />
+    <attr name="list_item_prefix_highlight_color" format="color" />
+    <attr name="list_item_header_text_indent" format="dimension" />
+    <attr name="list_item_header_text_color" format="color" />
+    <attr name="list_item_header_text_size" format="dimension" />
+    <attr name="list_item_header_height" format="dimension" />
+    <attr name="list_item_header_underline_height" format="dimension" />
+    <attr name="list_item_header_underline_color" format="color" />
+    <attr name="list_item_contacts_count_text_color" format="color" />
+    <attr name="list_item_text_indent" format="dimension" />
+    <attr name="list_item_contacts_count_text_size" format="dimension" />
+    <attr name="list_item_data_width_weight" format="integer" />
+    <attr name="list_item_label_width_weight" format="integer" />
+    <attr name="call_log_primary_text_color" format="color" />
+    <attr name="call_log_primary_background_color" format="color" />
+    <attr name="call_log_secondary_text_color" format="color" />
+    <attr name="call_log_secondary_background_color" format="color" />
+    <attr name="call_log_header_color" format="color" />
+    <attr name="favorites_padding_bottom" format="dimension" />
+    <attr name="ptrRefreshableViewBackground" format="reference|color" />
+    <attr name="ptrHeaderBackground" format="reference|color" />
+    <attr name="ptrHeaderTextColor" format="reference|color" />
+    <attr name="ptrHeaderSubTextColor" format="reference|color" />
+    <attr name="ptrMode">
+        <flag name="both" value="0x00000003" />
+        <flag name="disabled" value="0x00000000" />
+        <flag name="manualOnly" value="0x00000004" />
+        <flag name="pullDownFromTop" value="0x00000001" />
+        <flag name="pullFromEnd" value="0x00000002" />
+        <flag name="pullFromStart" value="0x00000001" />
+        <flag name="pullUpFromBottom" value="0x00000002" />
+    </attr>
+    <attr name="ptrShowIndicator" format="reference|boolean" />
+    <attr name="ptrDrawable" format="reference" />
+    <attr name="ptrDrawableStart" format="reference" />
+    <attr name="ptrDrawableEnd" format="reference" />
+    <attr name="ptrOverScroll" format="reference|boolean" />
+    <attr name="ptrHeaderTextAppearance" format="reference" />
+    <attr name="ptrSubHeaderTextAppearance" format="reference" />
+    <attr name="ptrAnimationStyle">
+        <flag name="flip" value="0x00000001" />
+        <flag name="rotate" value="0x00000000" />
+    </attr>
+    <attr name="ptrScrollingWhileRefreshingEnabled" format="reference|boolean" />
+    <attr name="ptrListViewExtrasEnabled" format="reference|boolean" />
+    <attr name="ptrRotateDrawableWhilePulling" format="reference|boolean" />
+    <attr name="ptrMaximumPullScroll" format="reference|dimension" />
+    <attr name="ptrAdapterViewBackground" format="reference|color" />
+    <attr name="ptrDrawableTop" format="reference" />
+    <attr name="ptrDrawableBottom" format="reference" />
+    <attr name="headerHeight" format="dimension" />
+    <attr name="scrollRange" format="dimension" />
+</resources>

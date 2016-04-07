@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_backup_background">#4c000000</color>
+    <color name="text_color_white">@android:color/white</color>
+    <color name="text_color">#7fffffff</color>
+    <color name="scrollview_text_color">#66ffffff</color>
+    <color name="half_transparent_white">#80ffffff</color>
+    <color name="shadow_color">#c7000000</color>
+    <color name="title_big_text_color">#ccffffff</color>
+    <color name="miui_separator_color">#32000000</color>
+    <color name="text_color_gray">#80000000</color>
+    <color name="secondary_text_color_light">#80000000</color>
+    <color name="display_early_backup_color">#ffe60000</color>
+    <color name="fourty_percent_white_color">#66ffffff</color>
+</resources>
