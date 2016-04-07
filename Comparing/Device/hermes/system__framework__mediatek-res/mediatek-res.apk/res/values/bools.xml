@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_ntp_by_mobile">true</bool>
+    <bool name="is_captive_over_mobile">false</bool>
+    <bool name="config_wifi_framework_stop_scan_after_screen_off_support">false</bool>
+    <bool name="is_mobile_hotspot_always_on_while_plugged">false</bool>
+    <bool name="is_mobile_provision_enabled">false</bool>
+    <bool name="config_skip_network_validation">true</bool>
+    <bool name="config_screenBrightnessVirtualValues">false</bool>
+</resources>

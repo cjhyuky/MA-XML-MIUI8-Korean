@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="auto_focus" />
+    <item type="id" name="decode" />
+    <item type="id" name="decode_failed" />
+    <item type="id" name="decode_succeeded" />
+    <item type="id" name="encode_failed" />
+    <item type="id" name="encode_succeeded" />
+    <item type="id" name="launch_product_query" />
+    <item type="id" name="quit" />
+    <item type="id" name="restart_preview" />
+    <item type="id" name="return_scan_result" />
+    <item type="id" name="search_book_contents_failed" />
+    <item type="id" name="search_book_contents_succeeded" />
+    <item type="id" name="preview_view">false</item>
+    <item type="id" name="selected_img">false</item>
+    <item type="id" name="recognize_button">false</item>
+    <item type="id" name="title_bar_layout">false</item>
+    <item type="id" name="back">false</item>
+    <item type="id" name="title_bar">false</item>
+    <item type="id" name="barcode_comment">false</item>
+    <item type="id" name="viewfinder_view">false</item>
+    <item type="id" name="laser_scanner">false</item>
+    <item type="id" name="scanBarcodeTips">false</item>
+    <item type="id" name="titleTextView">false</item>
+    <item type="id" name="subTitleTextView">false</item>
+    <item type="id" name="bottomPanel">false</item>
+    <item type="id" name="flash">false</item>
+    <item type="id" name="flashText">false</item>
+    <item type="id" name="picker">false</item>
+    <item type="id" name="pickerText">false</item>
+    <item type="id" name="bottomPanel2">false</item>
+    <item type="id" name="picker2">false</item>
+    <item type="id" name="not_tips">false</item>
+    <item type="id" name="relativelayout">false</item>
+    <item type="id" name="lable">false</item>
+    <item type="id" name="text">false</item>
+    <item type="id" name="sms_imageView">false</item>
+    <item type="id" name="type_symbol">false</item>
+    <item type="id" name="content_title">false</item>
+    <item type="id" name="bottom_handler">false</item>
+    <item type="id" name="warning_text">false</item>
+    <item type="id" name="button_left">false</item>
+    <item type="id" name="button_center">false</item>
+    <item type="id" name="button_right">false</item>
+    <item type="id" name="qrcode_fragment">false</item>
+    <item type="id" name="title_back">false</item>
+    <item type="id" name="title_txt">false</item>
+    <item type="id" name="settings">false</item>
+</resources>

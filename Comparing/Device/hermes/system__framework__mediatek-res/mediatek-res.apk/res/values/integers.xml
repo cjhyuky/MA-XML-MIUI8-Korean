@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="max_input_browser_search_limit">2000</integer>
+    <integer name="config_mms_mtu_2g_size">1300</integer>
+    <integer name="config_mms_mtu_3g_size">1400</integer>
+    <integer name="config_mobile_mtu_less_size">1340</integer>
+    <integer name="config_mobile_mtu_default_size">1410</integer>
+    <integer name="default_restore_year">2015</integer>
+    <integer name="config_wifi_framework_stop_scan_after_screen_off_delay">180000</integer>
+    <integer name="wfd_display_toast_time">20</integer>
+    <integer name="wfd_display_notification_time">60</integer>
+    <integer name="wfd_display_default_resolution">-1</integer>
+    <integer name="wfd_display_power_saving_option">1</integer>
+    <integer name="wfd_display_power_saving_delay">10</integer>
+    <integer name="wfd_display_secure_option">1</integer>
+    <integer name="config_safe_fm_volume_index">12</integer>
+</resources>

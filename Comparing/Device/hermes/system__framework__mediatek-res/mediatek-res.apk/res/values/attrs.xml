@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="promptHorzOffset" format="dimension" />
+    <attr name="promptVertOffset" format="dimension" />
+    <attr name="sectionFontSize" format="dimension" />
+    <attr name="fullSectionsId" format="reference" />
+    <attr name="replacedSectionsId" format="reference" />
+    <attr name="sectionBaselinesId" format="reference" />
+    <attr name="bladeIndicator" format="reference" />
+    <attr name="indicatorTopsId" format="reference" />
+    <attr name="promptAnimationDuration" format="integer" />
+    <attr name="bladeIndicatorWidth" format="dimension" />
+    <attr name="bladeIndicatorHeight" format="dimension" />
+    <attr name="enableSectionColor" format="color" />
+    <attr name="disableSectionColor" format="color" />
+    <attr name="enablePromptColor" format="color" />
+    <attr name="disablePromptColor" format="color" />
+    <attr name="factor" format="float" />
+    <attr name="scale" format="float" />
+    <attr name="hasUsedCustomerView" format="boolean" />
+    <attr name="imageDispWidth" format="dimension" />
+    <attr name="imageDispHeight" format="dimension" />
+    <attr name="spaceBetweenItems" format="dimension" />
+    <attr name="dotGap" format="dimension" />
+    <attr name="imageReflection" format="float" />
+    <attr name="maxZoomOut" format="float" />
+    <attr name="titleColor" format="color" />
+    <attr name="infoColor" format="color" />
+    <attr name="smartFit" format="boolean" />
+</resources>

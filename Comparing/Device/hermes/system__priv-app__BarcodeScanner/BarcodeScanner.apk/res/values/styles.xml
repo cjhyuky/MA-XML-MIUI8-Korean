@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TitleText">
+        <item name="android:textSize">16.659973sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">4.0</item>
+        <item name="android:shadowRadius">9.0</item>
+    </style>
+    <style name="TitleButton">
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="ContactItemRule">
+        <item name="android:textSize">13.5sp</item>
+        <item name="android:textColor">@color/text</item>
+        <item name="android:padding">3.0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="FlashButton">
+        <item name="android:layout_width">70.0dip</item>
+        <item name="android:layout_height">100.0dip</item>
+        <item name="android:layout_centerHorizontal">true</item>
+    </style>
+    <style name="FlashText">
+        <item name="android:textColor">@color/white_transparent</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">20.0dip</item>
+        <item name="android:layout_alignParentBottom">true</item>
+        <item name="android:layout_centerHorizontal">true</item>
+    </style>
+    <style name="PanelView">
+        <item name="android:background">@color/gray</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">1.0dip</item>
+    </style>
+    <style name="ScanBarcodeTipsStyle">
+        <item name="android:textSize">@dimen/barcode_tips_textView_fontsize</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:shadowColor">@color/black_70_transparent</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">3.0</item>
+        <item name="android:shadowRadius">7.0</item>
+    </style>
+</resources>

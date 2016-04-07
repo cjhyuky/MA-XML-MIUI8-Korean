@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="theme_slicer_backgroud_color">#ff0e1f3d</color>
+    <color name="theme_slicer_pressed_color">#ffc68bf9</color>
+    <color name="theme_slicer_focused_color">#ffec7588</color>
+    <color name="theme_slicer_email_item_background_unread">#ff162a4f</color>
+    <color name="theme_slicer_email_item_background_read">#ff0e1f3d</color>
+    <color name="theme_slicer_mms_item_background_unread">#ffffffff</color>
+    <color name="theme_slicer_mms_item_background_read">#fff4f8fd</color>
+    <color name="theme_slicer_expandinglist_child_background_color">#ff162a4f</color>
+    <color name="slide_lock_screen_bgcolor">#58000000</color>
+    <color name="slide_lock_screen_weekpad_bgcolor">#77000000</color>
+    <color name="clock_white">#ffffffff</color>
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="dimen" name="android_glowpadview_glow_radius">@android:dimen/glowpadview_glow_radius</item>
+    <item type="dimen" name="android_glowpadview_inner_radius">@android:dimen/glowpadview_inner_radius</item>
+    <item type="dimen" name="android_navigation_bar_size">@android:dimen/navigation_bar_width</item>
+    <item type="dimen" name="android_notification_action_height">@android:dimen/notification_action_height</item>
+    <item type="dimen" name="android_notification_action_text_size">@android:dimen/notification_action_text_size</item>
+    <item type="dimen" name="android_notification_content_margin_left_to_icon">@android:dimen/notification_content_margin_left_to_icon</item>
+    <item type="dimen" name="android_notification_content_to_icon_length">@android:dimen/notification_content_margin_left_to_icon</item>
+    <item type="dimen" name="android_notification_height">@android:dimen/notification_height</item>
+    <item type="dimen" name="android_notification_large_icon_width">@android:dimen/notification_large_icon_width</item>
+    <item type="dimen" name="android_notification_large_icon_height">@android:dimen/notification_large_icon_height</item>
+    <item type="dimen" name="android_notification_padding_left">@android:dimen/notification_padding_left</item>
+    <item type="dimen" name="android_notification_padding_right">@android:dimen/notification_padding_right</item>
+    <item type="dimen" name="android_notification_min_height">@android:dimen/notification_height</item>
+    <item type="dimen" name="android_notification_row_min_height">@android:dimen/notification_height</item>
+    <item type="dimen" name="android_preference_item_padding_side">@android:dimen/preference_item_padding_side</item>
+    <item type="dimen" name="android_status_bar_height">@android:dimen/status_bar_height</item>
+    <item type="dimen" name="android_status_bar_icon_size">@android:dimen/status_bar_icon_size</item>
+    <item type="dimen" name="android_system_bar_height">@android:dimen/system_bar_height</item>
+    <dimen name="window_background_blur_radius">15.0dip</dimen>
+    <item type="dimen" name="config_screenshot_scale">0.44444</item>
+    <dimen name="alert_dialog_button_bar_height">48.0dip</dimen>
+    <dimen name="boot_msg_top_padding">240.66dip</dimen>
+    <dimen name="boot_msg_bottom_padding">42.0dip</dimen>
+    <dimen name="boot_msg_left_padding">110.0dip</dimen>
+    <dimen name="boot_msg_right_padding">110.0dip</dimen>
+    <dimen name="boot_msg_textsize">11.0sp</dimen>
+    <dimen name="global_actions_item_min_width">400.0dip</dimen>
+    <dimen name="key_btn_height">46.0dip</dimen>
+    <dimen name="key_btn_vertical_gap">8.0dip</dimen>
+    <dimen name="keyboard_padding_left">11.0dip</dimen>
+    <dimen name="keyboard_padding_top">7.0dip</dimen>
+    <dimen name="miui_keyboard_height">220.0dip</dimen>
+    <dimen name="normal_key_text_size">19.0sp</dimen>
+    <dimen name="over_scroll_distance">0.0dip</dimen>
+    <dimen name="over_fling_distance">0.5dip</dimen>
+    <dimen name="resolver_gridview_width">400.0dip</dimen>
+    <dimen name="resolver_gridview_height">340.0dip</dimen>
+    <dimen name="screen_on_proximity_sensor_hint_height">400.0dip</dimen>
+    <dimen name="resolver_grid_padding_horizontal">14.0dip</dimen>
+    <dimen name="shift_key_text_size">15.0sp</dimen>
+    <dimen name="text_edit_action_popup_text_size">13.0sp</dimen>
+    <dimen name="volume_panel_top">163.0dip</dimen>
+    <dimen name="fc_dialog_body_text_size">12.0px</dimen>
+</resources>

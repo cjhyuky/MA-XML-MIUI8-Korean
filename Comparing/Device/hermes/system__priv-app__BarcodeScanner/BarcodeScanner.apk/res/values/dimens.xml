@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="framingRectWidth">279.0dip</dimen>
+    <dimen name="framingRectHeight">259.0dip</dimen>
+    <dimen name="laserWidth">279.0dip</dimen>
+    <dimen name="framingRectCornerPatternWidth">-20.0dip</dimen>
+    <dimen name="qr_code_size">140.0dip</dimen>
+    <dimen name="qr_code_margin_bottom">42.5dip</dimen>
+    <dimen name="qr_code_padding_left">23.5dip</dimen>
+    <dimen name="result_text_padding_left_right">23.5dip</dimen>
+    <dimen name="qr_code_padding_top">26.5dip</dimen>
+    <dimen name="qr_size">200.0dip</dimen>
+    <dimen name="barcode_tips_textView_top">128.0dip</dimen>
+    <dimen name="barcode_tips_textView_fontsize">13.5sp</dimen>
+    <dimen name="viewfinder_view_margin_top">180.0dip</dimen>
+    <dimen name="settings_content_padding_horizontal">0.0dip</dimen>
+    <dimen name="settings_content_padding_top">0.0dip</dimen>
+    <dimen name="settings_content_padding_bottom">15.0dip</dimen>
+    <dimen name="dialog_tips_font_size">13.0sp</dimen>
+    <dimen name="dialog_checkbox_font_size">14.0sp</dimen>
+    <dimen name="dialog_padding">7.0dip</dimen>
+    <item type="dimen" name="APKTOOL_DUMMY_0013">false</item>
+</resources>

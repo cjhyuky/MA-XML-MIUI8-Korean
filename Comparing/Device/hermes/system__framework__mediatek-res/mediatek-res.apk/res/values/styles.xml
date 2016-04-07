@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ImageSwitch">
+        <item name="android:textOn"></item>
+        <item name="android:textOff"></item>
+        <item name="android:thumb">@drawable/imageswitch</item>
+        <item name="android:switchMinWidth">80.0dip</item>
+        <item name="android:thumbTextPadding">20.0dip</item>
+    </style>
+</resources>
