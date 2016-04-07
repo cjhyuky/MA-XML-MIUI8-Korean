@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="common_config_anim_duration">300</integer>
+    <integer name="common_config_anim_delay">100</integer>
+    <integer name="incall_exit_config_anim_duration">200</integer>
+    <integer name="reveal_animation_duration">333</integer>
+    <integer name="shrink_animation_duration">333</integer>
+    <integer name="video_animation_duration">257</integer>
+    <integer name="fling_YVelocity">-5000</integer>
+</resources>

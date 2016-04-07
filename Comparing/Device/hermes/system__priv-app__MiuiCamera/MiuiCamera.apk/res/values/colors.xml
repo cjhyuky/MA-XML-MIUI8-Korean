@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="popup_title_color">#b3ffffff</color>
+    <color name="popup_title_shadow_color">#b3000000</color>
+    <color name="popup_background">#d1282828</color>
+    <color name="viewfinder_frame">#ff000000</color>
+    <color name="viewfinder_laser">#ffff0000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="result_view">#b0000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="blur_background_mask">#00000000</color>
+    <color name="halfscreen_background">#b3000000</color>
+    <color name="fullscreen_background">#33000000</color>
+    <color name="preview_cover_capture">#b3000000</color>
+    <color name="preview_cover_normal">#ff000000</color>
+    <color name="text_color_selected">#ffff6000</color>
+    <color name="text_color_default">#ffffffff</color>
+    <color name="realtimeblur_bg">#a6000000</color>
+    <color name="darker_transparent">#c1000000</color>
+</resources>

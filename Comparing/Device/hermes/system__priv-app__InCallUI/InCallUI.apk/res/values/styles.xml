@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="JeejenCommonTextStyle">
+        <item name="android:textSize">@dimen/jeejen_common_text_size</item>
+        <item name="android:textColor">@color/jeejen_common_text_color</item>
+        <item name="android:ellipsize">none</item>
+        <item name="android:padding">0.0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="JeejenBigTextStyle" parent="@style/JeejenCommonTextStyle">
+        <item name="android:textSize">@dimen/jeejen_big_text_size</item>
+    </style>
+    <style name="JeejenCommonButtonStyle">
+        <item name="android:textSize">@dimen/jeejen_common_button_text_size</item>
+        <item name="android:textColor">@color/jeejen_common_button_text_color</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:soundEffectsEnabled">false</item>
+    </style>
+    <style name="JeejenDialpadButtonStyle" parent="@style/JeejenCommonButtonStyle">
+        <item name="android:background">@drawable/jeejen_dialpad_button_bkgnd</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="TextAppearance" parent="@miui:style/TextAppearance" />
+    <style name="InCallButton">
+        <item name="android:background">?android:selectableItemBackground</item>
+        <item name="android:layout_width">0.0px</item>
+        <item name="android:layout_height">@dimen/in_call_button_height</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="InCallAnimationStyle" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/incall_open_enter</item>
+        <item name="android:activityOpenExitAnimation">@anim/incall_open_exit</item>
+        <item name="android:taskOpenEnterAnimation">@anim/incall_open_enter</item>
+        <item name="android:taskOpenExitAnimation">@anim/incall_open_exit</item>
+        <item name="android:taskToFrontEnterAnimation">@anim/incall_open_enter</item>
+        <item name="android:taskToFrontExitAnimation">@anim/incall_open_exit</item>
+        <item name="android:wallpaperOpenEnterAnimation">@anim/incall_open_enter</item>
+        <item name="android:wallpaperOpenExitAnimation">@anim/incall_open_exit</item>
+    </style>
+    <style name="Theme.InCallScreen" parent="@miui:style/Theme.Dark.NoTitle">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@style/InCallAnimationStyle</item>
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:colorBackgroundCacheHint">@android:color/transparent</item>
+        <item name="android:windowTranslucentStatus">true</item>
+    </style>
+    <style name="InCallPopupMenuStyle" parent="@android:style/Theme.Material.Light" />
+    <style name="InCallActionBarStyle" parent="@android:style/Widget.Material.Light.ActionBar">
+        <item name="android:textColor">@color/incall_action_bar_text_color</item>
+    </style>
+    <style name="DialpadButtonStyle">
+        <item name="android:background">@drawable/incall_dialer_panel_button_bg</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_weight">1.0</item>
+        <item name="android:soundEffectsEnabled">false</item>
+    </style>
+    <style name="Miui" parent="@android:style/Theme.Holo" />
+    <style name="Miui.Button" parent="@style/Miui">
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:soundEffectsEnabled">false</item>
+    </style>
+    <style name="Miui.Button.InCallCircle" parent="@style/Miui.Button">
+        <item name="android:textOn">@null</item>
+        <item name="android:textOff">@null</item>
+        <item name="android:minWidth">0.0dip</item>
+        <item name="android:minHeight">0.0dip</item>
+        <item name="android:alpha">0.5</item>
+    </style>
+    <style name="Miui.Button.InCallContent" parent="@style/Miui.Button">
+        <item name="android:textOn">@null</item>
+        <item name="android:textOff">@null</item>
+        <item name="android:minWidth">0.0dip</item>
+        <item name="android:minHeight">0.0dip</item>
+        <item name="android:alpha">0.8</item>
+    </style>
+    <style name="Miui.Button.Hangup" parent="@style/Miui.Button">
+        <item name="android:background">@drawable/incall_button_end</item>
+    </style>
+    <style name="Miui.Button.Tool" parent="@style/Miui.Button">
+        <item name="android:textSize">@dimen/call_tools_toggle_button_text_size</item>
+        <item name="android:textColor">@color/ic_in_call_button_text_color</item>
+        <item name="android:background">@null</item>
+        <item name="android:padding">0.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:minHeight">0.0dip</item>
+        <item name="android:drawablePadding">0.0dip</item>
+    </style>
+    <style name="Miui.Button.Tool.ToggleButton" parent="@style/Miui.Button.Tool">
+        <item name="android:textSize">0.0sp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="Miui.Button.Tool.ToggleText" parent="@style/Miui.Button.Tool">
+        <item name="android:padding">0.0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="Miui.TableRow" parent="@style/Miui">
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">0.0dip</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="Miui.TableColumn" parent="@style/Miui">
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="TextAppearance.Name" parent="@style/TextAppearance">
+        <item name="android:textSize">@dimen/incoming_caller_name_text_size</item>
+        <item name="android:textColor">@color/incoming_caller_name_text_color</item>
+        <item name="android:shadowColor">@color/incoming_caller_info_text_shadow_color</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">0.0</item>
+        <item name="android:shadowRadius">0.0</item>
+    </style>
+    <style name="TextAppearance.Name.PhoneTag" parent="@style/TextAppearance.Name">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@color/double_call_name_text_color</item>
+    </style>
+    <style name="TextAppearance.Name.Title" parent="@style/TextAppearance.Name">
+        <item name="android:textSize">13.0sp</item>
+        <item name="android:textColor">@color/ivr_menu_title_text_color</item>
+    </style>
+    <style name="TextAppearance.Name.Menu" parent="@style/TextAppearance.Name">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">@color/ivr_menu_title_text_color</item>
+    </style>
+    <style name="TextAppearance.Name.Tip" parent="@style/TextAppearance.Name">
+        <item name="android:textSize">10.599976sp</item>
+        <item name="android:textColor">@color/ivr_menu_title_text_color</item>
+    </style>
+    <style name="TextAppearance.Info" parent="@style/TextAppearance">
+        <item name="android:textSize">@dimen/incoming_caller_info_text_size</item>
+        <item name="android:textColor">@color/incoming_caller_info_text_color</item>
+        <item name="android:shadowColor">@color/incoming_caller_info_text_shadow_color</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">0.0</item>
+        <item name="android:shadowRadius">0.0</item>
+    </style>
+    <style name="TextAppearance.PhoneNumber" parent="@style/TextAppearance.Info" />
+    <style name="TextAppearance.MarkTitle" parent="@style/TextAppearance.Info" />
+    <style name="TextAppearance.ExtraInfo" parent="@style/TextAppearance.Info" />
+    <style name="TextAppearance.Telocation" parent="@style/TextAppearance.Info" />
+    <style name="TextAppearance.SuspectInfo" parent="@style/TextAppearance.Info">
+        <item name="android:textColor">@color/call_card_suspect_info_text_color</item>
+    </style>
+    <style name="TextAppearance.Name.Extension" parent="@style/TextAppearance.Name">
+        <item name="android:textSize">15.0sp</item>
+        <item name="android:textColor">@color/ic_in_call_button_text_color</item>
+    </style>
+    <style name="SmartCoverTextAppearance" parent="@miui:style/TextAppearance" />
+    <style name="SmartCoverTextAppearance.Info" parent="@style/SmartCoverTextAppearance">
+        <item name="android:textSize">@dimen/smart_cover_call_info_label_number_text_size</item>
+        <item name="android:textColor">@color/smart_cover_incall_call_desp_text_color</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">0.0</item>
+        <item name="android:shadowRadius">0.0</item>
+    </style>
+    <style name="SmartCoverTextAppearance.MarkTitle" parent="@style/SmartCoverTextAppearance.Info" />
+    <style name="SmartCoverTextAppearance.Telocation" parent="@style/SmartCoverTextAppearance.Info" />
+    <style name="SmartCoverTextAppearance.ExtraInfo" parent="@style/SmartCoverTextAppearance.Info" />
+    <style name="SmartCoverTextAppearance.CallCardState" parent="@style/SmartCoverTextAppearance.Info" />
+    <style name="DoubleCall">
+        <item name="android:ellipsize">end</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="DoubleCall.CallName" parent="@style/DoubleCall">
+        <item name="android:textSize">@dimen/double_call_name_text_size</item>
+        <item name="android:textColor">@color/double_call_name_text_color</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:layout_alignParentTop">true</item>
+        <item name="android:layout_alignWithParentIfMissing">true</item>
+    </style>
+    <style name="DoubleCall.SimCardIndicator" parent="@style/DoubleCall">
+        <item name="android:layout_marginRight">@dimen/sim_indicator_margin_right</item>
+    </style>
+    <style name="DoubleCall.CallState" parent="@style/DoubleCall">
+        <item name="android:textSize">@dimen/double_call_desp_text_size</item>
+        <item name="android:textColor">@color/double_call_desp_text_color</item>
+        <item name="android:layout_alignWithParentIfMissing">true</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="DoubleCall.CallTime" parent="@style/DoubleCall">
+        <item name="android:textSize">@dimen/double_call_desp_text_size</item>
+        <item name="android:textColor">@color/double_call_desp_text_color</item>
+    </style>
+    <style name="DoubleCall.ImageView" parent="@style/DoubleCall">
+        <item name="android:background">@null</item>
+        <item name="android:src">@drawable/conference_incall_phone_hangup</item>
+        <item name="android:scaleType">centerInside</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:contentDescription">@string/onscreenEndCallText</item>
+    </style>
+    <style name="Incoming" />
+    <style name="Incoming.ArrowImageView" parent="@style/Incoming">
+        <item name="android:layout_gravity">bottom|center</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:src">@drawable/incoming_arrow</item>
+    </style>
+    <style name="Incoming.CircleImageView" parent="@style/Incoming">
+        <item name="android:layout_gravity">bottom</item>
+        <item name="android:focusable">false</item>
+        <item name="android:focusableInTouchMode">true</item>
+        <item name="android:clickable">false</item>
+        <item name="android:layout_width">@dimen/incoming_out_radius</item>
+        <item name="android:layout_height">@dimen/incoming_out_radius</item>
+    </style>
+    <style name="Incoming.ResponseSmsImageView" parent="@style/Incoming">
+        <item name="android:layout_gravity">bottom|center</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/incoming_response_delete_margin_top</item>
+        <item name="android:layout_marginBottom">@dimen/incoming_response_delete_margin_bottom</item>
+        <item name="android:src">@drawable/incoming_exit_message_response</item>
+        <item name="android:contentDescription">@string/description_image_button_message_exit</item>
+    </style>
+</resources>

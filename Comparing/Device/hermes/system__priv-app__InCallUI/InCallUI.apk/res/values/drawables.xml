@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="incall_call_transparent">#00ffffff</item>
+    <item type="drawable" name="dialer_msim_divider">#ffdfdfdf</item>
+    <item type="drawable" name="jeejen_card_splitter_bkgnd">#ffc8c8c8</item>
+    <item type="drawable" name="jeejen_dialpad_button_bkgnd_normal">#ffffffff</item>
+    <item type="drawable" name="jeejen_dialpad_gridline_bkgnd">#ffc8c8c8</item>
+    <item type="drawable" name="grayBg">#ff333333</item>
+</resources>

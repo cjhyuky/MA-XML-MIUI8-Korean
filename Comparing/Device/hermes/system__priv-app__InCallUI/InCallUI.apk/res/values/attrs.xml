@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="targetDrawables" format="reference" />
+    <attr name="targetDescriptions" format="reference" />
+    <attr name="directionDescriptions" format="reference" />
+    <attr name="handleDrawable" format="reference" />
+    <attr name="outerRingDrawable" format="reference" />
+    <attr name="pointDrawable" format="reference" />
+    <attr name="innerRadius" format="dimension" />
+    <attr name="outerRadius" format="dimension" />
+    <attr name="glowRadius" format="dimension" />
+    <attr name="vibrationDuration" format="integer" />
+    <attr name="snapMargin" format="dimension" />
+    <attr name="feedbackCount" format="integer" />
+    <attr name="alwaysTrackFinger" format="boolean" />
+    <attr name="allowScaling" format="boolean" />
+    <attr name="enableButtonText" format="string" />
+    <attr name="disableButtonText" format="string" />
+    <attr name="changeNumButtonText" format="string" />
+    <attr name="confirmMode">
+        <enum name="activation" value="1" />
+        <enum name="confirm" value="0" />
+    </attr>
+    <attr name="serviceClass">
+        <enum name="data" value="2" />
+        <enum name="voice" value="1" />
+    </attr>
+    <attr name="reason">
+        <enum name="busy" value="1" />
+        <enum name="no_reply" value="2" />
+        <enum name="not_reachable" value="3" />
+        <enum name="unconditional" value="0" />
+    </attr>
+    <attr name="radiusNormalColor" format="reference|color" />
+    <attr name="radiusPressColor" format="reference|color" />
+    <attr name="radiusStyle">
+        <enum name="fill" value="0" />
+        <enum name="stroke" value="1" />
+    </attr>
+    <attr name="panelHeight" format="dimension" />
+    <attr name="shadowHeight" format="dimension" />
+    <attr name="paralaxOffset" format="dimension" />
+    <attr name="fadeColor" format="color" />
+    <attr name="flingVelocity" format="integer" />
+    <attr name="dragView" format="reference" />
+    <attr name="overlay" format="boolean" />
+    <attr name="minTextSize" format="dimension" />
+    <attr name="maxTextSize" format="dimension" />
+</resources>

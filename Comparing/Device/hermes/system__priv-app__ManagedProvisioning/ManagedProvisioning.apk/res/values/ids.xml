@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="cancel_button">false</item>
+    <item type="id" name="accept_button">false</item>
+    <item type="id" name="header">false</item>
+    <item type="id" name="title">false</item>
+    <item type="id" name="learn_more_text1">false</item>
+    <item type="id" name="learn_more_text2">false</item>
+    <item type="id" name="learn_more_link">false</item>
+    <item type="id" name="positive_button">false</item>
+    <item type="id" name="negative_button">false</item>
+    <item type="id" name="prog_text">false</item>
+    <item type="id" name="progress_container">false</item>
+    <item type="id" name="main_text_container">false</item>
+    <item type="id" name="mdm_icon_view">false</item>
+    <item type="id" name="device_manager_name">false</item>
+</resources>

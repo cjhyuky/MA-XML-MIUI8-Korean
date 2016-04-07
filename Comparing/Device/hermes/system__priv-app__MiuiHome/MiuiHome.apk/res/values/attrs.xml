@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="direction">
+        <enum name="horizontal" value="1" />
+        <enum name="vertical" value="0" />
+    </attr>
+    <attr name="cellWidth" format="dimension" />
+    <attr name="cellHeight" format="dimension" />
+    <attr name="longAxisStartPadding" format="dimension" />
+    <attr name="longAxisEndPadding" format="dimension" />
+    <attr name="shortAxisStartPadding" format="dimension" />
+    <attr name="shortAxisEndPadding" format="dimension" />
+    <attr name="shortAxisCells" format="integer" />
+    <attr name="longAxisCells" format="integer" />
+    <attr name="className" format="string" />
+    <attr name="packageName" format="string" />
+    <attr name="screen" format="string" />
+    <attr name="container" format="string" />
+    <attr name="x" format="string" />
+    <attr name="y" format="string" />
+    <attr name="spanX" format="string" />
+    <attr name="spanY" format="string" />
+    <attr name="icon" format="reference" />
+    <attr name="title" format="string" />
+    <attr name="uri" format="string" />
+    <attr name="action" format="string" />
+    <attr name="iconResource" format="string" />
+    <attr name="retained" format="string" />
+    <attr name="presets_container" format="string" />
+    <attr name="ignoreZone" format="dimension" />
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="show_action_bar_title">false</bool>
+    <bool name="only_show_cloud">false</bool>
+    <bool name="process_samsung_camera">false</bool>
+    <bool name="priority_storage">true</bool>
+    <bool name="picker_is_dialog">false</bool>
+</resources>

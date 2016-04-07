@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="num_receiver_items_one_screen">6</integer>
+    <integer name="circle_anim_duration">2100</integer>
+</resources>

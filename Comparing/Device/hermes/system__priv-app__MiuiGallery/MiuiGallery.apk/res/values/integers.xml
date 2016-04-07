@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="camera_minimum_picture_width">2448</integer>
+    <integer name="path_item_text_alpha_clickable">204</integer>
+    <integer name="path_item_text_alpha_unclickable">102</integer>
+    <integer name="anim_duration_page_in">300</integer>
+    <integer name="anim_duration_page_out">300</integer>
+    <integer name="album_slot_column_count_land">7</integer>
+    <integer name="album_slot_column_count_port">4</integer>
+    <integer name="albumset_slot_column_count_land">5</integer>
+    <integer name="albumset_slot_column_count_port">4</integer>
+    <integer name="face_albumset_slot_column_count_land">5</integer>
+    <integer name="face_albumset_slot_column_count_port">3</integer>
+    <integer name="ubifocus_guide_animation_resize_duration">700</integer>
+    <integer name="ubifocus_guide_animation_duration">3000</integer>
+    <integer name="ubifocus_startup_duration">500</integer>
+    <integer name="ubifocus_startup_focused_delay">200</integer>
+    <integer name="ubifocus_startup_dismiss_delay">1000</integer>
+    <integer name="time_line_group_size_min">4</integer>
+    <integer name="album_cover_v6_alpha3">127</integer>
+    <integer name="face_folder_list_max_rows_x2">7</integer>
+    <integer name="grid_column_count">4</integer>
+    <integer name="grid_column_count_landscape">8</integer>
+    <integer name="anim_duration_pinch_back">200</integer>
+    <integer name="anim_kind_snapback">170</integer>
+</resources>
