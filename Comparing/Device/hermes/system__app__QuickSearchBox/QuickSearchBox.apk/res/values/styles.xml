@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Suggestion">
+        <item name="android:paddingLeft">@dimen/suggestion_content_padding_side</item>
+        <item name="android:paddingRight">@dimen/suggestion_content_padding_side</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="FocusingSuggestion" parent="@style/Suggestion">
+        <item name="android:background">@drawable/highlighting_suggestion_background</item>
+        <item name="android:focusable">true</item>
+    </style>
+    <style name="CorpusName">
+        <item name="android:textSize">@dimen/suggestion_group_name_size</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/text2color</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center|left</item>
+        <item name="android:layout_gravity">center|left</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="SuggestionText1">
+        <item name="android:textSize">@dimen/suggestion_text1_size</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/text1color</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center|left</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="ThreeLineSuggestionText1" parent="@style/SuggestionText1">
+        <item name="android:layout_gravity">center|left|top</item>
+    </style>
+    <style name="DoubleLineSuggestionText1" parent="@style/SuggestionText1">
+        <item name="android:textSize">@dimen/suggestion_text1_size</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/text1color</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="TileSuggestionText1" parent="@style/SuggestionText1">
+        <item name="android:layout_marginBottom">2.0dip</item>
+    </style>
+    <style name="TileSuggestionText2" parent="@style/SuggestionText2">
+        <item name="android:paddingTop">0.0dip</item>
+    </style>
+    <style name="GroupText">
+        <item name="android:textSize">@dimen/suggestion_group_name_size</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/text2color</item>
+        <item name="android:gravity">center|left</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/card_top_height</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="HotQueryText">
+        <item name="android:textSize">@dimen/suggestion_text1_size</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/hot_query_item_color</item>
+        <item name="android:gravity">center|left</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:background">@drawable/hot_words</item>
+        <item name="android:paddingLeft">10.0dip</item>
+        <item name="android:paddingTop">@dimen/hot_words_gap</item>
+        <item name="android:paddingRight">10.0dip</item>
+        <item name="android:paddingBottom">@dimen/hot_words_gap</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="SearchHistoryText">
+        <item name="android:textSize">@dimen/history_text_size</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/text1color</item>
+        <item name="android:gravity">center|left</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="RatingBar" parent="@miui:style/Widget.RatingBar.Small">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_gravity">center|left</item>
+        <item name="android:focusable">false</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:numStars">5</item>
+        <item name="android:stepSize">0.5</item>
+        <item name="android:isIndicator">true</item>
+    </style>
+    <style name="TileSuggestionRatingBar" parent="@style/RatingBar">
+        <item name="android:layout_marginBottom">2.3299866dip</item>
+    </style>
+    <style name="SuggestionText2">
+        <item name="android:textSize">@dimen/suggestion_text2_size</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/text2color</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center|left|top</item>
+        <item name="android:layout_gravity">center|left</item>
+        <item name="android:paddingTop">3.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="DoubleLineSuggestionText2" parent="@style/SuggestionText2">
+        <item name="android:paddingTop">0.0dip</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="ThreeLineSuggestionText2" parent="@style/SuggestionText2">
+        <item name="android:layout_gravity">bottom|center|left</item>
+    </style>
+    <style name="SuggestionDoubleLineText">
+        <item name="android:textSize">@dimen/suggestion_text2_size</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">?android:textColorSecondary</item>
+        <item name="android:gravity">center|left|top</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:maxLines">2</item>
+    </style>
+    <style name="SuggestionIcon1">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_gravity">center|left</item>
+        <item name="android:layout_width">@dimen/suggestion_icon_size</item>
+        <item name="android:layout_height">@dimen/suggestion_icon_size</item>
+        <item name="android:layout_marginRight">13.0dip</item>
+    </style>
+    <style name="SuggestionOnlineIcon1" parent="@style/SuggestionIcon1" />
+    <style name="SuggestionIcon3">
+        <item name="android:paddingRight">8.0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="WebSuggestionIcon1" parent="@style/SuggestionIcon1" />
+    <style name="SuggestionIcon2">
+        <item name="android:paddingRight">@dimen/icon2_padding_right</item>
+        <item name="android:layout_width">@dimen/suggestion_icon_size</item>
+        <item name="android:layout_height">@dimen/suggestion_icon_size</item>
+    </style>
+    <style name="SuggestionText1.Query" parent="@style/SuggestionText1" />
+    <style name="SuggestionText1.Suggested" parent="@style/SuggestionText1">
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="SuggestionTileImage">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:scaleType">centerCrop</item>
+    </style>
+    <style name="SuggestionTileLinearLayout">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="TileSuggestionIcon">
+        <item name="android:layout_width">@dimen/tile_width</item>
+        <item name="android:layout_height">@dimen/tile_height</item>
+        <item name="android:layout_marginTop">11.659973dip</item>
+        <item name="android:layout_marginBottom">6.659973dip</item>
+    </style>
+    <style name="DoubleLineSuggestionHint">
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="ButtonMore">
+        <item name="android:textSize">@dimen/suggestion_group_name_size</item>
+        <item name="android:textColor">@color/more_text_color</item>
+        <item name="android:background">@drawable/btn_more</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/suggestion_more_height</item>
+    </style>
+    <style name="More">
+        <item name="android:textSize">@dimen/suggestion_group_name_size</item>
+        <item name="android:textColor">@color/more_text_color</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="SearchInWeb" parent="@style/ButtonMore">
+        <item name="android:background">@null</item>
+    </style>
+    <style name="ActionButton" parent="@miui:style/Widget.Dark.Button.Rect.BlankPage">
+        <item name="android:layout_width">@dimen/suggestion_action_button_width</item>
+        <item name="android:layout_height">@dimen/suggestion_action_button_height</item>
+    </style>
+    <style name="Animation.SelectSearchSource" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/corpus_selector_open</item>
+        <item name="android:windowExitAnimation">@anim/corpus_selector_close</item>
+    </style>
+    <style name="Animation.SearchActivity" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/search_activity_in</item>
+        <item name="android:windowExitAnimation">@null</item>
+        <item name="android:windowShowAnimation">@null</item>
+        <item name="android:windowHideAnimation">@null</item>
+        <item name="android:taskOpenEnterAnimation">@null</item>
+        <item name="android:taskOpenExitAnimation">@null</item>
+        <item name="android:taskCloseEnterAnimation">@null</item>
+        <item name="android:taskCloseExitAnimation">@null</item>
+        <item name="android:taskToFrontEnterAnimation">@null</item>
+        <item name="android:taskToFrontExitAnimation">@null</item>
+        <item name="android:taskToBackEnterAnimation">@null</item>
+        <item name="android:taskToBackExitAnimation">@null</item>
+        <item name="android:wallpaperOpenEnterAnimation">@null</item>
+        <item name="android:wallpaperOpenExitAnimation">@null</item>
+        <item name="android:wallpaperCloseEnterAnimation">@null</item>
+        <item name="android:wallpaperCloseExitAnimation">@null</item>
+        <item name="android:wallpaperIntraOpenEnterAnimation">@null</item>
+        <item name="android:wallpaperIntraOpenExitAnimation">@null</item>
+        <item name="android:wallpaperIntraCloseEnterAnimation">@null</item>
+        <item name="android:wallpaperIntraCloseExitAnimation">@null</item>
+    </style>
+    <style name="Theme.QuickSearchBox" parent="@miui:style/Theme.Dark" />
+    <style name="Theme.QuickSearchBox.Search" parent="@style/Theme.QuickSearchBox">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@style/Animation.SearchActivity</item>
+        <item name="android:windowSoftInputMode">adjustResize|stateUnchanged</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+    <style name="Theme.QuickSearchBox.SearchWidgetConfig" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+    <style name="Theme.SelectSearchSource" parent="@android:style/Theme.Light.NoTitleBar">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@style/Animation.SelectSearchSource</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:windowSoftInputMode">adjustResize|stateUnchanged</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+    </style>
+</resources>

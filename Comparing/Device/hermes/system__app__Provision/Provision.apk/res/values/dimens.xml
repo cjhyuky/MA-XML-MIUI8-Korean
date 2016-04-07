@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="list_item_text_size_primary">13.0sp</dimen>
+    <dimen name="language_bg_padding_top">71.69998dip</dimen>
+    <dimen name="list_padding_bottom">13.299988dip</dimen>
+    <dimen name="back_margin_top">25.0dip</dimen>
+    <dimen name="list_desc_margin_bottom">9.0dip</dimen>
+    <dimen name="context_left_margin">13.0dip</dimen>
+    <dimen name="next_bottom_margin">26.299988dip</dimen>
+    <dimen name="license_item_text_size">14.0dip</dimen>
+    <dimen name="congratulation_page_logo_size">54.0sp</dimen>
+    <dimen name="logo_layout_bottom_padding">0.0dip</dimen>
+    <dimen name="extra_bottom_margin">0.0dip</dimen>
+    <dimen name="congratulation_page_title_bottom_margin">0.0dip</dimen>
+    <dimen name="other_setting_item_min_height">0.0dip</dimen>
+    <dimen name="other_setting_item_text_left_padding">12.0dip</dimen>
+    <dimen name="input_method_item_min_height">0.0dip</dimen>
+    <dimen name="license_list_item_min_height">0.0dip</dimen>
+    <dimen name="page_padding_horizontal">20.0dip</dimen>
+    <dimen name="next_button_padding_vertical">16.699982dip</dimen>
+    <dimen name="loading_cancel_button_padding_vertical">30.0dip</dimen>
+    <dimen name="language_logo_title_size">19.0sp</dimen>
+    <dimen name="title_layout_height">313.4453dip</dimen>
+    <dimen name="title_height">174.0dip</dimen>
+    <dimen name="disc_padding_top">11.0dip</dimen>
+    <dimen name="content_padding_horizontal">0.0dip</dimen>
+    <dimen name="logo_title_size">20.0sp</dimen>
+</resources>

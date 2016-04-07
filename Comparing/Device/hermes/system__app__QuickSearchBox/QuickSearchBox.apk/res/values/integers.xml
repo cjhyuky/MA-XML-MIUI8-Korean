@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="num_suggestions_above_keyboard">4</integer>
+    <integer name="max_promoted_suggestions">32</integer>
+    <integer name="max_promoted_results">4</integer>
+    <integer name="max_shortcuts_per_web_source">8</integer>
+    <integer name="max_shortcuts_per_non_web_source">2</integer>
+    <integer name="corpus_selection_dialog_columns">4</integer>
+    <integer name="http_read_timeout">300</integer>
+    <integer name="http_connection_timeout">150</integer>
+    <integer name="image_read_timeout">600</integer>
+    <integer name="image_connection_timeout">200</integer>
+    <integer name="tips_icon_weight">0</integer>
+    <integer name="hot_words_fade_in_duration">600</integer>
+    <integer name="hot_words_fade_out_duration">600</integer>
+    <integer name="hot_words_fade_in_off_set">300</integer>
+    <integer name="hot_words_animation_gap">40</integer>
+</resources>

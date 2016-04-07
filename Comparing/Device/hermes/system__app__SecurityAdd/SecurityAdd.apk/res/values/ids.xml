@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="dialog_message">false</item>
+    <item type="id" name="webView">false</item>
+    <item type="id" name="progressBar">false</item>
+    <item type="id" name="netoff_view">false</item>
+    <item type="id" name="action_retry">false</item>
+    <item type="id" name="network_disconnected">false</item>
+    <item type="id" name="network_retry_btn">false</item>
+    <item type="id" name="month_report_content">false</item>
+    <item type="id" name="month_report_web">false</item>
+    <item type="id" name="share_wait_cover">false</item>
+    <item type="id" name="share_wait_cover_animate">false</item>
+    <item type="id" name="webview">false</item>
+    <item type="id" name="htmlContent">false</item>
+    <item type="id" name="share_gird">false</item>
+    <item type="id" name="share">false</item>
+    <item type="id" name="open_browser">false</item>
+</resources>

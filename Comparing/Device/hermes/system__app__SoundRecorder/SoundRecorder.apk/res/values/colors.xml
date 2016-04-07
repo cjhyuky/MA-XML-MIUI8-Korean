@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="preview_highlight_title">#fffb6003</color>
+    <color name="markpoint_index_textcolor">#ff5e5e5e</color>
+    <color name="markpoint_timepoint_textcolor">#ff929293</color>
+</resources>

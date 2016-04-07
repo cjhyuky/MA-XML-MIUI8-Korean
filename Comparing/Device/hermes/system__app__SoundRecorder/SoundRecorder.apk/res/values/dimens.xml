@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ctrl_margin">65.0dip</dimen>
+    <dimen name="mark_point_list_item_height">61.0dip</dimen>
+    <dimen name="listview_header_top_padding">45.0dip</dimen>
+    <dimen name="record_file_name_text_size">13.0sp</dimen>
+    <dimen name="record_list_item_margin">23.299988dip</dimen>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dialog_message_color">#72000000</color>
+    <color name="mr_activity_background">#ff2e2e3b</color>
+    <color name="mr_share_wait_cover_background">#99000000</color>
+</resources>

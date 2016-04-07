@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextAppearance.Large" parent="@android:style/TextAppearance">
+        <item name="android:textSize">38.0sp</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+    <style name="TextAppearance.ListItem" parent="@miui:style/TextAppearance.List.Primary">
+        <item name="android:textColor">@color/list_item_text_light</item>
+    </style>
+    <style name="TextAppearance.ListItem.Secondary" parent="@miui:style/TextAppearance.List.Secondary">
+        <item name="android:textColor">@color/list_item_text_light</item>
+    </style>
+    <style name="Widget" />
+    <style name="Widget.CheckedTextView" parent="@style/Widget">
+        <item name="android:textAppearance">@miui:style/TextAppearance.List.Primary</item>
+        <item name="android:textSize">@dimen/list_item_text_size_primary</item>
+        <item name="android:textColor">@color/list_item_text_light</item>
+        <item name="android:checkMark">@drawable/btn_checkbox_light</item>
+    </style>
+    <style name="Widget.Button" parent="@style/Widget">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="Widget.Button.Main" parent="@style/Widget.Button">
+        <item name="android:textSize">@dimen/logo_title_size</item>
+        <item name="android:textColor">#e6ffffff</item>
+        <item name="android:background">@null</item>
+    </style>
+    <style name="Widget.Button.Title" parent="@style/Widget.Button">
+        <item name="android:textSize">@dimen/list_item_text_size_primary</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:background">@null</item>
+    </style>
+    <style name="Widget.Button.Next" parent="@style/Widget.Button">
+        <item name="android:textColor">@color/btn_next</item>
+        <item name="android:background">@drawable/btn_next</item>
+        <item name="android:text">@string/next</item>
+    </style>
+    <style name="Widget.CheckBox" parent="@miui:style/Widget.CompoundButton.CheckBox">
+        <item name="android:button">@drawable/btn_checkbox_light</item>
+    </style>
+    <style name="Widget.ProgressBar" parent="@miui:style/Widget.ProgressBar">
+        <item name="android:maxWidth">47.299988dip</item>
+        <item name="android:maxHeight">47.299988dip</item>
+        <item name="android:indeterminateDrawable">@drawable/progressbar_indeterminate</item>
+        <item name="android:minWidth">47.299988dip</item>
+        <item name="android:minHeight">47.299988dip</item>
+    </style>
+    <style name="CheckBoxPreference" parent="@miui:style/Preference.CheckBoxPreference">
+        <item name="android:widgetLayout">@layout/preference_widget_checkbox</item>
+    </style>
+    <style name="Theme" parent="@miui:style/Theme.Light.NoTitle">
+        <item name="miui:listViewItemBackground">@drawable/list_item_bg</item>
+        <item name="miui:windowTranslucentStatus">transparentDark</item>
+        <item name="miui:preferenceBackground">@drawable/list_item_bg</item>
+        <item name="miui:windowDisablePreview">true</item>
+    </style>
+</resources>

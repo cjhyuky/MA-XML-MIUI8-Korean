@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SoundRecordActivityTheme" parent="@miui:style/Theme.Dark">
+        <item name="android:windowBackground">@drawable/soundrecorder_background</item>
+        <item name="android:actionBarStyle">@style/SoundRecordAtionBarStyle</item>
+        <item name="android:actionModeSplitBackground">@null</item>
+        <item name="miui.system:cloudStateViewStyle">@miui.system:style/Widget.MiCloudStateView.Dark</item>
+    </style>
+    <style name="RecordPreviewActivityTheme" parent="@miui:style/Theme.Dark">
+        <item name="android:actionBarStyle">@style/SoundRecordAtionBarStyle</item>
+        <item name="android:actionModeSplitBackground">@null</item>
+        <item name="miui.system:cloudStateViewStyle">@miui.system:style/Widget.MiCloudStateView.Dark</item>
+    </style>
+    <style name="SoundRecordAtionBarStyle" parent="@miui:style/Widget.ActionBar">
+        <item name="android:displayOptions">@null</item>
+    </style>
+    <style name="ListItemStyle" parent="@miui:style/Widget.ListView.Item.DoubleLine">
+        <item name="android:paddingLeft">0.0dip</item>
+        <item name="android:paddingTop">0.0dip</item>
+        <item name="android:paddingRight">0.0dip</item>
+        <item name="android:paddingBottom">0.0dip</item>
+    </style>
+    <style name="CtrlBtnLeft">
+        <item name="android:layout_gravity">center|left</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">@dimen/ctrl_margin</item>
+    </style>
+    <style name="CtrlBtnRight">
+        <item name="android:layout_gravity">center|right</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginRight">@dimen/ctrl_margin</item>
+    </style>
+    <style name="CtrlBtnCenter">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="MarkBtnLeft">
+        <item name="android:layout_gravity">center|left</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+</resources>
