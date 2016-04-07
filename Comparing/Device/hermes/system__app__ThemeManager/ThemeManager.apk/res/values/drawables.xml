@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="action_button_delete">@miui:drawable/action_button_delete_light</item>
+    <item type="drawable" name="action_button_edit">@miui:drawable/action_button_edit_light</item>
+    <item type="drawable" name="arrow_right">@miui:drawable/arrow_right</item>
+    <item type="drawable" name="action_button_favorite_delete">@miui:drawable/action_button_delete_light</item>
+    <item type="drawable" name="resource_favorite">@miui:drawable/btn_favorite_bg_light</item>
+</resources>

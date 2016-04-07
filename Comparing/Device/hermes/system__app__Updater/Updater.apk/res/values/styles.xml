@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppBaseTheme" parent="@android:style/Theme.Light" />
+    <style name="AppTheme" parent="@style/AppBaseTheme" />
+    <style name="ThemeStatusBarTextWhite" parent="@miui:style/Theme.Light.NoTitle">
+        <item name="miui:windowTranslucentStatus">transparentDark</item>
+    </style>
+    <style name="Theme.Light.Immersion" parent="@miui:style/Theme.Light.NoTitle">
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="miui:immersionMenuEnabled">true</item>
+        <item name="miui:windowTranslucentStatus">transparentDark</item>
+    </style>
+    <style name="Theme.Light" parent="@miui:style/Theme.Light">
+        <item name="android:actionBarStyle">@miui:style/Widget.ActionBar.Large</item>
+    </style>
+    <style name="TextAppearance" parent="@android:attr/textAppearance">
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="TextAppearance.Content" parent="@style/TextAppearance">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textColor">#ff666666</item>
+    </style>
+    <style name="Info">
+        <item name="android:textSize">@dimen/notification_subtext_size</item>
+        <item name="android:textColor">#ff999999</item>
+    </style>
+    <style name="TextAppearance.Small" parent="@style/TextAppearance">
+        <item name="android:textSize">14.0sp</item>
+    </style>
+    <style name="Theme.Light.Translucent.NoTitle" parent="@miui:style/Theme.Light.NoTitle">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+    </style>
+</resources>

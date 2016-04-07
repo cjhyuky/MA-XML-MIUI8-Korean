@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Passport" />
+    <style name="Passport.Animation" parent="@style/Passport" />
+    <style name="Passport.Animation.Dialog" parent="@style/Passport.Animation">
+        <item name="android:windowEnterAnimation">@anim/passport_dialog_enter</item>
+        <item name="android:windowExitAnimation">@anim/passport_dialog_exit</item>
+    </style>
+    <style name="Passport.TextAppearance" parent="@style/Passport">
+        <item name="android:textSize">@dimen/passport_normal_text_size</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/passport_normal_text_light</item>
+        <item name="android:textColorHighlight">?android:textColorHighlight</item>
+        <item name="android:textColorHint">?android:textColorHint</item>
+        <item name="android:textColorLink">?android:textColorLink</item>
+    </style>
+    <style name="Passport.TextAppearance.Large" parent="@style/Passport.TextAppearance">
+        <item name="android:textSize">@dimen/passport_large_text_size</item>
+    </style>
+    <style name="Passport.TextAppearance.Medium" parent="@style/Passport.TextAppearance">
+        <item name="android:textSize">@dimen/passport_normal_text_size</item>
+    </style>
+    <style name="Passport.TextAppearance.Small" parent="@style/Passport.TextAppearance">
+        <item name="android:textSize">@dimen/passport_small_text_size</item>
+    </style>
+    <style name="Passport.TextAppearance.Large.Inverse" parent="@style/Passport.TextAppearance.Large">
+        <item name="android:textColor">@color/passport_normal_text_dark</item>
+        <item name="android:textColorHighlight">?android:textColorHighlightInverse</item>
+        <item name="android:textColorHint">?android:textColorHintInverse</item>
+        <item name="android:textColorLink">?android:textColorLinkInverse</item>
+    </style>
+    <style name="Passport.TextAppearance.Medium.Inverse" parent="@style/Passport.TextAppearance.Medium">
+        <item name="android:textColor">@color/passport_normal_text_dark</item>
+        <item name="android:textColorHighlight">?android:textColorHighlightInverse</item>
+        <item name="android:textColorHint">?android:textColorHintInverse</item>
+        <item name="android:textColorLink">?android:textColorLinkInverse</item>
+    </style>
+    <style name="Passport.TextAppearance.Small.Inverse" parent="@style/Passport.TextAppearance.Small">
+        <item name="android:textColor">@color/passport_normal_text_dark</item>
+        <item name="android:textColorHighlight">?android:textColorHighlightInverse</item>
+        <item name="android:textColorHint">?android:textColorHintInverse</item>
+        <item name="android:textColorLink">?android:textColorLinkInverse</item>
+    </style>
+    <style name="Passport.TextAppearance.Inverse" parent="@style/Passport.TextAppearance">
+        <item name="android:textColor">@color/passport_normal_text_dark</item>
+        <item name="android:textColorHighlight">?android:textColorHighlightInverse</item>
+        <item name="android:textColorHint">?android:textColorHintInverse</item>
+        <item name="android:textColorLink">?android:textColorLinkInverse</item>
+    </style>
+    <style name="Passport.TextAppearance.Medium.Dialog" parent="@style/Passport.TextAppearance.Medium" />
+    <style name="Passport.TextAppearance.Medium.Dialog.Light" parent="@style/Passport.TextAppearance.Medium.Dialog">
+        <item name="android:textColor">@color/passport_dialog_message_text_color_light</item>
+    </style>
+    <style name="Passport.TextAppearance.Widget" parent="@style/Passport.TextAppearance" />
+    <style name="Passport.TextAppearance.Widget.Button" parent="@style/Passport.TextAppearance.Widget">
+        <item name="android:textSize">@dimen/passport_button_text_size</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/passport_button_text_light</item>
+    </style>
+    <style name="Passport.TextAppearance.Widget.EditText" parent="@style/Passport.TextAppearance.Widget">
+        <item name="android:textSize">@dimen/passport_edit_text_size</item>
+        <item name="android:textColor">?android:editTextColor</item>
+        <item name="android:textColorHint">@color/passport_hint_edit_text_color_light</item>
+    </style>
+    <style name="Passport.TextAppearance.List" parent="@style/Passport.TextAppearance">
+        <item name="android:textSize">@dimen/passport_text_font_size_list_primary</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/passport_list_text_light</item>
+    </style>
+    <style name="Passport.TextAppearance.List.Primary" parent="@style/Passport.TextAppearance.List" />
+    <style name="Passport.TextAppearance.List.Secondary" parent="@style/Passport.TextAppearance.List">
+        <item name="android:textSize">@dimen/passport_text_font_size_list_secondary</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/passport_list_secondary_text_light</item>
+    </style>
+    <style name="Passport.TextAppearance.List.Secondary.Preference" parent="@style/Passport.TextAppearance.List.Secondary">
+        <item name="android:textColor">@color/passport_preference_secondary_text_light</item>
+    </style>
+    <style name="Passport.TextAppearance.PreferenceList" parent="@style/Passport.TextAppearance">
+        <item name="android:textSize">@dimen/passport_text_font_size_primary</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/passport_preference_primary_text_light</item>
+    </style>
+    <style name="Passport.TextAppearance.WindowTitle" parent="@style/Passport.TextAppearance">
+        <item name="android:textSize">@dimen/passport_title_text_size</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/passport_action_bar_title_text_light</item>
+    </style>
+    <style name="Passport.TextAppearance.WindowTitle.Subtitle" parent="@style/Passport.TextAppearance.WindowTitle" />
+    <style name="Passport.TextAppearance.DialogTitle" parent="@style/Passport.TextAppearance.WindowTitle">
+        <item name="android:textSize">@dimen/passport_dialog_title_text_size</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="Passport.TextAppearance.ProgressDialog" parent="@style/Passport.TextAppearance">
+        <item name="android:textSize">@dimen/passport_progress_dialog_text_size</item>
+    </style>
+    <style name="Passport.TextAppearance.AlertDialogListItem" parent="@style/Passport.TextAppearance">
+        <item name="android:textSize">@dimen/passport_text_font_size_list_primary</item>
+        <item name="android:textColor">?android:textColorAlertDialogListItem</item>
+    </style>
+    <style name="Passport.TextAppearance.AlertDialogListItem.SingleChoice" parent="@style/Passport.TextAppearance.AlertDialogListItem">
+        <item name="android:textColor">@color/passport_dialog_list_text_light_single_choice</item>
+    </style>
+    <style name="Passport.Widget" parent="@style/Passport" />
+    <style name="Passport.Widget.ActionBar" parent="@style/Passport.Widget">
+        <item name="android:background">@drawable/passport_action_bar_bg_light</item>
+        <item name="android:paddingLeft">0.0dip</item>
+        <item name="android:paddingRight">0.0dip</item>
+        <item name="android:paddingBottom">0.0dip</item>
+        <item name="android:divider">@null</item>
+        <item name="android:height">?android:actionBarSize</item>
+        <item name="android:displayOptions">homeAsUp|showTitle</item>
+        <item name="android:titleTextStyle">@style/Passport.TextAppearance.WindowTitle</item>
+        <item name="android:subtitleTextStyle">@style/Passport.TextAppearance.WindowTitle.Subtitle</item>
+        <item name="android:itemPadding">0.0dip</item>
+    </style>
+    <style name="Passport.Widget.ButtonBar" parent="@style/Passport.Widget">
+        <item name="android:background">@drawable/passport_dialog_button_bar_bg</item>
+        <item name="android:divider">@null</item>
+        <item name="android:dividerPadding">0.0dip</item>
+    </style>
+    <style name="Passport.Widget.Button" parent="@android:style/Widget.Button">
+        <item name="android:textAppearance">@style/Passport.TextAppearance.Widget.Button</item>
+        <item name="android:textColor">@color/passport_button_text_light</item>
+        <item name="android:background">@drawable/passport_btn_bg_light</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="Passport.Widget.Button.Positive" parent="@style/Passport.Widget.Button">
+        <item name="android:textColor">@color/passport_button_text_color_light_positive</item>
+    </style>
+    <style name="Passport.Widget.Button.Warning" parent="@style/Passport.Widget.Button">
+        <item name="android:textColor">@color/passport_button_text_color_light_warning</item>
+        <item name="android:background">@drawable/passport_btn_bg_warn_light</item>
+    </style>
+    <style name="Passport.Widget.Button.Dialog" parent="@style/Passport.Widget.Button">
+        <item name="android:textColor">@color/passport_button_text_light</item>
+        <item name="android:background">@drawable/passport_btn_bg_dialog_light</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="Passport.Widget.Button.Dialog.Default" parent="@style/Passport.Widget.Button.Dialog">
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="Passport.Widget.CompoundButton.CheckBox" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="android:textSize">@dimen/Passport_primary_text_size</item>
+        <item name="android:textColor">@color/passport_checkable_btn_text_color_stable_light</item>
+        <item name="android:background">@null</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">0.0dip</item>
+    </style>
+    <style name="Passport.Widget.DialogTitle" parent="@style/Passport.Widget">
+        <item name="android:textAppearance">@style/Passport.TextAppearance.DialogTitle</item>
+        <item name="android:textSize">@dimen/passport_dialog_title_text_size</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/passport_dialog_title_text_color</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="Passport.Widget.EditText" parent="@android:style/Widget.EditText">
+        <item name="android:textAppearance">@style/Passport.TextAppearance.Widget.EditText</item>
+        <item name="android:gravity">center|left</item>
+        <item name="android:background">@drawable/passport_edit_text_bg_light</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="Passport.Widget.ListView.Item" parent="@style/Passport.Widget">
+        <item name="android:gravity">center|left</item>
+        <item name="android:background">@drawable/passport_list_item_bg_light</item>
+        <item name="android:layout_width">fill_parent</item>
+    </style>
+    <style name="Passport.Widget.ListView.Item.SingleLine" parent="@style/Passport.Widget.ListView.Item">
+        <item name="android:textAppearance">@style/Passport.TextAppearance.List</item>
+        <item name="android:layout_height">@dimen/passport_list_preferred_item_height_small</item>
+        <item name="android:minHeight">@dimen/passport_list_preferred_item_height_small</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="Passport.Widget.ProgressBar" parent="@android:style/Widget.ProgressBar">
+        <item name="android:background">@drawable/passport_progressbar_indeterminate_bg_light</item>
+        <item name="android:maxWidth">@dimen/passport_progressbar_size</item>
+        <item name="android:maxHeight">@dimen/passport_progressbar_size</item>
+        <item name="android:indeterminateDrawable">@drawable/passport_progressbar_indeterminate_light</item>
+        <item name="android:minWidth">@dimen/passport_progressbar_size</item>
+        <item name="android:minHeight">@dimen/passport_progressbar_size</item>
+    </style>
+    <style name="Passport.AlertDialog" parent="@style/Passport">
+        <item name="android:fullDark">@android:color/transparent</item>
+        <item name="android:topDark">@android:color/transparent</item>
+        <item name="android:centerDark">@android:color/transparent</item>
+        <item name="android:bottomDark">@android:color/transparent</item>
+        <item name="android:fullBright">@android:color/transparent</item>
+        <item name="android:topBright">@android:color/transparent</item>
+        <item name="android:centerBright">@android:color/transparent</item>
+        <item name="android:bottomBright">@android:color/transparent</item>
+        <item name="android:bottomMedium">@android:color/transparent</item>
+        <item name="android:centerMedium">@android:color/transparent</item>
+        <item name="passport_layout">@layout/passport_alert_dialog</item>
+    </style>
+    <style name="Passport.BlankWarnTitleText" parent="@style/Passport.WarnTitleText">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+    <style name="Passport.ButtonLogin" parent="@style/Passport.Widget.Button.Warning" />
+    <style name="Passport.ButtonNormal" parent="@style/Passport.Widget.Button" />
+    <style name="Passport.ButtonNotice" parent="@style/Passport.Widget.Button.Positive">
+        <item name="android:textSize">@dimen/passport_button_text_size</item>
+    </style>
+    <style name="Passport.EditTextStyle" parent="@style/Passport.TextAppearance.Medium">
+        <item name="android:textColorHint">@color/passport_hint_text_color_black</item>
+    </style>
+    <style name="Passport.HyperLinkButtonStyle" parent="@style/Passport.TextAppearance.Medium">
+        <item name="android:textColor">@color/passport_text_color_normal_alpha_black</item>
+    </style>
+    <style name="Passport.HyperLinkStyle" parent="@android:style/TextAppearance">
+        <item name="android:textColor">@color/passport_hyperlink_text_color</item>
+    </style>
+    <style name="Passport.ErrorNoticeAppearance" parent="@style/Passport.TextAppearance">
+        <item name="android:textSize">@dimen/passport_button_text_size</item>
+        <item name="android:textColor">@color/passport_text_color_warn</item>
+    </style>
+    <style name="Passport.LoginNormalNoticeAppearance" parent="@style/Passport.TextAppearance">
+        <item name="android:textSize">@dimen/passport_button_text_size</item>
+    </style>
+    <style name="Passport.LoginInfoNoticeAppearance" parent="@style/Passport.TextAppearance">
+        <item name="android:textSize">@dimen/passport_button_text_size</item>
+        <item name="android:textColor">@color/passport_text_color_notice</item>
+    </style>
+    <style name="Passport.TextPrimary" parent="@style/Passport.TextAppearance.Large">
+        <item name="android:textColor">@color/passport_text_color_gray</item>
+    </style>
+    <style name="Passport.TextPrimaryWelcome" parent="@style/Passport.TextAppearance.Large" />
+    <style name="Passport.TextSecondPrimary" parent="@style/Passport.TextAppearance.Medium">
+        <item name="android:textColor">@color/passport_text_color_gray</item>
+    </style>
+    <style name="Passport.WarnTitleText" parent="@style/Passport.TextAppearance.Medium">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/passport_text_color_warn_title</item>
+    </style>
+    <style name="Passport.LayoutPadding" parent="@style/Passport">
+        <item name="android:layout_marginLeft">@dimen/passport_content_horizontal_margin</item>
+        <item name="android:layout_marginTop">@dimen/passport_content_vertical_margin</item>
+        <item name="android:layout_marginRight">@dimen/passport_content_horizontal_margin</item>
+        <item name="android:layout_marginBottom">@dimen/passport_content_bottom_margin</item>
+    </style>
+    <style name="Passport.LoginRegLayoutPadding" parent="@style/Passport">
+        <item name="android:paddingLeft">@dimen/passport_login_reg_padding_h</item>
+        <item name="android:paddingTop">@dimen/passport_login_reg_padding_v</item>
+        <item name="android:paddingRight">@dimen/passport_login_reg_padding_h</item>
+        <item name="android:paddingBottom">@dimen/passport_login_reg_padding_v</item>
+    </style>
+    <style name="Passport.DialogLayoutPadding" parent="@style/Passport">
+        <item name="android:paddingLeft">@dimen/passport_dialog_title_horizontal_padding</item>
+        <item name="android:paddingTop">@dimen/passport_dialog_title_vertical_padding</item>
+        <item name="android:paddingRight">@dimen/passport_dialog_title_horizontal_padding</item>
+        <item name="android:paddingBottom">@dimen/passport_dialog_title_vertical_padding</item>
+    </style>
+    <style name="Passport.Divider" parent="@style/Passport">
+        <item name="android:background">@color/passport_divider_color</item>
+        <item name="android:layout_height">@dimen/passport_divider</item>
+    </style>
+    <style name="Passport.Theme" parent="@android:style/Theme.Holo.Light">
+        <item name="android:colorForeground">@color/passport_bright_foreground_light</item>
+        <item name="android:colorBackground">@color/passport_background_light</item>
+        <item name="android:backgroundDimAmount">0.6</item>
+        <item name="android:disabledAlpha">0.5</item>
+        <item name="android:textAppearance">@style/Passport.TextAppearance</item>
+        <item name="android:textAppearanceInverse">@style/Passport.TextAppearance.Inverse</item>
+        <item name="android:textColorPrimaryInverse">@color/passport_primary_text_dark</item>
+        <item name="android:textAppearanceLarge">@style/Passport.TextAppearance.Large</item>
+        <item name="android:textAppearanceMedium">@style/Passport.TextAppearance.Medium</item>
+        <item name="android:textAppearanceSmall">@style/Passport.TextAppearance.Small</item>
+        <item name="android:textAppearanceLargeInverse">@style/Passport.TextAppearance.Large.Inverse</item>
+        <item name="android:textAppearanceMediumInverse">@style/Passport.TextAppearance.Medium.Inverse</item>
+        <item name="android:textAppearanceSmallInverse">@style/Passport.TextAppearance.Small.Inverse</item>
+        <item name="android:buttonStyle">@style/Passport.Widget.Button</item>
+        <item name="android:windowBackground">@drawable/passport_window_bg_light</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:alertDialogStyle">@style/Passport.AlertDialog</item>
+        <item name="android:checkboxStyle">@style/Passport.Widget.CompoundButton.CheckBox</item>
+        <item name="android:editTextStyle">@style/Passport.Widget.EditText</item>
+        <item name="android:progressBarStyle">@style/Passport.Widget.ProgressBar</item>
+        <item name="android:colorForegroundInverse">@color/passport_bright_foreground_light_inverse</item>
+        <item name="android:listDivider">@null</item>
+        <item name="android:listChoiceIndicatorMultiple">@drawable/passport_btn_checkbox_light</item>
+        <item name="android:colorBackgroundCacheHint">?android:colorBackground</item>
+        <item name="android:windowActionBar">true</item>
+        <item name="android:actionBarStyle">@style/Passport.Widget.ActionBar</item>
+        <item name="android:actionBarSize">@dimen/passport_action_bar_default_height</item>
+        <item name="android:listDividerAlertDialog">@null</item>
+        <item name="android:dialogTheme">@style/Passport.Theme.Light.Dialog</item>
+        <item name="android:alertDialogTheme">@style/Passport.Theme.Light.Dialog.Alert</item>
+        <item name="android:homeAsUpIndicator">@drawable/passport_action_bar_back_light</item>
+        <item name="android:buttonBarStyle">@style/Passport.Widget.ButtonBar</item>
+        <item name="android:buttonBarButtonStyle">@style/Passport.Widget.Button.Dialog</item>
+        <item name="android:alertDialogIcon">@null</item>
+        <item name="android:textCursorDrawable">@drawable/passport_text_cursor_light</item>
+        <item name="android:colorPressedHighlight">@color/passport_highlighted_text_light</item>
+        <item name="android:colorLongPressedHighlight">@color/passport_highlighted_text_light</item>
+        <item name="android:colorFocusedHighlight">@color/passport_highlighted_text_light</item>
+        <item name="android:colorActivatedHighlight">@color/passport_highlighted_text_light</item>
+        <item name="android:colorMultiSelectHighlight">@color/passport_highlighted_text_light</item>
+        <item name="android:actionBarItemBackground">@android:color/transparent</item>
+    </style>
+    <style name="Passport.Theme.Light" parent="@style/Passport.Theme" />
+    <style name="Passport.Theme.Light.Dialog" parent="@style/Passport.Theme.Light">
+        <item name="android:textAppearanceMedium">@style/Passport.TextAppearance.Medium.Dialog.Light</item>
+        <item name="android:windowBackground">@drawable/passport_dialog_bg_light</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowTitleStyle">@style/Passport.Widget.DialogTitle</item>
+        <item name="android:windowAnimationStyle">@style/Passport.Animation.Dialog</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowSoftInputMode">adjustPan</item>
+        <item name="android:actionModeBackground">@drawable/passport_action_mode_bg_dialog_light</item>
+        <item name="android:windowCloseOnTouchOutside">true</item>
+        <item name="android:actionModeSplitBackground">@drawable/passport_action_mode_split_bg_dialog_light</item>
+    </style>
+    <style name="Passport.Theme.Light.Dialog.FixedSize" parent="@style/Passport.Theme.Light.Dialog" />
+    <style name="Passport.Theme.Light.Dialog.NoTitle" parent="@style/Passport.Theme.Light.Dialog">
+        <item name="android:windowActionBar">false</item>
+    </style>
+    <style name="Passport.Theme.Light.Dialog.Alert" parent="@style/Passport.Theme.Light.Dialog">
+        <item name="android:windowMinWidthMajor">@dimen/passport_dialog_min_width_major</item>
+        <item name="android:windowMinWidthMinor">@dimen/passport_dialog_min_width_minor</item>
+    </style>
+    <style name="Passport.Theme.Main" parent="@style/Passport.Theme.Light" />
+    <style name="Theme.Main" parent="@miui:style/Theme.Light" />
+    <style name="Theme.TransBackground" parent="@style/Theme.Main">
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+    <style name="Widget.ActionBar" parent="@miui:style/Widget.ActionBar">
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:displayOptions">homeAsUp|showTitle</item>
+    </style>
+    <style name="Theme.FullScreen" parent="@miui:style/Theme.Light">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowShowWallpaper">true</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:actionBarStyle">@style/Widget.ActionBar</item>
+        <item name="android:homeAsUpIndicator">@drawable/action_bar_back</item>
+    </style>
+    <style name="Theme.FullScreen.Provision" parent="@miui:style/Theme.Light.NoTitle">
+        <item name="miui:windowTranslucentStatus">transparentDark</item>
+    </style>
+    <style name="Theme.Dialog" parent="@miui:style/Theme.Light.Dialog" />
+    <style name="Theme.Dialog.NoTitle" parent="@style/Theme.Dialog">
+        <item name="miui:windowActionBar">false</item>
+    </style>
+    <style name="Theme.NoDisplay" parent="@miui:style/Theme.NoDisplay" />
+    <style name="Theme.Settings" parent="@miui:style/Theme.Light.Settings">
+        <item name="android:actionBarStyle">@style/SettingsActionbarStyle</item>
+    </style>
+    <style name="SettingsActionbarStyle" parent="@miui:style/Widget.ActionBar">
+        <item name="android:displayOptions">showCustom</item>
+    </style>
+    <style name="Theme.Login.Register" parent="@style/Theme.Main" />
+    <style name="Theme.AreaCode" parent="@style/Theme.Main" />
+    <style name="HyperLinkStyle" parent="@android:style/TextAppearance">
+        <item name="android:textColor">@color/hyperlink_text_color</item>
+    </style>
+    <style name="HyperLinkButtonStyle" parent="@miui:style/TextAppearance.Medium">
+        <item name="android:textColor">@color/text_color_normal_alpha_black</item>
+    </style>
+    <style name="EditTextStyle" parent="@miui:style/TextAppearance.Medium">
+        <item name="android:textColorHint">@color/hint_text_color_black</item>
+    </style>
+    <style name="TextPrimaryWelcome" parent="@miui:style/TextAppearance.Large" />
+    <style name="TextPrimary" parent="@miui:style/TextAppearance.Large">
+        <item name="android:textColor">@color/text_color_gray</item>
+    </style>
+    <style name="TextPrimary.Reverse" parent="@style/TextPrimary">
+        <item name="android:textColor">@color/text_color_white</item>
+    </style>
+    <style name="TextSecondPrimary" parent="@miui:style/TextAppearance.Medium">
+        <item name="android:textColor">@color/text_color_gray</item>
+    </style>
+    <style name="TitleDsptText">
+        <item name="android:textColor">?android:textColorSecondary</item>
+    </style>
+    <style name="TitleDsptText.Highlight" parent="@style/TitleDsptText">
+        <item name="android:textColor">@color/text_color_red</item>
+    </style>
+    <style name="RadioButton">
+        <item name="android:background">@miui:drawable/preference_item_bg</item>
+    </style>
+    <style name="ButtonRemove" parent="@miui:style/Widget.Button.Negative" />
+    <style name="ListItemPrimary" parent="@miui:style/TextAppearance.Widget.List.Primary" />
+    <style name="ListItemSecondary" parent="@miui:style/TextAppearance.Widget.List.Secondary" />
+    <style name="FakeEditView" />
+    <style name="WeiBo.ButtonUpdateContacts" parent="@miui:style/Widget.Button.Warning" />
+    <style name="TextAppearance.WeiBo" parent="@miui:style/TextAppearance" />
+    <style name="TextAppearance.WeiBo.Description" parent="@style/TextAppearance.WeiBo">
+        <item name="android:textSize">@dimen/passport_normal_text_size</item>
+        <item name="android:textColor">@color/text_color_gray</item>
+    </style>
+    <style name="TextAppearance.WeiBo.Primary" parent="@style/TextAppearance.WeiBo">
+        <item name="android:textSize">@dimen/passport_large_text_size</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/text_color_black</item>
+    </style>
+    <style name="TitleStyle" />
+    <style name="Theme.NoTitle" parent="@style/Theme.Main">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="Theme.MiCloudEntrance" parent="@style/Theme.Main">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="MiCloudDspt" parent="@style/TextPrimary.Reverse">
+        <item name="android:textColor">@color/micloud_dspt</item>
+    </style>
+    <style name="UserDetailName" parent="@miui:style/TextAppearance.Large">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/text_color_white</item>
+    </style>
+    <style name="UserDetailBindInfo" parent="@miui:style/TextAppearance.Medium">
+        <item name="android:textColor">@color/text_color_white</item>
+    </style>
+    <style name="MiCloudIntro01Part1">
+        <item name="android:textSize">@dimen/account_intro_01_text_size</item>
+        <item name="android:textColor">@color/micloud_intro_01</item>
+    </style>
+    <style name="MiCloudIntro01Part2" parent="@miui:style/TextAppearance.Medium">
+        <item name="android:textColor">@color/micloud_intro_01</item>
+    </style>
+    <style name="MiCloudIntro02Part1">
+        <item name="android:textSize">@dimen/account_intro_02_text_size</item>
+        <item name="android:textColor">@color/micloud_intro_02</item>
+    </style>
+    <style name="MiCloudIntro02Part2" parent="@miui:style/TextAppearance.Medium">
+        <item name="android:textColor">@color/micloud_intro_02</item>
+    </style>
+    <style name="MiCloudIntro03Part1">
+        <item name="android:textSize">@dimen/account_intro_03_text_size</item>
+        <item name="android:textColor">@color/micloud_intro_03</item>
+    </style>
+    <style name="MiCloudIntro03Part2" parent="@miui:style/TextAppearance.Medium">
+        <item name="android:textColor">@color/micloud_intro_03</item>
+    </style>
+    <style name="Theme.ActionBarTab" parent="@miui:style/Theme.Light.ActionBar.NoTitle" />
+    <style name="TextAppearance.Warn" parent="@miui:style/TextAppearance">
+        <item name="android:textColor">@color/text_color_orange</item>
+        <item name="android:textColorLink">@color/text_color_orange</item>
+        <item name="android:shadowColor">@null</item>
+    </style>
+    <style name="Widget.Button" parent="@miui:style/Widget.Button">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="Widget.Button.Main" parent="@style/Widget.Button">
+        <item name="android:textSize">38.0dip</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:background">@null</item>
+    </style>
+    <style name="ProgressBar_Micloud_Usage" parent="@android:style/Widget.ProgressBar.Horizontal">
+        <item name="android:maxHeight">50.0dip</item>
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:indeterminateDrawable">@android:drawable/progress_indeterminate_horizontal</item>
+        <item name="android:progressDrawable">@drawable/micloud_space_usage_progressbar</item>
+        <item name="android:minHeight">8.0dip</item>
+    </style>
+    <style name="MiCloudLogoEnable">
+        <item name="android:textSize">@dimen/Passport_large_text_size</item>
+        <item name="android:textColor">#f5ffffff</item>
+    </style>
+    <style name="MiCloudDspt.Enable" parent="@miui:style/TextAppearance.Medium">
+        <item name="android:textColor">@color/text_color_alpha_white</item>
+    </style>
+    <style name="TextAppearance.ListItem" parent="@miui:style/TextAppearance.List.Primary">
+        <item name="android:textColor">@color/list_item_text_light</item>
+    </style>
+    <style name="TextAppearance.ListItem.Secondary" parent="@miui:style/TextAppearance.List.Secondary">
+        <item name="android:textColor">@color/list_item_text_light</item>
+    </style>
+    <style name="TextAppearance.Device.Info1" parent="@miui:style/TextAppearance.Medium">
+        <item name="android:textColor">@color/device_info1_text_color</item>
+    </style>
+    <style name="TextAppearance.Title.List.Primary" parent="@miui:style/TextAppearance.List.Primary">
+        <item name="android:textColor">@color/no_network_text_light</item>
+    </style>
+    <style name="EmailNoticeTextAppearance" parent="@miui:style/TextAppearance.Large">
+        <item name="android:color">@color/text_color_black_90per</item>
+    </style>
+    <style name="ActivateEmailTextAppearance" parent="@miui:style/TextAppearance.Widget.Button">
+        <item name="android:color">@color/text_color_gray</item>
+    </style>
+    <item type="style" name="APKTOOL_DUMMY_007a">false</item>
+    <style name="Theme.Light.NoTitle.Preference" parent="@miui:style/Theme.Light.NoTitle">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:homeAsUpIndicator">@drawable/action_bar_back</item>
+        <item name="android:textAppearanceListItem">@style/TextAppearance.ListItem</item>
+        <item name="android:textAppearanceListItemSmall">@style/TextAppearance.ListItem.Secondary</item>
+        <item name="miui:preferencePrimaryTextColor">@color/list_item_text_light</item>
+        <item name="miui:preferenceSecondaryTextColor">@color/list_item_text_light</item>
+    </style>
+</resources>

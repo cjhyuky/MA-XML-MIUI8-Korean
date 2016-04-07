@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="v5_debug_theme_type">
+        <item>BLACK</item>
+        <item>GREEN</item>
+        <item>BLUE</item>
+        <item>RED</item>
+    </string-array>
+    <string-array name="v5_app_control_sort_by">
+        <item>按消耗排序</item>
+        <item>按节省排序</item>
+        <item>按名称排序</item>
+    </string-array>
+    <string-array name="flo_win_settings_show_mode">
+        <item>仅桌面显示</item>
+        <item>始终显示</item>
+        <item>不显示</item>
+    </string-array>
+    <string-array name="flo_win_settings_capsule_style">
+        <item>实时网速</item>
+        <item>流量剩余</item>
+    </string-array>
+    <string-array name="package_auto_query_mode">
+        <item>每天1次</item>
+        <item>3天1次</item>
+        <item>每周1次</item>
+        <item>不启用</item>
+    </string-array>
+    <string-array name="v5_app_control_compression_level">
+        <item>高</item>
+        <item>中</item>
+        <item>低</item>
+        <item>不节省</item>
+    </string-array>
+    <string-array name="v5_seekbar_compression_level">
+        <item>低</item>
+        <item>中</item>
+        <item>高</item>
+    </string-array>
+    <string-array name="v5_seekbar_daily_traffic_limit_level">
+        <item>3%</item>
+        <item>5%</item>
+        <item>10%</item>
+    </string-array>
+    <string-array name="span_type_array">
+        <item>按日</item>
+        <item>按月</item>
+    </string-array>
+    <string-array name="v5_compress_level_desc">
+        <item>不压缩: 不节省流量，保持图片原有质量</item>
+        <item>低：保留较高图片画质，节省流量较少</item>
+        <item>中：保持图片清晰，节省流量适中</item>
+        <item>高：图片高压缩，最大限度节省流量</item>
+    </string-array>
+    <array name="v5_apps_control_switch_all">
+        <item>@drawable/v5_app_control_connected_1</item>
+        <item>@drawable/v5_app_control_connected_2</item>
+        <item>@drawable/v5_app_control_disconnected_2</item>
+        <item>@drawable/v5_app_control_disconnected_1</item>
+    </array>
+</resources>

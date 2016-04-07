@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="style_table_left">
+        <item name="android:paddingLeft">10.0dip</item>
+    </style>
+    <style name="style_table_right">
+        <item name="android:gravity">right</item>
+        <item name="android:paddingRight">10.0dip</item>
+    </style>
+</resources>

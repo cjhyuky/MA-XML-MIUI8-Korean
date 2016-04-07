@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="drawable" format="reference" />
+    <attr name="listHeader" format="reference" />
+    <attr name="listFooter" format="reference" />
+    <attr name="itemView" format="reference" />
+    <attr name="titleViewId" format="reference" />
+    <attr name="indicatorId" format="reference" />
+    <attr name="iconViewId" format="reference" />
+    <attr name="barColor" format="reference|color" />
+    <attr name="showText" format="boolean" />
+    <attr name="textSize" format="dimension" />
+    <attr name="textColor" format="dimension" />
+    <attr name="textVerticalMargin" format="dimension" />
+    <attr name="relativeWidth" format="float" />
+    <attr name="progressRingWidth" format="reference|float" />
+    <attr name="titleSize" format="reference|dimension" />
+    <attr name="titleColor" format="reference|color" />
+    <attr name="subtitleSize" format="reference|dimension" />
+    <attr name="subtitleColor" format="reference|color" />
+    <attr name="subtitleMargin" format="reference|dimension" />
+    <attr name="subtitleIconGap" format="reference|dimension" />
+    <attr name="subtitleIcon" format="reference" />
+    <attr name="haloIcon" format="reference" />
+    <attr name="haloIconScaleFactor" format="reference|float" />
+    <attr name="headerTitleSize" format="reference|dimension" />
+    <attr name="headerTitleColor" format="reference|color" />
+    <attr name="headerTitleMargin" format="reference|dimension" />
+    <attr name="leftColor" format="reference|color" />
+    <attr name="rightColor" format="reference|color" />
+    <attr name="maxTitleWordCount" format="reference|integer" />
+    <attr name="maxHeaderTitleWordCount" format="reference|integer" />
+    <attr name="maxSubtitleWordCount" format="reference|integer" />
+    <attr name="animationDuration" format="reference|integer" />
+    <attr name="headerStyle">
+        <enum name="cascade" value="0" />
+        <enum name="cornerLeft" value="1" />
+        <enum name="cornerRight" value="2" />
+    </attr>
+    <attr name="maxVertexAngle" format="reference|float" />
+    <attr name="edgeLength" format="reference|dimension" />
+    <attr name="edgeThickness" format="reference|dimension" />
+    <attr name="arrowColor" format="reference|color" />
+    <attr name="alertDrawable" format="reference" />
+    <attr name="alertMargin" format="reference|dimension" />
+    <attr name="alertScaleFactor" format="reference|float" />
+    <attr name="otherColor" format="color" />
+    <attr name="indicatorColor" format="color" />
+    <attr name="lineWidth" format="dimension" />
+    <attr name="indicatorRadius" format="dimension" />
+    <attr name="preferredWidth" format="reference|dimension" />
+    <attr name="preferredHeight" format="reference|dimension" />
+    <attr name="duvTimeSpan" format="integer">
+        <enum name="thisMonth" value="1" />
+        <enum name="today" value="0" />
+        <enum name="total" value="2" />
+    </attr>
+    <attr name="duvTextFormat" format="string" />
+    <attr name="duvValueTextSize" format="dimension" />
+    <attr name="duvUnitTextSize" format="dimension" />
+    <attr name="duvLoadingText" format="string" />
+    <attr name="duvShowUnit" format="boolean" />
+    <attr name="duvShowValue" format="boolean" />
+    <attr name="duvLoadingTextSize" format="dimension" />
+    <attr name="titleText" format="string" />
+    <attr name="titleBarHeight" format="dimension" />
+    <attr name="rank" format="reference|float" />
+    <attr name="lineColor" format="reference|color" />
+    <attr name="startVerticalRatio" format="reference|float" />
+    <attr name="endVerticalRatio" format="reference|float" />
+    <attr name="topFillColor" format="reference|color" />
+    <attr name="bottomFillColor" format="reference|color" />
+    <attr name="upAnimLength" format="reference|dimension" />
+    <attr name="animDelayOnAttach" format="reference|integer" />
+    <attr name="emptyViewId" format="reference" />
+    <attr name="extraTail" format="reference|dimension" />
+    <attr name="widthShrinkRatio" format="reference|float" />
+    <attr name="lcvLabelTextColor" format="color" />
+    <attr name="lcvLabelTextSize" format="dimension" />
+    <attr name="lcvAxisStepMin" format="dimension" />
+    <attr name="lcvAxisSpace" format="dimension" />
+    <attr name="lcvAxisMark" format="reference" />
+    <attr name="lcvAxisLeft" format="reference" />
+    <attr name="lcvAxisTop" format="reference" />
+    <attr name="lcvAxisRight" format="reference" />
+    <attr name="lcvAxisBottom" format="reference" />
+    <attr name="lcvIgnoreFirstLabel" format="boolean" />
+    <attr name="handle" format="reference" />
+    <attr name="front" format="reference" />
+    <attr name="back" format="reference" />
+    <attr name="detailSize" format="dimension" />
+    <attr name="detailColor" format="reference|color" />
+    <attr name="notifierKey" format="string" />
+    <attr name="mslcInitParaBySelf" format="boolean" />
+    <attr name="statsType">
+        <enum name="save" value="0" />
+        <enum name="usage" value="1" />
+    </attr>
+    <attr name="status_src" format="reference" />
+    <attr name="thmEnabled" format="boolean" />
+    <attr name="ttcColor" format="integer">
+        <enum name="color_1" value="1" />
+        <enum name="color_10" value="10" />
+        <enum name="color_11" value="11" />
+        <enum name="color_12" value="12" />
+        <enum name="color_2" value="2" />
+        <enum name="color_3" value="3" />
+        <enum name="color_4" value="4" />
+        <enum name="color_5" value="5" />
+        <enum name="color_6" value="6" />
+        <enum name="color_7" value="7" />
+        <enum name="color_8" value="8" />
+        <enum name="color_9" value="9" />
+    </attr>
+    <attr name="tbcDrawable" format="integer">
+        <enum name="bg_1" value="1" />
+        <enum name="bg_10" value="10" />
+        <enum name="bg_11" value="11" />
+        <enum name="bg_12" value="12" />
+        <enum name="bg_13" value="13" />
+        <enum name="bg_14" value="14" />
+        <enum name="bg_15" value="15" />
+        <enum name="bg_16" value="16" />
+        <enum name="bg_17" value="17" />
+        <enum name="bg_18" value="18" />
+        <enum name="bg_19" value="19" />
+        <enum name="bg_2" value="2" />
+        <enum name="bg_20" value="20" />
+        <enum name="bg_21" value="21" />
+        <enum name="bg_3" value="3" />
+        <enum name="bg_4" value="4" />
+        <enum name="bg_5" value="5" />
+        <enum name="bg_6" value="6" />
+        <enum name="bg_7" value="7" />
+        <enum name="bg_8" value="8" />
+        <enum name="bg_9" value="9" />
+    </attr>
+    <attr name="tfcColor" format="integer">
+        <enum name="fc_1" value="1" />
+        <enum name="fc_2" value="2" />
+        <enum name="fc_3" value="3" />
+        <enum name="fc_4" value="4" />
+    </attr>
+    <attr name="tscColor" format="integer">
+        <enum name="sc_1" value="1" />
+        <enum name="sc_2" value="2" />
+    </attr>
+    <attr name="icon_marginTop" format="dimension" />
+    <attr name="icon_marginRight" format="dimension" />
+    <attr name="text_label_marginLeft" format="dimension" />
+    <attr name="ptrRefreshableViewBackground" format="reference|color" />
+    <attr name="ptrHeaderBackground" format="reference|color" />
+    <attr name="ptrHeaderTextColor" format="reference|color" />
+    <attr name="ptrHeaderSubTextColor" format="reference|color" />
+    <attr name="ptrMode">
+        <flag name="both" value="0x00000003" />
+        <flag name="disabled" value="0x00000000" />
+        <flag name="manualOnly" value="0x00000004" />
+        <flag name="pullDownFromTop" value="0x00000001" />
+        <flag name="pullFromEnd" value="0x00000002" />
+        <flag name="pullFromStart" value="0x00000001" />
+        <flag name="pullUpFromBottom" value="0x00000002" />
+    </attr>
+    <attr name="ptrShowIndicator" format="reference|boolean" />
+    <attr name="ptrDrawable" format="reference" />
+    <attr name="ptrDrawableStart" format="reference" />
+    <attr name="ptrDrawableEnd" format="reference" />
+    <attr name="ptrOverScroll" format="reference|boolean" />
+    <attr name="ptrHeaderTextAppearance" format="reference" />
+    <attr name="ptrSubHeaderTextAppearance" format="reference" />
+    <attr name="ptrAnimationStyle">
+        <flag name="flip" value="0x00000001" />
+        <flag name="rotate" value="0x00000000" />
+    </attr>
+    <attr name="ptrScrollingWhileRefreshingEnabled" format="reference|boolean" />
+    <attr name="ptrListViewExtrasEnabled" format="reference|boolean" />
+    <attr name="ptrRotateDrawableWhilePulling" format="reference|boolean" />
+    <attr name="ptrAdapterViewBackground" format="reference|color" />
+    <attr name="ptrDrawableTop" format="reference" />
+    <attr name="ptrDrawableBottom" format="reference" />
+</resources>

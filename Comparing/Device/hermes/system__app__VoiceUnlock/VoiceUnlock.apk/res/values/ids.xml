@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="command_description">false</item>
+    <item type="id" name="prompt">false</item>
+    <item type="id" name="footer_left_button">false</item>
+    <item type="id" name="footer_right_button">false</item>
+    <item type="id" name="mic">false</item>
+    <item type="id" name="wave">false</item>
+    <item type="id" name="progress_bar">false</item>
+    <item type="id" name="progress_text">false</item>
+    <item type="id" name="image_intro">false</item>
+    <item type="id" name="text_intro">false</item>
+    <item type="id" name="line_view">false</item>
+    <item type="id" name="fragment">false</item>
+    <item type="id" name="cancel_button">false</item>
+    <item type="id" name="continue_button">false</item>
+    <item type="id" name="primary">false</item>
+    <item type="id" name="secondary">false</item>
+    <item type="id" name="radio">false</item>
+    <item type="id" name="app_icon">false</item>
+    <item type="id" name="app_name">false</item>
+    <item type="id" name="profiles_text">false</item>
+    <item type="id" name="profiles_summary">false</item>
+    <item type="id" name="done_image">false</item>
+    <item type="id" name="txt_prompt">false</item>
+    <item type="id" name="ok_button">false</item>
+</resources>

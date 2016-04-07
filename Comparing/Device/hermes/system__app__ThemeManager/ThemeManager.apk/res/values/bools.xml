@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="resource_decode_image_with_low_quality">false</bool>
+    <bool name="support_font_replacement">true</bool>
+</resources>
