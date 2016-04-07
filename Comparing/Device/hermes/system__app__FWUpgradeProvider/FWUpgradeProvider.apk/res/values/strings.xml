@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="folder_app_name">Folder settings</string>
+    <string name="folder_title_name">Floder</string>
+    <string name="folder_app_download_tip">OMG, App is out of stock, try your luck tomorrow.</string>
+    <string name="folder_add_button">Add</string>
+    <string name="folder_app_status_disable">This application can not be opened!</string>
+    <string name="folder_app_network_disable">Network is unavailable.</string>
+    <string name="folder_app_exchange_one">Next</string>
+    <string name="folder_app_download">Download</string>
+    <string name="folder_app_wait">Waiting</string>
+    <string name="folder_app_stop">Pause</string>
+    <string name="folder_app_stoped">Paused</string>
+    <string name="folder_app_continue">Resume</string>
+    <string name="folder_app_retry">Retry</string>
+    <string name="folder_app_ONGOING">Downloading</string>
+    <string name="folder_app_open">Open</string>
+    <string name="folder_app_update">Update</string>
+    <string name="folder_app_install">Install</string>
+    <string name="folder_app_installing">Installing</string>
+    <string name="folder_app_installed">Installed</string>
+    <string name="folder_app_detail">App details</string>
+    <string name="folder_app_evaluate">Comment</string>
+    <string name="folder_app_uninstall">Uninstall</string>
+    <string name="folder_app_size">Size：</string>
+    <string name="folder_appdetail_version">Version：</string>
+    <string name="folder_appdetail_download_txt">Download %1$s</string>
+    <string name="folder_appdetail_update_txt">Update %1$s</string>
+    <string name="folder_appdetail_download_loading">Downloading %1$s</string>
+    <string name="folder_appdetail_back">Return</string>
+    <string name="folder_app_disable_tip">This application is disabled or can not be opened by some issues.</string>
+    <string name="folder_app_random_null_tip">Master, App is out of stock, please wait for some time.</string>
+    <string name="folder_network_request_fail">Network is unavailable, please try later again.</string>
+    <string name="folder_app_loading_tip">Trying loading...</string>
+    <string name="folder_app_downloading_tip">Trying downloading...</string>
+    <string name="folder_app_link_more">More</string>
+    <string name="folder_app_recommend_tip">Guess</string>
+    <string name="folder_app_exist">Existing application</string>
+    <string name="hello">Hello World!</string>
+    <string name="app_name">UpgradeSys</string>
+</resources>
