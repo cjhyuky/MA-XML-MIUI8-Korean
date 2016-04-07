@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="abc_config_activityDefaultDur">220</integer>
+    <integer name="abc_config_activityShortDur">150</integer>
+    <integer name="abc_max_action_buttons">2</integer>
+    <integer name="appinivte_num_landscape_grid_columns">5</integer>
+    <integer name="appinivte_num_portrait_grid_columns">3</integer>
+    <integer name="auth_signin_max_number_of_idp_buttons">3</integer>
+    <integer name="cancel_button_image_alpha">127</integer>
+    <integer name="design_snackbar_text_max_lines">2</integer>
+    <integer name="gh_contact_account_email_font_size">16</integer>
+    <integer name="gh_contact_account_info_font_size">12</integer>
+    <integer name="gh_contact_date_font_size">16</integer>
+    <integer name="gh_contact_title_font_size">20</integer>
+    <integer name="gh_db_version">17</integer>
+    <integer name="google_play_services_version">8489000</integer>
+    <integer name="maximum_showing_circles">4</integer>
+    <integer name="mdm_lock_message_max_lines">5</integer>
+    <integer name="plus_audience_selection_num_suggested_image_columns">3</integer>
+    <integer name="profile_tag_entry_alt_action_id">10</integer>
+    <integer name="profile_tag_entry_alt_icon_analytics_action">6</integer>
+    <integer name="profile_tag_entry_alt_icon_intent">5</integer>
+    <integer name="profile_tag_entry_analytics_action">4</integer>
+    <integer name="profile_tag_entry_has_nested_entries">7</integer>
+    <integer name="profile_tag_entry_initial_visible_nested">8</integer>
+    <integer name="profile_tag_entry_intent">1</integer>
+    <integer name="profile_tag_entry_main_action_id">9</integer>
+    <integer name="profile_tag_is_entry_with_icon">3</integer>
+    <integer name="smartdevice_animation_drawer_duration">300</integer>
+    <integer name="smartdevice_animation_drawer_start">3300</integer>
+    <integer name="smartdevice_animation_gray_close_duration">300</integer>
+    <integer name="smartdevice_animation_open_duration">550</integer>
+    <integer name="smartdevice_animation_open_start">6000</integer>
+    <integer name="smartdevice_animation_ripple_1_start">7000</integer>
+    <integer name="smartdevice_animation_ripple_2_start">9000</integer>
+    <integer name="smartdevice_animation_ripple_duration">1500</integer>
+    <integer name="smartdevice_animation_shrink_duration">300</integer>
+    <integer name="smartdevice_animation_shrink_start">3000</integer>
+    <integer name="smartdevice_setup_info_fullscreen_background_ratio_bottom">11</integer>
+    <integer name="smartdevice_setup_info_fullscreen_background_ratio_top">9</integer>
+    <integer name="status_bar_notification_info_maxnum">999</integer>
+    <integer name="suwTransitionDuration">300</integer>
+    <integer name="udc_setting_zippy_anim_duration">240</integer>
+    <item type="integer" name="wallet_expander_anim_duration">@android:integer/config_mediumAnimTime</item>
+</resources>

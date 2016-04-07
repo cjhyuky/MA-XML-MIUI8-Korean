@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="abc_allow_stacked_button_bar">false</bool>
+    <bool name="abc_action_bar_embed_tabs_pre_jb">false</bool>
+    <bool name="abc_config_allowActionMenuItemTextWithIcon">false</bool>
+    <bool name="cluster_with_notice_vertical_stack">true</bool>
+    <bool name="display_categories_in_two_columns">false</bool>
+    <bool name="stretch_happiness_survey_prompt">true</bool>
+    <bool name="use_wide_layout">false</bool>
+    <bool name="use_wide_layout_for_friend_review_cluster">false</bool>
+    <bool name="use_wide_layout_for_highlights_banner">false</bool>
+    <bool name="abc_action_bar_embed_tabs">true</bool>
+    <bool name="use_combined_title_in_details">false</bool>
+    <bool name="play_can_use_mini_cards">true</bool>
+    <bool name="play_dynamic_column_count">false</bool>
+    <bool name="play_follow_person_cluster_vertical_stack">true</bool>
+    <bool name="play_merch_banner_compact">true</bool>
+    <bool name="play_warm_welcome_single_column_shows_graphic">false</bool>
+    <bool name="setup_wizard_use_tablet_graphic">false</bool>
+    <bool name="use_large_layout_for_entertainment_onboarding_overlay">false</bool>
+    <bool name="use_review_dialog">false</bool>
+    <bool name="use_small_as_listing_card">false</bool>
+    <bool name="wallet_uic_is_tablet">false</bool>
+    <bool name="now_playing_widgets_enabled">false</bool>
+    <bool name="play_text_compact_mode_enable">false</bool>
+    <bool name="recommendation_widgets_enabled">false</bool>
+    <bool name="is_rtl_enabled">false</bool>
+    <bool name="verification_activity_enable">true</bool>
+    <bool name="abc_action_bar_expanded_action_views_exclusive">true</bool>
+    <bool name="abc_config_actionMenuItemAllCaps">true</bool>
+    <bool name="abc_config_closeDialogWhenTouchOutside">true</bool>
+    <bool name="abc_config_showMenuShortcutsWhenKeyboardPresent">false</bool>
+    <bool name="force_thumbnail_no_scaling">true</bool>
+</resources>

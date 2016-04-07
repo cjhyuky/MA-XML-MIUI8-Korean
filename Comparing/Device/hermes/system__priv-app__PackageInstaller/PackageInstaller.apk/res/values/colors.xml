@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="shadow">#cc222222</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparent_20_black">#33000000</color>
+    <color name="transparent_40_black">#66000000</color>
+    <color name="transparent_50_black">#80000000</color>
+    <color name="transparent_70_black">#b6000000</color>
+    <color name="transparent_80_black">#da000000</color>
+    <color name="transparent_90_black">#e6000000</color>
+    <color name="color_clear">#ffff9900</color>
+    <color name="package_delete_confirm_bg">#d9000000</color>
+    <color name="package_delete_confirm_title">#ccffffff</color>
+    <color name="package_delete_confirm_warning_info">#80ffffff</color>
+    <color name="delete_system_update_cancel">#b2ffffff</color>
+    <color name="delete_system_update_delete">#b2ffffff</color>
+    <color name="replace_ok_color">#ffffffff</color>
+    <color name="hight_light_text_color">#ff1674e9</color>
+</resources>

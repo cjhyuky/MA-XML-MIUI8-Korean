@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="abc_action_bar_embed_tabs">true</bool>
+    <bool name="abc_action_bar_embed_tabs_pre_jb">false</bool>
+    <bool name="abc_action_bar_expanded_action_views_exclusive">true</bool>
+    <bool name="abc_config_actionMenuItemAllCaps">true</bool>
+    <bool name="abc_config_allowActionMenuItemTextWithIcon">false</bool>
+    <bool name="abc_config_closeDialogWhenTouchOutside">true</bool>
+    <bool name="abc_config_showMenuShortcutsWhenKeyboardPresent">false</bool>
+    <bool name="auth_signin_force_portrait">false</bool>
+    <bool name="common_should_fix_dialog_height">false</bool>
+    <bool name="common_should_fix_dialog_width">false</bool>
+    <bool name="enable_wearable_location_service">true</bool>
+    <bool name="gh_is_right_to_left">false</bool>
+    <bool name="google_settings_launcher">true</bool>
+    <bool name="is_large_screen">false</bool>
+    <bool name="mdm_use_all_caps">true</bool>
+    <bool name="people_profile_action_gateway_activity">false</bool>
+    <bool name="photo_folder_autobackup_preference_default_value">false</bool>
+    <bool name="photo_instant_upload_preference_default_value">false</bool>
+    <bool name="photo_on_battery_preference_default_value">true</bool>
+    <bool name="photo_preference_auto_awesome_default_value">true</bool>
+    <bool name="photo_preference_auto_awesome_movies_default_value">true</bool>
+    <bool name="photo_roaming_upload_preference_default_value">false</bool>
+    <bool name="platformIsAtLeastL">false</bool>
+    <bool name="plus_is_tablet">false</bool>
+    <bool name="plus_links_underlined">false</bool>
+    <bool name="show_dpad_navigable_web_view">false</bool>
+    <bool name="smartdevice_is_tablet">false</bool>
+    <bool name="suwUseTabletLayout">false</bool>
+    <bool name="wallet_hw_accel_enabled">false</bool>
+    <bool name="wallet_show_dialog_dividers">false</bool>
+    <bool name="wallet_uic_is_tablet">false</bool>
+</resources>

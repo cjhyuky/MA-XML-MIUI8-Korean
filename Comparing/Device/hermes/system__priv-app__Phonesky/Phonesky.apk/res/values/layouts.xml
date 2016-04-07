@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="layout" name="abc_action_bar_up_container">false</item>
+    <item type="layout" name="abc_action_bar_view_list_nav_layout">false</item>
+    <item type="layout" name="bind__loading_fragment">false</item>
+    <item type="layout" name="rate_review_fragment">false</item>
+    <item type="layout" name="support_simple_spinner_dropdown_item">false</item>
+    <item type="layout" name="play_card_listing">@layout/play_card_wide</item>
+</resources>

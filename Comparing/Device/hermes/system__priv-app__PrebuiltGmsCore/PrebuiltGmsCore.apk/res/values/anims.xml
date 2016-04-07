@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="anim" name="abc_fade_in">false</item>
+    <item type="anim" name="abc_fade_out">false</item>
+    <item type="anim" name="abc_slide_in_top">false</item>
+    <item type="anim" name="abc_slide_out_top">false</item>
+    <item type="anim" name="design_fab_in">false</item>
+    <item type="anim" name="design_fab_out">false</item>
+    <item type="anim" name="profile_slide_down">false</item>
+    <item type="anim" name="scale_down">false</item>
+    <item type="anim" name="scale_up">false</item>
+    <item type="anim" name="slide_down_search">false</item>
+    <item type="anim" name="slide_up_search">false</item>
+    <item type="anim" name="udc_fade_in">false</item>
+    <item type="anim" name="udc_fade_out">false</item>
+    <item type="anim" name="wallet_fade_in_from_half">false</item>
+    <item type="anim" name="wallet_fade_out_to_half">false</item>
+</resources>

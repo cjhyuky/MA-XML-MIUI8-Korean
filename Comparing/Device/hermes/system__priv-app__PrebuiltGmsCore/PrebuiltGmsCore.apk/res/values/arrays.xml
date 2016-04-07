@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Bar</item>
+        <item>Cafe</item>
+        <item>Gas Station</item>
+        <item>Movie Theater</item>
+        <item>Lodging</item>
+        <item>Night Club</item>
+        <item>Museum</item>
+        <item>Restaurant</item>
+        <item>Shopping Center</item>
+        <item>Store</item>
+        <item>Grocery Store or Supermarket</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="add_a_place_placetypes">
+        <item>bar</item>
+        <item>cafe</item>
+        <item>gas_station</item>
+        <item>movie_theater</item>
+        <item>lodging</item>
+        <item>night_club</item>
+        <item>museum</item>
+        <item>restaurant</item>
+        <item>shopping_mall</item>
+        <item>store</item>
+        <item>grocery_or_supermarket</item>
+        <item>other</item>
+    </string-array>
+    <string-array name="auth_device_management_download_description">
+        <item>@string/auth_device_management_download_description</item>
+        <item>@string/auth_device_management_download_description</item>
+        <item>@string/auth_device_management_download_description_kids</item>
+    </string-array>
+    <string-array name="auth_device_management_download_failed_message">
+        <item>@string/auth_device_management_download_failed_message</item>
+        <item>@string/auth_device_management_download_failed_message_nonskippable</item>
+        <item>@string/auth_device_management_download_failed_message_nonskippable</item>
+    </string-array>
+    <string-array name="auth_device_management_download_skip_confirm">
+        <item>@string/auth_device_management_download_skip_confirm</item>
+        <item>@string/auth_device_management_download_skip_nonskippable</item>
+        <item>@string/auth_device_management_download_skip_nonskippable</item>
+    </string-array>
+    <string-array name="auth_device_management_download_skip_message">
+        <item>@string/auth_device_management_download_skip_message</item>
+        <item>@string/auth_device_management_download_skip_message_nonskippable</item>
+        <item>@string/auth_device_management_download_skip_message_nonskippable</item>
+    </string-array>
+    <string-array name="auth_device_management_start_description">
+        <item>@string/auth_device_management_start_description</item>
+        <item>@string/auth_device_management_start_description</item>
+        <item>@string/auth_device_management_start_description_kids</item>
+    </string-array>
+    <string-array name="auth_device_management_update_description">
+        <item>@string/auth_device_management_update_description</item>
+        <item>@string/auth_device_management_update_description</item>
+        <item>@string/auth_device_management_update_description_kids</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>poor</item>
+        <item>fair</item>
+        <item>good</item>
+        <item>strong</item>
+    </string-array>
+    <array name="auth_gls_passwordStrengthColor">
+        <item>#ffff0000</item>
+        <item>#ffffec18</item>
+        <item>#ff6699ff</item>
+        <item>#ff99cc00</item>
+    </array>
+    <string-array name="auth_google_play_email_opt_in">
+        <item>be</item>
+        <item>bg</item>
+        <item>cz</item>
+        <item>dk</item>
+        <item>de</item>
+        <item>ee</item>
+        <item>ie</item>
+        <item>el</item>
+        <item>es</item>
+        <item>fr</item>
+        <item>it</item>
+        <item>cy</item>
+        <item>lv</item>
+        <item>lt</item>
+        <item>lu</item>
+        <item>hu</item>
+        <item>mt</item>
+        <item>nl</item>
+        <item>at</item>
+        <item>pl</item>
+        <item>pt</item>
+        <item>ro</item>
+        <item>si</item>
+        <item>sk</item>
+        <item>fi</item>
+        <item>se</item>
+        <item>uk</item>
+        <item>hr</item>
+        <item>mk</item>
+        <item>me</item>
+        <item>rs</item>
+        <item>tr</item>
+        <item>au</item>
+        <item>ca</item>
+        <item>jp</item>
+        <item>kr</item>
+        <item>mx</item>
+        <item>ru</item>
+    </string-array>
+    <string-array name="auth_setup_wizard_services_agreement">
+        <item>@string/auth_setup_wizard_services_agreement</item>
+        <item>@string/auth_kids_setup_wizard_services_agreement</item>
+        <item>@string/auth_setup_wizard_services_agreement</item>
+    </string-array>
+    <string-array name="auth_setup_wizard_services_backup">
+        <item>@string/auth_setup_wizard_services_backup</item>
+        <item>@string/auth_kids_setup_wizard_services_backup</item>
+        <item>@string/auth_sw_setup_wizard_services_backup</item>
+    </string-array>
+    <string-array name="auth_setup_wizard_services_backup_dialog_text">
+        <item>@string/auth_setup_wizard_services_backup_dialog_text</item>
+        <item>@string/auth_kids_setup_wizard_services_backup_dialog_text</item>
+        <item>@string/auth_sw_setup_wizard_services_backup_dialog_text</item>
+    </string-array>
+    <string-array name="auth_setup_wizard_services_description">
+        <item>@string/auth_setup_wizard_services_description</item>
+        <item>@string/auth_kids_setup_wizard_services_description</item>
+        <item>@string/auth_setup_wizard_services_description</item>
+    </string-array>
+    <string-array name="auth_setup_wizard_services_description_account">
+        <item>@string/auth_setup_wizard_services_description_account</item>
+        <item>@string/auth_kids_setup_wizard_services_description_account</item>
+        <item>@string/auth_setup_wizard_services_description_account</item>
+    </string-array>
+    <string-array name="auth_setup_wizard_services_location_sharing">
+        <item>@string/auth_setup_wizard_services_location_sharing</item>
+        <item>@string/auth_kids_setup_wizard_services_location_sharing</item>
+        <item>@string/auth_setup_wizard_services_location_sharing</item>
+    </string-array>
+    <string-array name="auth_setup_wizard_services_location_sharing_dialog_text">
+        <item>@string/auth_setup_wizard_services_location_sharing_dialog_text</item>
+        <item>@string/auth_kids_setup_wizard_services_location_sharing_dialog_text</item>
+        <item>@string/auth_setup_wizard_services_location_sharing_dialog_text</item>
+    </string-array>
+    <string-array name="auth_setup_wizard_services_play">
+        <item>@string/auth_setup_wizard_services_play</item>
+        <item>@string/auth_setup_wizard_services_play</item>
+        <item>@string/auth_sw_setup_wizard_services_play</item>
+    </string-array>
+    <string-array name="auth_setup_wizard_services_usage_reporting">
+        <item>@string/auth_setup_wizard_services_usage_reporting</item>
+        <item>@string/auth_kids_setup_wizard_services_usage_reporting</item>
+        <item>@string/auth_setup_wizard_services_usage_reporting</item>
+    </string-array>
+    <string-array name="auth_setup_wizard_services_usage_reporting_dialog_text">
+        <item>@string/auth_setup_wizard_services_usage_reporting_dialog_text</item>
+        <item>@string/auth_kids_setup_wizard_services_usage_reporting_dialog_text</item>
+        <item>@string/auth_setup_wizard_services_usage_reporting_dialog_text</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>Release</item>
+        <item>Developer</item>
+        <item>Retail</item>
+        <item>Demo</item>
+    </string-array>
+    <string-array name="car_app_mode_values">
+        <item>Release</item>
+        <item>Developer</item>
+        <item>Retail</item>
+        <item>Demo</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>The phone and the car are running incompatible software. For details, visit &lt;a href="android.com/auto">android.com/auto&lt;/a>" "</item>
+        <item>The car has advertised an incorrect set of audio and/or video configurations.</item>
+        <item>"The USB connection isn't working properly. Things to try: 
+
+• Make sure that the cable fits correctly on both ends. 
+•Make you sure have a data USB cable. 
+•Make sure the date and time are set correctly for both the car and your phone."</item>
+        <item>The car has stopped running Android Auto.</item>
+        <item>Android Auto session stopped, as requested.</item>
+        <item>"The car's software may be out of date. For details and support, contact the manufacturer."</item>
+        <item>"Your car's software didn't pass Android Auto security checks. For details and support, contact the manufacturer."</item>
+        <item>"Your car's software didn't pass Android Auto security checks. Make sure the car's date and time are set correctly, and that Android Auto has been updated."</item>
+        <item>An action timed out. You should grab a bug report and file feedback.</item>
+        <item>"You don't seem to have a launcher installed, is your phone set up correctly?"</item>
+        <item>The graphics pipeline just died. You should grab a bug report and file feedback.</item>
+        <item>Car is not responding to messages from phone. Car may be in wrong state.</item>
+    </string-array>
+    <string-array name="cast_mime_types">
+        <item>image/jpeg</item>
+        <item>image/pjpeg</item>
+        <item>image/jpg</item>
+        <item>image/webp</item>
+        <item>image/png</item>
+        <item>image/gif</item>
+        <item>image/bmp</item>
+        <item>image/vnd.microsoft.icon</item>
+        <item>image/x-icon</item>
+        <item>image/x-xbitmap</item>
+        <item>audio/wav</item>
+        <item>audio/x-wav</item>
+        <item>audio/mp3</item>
+        <item>audio/x-mp3</item>
+        <item>audio/x-m4a</item>
+        <item>audio/mpeg</item>
+        <item>audio/webm</item>
+        <item>audio/ogg</item>
+        <item>audio/x-matroska</item>
+        <item>video/mp4</item>
+        <item>video/x-m4v</item>
+        <item>video/mp2t</item>
+        <item>video/webm</item>
+        <item>video/ogg</item>
+        <item>video/x-matroska</item>
+        <item>application/x-mpegurl</item>
+        <item>application/vnd.apple.mpegurl</item>
+        <item>application/dash+xml</item>
+        <item>application/vnd.ms-sstr+xml</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>Airport</item>
+        <item>ATM</item>
+        <item>Bank</item>
+        <item>Bar</item>
+        <item>Bus station</item>
+        <item>Cafe</item>
+        <item>Campground</item>
+        <item>Cemetery</item>
+        <item>Church</item>
+        <item>City Hall</item>
+        <item>Establishment</item>
+        <item>Gas Station</item>
+        <item>Grocery Store or Supermarket</item>
+        <item>Hindu Temple</item>
+        <item>Hospital</item>
+        <item>Library</item>
+        <item>Lodging</item>
+        <item>Mosque</item>
+        <item>Movie Theatre</item>
+        <item>Museum</item>
+        <item>Park</item>
+        <item>Parking</item>
+        <item>Place of Worship</item>
+        <item>Police Station</item>
+        <item>Post Office</item>
+        <item>Restaurant</item>
+        <item>School</item>
+        <item>Store</item>
+        <item>Subway Station</item>
+        <item>Synagogue</item>
+        <item>Train Station</item>
+        <item>Transit Station</item>
+    </string-array>
+    <string-array name="category_names">
+        <item>airport</item>
+        <item>atm</item>
+        <item>bank</item>
+        <item>bar</item>
+        <item>bus_station</item>
+        <item>cafe</item>
+        <item>campground</item>
+        <item>cemetery</item>
+        <item>church</item>
+        <item>city_hall</item>
+        <item>establishment</item>
+        <item>gas_station</item>
+        <item>grocery_or_supermarket</item>
+        <item>hindu_temple</item>
+        <item>hospital</item>
+        <item>library</item>
+        <item>lodging</item>
+        <item>mosque</item>
+        <item>movie_theater</item>
+        <item>museum</item>
+        <item>park</item>
+        <item>parking</item>
+        <item>place_of_worship</item>
+        <item>police</item>
+        <item>post_office</item>
+        <item>restaurant</item>
+        <item>school</item>
+        <item>store</item>
+        <item>subway_station</item>
+        <item>synagogue</item>
+        <item>train_station</item>
+        <item>transit_station</item>
+    </string-array>
+    <string-array name="chromecast_mac_address_prefix_list">
+        <item>00:1A:11:FF:</item>
+        <item>FA:8F:CA:</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <string-array name="gh_country_codes">
+        <item>93,AF</item>
+        <item>355,AL</item>
+        <item>213,DZ</item>
+        <item>376,AD</item>
+        <item>244,AO</item>
+        <item>672,AQ</item>
+        <item>54,AR</item>
+        <item>374,AM</item>
+        <item>297,AW</item>
+        <item>61,AU</item>
+        <item>43,AT</item>
+        <item>994,AZ</item>
+        <item>973,BH</item>
+        <item>880,BD</item>
+        <item>375,BY</item>
+        <item>32,BE</item>
+        <item>501,BZ</item>
+        <item>229,BJ</item>
+        <item>975,BT</item>
+        <item>591,BO</item>
+        <item>387,BA</item>
+        <item>267,BW</item>
+        <item>55,BR</item>
+        <item>673,BN</item>
+        <item>359,BG</item>
+        <item>226,BF</item>
+        <item>95,MM</item>
+        <item>257,BI</item>
+        <item>855,KH</item>
+        <item>237,CM</item>
+        <item>1,CA</item>
+        <item>238,CV</item>
+        <item>236,CF</item>
+        <item>235,TD</item>
+        <item>56,CL</item>
+        <item>86,CN</item>
+        <item>61,CX</item>
+        <item>61,CC</item>
+        <item>57,CO</item>
+        <item>269,KM</item>
+        <item>242,CG</item>
+        <item>243,CD</item>
+        <item>682,CK</item>
+        <item>506,CR</item>
+        <item>385,HR</item>
+        <item>53,CU</item>
+        <item>357,CY</item>
+        <item>420,CZ</item>
+        <item>45,DK</item>
+        <item>253,DJ</item>
+        <item>670,TL</item>
+        <item>593,EC</item>
+        <item>20,EG</item>
+        <item>503,SV</item>
+        <item>240,GQ</item>
+        <item>291,ER</item>
+        <item>372,EE</item>
+        <item>251,ET</item>
+        <item>500,FK</item>
+        <item>298,FO</item>
+        <item>679,FJ</item>
+        <item>358,FI</item>
+        <item>33,FR</item>
+        <item>689,PF</item>
+        <item>241,GA</item>
+        <item>220,GM</item>
+        <item>995,GE</item>
+        <item>49,DE</item>
+        <item>233,GH</item>
+        <item>350,GI</item>
+        <item>30,GR</item>
+        <item>299,GL</item>
+        <item>502,GT</item>
+        <item>224,GN</item>
+        <item>245,GW</item>
+        <item>592,GY</item>
+        <item>509,HT</item>
+        <item>504,HN</item>
+        <item>852,HK</item>
+        <item>36,HU</item>
+        <item>91,IN</item>
+        <item>62,ID</item>
+        <item>98,IR</item>
+        <item>964,IQ</item>
+        <item>353,IE</item>
+        <item>44,IM</item>
+        <item>972,IL</item>
+        <item>39,IT</item>
+        <item>225,CI</item>
+        <item>81,JP</item>
+        <item>962,JO</item>
+        <item>7,KZ</item>
+        <item>254,KE</item>
+        <item>686,KI</item>
+        <item>965,KW</item>
+        <item>996,KG</item>
+        <item>856,LA</item>
+        <item>371,LV</item>
+        <item>961,LB</item>
+        <item>266,LS</item>
+        <item>231,LR</item>
+        <item>218,LY</item>
+        <item>423,LI</item>
+        <item>370,LT</item>
+        <item>352,LU</item>
+        <item>853,MO</item>
+        <item>389,MK</item>
+        <item>261,MG</item>
+        <item>265,MW</item>
+        <item>60,MY</item>
+        <item>960,MV</item>
+        <item>223,ML</item>
+        <item>356,MT</item>
+        <item>692,MH</item>
+        <item>222,MR</item>
+        <item>230,MU</item>
+        <item>262,YT</item>
+        <item>52,MX</item>
+        <item>691,FM</item>
+        <item>373,MD</item>
+        <item>377,MC</item>
+        <item>976,MN</item>
+        <item>382,ME</item>
+        <item>212,MA</item>
+        <item>258,MZ</item>
+        <item>264,NA</item>
+        <item>674,NR</item>
+        <item>977,NP</item>
+        <item>31,NL</item>
+        <item>599,AN</item>
+        <item>687,NC</item>
+        <item>64,NZ</item>
+        <item>505,NI</item>
+        <item>227,NE</item>
+        <item>234,NG</item>
+        <item>683,NU</item>
+        <item>850,KP</item>
+        <item>47,NO</item>
+        <item>968,OM</item>
+        <item>92,PK</item>
+        <item>680,PW</item>
+        <item>507,PA</item>
+        <item>675,PG</item>
+        <item>595,PY</item>
+        <item>51,PE</item>
+        <item>63,PH</item>
+        <item>870,PN</item>
+        <item>48,PL</item>
+        <item>351,PT</item>
+        <item>1,PR</item>
+        <item>974,QA</item>
+        <item>40,RO</item>
+        <item>7,RU</item>
+        <item>250,RW</item>
+        <item>590,BL</item>
+        <item>685,WS</item>
+        <item>378,SM</item>
+        <item>239,ST</item>
+        <item>966,SA</item>
+        <item>221,SN</item>
+        <item>381,RS</item>
+        <item>248,SC</item>
+        <item>232,SL</item>
+        <item>65,SG</item>
+        <item>421,SK</item>
+        <item>386,SI</item>
+        <item>677,SB</item>
+        <item>252,SO</item>
+        <item>27,ZA</item>
+        <item>82,KR</item>
+        <item>34,ES</item>
+        <item>94,LK</item>
+        <item>290,SH</item>
+        <item>508,PM</item>
+        <item>249,SD</item>
+        <item>597,SR</item>
+        <item>268,SZ</item>
+        <item>46,SE</item>
+        <item>41,CH</item>
+        <item>963,SY</item>
+        <item>886,TW</item>
+        <item>992,TJ</item>
+        <item>255,TZ</item>
+        <item>66,TH</item>
+        <item>228,TG</item>
+        <item>690,TK</item>
+        <item>676,TO</item>
+        <item>216,TN</item>
+        <item>90,TR</item>
+        <item>993,TM</item>
+        <item>688,TV</item>
+        <item>971,AE</item>
+        <item>256,UG</item>
+        <item>44,GB</item>
+        <item>380,UA</item>
+        <item>598,UY</item>
+        <item>1,US</item>
+        <item>998,UZ</item>
+        <item>678,VU</item>
+        <item>39,VA</item>
+        <item>58,VE</item>
+        <item>84,VN</item>
+        <item>681,WF</item>
+        <item>967,YE</item>
+        <item>260,ZM</item>
+        <item>263,ZW</item>
+    </string-array>
+    <string-array name="location_sharing_edit_share_duration_array">
+        <item>Stop sharing</item>
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>Indefinitely</item>
+    </string-array>
+    <string-array name="location_sharing_link_edit_share_duration_array">
+        <item>Stop sharing</item>
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+    </string-array>
+    <string-array name="location_sharing_minutes_array">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+    </string-array>
+    <string-array name="photo_connection_preference_entry_labels">
+        <item>@string/photo_connection_wifi_and_mobile</item>
+        <item>@string/photo_connection_wifi_only</item>
+    </string-array>
+    <string-array name="photo_connection_preference_entry_values">
+        <item>WIFI_OR_MOBILE</item>
+        <item>WIFI_ONLY</item>
+    </string-array>
+    <string-array name="photo_upload_size_preference_entry_labels">
+        <item>@string/photo_upload_size_standard</item>
+        <item>@string/photo_upload_size_full</item>
+    </string-array>
+    <string-array name="photo_upload_size_preference_entry_summaries">
+        <item>@string/photo_upload_size_preference_entry_summary_standard</item>
+        <item>@string/photo_upload_size_preference_entry_summary_full</item>
+    </string-array>
+    <string-array name="video_connection_preference_entry_labels">
+        <item>@string/photo_connection_wifi_and_mobile</item>
+        <item>@string/photo_connection_wifi_only</item>
+    </string-array>
+    <string-array name="video_connection_preference_entry_summaries">
+        <item>@string/photo_video_connection_preference_entry_summary_wifi_and_mobile</item>
+        <item>@null</item>
+    </string-array>
+    <string-array name="video_connection_preference_entry_values">
+        <item>WIFI_OR_MOBILE</item>
+        <item>WIFI_ONLY</item>
+    </string-array>
+    <array name="wallet_progress_spinner_colors">
+        <item>@color/material_google_blue_500</item>
+        <item>@color/material_google_red_500</item>
+        <item>@color/material_google_yellow_500</item>
+        <item>@color/material_google_green_500</item>
+    </array>
+</resources>

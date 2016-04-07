@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="menu" name="common_menu_network_usage">false</item>
+</resources>

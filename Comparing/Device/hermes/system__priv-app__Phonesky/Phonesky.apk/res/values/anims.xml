@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="anim" name="abc_slide_in_bottom">false</item>
+    <item type="anim" name="abc_slide_in_top">false</item>
+    <item type="anim" name="abc_slide_out_bottom">false</item>
+    <item type="anim" name="abc_slide_out_top">false</item>
+    <item type="anim" name="fade_in_from_half">false</item>
+    <item type="anim" name="fade_out_to_half">false</item>
+</resources>

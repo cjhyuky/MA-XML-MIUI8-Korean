@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="xml" name="auth_location_settings">false</item>
+    <item type="xml" name="d2d_device_admin">false</item>
+</resources>

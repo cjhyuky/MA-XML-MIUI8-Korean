@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="appinvite_message_over_limit">
+        <item quantity="other">&lt;g id="numberOfCharactersOverLimit">%1$d&lt;/g> characters over limit</item>
+        <item quantity="one">&lt;g id="numberOfCharactersOverLimit">%1$d&lt;/g> character over limit</item>
+    </plurals>
+    <plurals name="appinvite_message_within_limit">
+        <item quantity="other">&lt;g id="numberOfCharactersUnderLimit">%1$d&lt;/g> characters left</item>
+        <item quantity="one">&lt;g id="numberOfCharactersUnderLimit">%1$d&lt;/g> character left</item>
+    </plurals>
+    <plurals name="auth_authzen_pull_number_of_google_accounts">
+        <item quantity="other">%d Google Accounts</item>
+        <item quantity="one">%d Google Account</item>
+    </plurals>
+    <plurals name="auth_d2d_source_notification_text">
+        <item quantity="other">" This device was used to set up a "&lt;g id="device">^1&lt;/g>" with your Google Accounts and their data "</item>
+        <item quantity="one">" This device was used to set up a "&lt;g id="device">^1&lt;/g>" with your Google Account and its data "</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_hour">
+        <item quantity="other">" %d hours"</item>
+        <item quantity="one">" 1 hour"</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_minute">
+        <item quantity="other">" %d minutes"</item>
+        <item quantity="one">" 1 minute"</item>
+    </plurals>
+    <plurals name="drive_fast_scroll_time_grouper_n_days_ago">
+        <item quantity="other">&lt;g example="3" id="day">%d&lt;/g> days ago</item>
+        <item quantity="one">&lt;g example="1" id="day">%d&lt;/g> day ago</item>
+    </plurals>
+    <plurals name="drive_fast_scroll_time_grouper_n_weeks_ago">
+        <item quantity="other">&lt;g example="1" id="weeks">%d&lt;/g> weeks ago</item>
+        <item quantity="one">&lt;g example="1" id="weeks">%d&lt;/g> week ago</item>
+    </plurals>
+    <plurals name="fm_invitations_text_retry_error">
+        <item quantity="other">"These invitations weren't sent because of an error"</item>
+        <item quantity="one">"This invitation wasn't sent because of an error"</item>
+    </plurals>
+    <plurals name="fm_invitations_text_skip_failures">
+        <item quantity="other">"These invitations can't be sent right now. You can send them again from Google Play > My account."</item>
+        <item quantity="one">"This invitation can't be sent right now. You can send it again from Google Play > My account."</item>
+    </plurals>
+    <plurals name="fm_invite_button_secondary_text">
+        <item quantity="other">%d invitations left</item>
+        <item quantity="one">%d invitation left</item>
+    </plurals>
+    <plurals name="gh_chat_new_messages_notification">
+        <item quantity="other">" "&lt;g id="num_unseen_messages">%1$d&lt;/g>" new messages "</item>
+        <item quantity="one">1 new message</item>
+    </plurals>
+    <plurals name="gh_hangout_q_position">
+        <item quantity="other">" "&lt;g id="queue_position">%1$d&lt;/g>" people ahead of you "</item>
+        <item quantity="one">1 person ahead of you</item>
+    </plurals>
+    <plurals name="location_sharing_circles">
+        <item quantity="other">&lt;g id="num_circles">%d&lt;/g> circles</item>
+        <item quantity="one">1 circle</item>
+    </plurals>
+    <plurals name="location_sharing_duration_days">
+        <item quantity="other">&lt;g id="days">%d&lt;/g> days</item>
+        <item quantity="one">1 day</item>
+    </plurals>
+    <plurals name="location_sharing_duration_hours">
+        <item quantity="other">&lt;g id="hours">%d&lt;/g> hr</item>
+        <item quantity="one">1 hr</item>
+    </plurals>
+    <plurals name="location_sharing_duration_minutes">
+        <item quantity="other">&lt;g id="minutes">%d&lt;/g> min</item>
+        <item quantity="one">1 min</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_days">
+        <item quantity="other">&lt;g id="days">%d&lt;/g> days</item>
+        <item quantity="one">1 day</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_hours">
+        <item quantity="other">&lt;g id="hours">%d&lt;/g> hr</item>
+        <item quantity="one">1 hr</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_minutes">
+        <item quantity="other">&lt;g id="minutes">%d&lt;/g> min</item>
+        <item quantity="one">1 min</item>
+    </plurals>
+    <plurals name="location_sharing_people">
+        <item quantity="other">&lt;g id="num_people">%d&lt;/g> people</item>
+        <item quantity="one">1 person</item>
+    </plurals>
+    <plurals name="nearby_notification_content">
+        <item quantity="other">By %1$s and %2$d other apps</item>
+        <item quantity="one">By %1$s and %2$d other app</item>
+    </plurals>
+    <plurals name="notification_autobackup_stalled_quantity_text">
+        <item quantity="other">%1$d days since last backup</item>
+        <item quantity="zero">%1$d days since last backup</item>
+        <item quantity="one">%1$d day since last backup</item>
+    </plurals>
+    <plurals name="plus_num_days_ago">
+        <item quantity="other">&lt;g id="count">%d&lt;/g> days</item>
+        <item quantity="one">&lt;g id="count">%d&lt;/g> day</item>
+    </plurals>
+    <plurals name="plus_num_hours_ago">
+        <item quantity="other">&lt;g id="count">%d&lt;/g> hours</item>
+        <item quantity="one">&lt;g id="count">%d&lt;/g> hour</item>
+    </plurals>
+    <plurals name="plus_num_minutes_ago">
+        <item quantity="other">&lt;g id="count">%d&lt;/g> mins</item>
+        <item quantity="one">&lt;g id="count">%d&lt;/g> min</item>
+    </plurals>
+    <plurals name="plus_sharebox_circles_checkbox_number_of_people">
+        <item quantity="other">&lt;g id="count">%1$s&lt;/g> people</item>
+        <item quantity="one">&lt;g id="count">%1$s&lt;/g> person</item>
+        <item quantity="two">&lt;g id="count">%1$s&lt;/g> people</item>
+        <item quantity="few">&lt;g id="count">%1$s&lt;/g> people</item>
+        <item quantity="many">&lt;g id="count">%1$s&lt;/g> people</item>
+    </plurals>
+    <plurals name="profile_total_followers_count">
+        <item quantity="other">%1$,d followers</item>
+        <item quantity="one">One follower</item>
+    </plurals>
+    <plurals name="profile_total_views_count">
+        <item quantity="other">&lt;g id="count">%1$,d&lt;/g> views</item>
+        <item quantity="zero">No views</item>
+        <item quantity="one">One view</item>
+        <item quantity="two">Two views</item>
+        <item quantity="few">&lt;g id="count">%1$,d&lt;/g> views</item>
+        <item quantity="many">&lt;g id="count">%1$,d&lt;/g> views</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_setting_up_accounts_and_data_text">
+        <item quantity="other">Copying your Google Accounts and data…</item>
+        <item quantity="one">Copying your Google Account and data…</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_source_notification_text">
+        <item quantity="other">This device was used to set up a &lt;g example="Nexus 6" id="device">^1&lt;/g> with your Google Accounts and data</item>
+        <item quantity="one">This device was used to set up a &lt;g example="Nexus 6" id="device">^1&lt;/g> with your Google Account and data</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">Rebooting to install in &lt;g id="count">%d&lt;/g> seconds…</item>
+        <item quantity="one">Rebooting to install in 1 second…</item>
+    </plurals>
+    <plurals name="wallet_expanding_address_selector">
+        <item quantity="other">Showing list of &lt;g example="3" id="list">%1$d&lt;/g> address options</item>
+        <item quantity="one">Showing list of one address option</item>
+    </plurals>
+    <plurals name="wallet_expanding_expander_view">
+        <item quantity="other">Showing list of &lt;g example="3" id="list">%1$d&lt;/g> items.</item>
+        <item quantity="one">Showing list of one item.</item>
+    </plurals>
+    <plurals name="wallet_expanding_instrument_selector">
+        <item quantity="other">Showing list of &lt;g example="3" id="list">%1$d&lt;/g> payment method options</item>
+        <item quantity="one">Showing list of one payment method option</item>
+    </plurals>
+    <plurals name="wallet_expanding_loyalty_selector">
+        <item quantity="other">Showing list of &lt;g example="3" id="list">%1$d&lt;/g> loyalty program options</item>
+        <item quantity="one">Showing list of one loyalty program option</item>
+    </plurals>
+    <plurals name="wallet_minutes">
+        <item quantity="other">minutes</item>
+        <item quantity="one">minute</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day">
+        <item quantity="other">" You will be automatically charged "&lt;g id="price_start_tag">&lt;price>&lt;/g>&lt;g example="$54.03" id="currency">%1$s&lt;/g> every &lt;g example="5" id="period">%2$d&lt;/g> days&lt;g id="price_end_tag">&lt;/price>&lt;/g> starting &lt;g id="start_time_start_tag">&lt;start_time>&lt;/g>&lt;g example="June 8, 2015" id="date">%3$s&lt;/g>&lt;g id="start_time_end_tag">&lt;/start_time>&lt;/g>" until you cancel your subscription. "</item>
+        <item quantity="one">" You will be automatically charged "&lt;g id="price_start_tag">&lt;price>&lt;/g>&lt;g example="$54.03" id="currency">%1$s&lt;/g> every day&lt;g id="price_end_tag">&lt;/price>&lt;/g> starting &lt;g id="start_time_start_tag">&lt;start_time>&lt;/g>&lt;g example="June 8, 2015" id="date">%3$s&lt;/g>&lt;g id="start_time_end_tag">&lt;/start_time>&lt;/g>" until you cancel your subscription. "</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day_limited">
+        <item quantity="other">" You will be automatically charged "&lt;g id="price_start_tag">&lt;price>&lt;/g>&lt;g example="$54.03" id="currency">%1$s&lt;/g> every &lt;g example="54.03" id="period">%2$d&lt;/g> days&lt;g id="price_end_tag">&lt;/price>&lt;/g> for the next &lt;g id="duration_start_tag">&lt;duration>&lt;/g>&lt;g example="54.03" id="currency">%3$d&lt;/g> days&lt;g id="duration_end_tag">&lt;/duration>&lt;/g> starting &lt;g id="start_time_start_tag">&lt;start_time>&lt;/g>&lt;g example="54.03" id="currency">%4$s&lt;/g>&lt;g id="start_time_end_tag">&lt;/start_time>&lt;/g>". "</item>
+        <item quantity="one">" You will be automatically charged "&lt;g id="price_start_tag">&lt;price>&lt;/g>&lt;g example="$54.03" id="currency">%1$s&lt;/g> every day&lt;g id="price_end_tag">&lt;/price>&lt;/g> for the next &lt;g id="duration_start_tag">&lt;duration>&lt;/g>&lt;g example="7" id="period">%3$d&lt;/g> days&lt;g id="duration_end_tag">&lt;/duration>&lt;/g> starting &lt;g id="start_time_start_tag">&lt;start_time>&lt;/g>&lt;g example="June 8, 2015" id="date">%4$s&lt;/g>&lt;g id="start_time_end_tag">&lt;/start_time>&lt;/g>". "</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day_tax">
+        <item quantity="other">" You will be automatically charged "&lt;g id="price_start_tag">&lt;price>&lt;/g>&lt;g example="$54.03" id="currency">%1$s&lt;/g> plus any applicable tax every &lt;g example="5" id="period">%2$d&lt;/g> days&lt;g id="price_end_tag">&lt;/price>&lt;/g> starting &lt;g id="start_time_start_tag">&lt;start_time>&lt;/g>&lt;g example="June 8, 2015" id="date">%3$s&lt;/g>&lt;g id="start_time_end_tag">&lt;/start_time>&lt;/g>" until you cancel your subscription. "</item>
+        <item quantity="one">" You will be automatically charged "&lt;g id="price_start_tag">&lt;price>&lt;/g>&lt;g example="$54.03" id="currency">%1$s&lt;/g> plus any applicable tax every day&lt;g id="price_end_tag">&lt;/price>&lt;/g> starting &lt;g id="start_time_start_tag">&lt;start_time>&lt;/g>&lt;g example="June 8, 2015" id="date">%3$s&lt;/g>&lt;g id="start_time_end_tag">&lt;/start_time>&lt;/g>" until you cancel your subscription. "</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day_tax_limited">
+        <item quantity="other">" You will be automatically charged "&lt;g id="price_start_tag">&lt;price>&lt;/g>&lt;g example="$54.03" id="currency">%1$s&lt;/g> plus any applicable tax every &lt;g example="2" id="period">%2$d&lt;/g> days&lt;g id="price_end_tag">&lt;/price>&lt;/g> for the next &lt;g id="duration_start_tag">&lt;duration>&lt;/g>&lt;g example="6" id="duration">%3$d&lt;/g> days&lt;g id="duration_end_tag">&lt;/duration>&lt;/g> starting &lt;g id="start_time_start_tag">&lt;start_time>&lt;/g>&lt;g example="June 8, 2015" id="date">%4$s&lt;/g>&lt;g id="start_time_end_tag">&lt;/start_time>&lt;/g>". "</item>
+        <item quantity="one">" You will be automatically charged "&lt;g id="price_start_tag">&lt;price>&lt;/g>&lt;g example="$54.03" id="currency">%1$s&lt;/g> plus any applicable tax every day&lt;g id="price_end_tag">&lt;/price>&lt;/g> for the next &lt;g id="duration_start_tag">&lt;duration>&lt;/g>&lt;g example="6" id="duration">%3$d&lt;/g> days&lt;g id="duration_end_tag">&lt;/duration>&lt;/g> starting &lt;g id="start_time_start_tag">&lt;start_time>&lt;/g>&lt;g example="June 8, 2015" id="date">%4$s&lt;/g>&lt;g id="start_time_end_tag">&lt;/start_time>&lt;/g>". "</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month">
+        <item quantity="other">" You will be automatically charged "&lt;g id="price_start_tag">&lt;price>&lt;/g>&lt;g example="$5.03" id="currency">%1$s&lt;/g> every &lt;g example="5" id="period">%2$d&lt;/g> months&lt;g id="price_end_tag">&lt;/price>&lt;/g> starting &lt;g id="start_time_start_tag">&lt;start_time>&lt;/g>&lt;g example="June 8, 2015" id="date">%3$s&lt;/g>&lt;g id="start_time_end_tag">&lt;/start_time>&lt;/g>" until you cancel your subscription. "</item>
+        <item quantity="one">" You will be automatically charged "&lt;g id="price_start_tag">&lt;price>&lt;/g>&lt;g example="$5.03" id="currency">%1$s&lt;/g> every month&lt;g id="price_end_tag">&lt;/price>&lt;/g> starting &lt;g id="start_time_start_tag">&lt;start_time>&lt;/g>&lt;g example="June 8, 2015" id="date">%3$s&lt;/g>&lt;g id="start_time_end_tag">&lt;/start_time>&lt;/g>" until you cancel your subscription. "</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month_limited">
+        <item quantity="other">" You will be automatically charged "&lt;g id="price_start_tag">&lt;price>&lt;/g>&lt;g example="$54.03" id="currency">%1$s&lt;/g> every &lt;g example="5" id="period">%2$d&lt;/g> months&lt;g id="price_end_tag">&lt;/price>&lt;/g> for the next &lt;g id="duration_start_tag">&lt;duration>&lt;/g>&lt;g example="10" id="duration">%3$d&lt;/g> months&lt;g id="duration_end_tag">&lt;/duration>&lt;/g> starting &lt;g id="start_time_start_tag">&lt;start_time>&lt;/g>&lt;g example="June 8, 2015" id="date">%4$s&lt;/g>&lt;g id="start_time_end_tag">&lt;/start_time>&lt;/g>". "</item>
+        <item quantity="one">" You will be automatically charged "&lt;g id="price_start_tag">&lt;price>&lt;/g>&lt;g example="$54.03" id="currency">%1$s&lt;/g> every month&lt;g id="price_end_tag">&lt;/price>&lt;/g> for the next &lt;g id="duration_start_tag">&lt;duration>&lt;/g>&lt;g example="6" id="period">%3$d&lt;/g> months&lt;g id="duration_end_tag">&lt;/duration>&lt;/g> starting &lt;g id="start_time_start_tag">&lt;start_time>&lt;/g>&lt;g example="June 8, 2015" id="date">%4$s&lt;/g>&lt;g id="start_time_end_tag">&lt;/start_time>&lt;/g>". "</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month_tax">
+        <item quantity="other">" You will be automatically charged "&lt;g id="price_start_tag">&lt;price>&lt;/g>&lt;g example="$5.03" id="currency">%1$s&lt;/g> plus any applicable tax every &lt;g example="5" id="period">%2$d&lt;/g> months&lt;g id="price_end_tag">&lt;/price>&lt;/g> starting &lt;g id="start_time_start_tag">&lt;start_time>&lt;/g>&lt;g example="June 8, 2015" id="date">%3$s&lt;/g>&lt;g id="start_time_end_tag">&lt;/start_time>&lt;/g>" until you cancel your subscription. "</item>
+        <item quantity="one">" You will be automatically charged "&lt;g id="price_start_tag">&lt;price>&lt;/g>&lt;g example="$5.03" id="currency">%1$s&lt;/g> plus any applicable tax every month&lt;g id="price_end_tag">&lt;/price>&lt;/g> starting &lt;g id="start_time_start_tag">&lt;start_time>&lt;/g>&lt;g example="June 8, 2015" id="date">%3$s&lt;/g>&lt;g id="start_time_end_tag">&lt;/start_time>&lt;/g>" until you cancel your subscription. "</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month_tax_limited">
+        <item quantity="other">" You will be automatically charged "&lt;g id="price_start_tag">&lt;price>&lt;/g>&lt;g example="$5.03" id="currency">%1$s&lt;/g> plus any applicable tax every &lt;g example="5" id="period">%2$d&lt;/g> months&lt;g id="price_end_tag">&lt;/price>&lt;/g> for the next &lt;g id="duration_start_tag">&lt;duration>&lt;/g>&lt;g example="10" id="duration">%3$d&lt;/g> months&lt;g id="duration_end_tag">&lt;/duration>&lt;/g> starting &lt;g id="start_time_start_tag">&lt;start_time>&lt;/g>&lt;g example="June 8, 2015" id="date">%4$s&lt;/g>&lt;g id="start_time_end_tag">&lt;/start_time>&lt;/g>". "</item>
+        <item quantity="one">" You will be automatically charged "&lt;g id="price_start_tag">&lt;price>&lt;/g>&lt;g example="$5.03" id="currency">%1$s&lt;/g> plus any applicable tax every month&lt;g id="price_end_tag">&lt;/price>&lt;/g> for the next &lt;g id="duration_start_tag">&lt;duration>&lt;/g>&lt;g example="5" id="duration">%3$d&lt;/g> months&lt;g id="duration_end_tag">&lt;/duration>&lt;/g> starting &lt;g id="start_time_start_tag">&lt;start_time>&lt;/g>&lt;g example="June 8, 2015" id="date">%4$s&lt;/g>&lt;g id="start_time_end_tag">&lt;/start_time>&lt;/g>". "</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year">
+        <item quantity="other">" You will be automatically charged "&lt;g id="price_start_tag">&lt;price>&lt;/g>&lt;g example="$5.03" id="currency">%1$s&lt;/g> every &lt;g example="5" id="period">%2$d&lt;/g> years&lt;g id="price_end_tag">&lt;/price>&lt;/g> starting &lt;g id="start_time_start_tag">&lt;start_time>&lt;/g>&lt;g example="June 8, 2015" id="date">%3$s&lt;/g>&lt;g id="start_time_end_tag">&lt;/start_time>&lt;/g>" until you cancel your subscription. "</item>
+        <item quantity="one">" You will be automatically charged "&lt;g id="price_start_tag">&lt;price>&lt;/g>&lt;g example="$5.03" id="currency">%1$s&lt;/g> every year&lt;g id="price_end_tag">&lt;/price>&lt;/g> starting &lt;g id="start_time_start_tag">&lt;start_time>&lt;/g>&lt;g example="June 8, 2015" id="date">%3$s&lt;/g>&lt;g id="start_time_end_tag">&lt;/start_time>&lt;/g>" until you cancel your subscription. "</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year_limited">
+        <item quantity="other">" You will be automatically charged "&lt;g id="price_start_tag">&lt;price>&lt;/g>&lt;g example="$5.03" id="currency">%1$s&lt;/g> every &lt;g example="5" id="period">%2$d&lt;/g> years&lt;g id="price_end_tag">&lt;/price>&lt;/g> for the next &lt;g id="duration_start_tag">&lt;duration>&lt;/g>&lt;g example="10" id="duration">%3$d&lt;/g> years&lt;g id="duration_end_tag">&lt;/duration>&lt;/g> starting &lt;g id="start_time_start_tag">&lt;start_time>&lt;/g>&lt;g example="June 8, 2015" id="date">%4$s&lt;/g>&lt;g id="start_time_end_tag">&lt;/start_time>&lt;/g>". "</item>
+        <item quantity="one">" You will be automatically charged "&lt;g id="price_start_tag">&lt;price>&lt;/g>&lt;g example="$5.03" id="currency">%1$s&lt;/g> every year&lt;g id="price_end_tag">&lt;/price>&lt;/g> for the next &lt;g id="duration_start_tag">&lt;duration>&lt;/g>&lt;g example="5" id="duration">%3$d&lt;/g> years&lt;g id="duration_end_tag">&lt;/duration>&lt;/g> starting &lt;g id="start_time_start_tag">&lt;start_time>&lt;/g>&lt;g example="June 8, 2015" id="date">%4$s&lt;/g>&lt;g id="start_time_end_tag">&lt;/start_time>&lt;/g>". "</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year_tax">
+        <item quantity="other">" s You will be automatically charged "&lt;g id="price_start_tag">&lt;price>&lt;/g>&lt;g example="$5.03" id="currency">%1$s&lt;/g> plus any applicable tax every &lt;g example="5" id="period">%2$d&lt;/g> years&lt;g id="price_end_tag">&lt;/price>&lt;/g> starting &lt;g id="start_time_start_tag">&lt;start_time>&lt;/g>&lt;g example="June 8, 2015" id="date">%3$s&lt;/g>&lt;g id="start_time_end_tag">&lt;/start_time>&lt;/g>" until you cancel your subscription. "</item>
+        <item quantity="one">" You will be automatically charged "&lt;g id="price_start_tag">&lt;price>&lt;/g>&lt;g example="$5.03" id="currency">%1$s&lt;/g> plus any applicable tax every year&lt;g id="price_end_tag">&lt;/price>&lt;/g> starting &lt;g id="start_time_start_tag">&lt;start_time>&lt;/g>&lt;g example="June 8, 2015" id="date">%3$s&lt;/g>&lt;g id="start_time_end_tag">&lt;/start_time>&lt;/g>" until you cancel your subscription. "</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year_tax_limited">
+        <item quantity="other">" You will be automatically charged "&lt;g id="price_start_tag">&lt;price>&lt;/g>&lt;g example="$5.03" id="currency">%1$s&lt;/g> plus any applicable tax every &lt;g example="5" id="period">%2$d&lt;/g> years&lt;g id="price_end_tag">&lt;/price>&lt;/g> for the next &lt;g id="duration_start_tag">&lt;duration>&lt;/g>&lt;g example="10" id="duration">%3$d&lt;/g> years&lt;g id="duration_end_tag">&lt;/duration>&lt;/g> starting &lt;g id="start_time_start_tag">&lt;start_time>&lt;/g>&lt;g example="June 8, 2015" id="date">%4$s&lt;/g>&lt;g id="start_time_end_tag">&lt;/start_time>&lt;/g>". "</item>
+        <item quantity="one">" You will be automatically charged "&lt;g id="price_start_tag">&lt;price>&lt;/g>&lt;g example="$5.03" id="currency">%1$s&lt;/g> plus any applicable tax every year&lt;g id="price_end_tag">&lt;/price>&lt;/g> for the next &lt;g id="duration_start_tag">&lt;duration>&lt;/g>&lt;g example="5" id="duration">%3$d&lt;/g> years&lt;g id="duration_end_tag">&lt;/duration>&lt;/g> starting &lt;g id="start_time_start_tag">&lt;start_time>&lt;/g>&lt;g example="June 8, 2015" id="date">%4$s&lt;/g>&lt;g id="start_time_end_tag">&lt;/start_time>&lt;/g>". "</item>
+    </plurals>
+</resources>
