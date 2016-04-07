@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="header_background">#ffededed</color>
-    <color name="transparent_dialog_background">#d9000000</color>
-    <color name="textcolor_white">#ffffffff</color>
-    <color name="textcolor_orange">#ffff8a00</color>
-    <color name="textcolor_red">#ffdf0000</color>
-</resources>

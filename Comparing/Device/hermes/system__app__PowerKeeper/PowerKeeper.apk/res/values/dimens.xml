@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <dimen name="activity_horizontal_margin">16.0dip</dimen>
-    <dimen name="activity_vertical_margin">16.0dip</dimen>
-    <dimen name="text_input_dialog_view_margin_border">25.0dip</dimen>
-    <dimen name="editor_title_button_margin">7.0dip</dimen>
-    <dimen name="application_icon_size">35.0dip</dimen>
-</resources>

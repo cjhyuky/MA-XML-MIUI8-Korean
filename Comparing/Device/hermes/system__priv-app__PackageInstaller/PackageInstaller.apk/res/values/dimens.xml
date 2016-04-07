@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <dimen name="perms_list_padding_left">80.0px</dimen>
-    <dimen name="perms_list_padding_single">40.0px</dimen>
-    <dimen name="perms_list_padding_middle">30.0px</dimen>
-</resources>
