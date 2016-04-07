@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ThemeStatusBarTextWhiteAntiVirus" parent="@miui:style/Theme.Light">
+        <item name="miui:windowTranslucentStatus">transparentDark</item>
+        <item name="miui:startingWindowOverlay">@layout/starting_window_antivirus</item>
+    </style>
+    <style name="ThemeStatusBarTextWhitePowerCenter" parent="@miui:style/Theme.Light">
+        <item name="miui:windowTranslucentStatus">transparentDark</item>
+        <item name="miui:startingWindowOverlay">@layout/starting_window_powercenter</item>
+    </style>
+    <style name="ThemeStatusBarTextWhitePermCenter" parent="@miui:style/Theme.Light.NoTitle">
+        <item name="android:windowBackground">@drawable/splash_permcenter</item>
+        <item name="miui:windowTranslucentStatus">transparentDark</item>
+    </style>
+    <style name="Theme.Light.NoTitile.TransparentDark" parent="@miui:style/Theme.Light.NoTitle">
+        <item name="android:windowBackground">@drawable/splash_main</item>
+        <item name="miui:windowTranslucentStatus">transparentDark</item>
+    </style>
+    <style name="ActionBar.ShowTitle" parent="@miui:style/Widget.ActionBar">
+        <item name="android:displayOptions">none</item>
+    </style>
+    <style name="Theme.Light.Custom.ActionBar" parent="@miui:style/Theme.Light">
+        <item name="android:actionBarStyle">@style/ActionBar.ShowTitle</item>
+    </style>
+    <style name="NewChooserPreference" parent="@miui:style/Preference.RadioButtonPreference">
+        <item name="android:widgetLayout">@layout/pc_power_choose_item</item>
+    </style>
+    <style name="StylePowerCenterMainItem">
+        <item name="android:background">@miui:drawable/preference_item_bg</item>
+        <item name="android:paddingTop">@miui:dimen/preference_item_padding_inner</item>
+        <item name="android:paddingBottom">@miui:dimen/preference_item_padding_inner</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">@miui:dimen/list_preferred_item_height</item>
+    </style>
+    <style name="StylePowerCenterPreferenceItem">
+        <item name="android:background">@miui:drawable/preference_item_bg</item>
+        <item name="android:paddingTop">@miui:dimen/preference_item_padding_inner</item>
+        <item name="android:paddingBottom">@miui:dimen/preference_item_padding_inner</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">@miui:dimen/list_preferred_item_height_small</item>
+    </style>
+    <style name="Theme.Light.ActionBarOverlay" parent="@miui:style/Theme.Light">
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:actionBarItemBackground">@android:color/transparent</item>
+    </style>
+    <style name="Theme.Light.Immersion" parent="@miui:style/Theme.Light">
+        <item name="miui:immersionMenuEnabled">true</item>
+    </style>
+    <style name="ThemePowerModeChooser" parent="@miui:style/Theme.Light">
+        <item name="miui:radioButtonPreferenceStyle">@style/NewChooserPreference</item>
+    </style>
+    <style name="Theme.Light.NoTitile.Transparent" parent="@miui:style/Theme.Light.NoTitle">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+    </style>
+</resources>

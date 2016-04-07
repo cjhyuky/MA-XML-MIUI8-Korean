@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="WeatherAlertTheme" parent="@miui:style/Theme.Light.NoTitle">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation</item>
+    </style>
+    <style name="WeatherMainTheme" parent="@miui:style/Theme.Dark.NoTitle">
+        <item name="miui:immersionMenuEnabled">true</item>
+    </style>
+    <style name="WeatherSetCityTheme" parent="@miui:style/Theme.Light" />
+    <style name="WeatherFindCityTheme" parent="@miui:style/Theme.Light" />
+    <style name="WeatherAlertManagerTheme" parent="@miui:style/Theme.Light" />
+    <style name="ShareDialog_Button">
+        <item name="android:textSize">@dimen/sharedialog_button_text_size</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">0.0</item>
+        <item name="android:shadowRadius">0.0</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="indices_box">
+        <item name="android:gravity">bottom|center</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:paddingBottom">30.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/indices_item_height</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="ads_small_banner_style">
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">106.0dip</item>
+        <item name="android:layout_height">70.66dip</item>
+        <item name="android:scaleType">fitXY</item>
+    </style>
+    <style name="daily_forcast">
+        <item name="android:layout_height">204.0dip</item>
+    </style>
+    <style name="Theme.Light.Immersion" parent="@miui:style/Theme.Light">
+        <item name="miui:immersionMenuEnabled">true</item>
+    </style>
+</resources>

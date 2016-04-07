@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="icon">false</item>
+    <item type="id" name="text">false</item>
+    <item type="id" name="respond_via_message_reset">false</item>
+</resources>
