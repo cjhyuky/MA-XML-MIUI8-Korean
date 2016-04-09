@@ -67,6 +67,9 @@
     <string name="security_settings_desc">이 애플리케이션에 다음을 수행할 권한을 부여:</string>
     <string name="cancel">취소</string>
     <string name="unknown">알 수 없음</string>
+    <string name="unknown_apps_dlg_text">보안을 위해 출처를 알 수 없는 애플리케이션은 휴대전화에 설치되지 않도록 설정되어 있습니다. 설정에서 이 기능을 끄실 수 있습니다. 설정끄기</string>
+    <string name="unknown_apps_dlg_text1">"보안을 위해 출처를 알 수 없는 애플리케이션은 휴대전화에 설치되지 않도록 설정되어 있습니다. 설정에서 이 기능을 끄실 수 있습니다."</string>
+    <string name="unknown_apps_dlg_title">설치가 차단됨</string>
     <string name="installing">설치 중...</string>
     <string name="install_done">애플리케이션이 설치되었습니다.</string>
     <string name="install_confirm_question">이 애플리케이션을 설치하시겠습니까?</string>
@@ -80,8 +83,6 @@
     <string name="install_failed_verify_timeout">패키지를 확인하는 동안 시간이 초과했습니다. 나중에 다시 설치해 주시기 바랍니다.</string>
     <string name="install_failed_msg">휴대전화에 %1$s을(를) 설치할 수 없습니다.</string>
     <string name="launch">열기</string>
-    <string name="unknown_apps_dlg_title">설치가 차단됨</string>
-    <string name="unknown_apps_dlg_text">보안을 위해 Android 마켓에서 구입하지 않은 애플리케이션은 휴대전화에 설치되지 않도록 설정되어 있습니다.</string>
     <string name="ok">확인</string>
     <string name="settings">설정</string>
     <string name="allow_source_dlg_title">앱이 새로운 소스를 설치하도록 허용하시겠습니까?</string>
