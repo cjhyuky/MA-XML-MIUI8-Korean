@@ -319,7 +319,7 @@
     <string name="force_stop_dlg_title">백그라운드 데이터 제한</string>
     <string name="foreground_traffic">포어그라운드 %s</string>
 	<string name="forget_password_button_text"><u>비밀번호 찾기</u></string>
-	<string name="forget_pattern">u>비밀번호 찾기</u></string>
+	<string name="forget_pattern"><u>비밀번호 찾기</u></string>
     <string name="free_time_traffic">오프 피크 데이터 한도</string>
     <string name="free_time_traffic_hint">오프 피크 데이터 한도 입력</string>
     <string name="free_time_traffic_settings">오프 피크 데이터 한도</string>
