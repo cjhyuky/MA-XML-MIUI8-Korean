@@ -127,14 +127,14 @@
     <string name="btn_text_start_check">확인</string>
     <string name="btn_text_stop">중지</string>
     <string name="btn_text_virus_scan">스캔</string>
-    <string name="button_text_accept">수락</string>
-    <string name="button_text_accept_timer">수락(%d)</string>
+    <string name="button_text_accept">승인</string>
+    <string name="button_text_accept_timer">승인(%d)</string>
     <string name="button_text_cancel">취소</string>
     <string name="button_text_cancel_clean">취소</string>
     <string name="button_text_cancel_optimize">취소</string>
     <string name="button_text_cleanup">청소</string>
     <string name="button_text_clear">제거</string>
-    <string name="button_text_create_shortcut">바로가기 만들기</string>
+    <string name="button_text_create_shortcut">홈 화면에 바로가기 생성</string>
     <string name="button_text_fix">수정</string>
     <string name="button_text_ignore">무시</string>
     <string name="button_text_ignore_alert_title">이 경고를 무시하시겠습니까?</string>
@@ -146,7 +146,7 @@
     <string name="button_text_reject_timer">거부(%d)</string>
     <string name="button_text_security">보안</string>
     <string name="button_text_start_optimize">확인</string>
-    <string name="button_text_uninstall_shortcut">제거</string>
+    <string name="button_text_uninstall_shortcut">홈 화면 바로가기 제거</string>
     <string name="button_text_view">최적화</string>
     <string name="button_text_view_power">보기</string>
     <string name="cache_header_title">%1$d 캐시된 파일을 제거하여 %2$s 여유 공간 확보</string>
@@ -163,13 +163,13 @@
     <string name="cmcc_app_check_dialog_negative">나중에</string>
     <string name="cmcc_app_check_dialog_positive">지금 재시작</string>
     <string name="cmcc_app_check_dialog_title">시스템 복구됨</string>
-	<string name="confirm_fingerprint_msg">지문인식센서에 손가락을 대세요</string>
+	<string name="confirm_fingerprint_msg">귀하의 손가락을 지문 인식기에 올려놓아주십시오.</string>
 	<string name="confirm_reject_all_permission">이 기능을 사용하는 모든 앱을 제한하시겠습니까?</string>
     <string name="connect_internet_by_mobiledata">모바일 데이터 연결</string>
     <string name="connect_internet_by_usbshare">USB로 공유된 인터넷</string>
     <string name="connect_internet_by_wifi">Wi-Fi</string>
 	<string name="continue_install">설치</string>	
-	<string name="correction_attention_dialog_message">지금 설정중입니다. 완료 될 때까지 기다렸다가 다시 시도하세요.</string>
+	<string name="correction_attention_dialog_message">지금 설정을 조정 중입니다. 작업이 끝날때까지 기다리셨다가 다시 시도해주십시오.</string>
     <string name="cta_button_text_agree">확인</string>
     <string name="cta_button_text_cancel">취소</string>
     <string name="cta_checkbox_title">다시 표시하지 않음</string>
@@ -253,18 +253,18 @@
     <string name="descx_start_scan_system">시스템 보호 스캔 시작 중</string>
     <string name="detail_app_button">앱 정보</string>
     <string name="details_subtitle">사용 세부 정보</string>
-	<string name="diagnostic_attention_dialog_message">"%1$s 네트워크 테스트 진행중. 끝날때까지 기다려주시고 다시 시도하세요."</string>
-    <string name="dialog_app_roaming_message">%1$s은(는) 로밍 시 모바일 데이터를 사용할 수 없습니다. 국제 로밍을 원할 경우 예외에 추가한 앱만 모바일 데이터를 사용할 수 있습니다.</string>
-    <string name="dialog_app_roaming_title">국제 로밍은 %1$s에 사용 불가합니다.</string>
-    <string name="dialog_msg_auto_start_declare">MIUI가 시작을 방해한다고 일부 앱에 부정확하게 표시되어 있습니다. 앱 > 설정에서 개별 앱의 권한을 확인하십시오.</string>
+    <string name="diagnostic_attention_dialog_message">"%1$s의 진단이 진행 중입니다. 이 과정이 완료될 때까지 기다리셨다가 다시 시도하십시오."</string>
+    <string name="dialog_app_roaming_message">%1$s은(는) 로밍 중 모바일 데이터를 사용할 수 없습니다. 로밍 상태일 때는 예외 목록에 추가된 앱들만 모바일 데이터를 사용할 수 있습니다.</string>
+    <string name="dialog_app_roaming_title">%1$s은(는) 데이터 로밍을 사용할 수 없습니다.</string>
+    <string name="dialog_msg_auto_start_declare">일부 앱의 오류로 인해 MIUI가 앱의 시작을 방해한다고 표시할 수 있습니다. 앱 > 설정에서 개별 앱의 권한을 확인하십시오.</string>
     <string name="dialog_msg_stop_virus_scan">바이러스 스캔을 중단하시겠습니까?</string>
-    <string name="dialog_roaming_apps_sorted_title">(으)로 정렬</string>
-    <string name="dialog_roaming_message">국제 로밍 시 이 앱이 모바일 데이터를 사용하도록 허용하시겠습니까?</string>
-    <string name="dialog_roaming_title">국제 로밍</string>
+    <string name="dialog_roaming_apps_sorted_title">정렬</string>
+    <string name="dialog_roaming_message">로밍 중에 사용된 데이터는 추가 요금이 부가될 것입니다.</string>
+    <string name="dialog_roaming_title">데이터 로밍을 허용하시겠습니까?</string>
     <string name="dialog_title_attention">주의</string>
     <string name="dialog_title_auto_start_declare">자동 시작 정보</string>
     <string name="dialog_title_stop_virus_scan">바이러스 스캔 중단</string>
-    <string name="disable_air_mode">우선 비행기 모드 끄기</string>
+    <string name="disable_air_mode">먼저 비행기 모드 끄기</string>
     <string name="dns_exception_summary">라우터의 DNS 설정 확인</string>
     <string name="dns_exception_title">DNS 설정 확인</string>
     <string name="dual_setting_simcard1">SIM 1</string>
@@ -279,7 +279,7 @@
     <string name="empty_title_system_cache_list">시스템 캐시 비어 있음</string>
     <string name="empty_title_system_process_list">시스템 프로세스 없음</string>
     <string name="empty_title_virus_list">바이러스 없음</string>
-    <string name="enable_network">우선 네트워크 켜기</string>
+    <string name="enable_network">먼저 네트워크 켜기</string>
     <string name="every_day">매일</string>
     <string name="examination_score_100">모두 좋아 보입니다!</string>
     <string name="examination_score_100_with_recommend">%d개 항목 최적화 가능</string>
@@ -289,7 +289,7 @@
     <string name="examination_score_80_60">일부 항목 최적화 가능</string>
     <string name="examination_score_has_virus">일부 의심스러운 앱이 발견되었습니다.</string>
     <string name="finger_remind_message">앱 잠금은 지문인식 해제를 지원합니다. 지문을 추가하시겠습니까?</string>
-    <string name="fingerprint_identify_msg">지문 인식중…</string>
+    <string name="fingerprint_identify_msg">지문 스캔중…</string>
     <string name="fingerprint_not_identified_msg">기기를 잠금해제하기 위해 비밀번호를 입력하세요</string>
     <string name="fingerprint_not_remind">"다시 묻지 않기"</string>
     <string name="fingerprint_remind_dialog_title">지문인식 잠금해제</string>
@@ -298,7 +298,7 @@
     <string name="fingerprint_verification_message">이 기능을 사용하려면 현재 등록된 지문 인증이 필요합니다.</string>
     <string name="fingerprint_verify_failed">"인증 실패"</string>
     <string name="fingerprint_verify_succeed">인증 완료</string>
-    <string name="fingerprint_verify_try_agin">"스캔 불가, 다시 시도하세요"</string> 	
+    <string name="fingerprint_verify_try_agin">"스캔할 수 없습니다. 다시 시도해주십시오."</string> 	
     <string name="firewall_activity_lable">앱별로 데이터 사용량 제한</string>
     <string name="firewall_applist">앱</string>
     <string name="firewall_fragment_nonesys_listempty">비어 있음</string>
@@ -318,8 +318,8 @@
     <string name="force_stop_dlg_text">백그라운드 모바일 데이터를 제한할 경우, Wi-Fi 네트워크에 연결되어 있지 않으면 일부 앱과 서비스가 작동하지 않습니다.</string>
     <string name="force_stop_dlg_title">백그라운드 데이터 제한</string>
     <string name="foreground_traffic">포어그라운드 %s</string>
-	<string name="forget_password_button_text">&lt;u&gt;비밀번호 분실&lt;/u&gt;</string>
-	<string name="forget_pattern">&lt;u&gt;패턴을 잊어버리셨나요?&lt;/u&gt;</string>
+	<string name="forget_password_button_text"><u>비밀번호 찾기</u></string>
+	<string name="forget_pattern">u>비밀번호 찾기</u></string>
     <string name="free_time_traffic">오프 피크 데이터 한도</string>
     <string name="free_time_traffic_hint">오프 피크 데이터 한도 입력</string>
     <string name="free_time_traffic_settings">오프 피크 데이터 한도</string>
@@ -382,8 +382,8 @@
     <string name="input_used_hint">데이터 사용량 입력</string>
     <string name="input_used_max_hint">데이터 사용량 입력(%s보다 적게)</string>
 	<string name="install_title">USB를 통한 설치</string>
-    <string name="international_roaming_setting">국제 로밍</string>
-    <string name="international_roaming_whitelist_count">국제 로밍 시 %d개 앱이 모바일 데이터 사용 가능</string>
+    <string name="international_roaming_setting">데이터 로밍</string>
+    <string name="international_roaming_whitelist_count">%d개 앱이 로밍일 때 모바일 데이터를 사용할 수 있습니다.</string>
     <string name="ip_address_exception_summary">IP 주소를 받지 못했습니다. 이 문제가 다시 발생하면 고정 IP 주소를 사용해 보십시오.</string>
     <string name="item_app_permission">앱 권한</string>
     <string name="item_dev_mode">개발자 옵션</string>
@@ -523,10 +523,10 @@
     <string name="mi_service_app_detail">데이터 사용량 세부 정보</string>
     <string name="mi_service_framework">Mi 서비스 프레임워크</string>
     <string name="mi_service_traffic_detail">프레임워크 세부 정보</string>
-    <string name="mian_page_primary_txt">국제 로밍</string>
-	<string name="modify_password_info">패턴으로 잠금해제</string>
+    <string name="mian_page_primary_txt">데이터 로밍</string>
+	<string name="modify_password_info">잠금 해제 패턴</string>
 	<string name="modifypassword">비밀번호 변경</string>
-	<string name="monitor_requests_from_pc">USB를 통한 앱 설치 관리</string>
+	<string name="monitor_requests_from_pc">USB로 설치한 앱 관리</string>
     <string name="month_report_month_report_switch">월간 리포트 표시</string>
     <string name="network_assistant_upgraded_body">터치하여 세부 정보 보기</string>
     <string name="network_assistant_upgraded_title">업데이트됨</string>
@@ -592,14 +592,14 @@
     <string name="notify_month_traffic_title_for_slotnum">이번 달에 %1$s에서 %2$s 사용</string>
     <string name="notify_weekly_traffic_body">데이터 사용량을 자동으로 제한하려면 월간 데이터 계획을 설정하십시오.</string>
     <string name="notify_weekly_traffic_title">이번 주에 %s 사용함</string>
-    <string name="notify_weekly_traffic_title_for_slotnum">이번 달에 %1$s에서 %2$s 사용</string>
+    <string name="notify_weekly_traffic_title_for_slotnum">이번 주에 %1$s에서 %2$s 사용</string>
     <string name="ok">확인</string>
     <string name="ok_button">확인</string>
     <string name="online_chat">채팅</string>
     <string name="online_read">뉴스</string>
     <string name="online_songs">음악</string>
     <string name="open_now">앱의 모바일 데이터 사용을 허용</string>
-	<string name="operator_diagnostic">통신사 캐리어 진단</string>
+	<string name="operator_diagnostic">통신사 진단</string>
     <string name="operator_name_cmcc">차이나 모바일</string>
     <string name="operator_name_telcom">차이나 텔레콤</string>
     <string name="operator_name_unicom">차이나 유니콤</string>
@@ -609,17 +609,17 @@
     <string name="other_exception_summary">인터넷이 연결되지 않았습니다.</string>
     <string name="other_exception_title">다른 문제 확인 중</string>
     <string name="package_change_notification_summary">탭하여 더 알아보기.</string>
-    <string name="package_change_notification_title">자동 데이터 제한</string>
-    <string name="package_setted_error_notification_summary">탭하여 데이터 사용량 확인하기.</string>
-    <string name="package_setted_error_notification_titile">데이터 플랜을 설정 할 수 없습니다</string>
+    <string name="package_change_notification_title">자동 데이터 한도 조정</string>
+    <string name="package_setted_error_notification_summary">탭하여 데이터 사용량 세부 정보 보기</string>
+    <string name="package_setted_error_notification_titile">데이터 계획을 설정할 수 없음</string>
     <string name="packages_subtitle">패키지 포함</string>
-	<string name="passwordIncorrect">사용자이름 또는 비밀번호가 잘못되었습니다.</string>
+	<string name="passwordIncorrect">사용자 이름이나 비밀번호가 올바르지 않습니다.</string>
     <string name="pay_charge">추가 데이터 구매</string>
-	<string name="pc_install_manager">USB를 통한 설치</string>
-	<string name="pc_to_phone_install">USB를 통한 설치 %s개 차단</string>
+	<string name="pc_install_manager">USB로 설치</string>
+	<string name="pc_to_phone_install">USB를 통한 %s 설치가 차단되었습니다.</string>
     <string name="per_month_pkg_traffic_settings">데이터 한도 설정</string>
     <string name="percentage">%d%%</string>
-    <string name="permission_action_accept">수락</string>
+    <string name="permission_action_accept">승인</string>
     <string name="permission_action_prompt">알림</string>
     <string name="permission_action_reject">거부</string>
     <string name="permission_close_permission_control_dialog_msg">권한 관리자가 꺼졌을 경우, 앱은 귀하의 연락처 읽기, 통화 기록 보기, 시스템 설정 변경 또는 카메라나 다른 기기 리소스에 접근하기 전에 권한을 요청하지 않습니다.</string>
@@ -642,7 +642,7 @@
 	<string name="pm_auto_start_basic_services_lock">잠금</string>
 	<string name="pm_auto_start_basic_services_unlock">잠금해제</string>
 	<string name="pm_auto_start_by_basic_services">기본 서비스</string>
-	<string name="pm_auto_start_by_other_services">기타 서비스 끄기</string>
+	<string name="pm_auto_start_by_other_services">종료를 권장하는 서비스</string>
 	<string name="pm_auto_start_by_system">자동시작 앱</string>
 	<string name="pm_auto_start_proc_is_running">실행중</string>
 	<string name="pm_remember_choice">이 선택을 기억</string>
@@ -792,13 +792,16 @@
     <string name="power_save_low_battery_title">배터리 세이버</string>
     <string name="power_save_on_time_auto_save_title">프로필 전환 예약</string>
     <string name="power_save_on_time_default_time">00:00</string>
+    <string name="power_save_on_time_default_time_na">00:00</string>
     <string name="power_save_on_time_end_time_summary">종료</string>
+    <string name="power_save_on_time_end_time_summary_na">종료시간</string>
     <string name="power_save_on_time_end_time_title">%1$d: %2$d</string>
     <string name="power_save_on_time_goout_title">이 주기 이후 다시 전환</string>
     <string name="power_save_on_time_option_recovery_title">이 주기 종료 후 전환</string>
     <string name="power_save_on_time_option_summary">이 주기가 끝난 뒤 기기는 가장 최근에 사용된 프로필로 다시 전환합니다.</string>
     <string name="power_save_on_time_option_title">이 주기 동안 전환</string>
     <string name="power_save_on_time_start_time_summary">시작</string>
+    <string name="power_save_on_time_start_time_summary_na">시작시간</string>
     <string name="power_save_on_time_start_time_title">%1$d: %2$d</string>
     <string name="power_save_on_time_title">프로필 전환 예약</string>
     <string name="power_screen">화면</string>
@@ -984,8 +987,8 @@
     <string name="sim_state_exception_summary">SIM 상태는 SIM 카드에 문제가 발생할 수 있음을 나타냅니다.</string>
     <string name="songs_number">18개 노래</string>
     <string name="songs_unit">" 노래"</string>
-    <string name="sorted_button">(으)로 정렬</string>
-    <string name="sorted_dialog_title">(으)로 정렬</string>
+    <string name="sorted_button">정렬</string>
+    <string name="sorted_dialog_title">정렬</string>
     <string name="spinner_title">%1$s - 모바일 데이터: %2$s</string>
     <string name="st_title_mode_choose_group">프로필 선택</string>
 	<string name="start_diagnostic_botton">시작</string>
@@ -1024,10 +1027,52 @@
     <string name="summary_virus">바이러스 제거로 디바이스의 보안을 유지합니다.</string>
     <string name="summary_virus_cloudscan">앱 이름과 세부 정보를 업로드하여 온라인 바이러스 정의로 스캔</string>
     <string name="summary_virus_update">자동으로 최신 바이러스 정보를 가져옵니다.</string>
+    <string name="summary_xiaomi_roaming">빠른 속도의 국제 로밍을 0.01yuan/MB에 즐겨보십시오.</string>
     <string name="system_app">시스템 앱</string>
+    <string name="system_application">시스템 앱</string>
     <string name="system_check_content">%1$d 위험</string>
     <string name="system_check_content_none">안전</string>
     <string name="system_header_title">%1$d 프로세스 제거하여 %2$s 메모리 확보</string>
+    <string name="system_info_remind">앱에 대한 무단 접근을 막기위한 잠금 추가</string>
+    <string name="tc_diagnostic_all_error_notification_summary">탭하여 문제 보고하기</string>
+    <string name="tc_diagnostic_all_error_notification_title">진단을 완료할 수 없음</string>
+    <string name="tc_diagnostic_brand_error_notification_summary">탭하여 네트워크 유형 조정</string>
+    <string name="tc_diagnostic_brand_error_notification_title">잘못된 네트워크 유형</string>
+    <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'>결과: 잘못된 통신사 브랜드&lt;br/>&lt;br/>브랜드 설정: &lt;xliff:g id=brand example=UNICOM 3G>%1$s&lt;/xliff:g>&lt;br/>실제 브랜드: &lt;xliff:g id=location example=UNICOM 4G>%2$s&lt;/xliff:g>&lt;/font>"</string>
+    <string name="tc_diagnostic_complete">완료</string>
+    <string name="tc_diagnostic_fragment_default">"진단에 대해서
+1. 기기가 통신사 네트워크 연결을 위해 무료 메시지를 전송하고 응답을 기다립니다. 5분 정도 소요될 것입니다.
+2. 이 진단 과정은 백그라운드에서 실행되기 때문에 이 페이지를 나가셔도 됩니다."</string>
+    <string name="tc_diagnostic_location_error_notification_summary">탭하여 위치 조정</string>
+    <string name="tc_diagnostic_location_error_notification_title">잘못된 위치</string>
+    <string name="tc_diagnostic_notification_sumarry">탭하여 결과 보기</string>
+    <string name="tc_diagnostic_notification_summary">조정을 연속 5번 실패하셨습니다. 탭하셔서 진단을 시작하십시오.</string>
+    <string name="tc_diagnostic_notification_title">통신사 진단</string>
+    <string name="tc_diagnostic_onekey_repair_botton">수정</string>
+    <string name="tc_diagnostic_operator_error_notification_summary">탭하여 통신사 설정 변경</string>
+    <string name="tc_diagnostic_operator_error_notification_title">잘못된 통신사</string>
+    <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'>결과: 잘못된 통신사&lt;br/>&lt;br/>통신사 설정: &lt;xliff:g id=operator example=CMCC>%1$s&lt;/xliff:g>&lt;br/>실제 통신사: &lt;xliff:g id=location example=UNICOM>%2$s&lt;/xliff:g>&lt;/font>"</string>
+    <string name="tc_diagnostic_repair_and_continue">수정 및 계속</string>
+    <string name="tc_diagnostic_repair_location">"&lt;font color='#3EC234'>진단 완료, 위치 문제 수정됨.&lt;/font>"</string>
+    <string name="tc_diagnostic_repair_location_and_operator">"&lt;font color='#3EC234'>진단 완료, 위치 및 통신사 문제 수정됨.&lt;/font>"</string>
+    <string name="tc_diagnostic_repair_success_toast">변경 성공</string>
+    <string name="tc_diagnostic_result">"&lt;font color='#CC0000'>결과: 진단을 완료할 수 없음&lt;br/>&lt;br/>RMIUI 진단 도구 개선을 위해 이 문제 보고&lt;/font>"</string>
+    <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'>결과: 잘못된 위치&lt;br/>&lt;br/>위치 설정: &lt;xliff:g id=location example=BeiJing>%1$s&lt;/xliff:g>&lt;br/>실제 위치: &lt;xliff:g id=location example=ShangHai>%2$s&lt;/xliff:g>&lt;/font>"</string>
+    <string name="tc_diagnostic_status_error_brand">통신사 네트워크 찾을 수 없음</string>
+    <string name="tc_diagnostic_status_failure">"&lt;font color='#CC0000'>오류&lt;/font>"</string>
+    <string name="tc_diagnostic_status_no_network">"&lt;font color='#ED9523'>네트워크 연결 없음&lt;/font>"</string>
+    <string name="tc_diagnostic_status_not_get">"&lt;font color='#ED9523'>정보를 얻을 수 없음&lt;/font>"</string>
+    <string name="tc_diagnostic_status_success">"&lt;font color='#3EC234'>성공&lt;/font>"</string>
+    <string name="tc_diagnostic_status_success_brand">"&lt;font color='#3EC234'>통신사 네트워크 응답&lt;/font>"</string>
+    <string name="tc_diagnostic_status_timeout">"&lt;font color='#CC0000'>시간 초과&lt;/font>"</string>
+    <string name="tc_diagnostic_status_updating">테스트 중…</string>
+    <string name="tc_diagnostic_success_notification_summary">MIUI 진단 도구 개선을 위해 이 문제를 보고</string>
+    <string name="tc_diagnostic_success_notification_title">통신사 네트워크와 브랜드가 옳습니다.</string>
+    <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'>결과: 통신사 네트워크와 브랜드의 설정 올바름&lt;br/>&lt;br/>조정을 완료할 수 없음:&lt;br/>1. 월초나 월말의 통신사 통계는 정확하지 않을 수 있습니다.&lt;br/>2. 네트워크 도우미가 업데이트되지 않았습니다.&lt;br/>&lt;br/>MIUI 진단 도구 개선을 위해 이 문제를 보고&lt;/font>"</string>
+    <string name="tc_diagnostic_title">통신사 진단</string>
+    <string name="tc_diagnostic_upload_button">리포트</string>
+    <string name="tc_diagnostic_upload_no_network">피드백을 남겨주셔서 감사합니다! 네트워크에 연결하시면 보고될 것입니다.</string>
+    <string name="tc_diagnostic_upload_success">피드백을 남겨주셔서 감사합니다!</string>
     <string name="tc_sms_report_direction">SMS 조회 코드</string>
     <string name="tc_sms_report_do_report">전송</string>
     <string name="tc_sms_report_get_default">통신사로부터 데이터 사용량 고지서를 받기 위하여 사용한 SMS 메시지에 대해서는 요금이 부과되지 않습니다.</string>
@@ -1059,10 +1104,13 @@
     <string name="tc_sms_report_upload_success">데이터 사용량 리포트 SMS가 전송되었습니다. 당사에서 곧 받을 것입니다.</string>
     <string name="tc_sms_report_upload_when_net">피드백을 주셔서 감사합니다!</string>
     <string name="ten_percent_total_pkg">%s(월간 데이터의 10%%)</string>
+    <string name="text_button">알겠습니다.</string>
+    <string name="text_lock_info">잠금 해제 패턴 그리기</string>
+    <string name="third_application">타사 앱</string>
     <string name="three_percent_total_pkg">%s(월간 데이터의 3%%)</string>
-    <string name="timeshow_h">%.1fh</string>
-    <string name="timeshow_h_int">%d시</string>
-    <string name="timeshow_h_m">%1$d시 %2$d분</string>
+    <string name="timeshow_h">%.1f시간</string>
+    <string name="timeshow_h_int">%d시간</string>
+    <string name="timeshow_h_m">%1$d시간 %2$d분</string>
     <string name="timeshow_m">%d분</string>
     <string name="timeshow_m_s">%1$d분 %2$d초</string>
     <string name="timeshow_s">%d초</string>
@@ -1161,19 +1209,19 @@
     <string name="traffic_protection_summary">데이터 사용량이 일정 수준에 도달할 경우 알람 설정</string>
     <string name="traffic_protection_text_hint">%s에 대한 데이터 사용량 한도 설정</string>
     <string name="traffic_protection_unknown"><u>나중에 설정</u></string>
-    <string name="traffic_protection_use_data">데이터 활성화됨</string>
+    <string name="traffic_protection_use_data">모바일 데이터</string>
     <string name="traffic_purchase_body">탭하여 데이터 추가 구매</string>
     <string name="traffic_purchse_suggestion">모바일 데이터 추가 구매</string>
     <string name="traffic_saving_button_mng">앱 관리</string>
     <string name="traffic_saving_button_sorted">세부 정보</string>
-    <string name="traffic_saving_button_sorted_chose_simcard">(으)로 정렬</string>
+    <string name="traffic_saving_button_sorted_chose_simcard">정렬</string>
     <string name="traffic_saving_button_start">켜기</string>
     <string name="traffic_saving_button_stop">끄기</string>
     <string name="traffic_saving_can_optimized">최적화</string>
     <string name="traffic_saving_detail">세부 정보</string>
     <string name="traffic_saving_history_title">기록</string>
     <string name="traffic_saving_history_total_money">절약한 총량</string>
-    <string name="traffic_saving_history_total_money_unit">중국 위안</string>
+    <string name="traffic_saving_history_total_money_unit">RMB</string>
     <string name="traffic_saving_history_total_month">"이번 달 절약한 양: "</string>
     <string name="traffic_saving_history_total_month_default">월 평균 절약</string>
     <string name="traffic_saving_history_total_rate">등급</string>
@@ -1194,8 +1242,8 @@
     <string name="traffic_saving_pic_compress_orig">원본</string>
     <string name="traffic_saving_ratio">데이터 사용량 %.2f%% 절감됨</string>
     <string name="traffic_saving_ratio_low">데이터 사용량을 크게 줄일 수 없습니다.</string>
-    <string name="traffic_saving_recommanded_close">비활성화</string>
-    <string name="traffic_saving_recommanded_open">활성화</string>
+    <string name="traffic_saving_recommanded_close">끄기</string>
+    <string name="traffic_saving_recommanded_open">켜기</string>
     <string name="traffic_saving_start_tip_context">"&lt;big>&lt;font color='#7F000000'>데이터 세이버를 자동으로 활성화하여 앱' 모바일 데이터 사용량을 줄이십시오.&lt;/font>&lt;/big>&lt;br />&lt;br />&lt;font color='#FF000000'>월간 데이터 계획을 세워둔 경우엔 개별 앱 사용으로 추가 요금 부과되지 않도록 데이터 세이버를 꺼야 한다는 것을 기억하십시오.&lt;/font>"</string>
     <string name="traffic_saving_start_tip_title">활성화</string>
     <string name="traffic_saving_tecsupport">Opera 제공</string>
@@ -1213,7 +1261,7 @@
     <string name="traffic_saving_whitelist_count">"&lt;font color='#4DAA0F'>%1$d&lt;/font>개 앱의' 데이터 사용량은 제한되지 않습니다."</string>
     <string name="traffic_saving_whitelist_no_app">앱 없음</string>
     <string name="traffic_saving_wifi_usage">WiFi 세이버</string>
-    <string name="traffic_setting_app_count">%d 앱</string>
+    <string name="traffic_setting_app_count">%d개의 앱</string>
     <string name="traffic_setting_completed">확인</string>
     <string name="traffic_setting_extra_pkg_oversea_summary">데이터 계획 및 사용량 한도 조정</string>
     <string name="traffic_setting_extra_pkg_summary">데이터 계획 및 사용량 한도 조정</string>
@@ -1225,7 +1273,7 @@
     <string name="traffic_setting_fragment_button1_text">취소</string>
     <string name="traffic_setting_fragment_button2_text">저장</string>
     <string name="traffic_setting_fragment_get_template_falure">네트워크에 연결할 수 없습니다. 데이터 연결을 확인한 후 다시 시도하십시오.</string>
-    <string name="traffic_setting_fragment_loacation_alert_nomore">다시 표시하지 않기</string>
+    <string name="traffic_setting_fragment_loacation_alert_nomore">다시 보지 않기</string>
     <string name="traffic_setting_fragment_loading_text">네트워크 정보 받는 중…</string>
     <string name="traffic_setting_fragment_no_network">네트워크에 연결할 수 없습니다.</string>
     <string name="traffic_setting_fragment_null">비어 있음</string>
@@ -1258,11 +1306,11 @@
     <string name="usage_type_video">비디오</string>
     <string name="usage_type_wake_lock">계속 켜짐</string>
     <string name="usage_type_wifi_running">Wi-Fi 실행 중</string>
-	<string name="usb_install_desc">이 앱을 USB를 통하여 설치하시겠습니까?</string>
+	<string name="usb_install_desc">이 앱을 USB로 설치하시겠습니까?</string>
     <string name="usbsharenet_exception_summary">공유된 USB 연결을 사용하여 인터넷에 연결할 수 없습니다. 기기의 USB 연결을 확인한 후 Mi PC Suite를 다시 시작하십시오.</string>
     <string name="usbsharenet_exception_title">USB로 공유된 인터넷 테스트</string>
     <string name="usbsharenet_pc_exception_summary">공유된 USB 연결을 사용하여 인터넷에 연결할 수 없습니다. 컴퓨터의 인터넷 연결을 확인하십시오.</string>
-    <string name="virus_list_header_title">%d 바이러스 발견됨</string>
+    <string name="virus_list_header_title">%d개의 바이러스 발견됨</string>
     <string name="wifi_exception_summary">사용 가능한 Wi-Fi 네트워크 테스트</string>
     <string name="wifi_exception_title">Wi-Fi 네트워크 테스트</string>
     <string name="wifi_network_blocked_notification_title">인터넷에 연결되지 않음</string>
