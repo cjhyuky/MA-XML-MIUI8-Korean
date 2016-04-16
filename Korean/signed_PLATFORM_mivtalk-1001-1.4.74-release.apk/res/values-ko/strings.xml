@@ -976,7 +976,7 @@
     <string name="voip_stop_called">전화 끊기</string>
     <string name="voip_talk_canot_play_voice">"음성 통화에서 재생할 수 없습니다"</string>
     <string name="voip_talking_with_friend">%1$s님과 대화중</string>
-    <string name="voip_the_other_is_on_the_phone">상대방과 연결되었습니다</string>
+    <string name="voip_the_other_is_on_the_phone">상대방이 통화중입니다</string>
     <string name="voip_time_start">00:00</string>
     <string name="voip_timeout">응답 없음</string>
     <string name="voip_tip">데이터 팁</string>
