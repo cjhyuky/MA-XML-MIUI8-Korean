@@ -86,6 +86,7 @@
     <string name="check_upgrade">업데이트 확인</string>
     <string name="choose_ac">리모콘 선택</string>
     <string name="choose_address_title">위치 선택</string>
+    <string name="choose_key_to_fix">복구 할 키를 선택하세요</string>
     <string name="circlepad_slide_tips">터치 휠을 사용하여 볼륨을 조절하십시오.</string>
     <string name="click_to_expend">펼치기</string>
     <string name="click_to_login">로그인을 클릭합니다</string>
@@ -148,6 +149,8 @@
     <string name="eject">꺼내기</string>
     <string name="empty_name_tip">이 리모컨의 이름을 설정해주십시오.</string>
     <string name="epg_all_channels">모든 채널</string>
+    <string name="epg_book_all">전부 예약</string>
+    <string name="epg_book_count">총 %1$s개의 예약</string>
     <string name="epg_bookable">예약</string>
     <string name="epg_booked">예약됨</string>
     <string name="epg_booked_str">예정됨</string>
@@ -158,6 +161,9 @@
     <string name="epg_channel_group_open">전체 보기</string>
     <string name="epg_detail_title_text">설명</string>
     <string name="epg_details_episode">Ep. %1$s</string>
+    <string name="epg_edit_channel_name">채널명</string>
+    <string name="epg_edit_channel_number">채널번호</string>
+    <string name="epg_edit_channel_title">채널편집</string>
     <string name="epg_episode_open">전체 보기</string>
     <string name="epg_fav_channels">채널 저장</string>
     <string name="epg_home_sliding_down">축소</string>
@@ -166,13 +172,16 @@
     <string name="epg_hot_programs">쇼</string>
     <string name="epg_loading_hint">전화를 사용하여 셋톱 박스에서 채널 전환</string>
     <string name="epg_name">TV 프로그램</string>
+    <string name="epg_no_booking_data">프로그램을 예약하지 않음</string>	
     <string name="epg_no_search_result">결과가 없습니다</string>
+    <string name="epg_program_detail_more_time_events">방송시간 상세보기</string>
     <string name="epg_program_updated_to">프로그램 %1$d 로 설정</string>
     <string name="epg_search_box_hint">당신이 보고싶어하는 프로그램을 검색합니다</string>
     <string name="epg_search_history">검색기록</string>
     <string name="epg_search_hot_keyword">인기 검색어</string>
     <string name="epg_status_playing_text">재생 중…</string>
     <string name="epg_status_playing_text_v5">라이브</string>
+    <string name="epg_unbook_all">모두 취소</string>
     <string name="epg_unbooked_str">예정되지 않음</string>
     <string name="epg_user_my_booked_events">예약내역</string>
     <string name="epg_user_my_favorite_channel">즐겨찾기채널</string>
@@ -182,6 +191,7 @@
     <string name="external_app">앱 설치</string>
     <string name="external_photo">사진 보기</string>
     <string name="external_video">비디오 재생</string>
+    <string name="extra_keys">확장 키</string>
     <string name="fail_add_controller_photo">리모콘 사진 추가</string>
     <string name="fail_add_device_photo">기기 사진 추가</string>
     <string name="fail_content">연결 정보를 찾을 수 없습니다. 저희 기술자들에게 피드백을 전송해 주십시오.</string>
@@ -200,6 +210,9 @@
     <string name="feedback_error_tips">리모콘 사용에 문제가 발생, 탭하여 문제점 보고</string>
     <string name="find_adb_frame">%1$d ADB 기기가 감지되었습니다</string>
     <string name="find_milink_frame">%1$d Mi 기기가 감지되었습니다</string>
+    <string name="fix_keys">수리 버튼</string>
+    <string name="fix_keys_success">수리 성공！</string>
+    <string name="fix_keys_tips">어려운 몇 가지 키를 사용하는 경우, 당신은 무엇을 해결하기 위해 시도 할 수 있습니다</string>
     <string name="from_share">다른 사람에 의해 공유됨</string>
     <string name="gamepad">게임 패드</string>
     <string name="gamepad_rule">가로 방향 회전은 게임 패드 모드에서 사용할 수 없습니다.</string>
@@ -219,6 +232,7 @@
     <string name="guide">가이드</string>
     <string name="has_installed">설치됨</string>
     <string name="hd_channel_preferred">선호하는 HD 동영상</string>
+    <string name="help">도움말 사용</string>
     <string name="history_none">어떠한 동영상도 보지 않았습니다.</string>
     <string name="history_title">기록</string>
     <string name="home">홈</string>
@@ -313,6 +327,7 @@
     <string name="match_dvd_name_stop">중지</string>
     <string name="match_fail_frame">%1$d 리모콘을 연결할 수 없습니다.</string>
     <string name="match_fail_model_hint">리모콘 모델 번호를 입력하세요</string>
+    <string name="match_failed">더이상의 목록은 없습니다. 재시도 하시거나 돌아가세요</string>
     <string name="match_fan_intro_open">팬 전원이 켜지면 손을 떼십시오</string>
     <string name="match_fan_name_open">전원 켜기</string>
     <string name="match_guide_main_frame">%1$s에서 기기를 지목</string>
@@ -321,6 +336,8 @@
     <string name="match_is_respond">기기가 응답합니까?</string>
     <string name="match_main_tip_frame">"%1$s에 리모컨을 가리키고 버튼을 누릅니다.
 %1$s이(가) 응답할 때 버튼을 놓습니다."</string>
+    <string name="match_main_tip_frame_click">"%1$s에 리모컨을 가리키고 버튼을 누릅니다.
+그리고 질문에 응답하세요"</string>
     <string name="match_mibox_first">mi TV를 찾았습니다.</string>
     <string name="match_mibox_sencond">    · 이 기기로 Mi TV를 제어하십시오.</string>
     <string name="match_mibox_third">    · 다른 Mi 기기를 자동으로 추가합니다.</string>
@@ -432,13 +449,11 @@
     <string name="passport_account_not_actived">"당신의 계정이 활성화되어 있지 않습니다"</string>
     <string name="passport_active_email_visit">%s의 수신함을 확인하십시오.</string>
     <string name="passport_activing_account">활성화중…</string>
-    <string name="passport_app_name">미 계정</string>
     <string name="passport_area_code_hot">자주 사용됨</string>
     <string name="passport_area_code_title">국가 코드</string>
     <string name="passport_bad_authentication">잘못된 사용자 이름 또는 비밀번호</string>
     <string name="passport_btn_return">뒤로</string>
     <string name="passport_button_cancel">취소</string>
-    <string name="passport_captcha">코드 입력</string>
     <string name="passport_change_account">&lt;u&gt;계정 변경&lt;/u&gt;</string>
     <string name="passport_change_phone_number">전화번호 바꾸기</string>
     <string name="passport_checking_account">비밀번호 확인 중…</string>
@@ -451,11 +466,7 @@
     <string name="passport_completed">완료</string>
     <string name="passport_confirm">확인</string>
     <string name="passport_confirm_recycle_account">네</string>
-    <string name="passport_data_keep_in_device">내 휴대폰에 저장</string>
-    <string name="passport_data_wipe_from_device">내 휴대폰에서 삭제</string>
     <string name="passport_delete_account">로그아웃</string>
-    <string name="passport_dspt_provision">"어디서든 미 서비스, 미 테마샵, 미 클라우드를 사용하시려면 미 계정에 로그인하세요. "</string>
-    <string name="passport_dspt_provision2">더 배우기</string>
     <string name="passport_email">이메일 주소</string>
     <string name="passport_email_or_id_hint_text">이메일 주소 또는 미 계정 ID</string>
     <string name="passport_email_reg_success_summary">%1$s이(가) 계정과 연결되었습니다. 로그인하거나 비밀번호를 재설정하는 데 사용할 수 있습니다.</string>
@@ -495,7 +506,6 @@
     <string name="passport_input_password_hint">비밀번호 입력</string>
     <string name="passport_input_phone_hint">전화번호 입력</string>
     <string name="passport_input_vcode_hint">인증 코드 입력</string>
-    <string name="passport_input_verify_code_hint">인증코드를 입력하세요</string>
     <string name="passport_license_host_unreachable">네트워크에 연결할 수 없습니다. %s에서 이 페이지를 볼 수 있습니다.</string>
     <string name="passport_loading">로딩 중…</string>
     <string name="passport_login">기존 계정으로 로그인</string>
@@ -511,12 +521,10 @@
     <string name="passport_login_with_email_or_id"><u>이메일 주소 또는 Mi 계정 ID로 로그인</u></string>
     <string name="passport_next">다음</string>
     <string name="passport_notification_title">%1$s 로그인 오류</string>
-    <string name="passport_password">비밀번호 입력</string>
     <string name="passport_password_req_notice">비밀번호는 8~16자에 숫자와 문자(대/소문자 구분)를 포함해야 합니다.</string>
     <string name="passport_phone_num_hint_text">전화번호</string>
     <string name="passport_prev">뒤로 가기</string>
     <string name="passport_privacy_policy">개인 정보 보호 정책</string>
-    <string name="passport_provision_skip_login">&lt;u&gt;이 단계 건너뛰기&lt;/u&gt;</string>
     <string name="passport_quick_login_dialog_step2_title">2단계 인증</string>
     <string name="passport_quick_login_dialog_title">비밀번호 확인</string>
     <string name="passport_quick_login_step2_title">2단계 인증</string>
@@ -546,7 +554,6 @@
     <string name="passport_reject_recycle_account">없음</string>
     <string name="passport_relogin">다시 로그인</string>
     <string name="passport_relogin_notice">다시 로그인해야 합니다.</string>
-    <string name="passport_remove_account_notice">로그아웃 후에，휴대폰의 연락처와 메모는 어떻게 처리할까요?</string>
     <string name="passport_remove_confirm">로그아웃</string>
     <string name="passport_remove_unactivated_account_notice">계정이 활성화되지 않았습니다.</string>
     <string name="passport_resend_active_email">이메일 다시 보내기</string>
@@ -570,14 +577,12 @@
     <string name="passport_user_agreement_p2">사용자 계약</string>
     <string name="passport_user_agreement_p3"> 및 </string>
     <string name="passport_user_agreement_p4">개인 정보 보호 정책</string>
-    <string name="passport_vcode">인증 코드</string>
     <string name="passport_vcode_notification_title">로그인 인증이 완료되지 않았습니다.</string>
     <string name="passport_vcode_prompt_long">인증 코드를 입력하십시오.</string>
     <string name="passport_verification_failed">인증 실패</string>
     <string name="passport_verify">확인</string>
     <string name="passport_wait_for_sms_prompt">"지금 재시작할까요? 네트워크에 연결되어 있다면 인증 메시지가 10분안에 도착합니다."</string>
     <string name="passport_welcome_skip_login">&lt;u&gt;이 단계 건너뛰기&lt;/u&gt;</string>
-    <string name="passport_wrong_captcha">입력한 코드가 올바르지 않습니다</string>
     <string name="passport_wrong_password">비밀번호가 올바르지 않습니다</string>
     <string name="passport_wrong_phone_number_format">입력한 전화번호의 형식이 올바르지 않습니다.</string>
     <string name="passport_wrong_vcode">입력한 코드가 올바르지 않습니다.</string>
@@ -600,6 +605,25 @@
     <string name="privacy_content">Xiaomi의 <a href="http://www.miui.com/res/doc/privacy/en.html">개인 정보 보호 정책</a>과 <a href="http://www.miui.com/res/doc/eula/en.html">이용 약관</a>을 Mi 리모트 사용 전에 확인해주십시오. 인터넷 접속과 위치 서비스 접근은 앱의 정상적인 작동을 위해 요구됩니다.</string>
     <string name="privacy_nohit">다시 보지 않기</string>
     <string name="privacy_title">이용 약관</string>
+    <string name="program_booking_book_filter_book_status">예약 상태</string>
+    <string name="program_booking_book_filter_not_booked">예약없음</string>
+    <string name="program_booking_channel_filter_all_channels">모든채널</string>
+    <string name="program_booking_date_filter_day_0">오늘</string>
+    <string name="program_booking_date_filter_day_1">내일</string>
+    <string name="program_booking_date_filter_day_2">모레</string>
+    <string name="program_booking_date_filter_friday">금요일</string>
+    <string name="program_booking_date_filter_monday">월요일</string>
+    <string name="program_booking_date_filter_next">다음</string>
+    <string name="program_booking_date_filter_saturday">토요일</string>
+    <string name="program_booking_date_filter_sunday">일요일</string>
+    <string name="program_booking_date_filter_thursday">목요일</string>
+    <string name="program_booking_date_filter_tuesday">화요일</string>
+    <string name="program_booking_date_filter_wednesday">수요일</string>
+    <string name="program_booking_date_filter_whole_week">일주일</string>
+    <string name="program_booking_time_filter_dawn">오전</string>
+    <string name="program_booking_time_filter_day">정오</string>
+    <string name="program_booking_time_filter_night">오후</string>
+    <string name="program_booking_time_filter_whole_day">하루종일</string>
     <string name="projection_failed_for_disconnect">기기가 연결되지 않음</string>
     <string name="province">지방</string>
     <string name="pull_down_refresh">아래로 당겨서 새로고침</string>
@@ -617,6 +641,7 @@
     <string name="refreshing_no_point">새로 고치는 중…</string>
     <string name="refreshing_retry">불러올 수 없습니다. 다시 시도하십시오</string>
     <string name="release_to_refresh">놓아서 새로고침</string>
+    <string name="rematch">재탐색</string>
     <string name="remote_controller_name">Mi 리모트</string>
     <string name="rename">이름 변경하기</string>
     <string name="rename_hint">기기 이름 입력</string>
