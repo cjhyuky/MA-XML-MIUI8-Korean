@@ -167,11 +167,6 @@
         <item>없음</item>
         <item>수동</item>
     </string-array>
-    <string-array name="emergency_tone_entries">
-        <item>사용 안함</item>
-        <item>알리미</item>
-        <item>진동</item>
-    </string-array>
     <string-array name="apn_auth_entries">
         <item>없음</item>
         <item>PAP</item>
@@ -333,16 +328,6 @@
         <item>파란색 바탕에 흰색</item>
         <item>맞춤설정</item>
     </string-array>
-    <string-array name="select_runtime_titles">
-        <item>Dalvik</item>
-        <item>ART</item>
-        <item>ART(디버그)</item>
-    </string-array>
-    <string-array name="select_runtime_summaries">
-        <item>Dalvik 사용</item>
-        <item>ART 사용</item>
-        <item>ART 디버그 빌드 사용</item>
-    </string-array>
     <string-array name="hdcp_checking_titles">
         <item>확인 안함</item>
         <item>DRM 콘텐츠만 확인</item>
@@ -478,6 +463,14 @@
         <item>8초</item>
         <item>9초</item>
     </string-array>
+    <string-array name="mi1_led_color_entries">
+        <item>파란색</item>
+        <item>빨간색</item>
+        <item>초록색</item>
+        <item>분홍색</item>
+        <item>보라색</item>
+        <item>자주색</item>
+    </string-array>
     <string-array name="led_color_entries">
         <item>파란색</item>
         <item>빨간색</item>
@@ -486,14 +479,6 @@
         <item>하늘색</item>
         <item>흰색</item>
         <item>보라색</item>
-    </string-array>
-    <string-array name="mi1_led_color_entries">
-        <item>파란색</item>
-        <item>빨간색</item>
-        <item>초록색</item>
-        <item>분홍색</item>
-        <item>보라색</item>
-        <item>자주색</item>
     </string-array>
     <string-array name="screen_key_press_action">
         <item>최근 앱 트레이 표시</item>
@@ -555,7 +540,7 @@
         <item>@string/msd_install_retry_connect</item>
         <item>Mi 폰 매니저 재설치</item>
     </string-array>
-        <string-array name="msd_pc_system_retry_linux">
+    <string-array name="msd_pc_system_retry_linux">
         <item>Install tool: sudo aptitude install mtpfs libfuse-dev libmad0-dev</item>
         <item>디렉토리 만들기: mkdir /media/mtp</item>
         <item>현재 결합된 사용자 그룹에서 사용자 그룹 권한 확인</item>
@@ -607,6 +592,10 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>수동으로 연결</item>
         <item>항상 문의</item>
     </string-array>
+    <string-array name="wifi_ssid_type_entries">
+        <item>자동으로 연결</item>
+        <item>수동으로 연결</item>
+    </string-array>
     <string-array name="slideshow_time_entries">
         <item>5분</item>
         <item>15분</item>
@@ -653,16 +642,6 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>2</item>
         <item>3</item>
     </string-array>
-    <string-array name="handy_mode_size_text_entries">
-        <item>4.5인치</item>
-        <item>4.0인치</item>
-        <item>3.5인치</item>
-    </string-array>
-    <string-array name="handy_mode_size_value_entries">
-        <item>4.5</item>
-        <item>4.0</item>
-        <item>3.5</item>
-    </string-array>
     <string-array name="agps_network_values">
         <item>0</item>
         <item>1</item>
@@ -693,6 +672,16 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>따뜻함</item>
         <item>차가움</item>
     </string-array>
+    <string-array name="handy_mode_size_text_entries">
+        <item>4.5인치</item>
+        <item>4.0인치</item>
+        <item>3.5인치</item>
+    </string-array>
+    <string-array name="handy_mode_size_value_entries">
+        <item>4.5</item>
+        <item>4.0</item>
+        <item>3.5</item>
+    </string-array>
     <string-array name="lock_screen_secure_after_timeout_entries">
         <item>즉시</item>
         <item>1분</item>
@@ -712,6 +701,10 @@ Note: Only for Ubuntu 8.04!"</item>
     <string-array name="fluency_mode_confirms">
         <item>이 설정을 적용하기 위해 기기를 재부팅하시겠습니까?</item>
         <item>이 설정을 적용하기 위해 기기를 재부팅하시겠습니까?</item>
+    </string-array>
+    <string-array name="screen_resolution_entries">
+        <item>초고화질 (2K)</item>
+        <item>보통 (720p)</item>
     </string-array>
     <string-array name="miui_entries_font_size">
         <item>S</item>
@@ -807,12 +800,24 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>평일</item>
         <item>사용자 설정</item>
     </string-array>
-    <string-array name="wifi_ssid_type_entries">
-        <item>자동으로 연결</item>
-        <item>수동으로 연결</item>
+    <string-array name="emergency_tone_entries">
+        <item>사용 안함</item>
+        <item>알리미</item>
+        <item>진동</item>
     </string-array>
-    <string-array name="screen_resolution_entries">
-        <item>초고화질 (2K)</item>
-        <item>보통 (720p)</item>
+    <string-array name="select_runtime_titles">
+        <item>Dalvik</item>
+        <item>ART</item>
+        <item>ART(디버그)</item>
+    </string-array>
+    <string-array name="select_runtime_summaries">
+        <item>Dalvik 사용</item>
+        <item>ART 사용</item>
+        <item>ART 디버그 빌드 사용</item>
+    </string-array>
+    <string-array name="common_password_business_names">
+        <item>잠금화면</item>
+        <item>어린이 모드</item>
+        <item>파일 탐색기</item>
     </string-array>
 </resources>
