@@ -815,9 +815,4 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>ART 사용</item>
         <item>ART 디버그 빌드 사용</item>
     </string-array>
-    <string-array name="common_password_business_names">
-        <item>잠금화면</item>
-        <item>어린이 모드</item>
-        <item>파일 탐색기</item>
-    </string-array>
 </resources>
