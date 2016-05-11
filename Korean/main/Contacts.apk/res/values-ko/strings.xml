@@ -63,7 +63,7 @@
     <string name="label_notes">메모</string>
     <string name="label_sip_address">인터넷 통화</string>
     <string name="ghostData_company">회사</string>
-    <string name="ghostData_title">제목</string>
+    <string name="ghostData_title">직급</string>
     <string name="invalidContactMessage">연락처가 존재하지 않습니다.</string>
     <string name="createContactShortcutSuccessful">연락처 위젯이 홈 화면에 추가됨</string>
     <string name="pickerNewContactHeader">새 연락처 만들기</string>
