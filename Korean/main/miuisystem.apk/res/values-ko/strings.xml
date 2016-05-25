@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="add_frequent_phrases">상용구 등록/string>
     <string name="android_ringtone_silent">없음</string>
     <string name="android_ringtone_unknown">모르는 벨소리</string>
     <string name="presentation_payphone">공중전화</string>
@@ -10,9 +11,14 @@
     <string name="yellow_page_sms_send_failed">SMS를 전송하지 못했습니다.</string>
     <string name="yellow_page_sms_sending">전송 중…</string>
     <string name="yellow_page_unable_send_sms">메시지를 전송할 수 없습니다.</string>
+    <string name="delete_frequent_phrases">상용구 삭제</string>
+    <string name="delete_frequent_phrases_confirm">선택된 상용구를 삭제하겠습니까?</string>
     <string name="device_hongmi">홍미</string>
     <string name="device_pad">Mi 패드</string>
     <string name="device_xiaomi">Mi 폰</string>
+    <string name="edit_frequent_phrases">상용구 수정</string>
+    <string name="frequent_phrases_des">몇 번의 터치만으로 상용구를 입력할 수 있습니다</string>
+    <string name="frequent_phrases_size_exceeded">상용구는 최대 10개만 등록할 수 있습니다. 불필요한 상용구를 삭제한 뒤 다시 시도하십시오.</string>
     <string name="solar_calendar">양력</string>
     <string name="lunar_calendar">음력</string>
     <string name="lunar_zheng">정</string>
