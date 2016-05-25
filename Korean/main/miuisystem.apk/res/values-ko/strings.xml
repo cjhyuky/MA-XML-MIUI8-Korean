@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="add_frequent_phrases">상용구 등록/string>
+    <string name="add_frequent_phrases">상용구 등록</string>
     <string name="android_ringtone_silent">없음</string>
     <string name="android_ringtone_unknown">모르는 벨소리</string>
     <string name="presentation_payphone">공중전화</string>
