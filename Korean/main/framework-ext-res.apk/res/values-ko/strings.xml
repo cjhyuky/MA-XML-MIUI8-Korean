@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="add_frequent_phrases">상용구 등록</string>
     <string name="status_bar_toggle_ac">어플 잠금</string>
     <string name="status_bar_toggle_bluetooth">블루투스</string>
     <string name="status_bar_toggle_auto_brightness">밝기</string>
@@ -45,6 +46,7 @@
     <string name="force_exit_message">%1$s 강제 종료</string>
     <string name="force_exit_skip_message">시스템이 요구하므로 %1$s을(를) 종료할 수 없습니다.</string>
     <string name="fm_record_smaple_prefix_miui">FM 녹음</string>
+    <string name="frequent_phrases">상용구</string>
     <string name="global_actions_airplane_mode">비행기 모드</string>
     <string name="global_actions_reboot">재시작</string>
     <string name="global_actions_shutdown">전원 꺼짐</string>
