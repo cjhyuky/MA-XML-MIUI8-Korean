@@ -102,7 +102,7 @@
     <string name="status_bar_screen_key_back">뒤로 버튼</string>
     <string name="settings_toggle_position_divider_page">%1$d 토글을 바 위에 표시 활성화</string>
     <string name="settings_toggle_position_divider_list">바 위에 토글표시 활성화</string>
-    <string name="status_bar_style_list">혼합모드</string>
+    <string name="status_bar_style_list">통합모드</string>
     <string name="status_bar_style_page">분리모드</string>
     <string name="status_bar_settings_style">알림 &amp; 토글 표시모드</string>
     <string name="yes">예</string>
