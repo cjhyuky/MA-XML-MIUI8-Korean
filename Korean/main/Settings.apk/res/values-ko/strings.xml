@@ -71,6 +71,7 @@
     <string name="status_bar_settings_notification_led">알림 표시등</string>
     <string name="status_bar_settings_notification_bar">알림 지우기</string>
     <string name="status_bar_settings_toggle_collapse_after_clicked">터치 후 축소</string>
+    <string name="search_status_bar_settings_expandable_under_keyguard">잠금 화면에 표시</string>
     <string name="status_bar_settings_show_screenshot_notification">스크린샷 알림 표시</string>
     <string name="status_bar_settings_status_bar">상태 표시줄</string>
     <string name="status_bar_settings_show_notification_icon">알림 아이콘 표시</string>
@@ -99,6 +100,11 @@
     <string name="status_bar_screen_key_home">홈 버튼</string>
     <string name="status_bar_screen_key_recent_apps">최근 앱 버튼</string>
     <string name="status_bar_screen_key_back">뒤로 버튼</string>
+    <string name="settings_toggle_position_divider_page">%1$d 토글을 바 위에 표시 활성화</string>
+    <string name="settings_toggle_position_divider_list">바 위에 토글표시 활성화</string>
+    <string name="status_bar_style_list">혼합모드</string>
+    <string name="status_bar_style_page">분리모드</string>
+    <string name="status_bar_settings_style">알림 &amp; 토글 표시모드</string>
     <string name="yes">예</string>
     <string name="no">아니요</string>
     <string name="create">만들기</string>
@@ -511,6 +517,7 @@
     <string name="bluetooth_pairing_request">블루투스 페어링 요청</string>
     <string name="bluetooth_enter_pin_msg">기기</string>
     <string name="bluetooth_pairing_key_msg">페어링 코드</string>
+    <string name="bluetooth_enter_pin_msg_hs">16자의 암호를 입력하세요.</string>
     <string name="bluetooth_enter_passkey_msg">페어링 코드를 입력하고 Return 또는 Enter 키를 누르세요.</string>
     <string name="bluetooth_enable_alphanumeric_pin">PIN에 문자나 기호가 포함됩니다.</string>
     <string name="bluetooth_pin_values_hint">일반적으로 0000 또는 1234</string>
@@ -2704,6 +2711,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="handy_mode_enter_ask">한 손 조작 모드시 팝업으로 묻기</string>
     <string name="handy_mode_tips">홈버튼에서 왼쪽이나 오른쪽으로 스와이프하여 화면을 한쪽으로 가깝게 당기십시오.</string>
     <string name="handy_mode_size">화면 크기</string>
+    <string name="touch_assistant">터치 어시스턴트</string>
     <string name="key_settings_title">버튼</string>
     <string name="key_settings">버튼</string>
     <string name="screen_key_press">탐색 버튼 누르기</string>
@@ -2750,7 +2758,11 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="battery_indicator_style">배터리 표시기</string>
     <string name="power_usage_history">배터리 사용</string>
     <string name="default_usb_mode">USB 연결</string>
+    <string name="wifi_tether_settings_title">휴대용 핫스팟</string>
     <string name="lock_settings">잠금 화면</string>
+    <string name="second_space">두번째 공간</string>
+    <string name="xspace">복제된 앱</string>
+    <string name="call_settings_primary_user_only">전화 설정은 첫번째 공간에서 바꿔주세요</string>
     <string name="unlock_set_unlock_summary">화면 잠금 설정</string>
     <string name="lock_settings_picker_settings">화면 잠금 설정</string>
     <string name="lock_screen_unlock_show">스와이프 화면 건너뛰기</string>
@@ -3599,8 +3611,32 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="equalizer">EQ</string>
     <string name="privacy_mode_title">개인정보 보호 설정</string>
     <string name="privacy_mode_summary">개별 앱 잠그기 또는 개인 정보 숨기기</string>
+    <string name="ac_enable_title">앱 잠금</string>
+    <string name="ac_enable_summary">개별 앱을 위한 암호 설정</string>
+    <string name="ac_set_apps_title">잠글 앱을 선택하세요</string>
+    <string name="ac_privacy_mode_title">암호</string>
+    <string name="ac_privacy_mode_sum">게스트 모드를 끄려면 암호가 필요합니다</string>
+    <string name="access_control_password_title">암호</string>
+    <string name="access_control_need_to_unlock">암호가 필요함:</string>
+    <string name="access_control_reset_by_account">Mi계정 로그인으로 암호 재설정</string>
+    <string name="access_control_need_password">"%s 는 보호되었습니다.
+"</string>
+    <string name="access_control_no_back_footer">나가려면 [icon] 를 클릭하세요</string>
+    <string name="access_control_recording_intro_header">잠금 패턴 입력:</string>
+    <string name="access_control_app_entry_single">어플 열기</string>
+    <string name="access_control_app_entry_multiple">%s 로 열기</string>
     <string name="device_security_settings_title">보안</string>
     <string name="enable_crypt_keeper_encrypt">암호화 사용 가능</string>
     <string name="experience_optimization_category">최적화</string>
     <string name="advanced_text_layout">고급 문자 레이아웃 사용 가능</string>
+    <string name="search_empty">검색 결과 없음</string>
+    <string name="receiver_clean">여유공간 늘리기</string>
+    <string name="power_optimize">배터리 세이버</string>
+    <string name="power_checker">파워 체크</string>
+    <string name="app_invisible">앱 숨김</string>
+    <string name="uninstall_xspace_app_dlg_title">복제 앱을 삭제하시겠습니까?</string>
+    <string name="uninstall_xspace_app_dlg_msg">복제 앱을 삭제하시면 앱 데이터도 모두 삭제됩니다.</string>
+    <string name="uninstall_dlg_title">정말 삭제할까요?</string>
+    <string name="uninstall_dlg_msg">모든 앱 데이터가 삭제됩니다.</string>
+    <string name="uninstall_with_xspace_app_dlg_msg">해당 복제 된 앱은 앱 데이터와 함께 제거됩니다.</string>
 </resources>
