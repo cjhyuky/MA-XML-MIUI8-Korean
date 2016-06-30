@@ -3611,20 +3611,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="equalizer">EQ</string>
     <string name="privacy_mode_title">개인정보 보호 설정</string>
     <string name="privacy_mode_summary">개별 앱 잠그기 또는 개인 정보 숨기기</string>
-    <string name="ac_enable_title">앱 잠금</string>
     <string name="ac_enable_summary">개별 앱을 위한 암호 설정</string>
-    <string name="ac_set_apps_title">잠글 앱을 선택하세요</string>
-    <string name="ac_privacy_mode_title">암호</string>
-    <string name="ac_privacy_mode_sum">게스트 모드를 끄려면 암호가 필요합니다</string>
-    <string name="access_control_password_title">암호</string>
-    <string name="access_control_need_to_unlock">암호가 필요함:</string>
-    <string name="access_control_reset_by_account">Mi계정 로그인으로 암호 재설정</string>
-    <string name="access_control_need_password">"%s 는 보호되었습니다.
-"</string>
-    <string name="access_control_no_back_footer">나가려면 [icon] 를 클릭하세요</string>
-    <string name="access_control_recording_intro_header">잠금 패턴 입력:</string>
-    <string name="access_control_app_entry_single">어플 열기</string>
-    <string name="access_control_app_entry_multiple">%s 로 열기</string>
     <string name="device_security_settings_title">보안</string>
     <string name="enable_crypt_keeper_encrypt">암호화 사용 가능</string>
     <string name="experience_optimization_category">최적화</string>
