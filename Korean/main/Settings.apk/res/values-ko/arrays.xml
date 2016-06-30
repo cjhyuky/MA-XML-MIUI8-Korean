@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="status_bar_style_entries">
+        <item>통합 모드</item>
+        <item>분리 모드</item>
+    </string-array>
     <string-array name="timezone_filters">
         <item>미국</item>
         <item>유럽</item>
