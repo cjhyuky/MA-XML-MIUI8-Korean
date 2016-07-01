@@ -2760,7 +2760,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="default_usb_mode">USB 연결</string>
     <string name="wifi_tether_settings_title">휴대용 핫스팟</string>
     <string name="lock_settings">잠금 화면</string>
-    <string name="second_space">두번째 공간</string>
+    <string name="second_space">세컨드 스페이스</string>
     <string name="xspace">복제된 앱</string>
     <string name="call_settings_primary_user_only">전화 설정은 첫번째 공간에서 바꿔주세요</string>
     <string name="unlock_set_unlock_summary">화면 잠금 설정</string>
