@@ -25,8 +25,35 @@
         <item>서울</item>
         <item>쿠알라룸푸르</item>
     </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+    </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
     <string-array name="weather_type">
-        <item>맑음</item>
+        <item>지우기</item>
         <item>흐림</item>
         <item>흐림</item>
         <item>안개</item>
@@ -34,7 +61,7 @@
         <item>호우</item>
         <item>폭풍우</item>
         <item>뇌우</item>
-        <item>소나기</item>
+        <item>비</item>
         <item>집중 호우</item>
         <item>비</item>
         <item>이슬비</item>
