@@ -34,7 +34,7 @@
         <item>기본값</item>
         <item>사진</item>
         <item>영화</item>
-        <item>배터리 세이버</item>
+        <item>배터리 절약</item>
         <item>균형</item>
         <item>성능</item>
         <item>켜짐</item>
@@ -43,5 +43,35 @@
         <item>10분 후</item>
         <item>30분 후</item>
         <item>화면 꺼질 때</item>
+    </string-array>
+    <string-array name="app_groups">
+        <item>이 모드에 속하는 앱</item>
+        <item>선택되지 않음</item>
+        <item>다른 모드에 속하는 앱</item>
+    </string-array>
+    <string-array name="hmode_app_groups">
+        <item>사용자 설정</item>
+        <item>배터리 절약</item>
+    </string-array>
+    <string-array name="power_checker_group_prefix">
+        <item>지금</item>
+        <item>백그라운드</item>
+        <item>최근</item>
+    </string-array>
+    <string-array name="power_checker_running_group_titles">
+        <item>깊은 슬립 모드 차단</item>
+        <item>슬립 모드 차단</item>
+        <item>Wi-Fi 검색 중</item>
+        <item>GPS 사용</item>
+        <item>CPU 점유율</item>
+        <item>기기 작업 빈도</item>
+    </string-array>
+    <string-array name="power_checker_recent_group_titles">
+        <item>Kernel WakeLock</item>
+        <item>WakeLock</item>
+        <item>Wi-Fi 스캔</item>
+        <item>GPS</item>
+        <item>CPU</item>
+        <item>기상</item>
     </string-array>
 </resources>

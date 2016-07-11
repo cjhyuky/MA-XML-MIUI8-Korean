@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="power_config_ultimate_on_count">
+        <item quantity="other">%1$d단계만 거치면 울티메이트 모드로 전환됩니다.</item>
+    </plurals>
+    <plurals name="power_config_ultimate_off_count">
+        <item quantity="other">%1$d단계만 거치면 울티메이트 모드가 해제됩니다.</item>
+    </plurals>
+    <plurals name="power_config_ultimate_unlock_count">
+        <item quantity="other">%1$d단계만 완료되면 모든 항목이 잠금 해제됩니다.</item>
+    </plurals>
+</resources>
