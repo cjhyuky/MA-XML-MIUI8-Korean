@@ -962,7 +962,6 @@
     <string name="system_check_content">%1$d 위험</string>
     <string name="memory_check_content_none">비어 있음</string>
     <string name="system_check_content_none">안전</string>
-    <string name="cache_check_content_none">@string/memory_check_content_none</string>
     <string name="system_header_title">%1$d 프로세스 제거하여 %2$s 메모리 확보</string>
     <string name="cache_header_title">%1$d 캐시된 파일을 제거하여 %2$s 여유 공간 확보</string>
     <string name="activity_title_virus">바이러스</string>
