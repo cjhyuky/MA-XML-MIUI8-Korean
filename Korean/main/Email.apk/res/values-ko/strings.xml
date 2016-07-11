@@ -3,20 +3,17 @@
     <string name="SMTP_independent_verification_text">SMTP 단독 검증</string>
     <string name="SMTP_password_text">비밀번호</string>
     <string name="SMTP_username_text">사용자 이름</string>
-    <string name="abc_action_mode_done">완료</string>
-    <string name="abc_searchview_description_clear">검색어 삭제</string>
-    <string name="abc_searchview_description_query">검색어</string>
-    <string name="abc_searchview_description_search">검색</string>
-    <string name="abc_searchview_description_submit">검색어 보내기</string>
-    <string name="abc_searchview_description_voice">음성 검색</string>
-    <string name="account_duplicate_dlg_message_fmt">이미 \"%s\" 계정에 이 사용자 이름을 사용 중입니다.</string>
+    <string name="account_duplicate_dlg_message_fmt">"        이미 \"%s\" 계정에 이 사용자 이름을 사용 중입니다."</string>
     <string name="account_duplicate_dlg_title">중복 계정</string>
     <string name="account_name_toast">동일한 이름의 계정이 이미 사용 중입니다.</string>
     <string name="account_options_sync_title">동기화</string>
-    <string name="account_password_spaces_error">이 비밀번호는 한 개 이상의 공백 문자로 시작하거나 끝납니다. 많은 서버가 공백이 포함된 비밀번호를 지원하지 않습니다.</string>
-    <string name="account_security_dialog_content_fmt">%s은(는) 보안 설정 업데이트가 필요합니다.</string>
+    <string name="account_password_spaces_error">"이 비밀번호는 한 개 이상의 공백 문자로
+        시작하거나 끝납니다. 많은 서버가 공백이 포함된 비밀번호를 지원하지 않습니다."</string>
+    <string name="account_security_dialog_content_fmt">"%s은(는) 보안 설정 업데이트가
+         필요합니다."</string>
     <string name="account_security_dialog_title">보안 업데이트</string>
-    <string name="account_security_policy_explanation_fmt">%s 서버에서 귀하의 안드로이드 기기의 일부 보안 기능을 원격 제어하는 것을 허용하기를 요구합니다.</string>
+    <string name="account_security_policy_explanation_fmt">"%s 서버에서 귀하의 안드로이드 기기의 일부 보안 기능을
+         원격 제어하는 것을 허용하기를 요구합니다."</string>
     <string name="account_security_title">기기 보안</string>
     <string name="account_set_up_change_type_note">POP3와 IMAP 설정을 전환할 필요가 있을 경우, 계정을 삭제하고 원하는 설정으로 새 계정을 만드십시오.</string>
     <string name="account_settings_action">계정 설정</string>
@@ -64,19 +61,18 @@
     <string name="account_setup_basics_manual_setup_action">수동 설치</string>
     <string name="account_setup_basics_password_label">비밀번호</string>
     <string name="account_setup_basics_title">계정 추가</string>
-    <string name="account_setup_check_settings_check_incoming_msg">서버 설정 인증 중…</string>
-    <string name="account_setup_check_settings_check_outgoing_msg">smtp 설정 인증 중…</string>
-    <string name="account_setup_check_settings_retr_info_msg">계정 정보 검색 중…</string>
+    <string name="account_setup_check_settings_check_incoming_msg">"    서버 설정 인증 중…"</string>
+    <string name="account_setup_check_settings_check_outgoing_msg">"    smtp 설정 인증 중…"</string>
+    <string name="account_setup_check_settings_retr_info_msg">"    계정 정보 검색 중…"</string>
     <string name="account_setup_correct_address_tips">이메일 주소 입력</string>
-    <string name="account_setup_creating_account_msg">계정 생성 중…</string>
-    <string name="account_setup_deleting_account_msg">Removing account…</string>
+    <string name="account_setup_creating_account_msg">"    계정 생성 중…"</string>
+    <string name="account_setup_deleting_account_msg">"    계정 제거 중…"</string>
     <string name="account_setup_exchange_certificate_title">클라이언트 인증서</string>
     <string name="account_setup_exchange_device_id_label">모바일 기기 ID</string>
     <string name="account_setup_exchange_no_certificate">없음</string>
-    <string name="account_setup_failed_auth_required">인증 방식을 서버에서 지원하지 않습니다.</string>
     <string name="account_setup_failed_certificate_inaccessible">인증서가 올바르지 않거나 접근할 수 없습니다.</string>
     <string name="account_setup_failed_certificate_required">클라이언트 인증서가 필요합니다. 클라이언트 인증서로 서버에 연결하시겠습니까?</string>
-    <string name="account_setup_failed_check_credentials_message">서버에서 오류 반응 보냄. 사용자 이름과 비밀번호를 확인한 후 다시 시도하십시오.</string>
+    <string name="account_setup_failed_check_credentials_message">"         서버에서 오류 반응 보냄. 사용자 이름과 비밀번호를 확인한 후 다시 시도하십시오."</string>
     <string name="account_setup_failed_dlg_auth_message">사용자 이름 또는 비밀번호가 올바르지 않습니다.</string>
     <string name="account_setup_failed_dlg_bar_title">%s에 로그인하는 방법</string>
     <string name="account_setup_failed_dlg_certificate_message">서버에 안정적으로 연결할 수 없습니다.</string>
@@ -107,9 +103,9 @@
     <string name="account_setup_incoming_security_label">보안 유형</string>
     <string name="account_setup_incoming_security_none_label">없음</string>
     <string name="account_setup_incoming_security_ssl_label">SSL/TLS</string>
-    <string name="account_setup_incoming_security_ssl_trust_certificates_label">SSL/TLS(모든 인증서 수락)</string>
+    <string name="account_setup_incoming_security_ssl_trust_certificates_label">"        SSL/TLS(모든 인증서 수락)"</string>
     <string name="account_setup_incoming_security_tls_label">STARTTLS</string>
-    <string name="account_setup_incoming_security_tls_trust_certificates_label">STARTTLS (모든 인증서 수락)</string>
+    <string name="account_setup_incoming_security_tls_trust_certificates_label">"        STARTTLS (모든 인증서 수락)"</string>
     <string name="account_setup_incoming_server_label">서버</string>
     <string name="account_setup_incoming_username_label">사용자 이름</string>
     <string name="account_setup_incoming_username_label_default_hint">도메인을 포함할 수 있습니다.</string>
@@ -135,10 +131,12 @@
     <string name="account_setup_outgoing_port_label">포트</string>
     <string name="account_setup_outgoing_require_login_label">로그인 필요</string>
     <string name="account_setup_outgoing_smtp_server_label">SMTP 서버</string>
-    <string name="account_setup_security_policies_required_fmt">%s 서버에서 귀하의 안드로이드 기기의 일부 보안 설정을 원격 제어하는 것을 허용하기를 요구합니다. 이 계정의 설정을 완료하시겠습니까?</string>
+    <string name="account_setup_security_policies_required_fmt">" %s 서버에서 귀하의 안드로이드 기기의 일부 보안 설정을 
+         원격 제어하는 것을 허용하기를 요구합니다. 이 계정의 설정을
+         완료하시겠습니까?"</string>
     <string name="account_setup_security_required_title">원격 보안 관리</string>
     <string name="account_setup_server_acc_manager_title">계정</string>
-    <string name="account_setup_username_password_toast">유효한 이메일과 비밀번호를 입력하십시오.</string>
+    <string name="account_setup_username_password_toast">"        유효한 이메일과 비밀번호를 입력하십시오."</string>
     <string name="account_sync_off">계정 동기화가 꺼져 있습니다.</string>
     <string name="account_waiting_for_folders_msg">폴더 로드 중...</string>
     <string name="actionbar_large_unread_count">%1$d개 이상 읽지 않음</string>
@@ -151,7 +149,7 @@
     <string name="add_pre_message_attachments">사전 메시지의 첨부 파일을 추가하시겠습니까?</string>
     <string name="add_pre_message_attachments_no">추가 안 함</string>
     <string name="add_pre_message_attachments_yes">추가</string>
-    <string name="add_star">별 표시</string>
+    <string name="add_star">별</string>
     <string name="allread">모두 읽기</string>
     <string name="always_bcc_myself">숨은 참조 항상 자동</string>
     <string name="always_show_images">이 발신자의 사진은 항상 보여주기</string>
@@ -160,6 +158,7 @@
     <string name="archived">보관됨</string>
     <string name="att_download_failed_content">이 메시지의 첨부파일을 다운로드하지 못했습니다.</string>
     <string name="att_download_failed_network_slow">연결 속도가 너무 느립니다. 나중에 다시 시도하십시오.</string>
+    <string name="att_download_failed_permission_denied">외부 저장소 접근 권한이 없습니다.</string>
     <string name="att_download_failed_title">첨부파일을 다운로드할 수 없습니다.</string>
     <string name="att_file_not_exists">%s를 찾을 수 없습니다.</string>
     <string name="att_mgr_no_attachment">첨부파일 없음.</string>
@@ -203,11 +202,11 @@
     <string name="bottom_bar_more_share">공유</string>
     <string name="bottom_bar_no_quickreply_toast">빠른 답장 없음</string>
     <string name="bytes">%sB</string>
-    <string name="calendar_remind_dialog_title">Reminder</string>
+    <string name="calendar_remind_dialog_title">미리 알림</string>
     <string name="calendar_remind_gridview_pick_date">날짜 선택</string>
     <string name="cancel">취소</string>
     <string name="cancel_action">취소</string>
-    <string name="cant_move_or_change_labels">선택 사항에 다중 계정이 포함되어 있으므로 이동할 수 없습니다.</string>
+    <string name="cant_move_or_change_labels">다중 계정에서 항목을 이동할 수 없습니다.</string>
     <string name="cc">참조</string>
     <string name="cc_attribution">참조: %1$s&lt;br></string>
     <string name="cc_bcc">참조/숨은 참조</string>
@@ -216,22 +215,24 @@
     <string name="change_sync_settings">동기화 설정 변경</string>
     <string name="changepw_dialog_tips">%s의 비밀번호 재입력</string>
     <string name="chat_item_msg_people_unit">사람들</string>
+    <string name="chat_item_msg_user_etc">기타.</string>
     <string name="chat_view_description">이메일 쓰레드를 말풍선 형식으로 보기</string>
     <string name="chat_view_title">대화 보기</string>
-    <string name="check_setup_data">서버 설정 확인 중…</string>
+    <string name="check_setup_data">"    서버 설정 확인 중…"</string>
     <string name="choosertitle_sharevia">사용하여 공유</string>
     <string name="clear">지우기</string>
     <string name="clear_display_images_whitelist_dialog_message">이전에 허용한 발신자부터 온 인라인 이미지의 표시를 중단하십시오.</string>
     <string name="clear_display_images_whitelist_dialog_title">사진 승인을 삭제하시겠습니까?</string>
     <string name="clear_display_images_whitelist_title">사진 승인 삭제</string>
     <string name="click_download_all_content">[탭하여 컨텐츠 다운로드]</string>
+    <string name="click_to_reload">화면을 탭하여 새로고침</string>
     <string name="collapse_recipient_details">받는 사람 세부 정보 축소</string>
     <string name="colon">:</string>
     <string name="compose">작성</string>
     <string name="compose_attachment_number_limit">10개 이상의 첨부 파일을 추가할 수 없습니다.</string>
     <string name="compose_picturesexceedlimits">메시지에 인라인 이미지 5개를 초과할 수 없습니다.</string>
     <string name="compose_send">전송</string>
-    <string name="compose_sent">메일 전송됨</string>
+    <string name="compose_sent">매일 전송됨</string>
     <string name="confirm">확인</string>
     <string name="confirm_delete_conversation_title">삭제</string>
     <string name="confirm_discard_text">이 메시지를 취소하시겠습니까?</string>
@@ -256,6 +257,7 @@
     <string name="contact_list_add_btn">추가</string>
     <string name="contact_list_search_hint">연락처 검색</string>
     <string name="contact_list_title">연락처</string>
+    <string name="contact_permission_error">차단된 휴대전화 연락처 접근</string>
     <string name="contact_select">연락처 선택</string>
     <string name="content_description">%1$s이(가) %2$s에 대하여, %4$s일에 %3$s, %5$s</string>
     <string name="content_description_today">xliff:g id=\"sender\">%1$s이(가) %2$s에 대하여, %4$s일에 %3$s, %5$s</string>
@@ -288,12 +290,9 @@
     <string name="date_message_received">%1$s %2$s</string>
     <string name="date_message_received_today">오늘, %1$s</string>
     <string name="default_">기본값</string>
-    <string name="default_exchange">교환</string>
-    <string name="default_imap">IMAP</string>
-    <string name="default_pop3">POP3</string>
     <string name="default_setup">기본 설정</string>
     <string name="default_signature">내 Mi 폰에서 전송됨</string>
-    <string name="del_account_questionnair_hint">"Could you tell us why you're removing this account?"</string>
+    <string name="del_account_questionnair_hint">왜 계정을 삭제하시려는지 저희에게 알려주시겠습니까?</string>
     <string name="delete">삭제</string>
     <string name="deleted">삭제됨</string>
     <string name="device_activity_btn_str">활성화</string>
@@ -308,7 +307,9 @@
     <string name="dialog_gmail_proxy_server_is_error">Gmail 프록시 서버 오류</string>
     <string name="dialog_insufficient_space_on_external">첨부파일을 다운로드할 수 없습니다. 외장 메모리의 공간이 부족합니다.</string>
     <string name="dialog_insufficient_space_on_internal">외장 메모리에 충분한 공간 없음</string>
-    <string name="disable_admin_warning">경고: 귀하의 기기 관리 이메일 앱의 권한을 비활성화하면 이메일, 연락처, 달력 일정, 기타 데이터와 함께 권한을 필요로 하는 모든 이메일 계정이 삭제됩니다.</string>
+    <string name="disable_admin_warning">"경고: 귀하의 기기 관리 이메일 앱의 권한을 비활성화하면
+         이메일, 연락처, 달력 일정, 기타 데이터와 함께 권한을 필요로 하는 모든 이메일 계정이
+         삭제됩니다."</string>
     <string name="discard">취소</string>
     <string name="discard_drafts">작성 중인 글 삭제</string>
     <string name="dismiss_tip_hover_text">팁 무시</string>
@@ -332,6 +333,7 @@
     <string name="download_confirm_message">첨부파일 %1$s을(를) 다운로드하시겠습니까?</string>
     <string name="download_confirm_title">첨부파일 다운로드</string>
     <string name="download_message_failed_for_too_large">메시지가 다운로드하기에 너무 큽니다.</string>
+    <string name="download_whole_email">나머지 메시지 보이기</string>
     <string name="draft_count_format"> (%1$s)</string>
     <string name="drawer_close">탐색 서랍 닫기</string>
     <string name="drawer_open">탐색 서랍 열기</string>
@@ -346,23 +348,30 @@
     <string name="empty_trash">휴지통 비우기</string>
     <string name="empty_trash_dialog_title">휴지통을 비우시겠습니까?</string>
     <string name="enable_sync_in_account_settings">%1$s에서 켜기</string>
-    <string name="enumeration_delimiter">" | "</string>
-    <string name="exception_cancel">이 일정 취소됨 이유: %s</string>
-    <string name="exception_updated">이 일정의 세부 정보 변경됨 이유: %s</string>
+    <string name="exception_cancel">"
+        이 일정 취소됨
+        이유:
+%s "</string>
+    <string name="exception_updated">\" 이 일정의 세부 정보 변경됨 이유: %s \"</string>
     <string name="exchange_name">기업</string>
     <string name="exchange_name_alternate">마이크로소프트 Exchange ActiveSync</string>
     <string name="expand_recipient_details">받는 사람 세부 정보 확장</string>
     <string name="fail_get_email_message">메시지 받기 실패함.</string>
     <string name="failed">이미지를 로드하지 못했습니다.</string>
+    <string name="failed_read_phone_state_permission">기기 상태 접근 허용</string>
+    <string name="failed_read_write_calendar_permission">캘린더 접근 허용</string>
+    <string name="failed_read_write_contacts_permission">연락처 접근 허용</string>
     <string name="feedback">피드백 전송</string>
     <string name="feedback_body">메시지</string>
     <string name="feedback_sent">피드백을 남겨 주셔서 감사합니다.</string>
+    <string name="feedback_user_edit_hint">여기에 문제를 설명하십시오. 확인 후 이메일을 보내드리겠습니다.</string>
+    <string name="feedback_user_edit_tag">MIUI에서</string>
     <string name="fetching_attachment">첨부파일 받는 중</string>
     <string name="file_deleted_success">파일 삭제됨</string>
     <string name="file_not_found">파일을 찾지 못했습니다.</string>
     <string name="file_not_found_redownload">파일을 찾지 못했습니다.</string>
     <string name="file_rar_not_support">암호화된 rar 파일을 열 수 없습니다.</string>
-    <string name="filtered_tag">[%1$s]%2$s</string>
+    <string name="filtered_tag">" [%1$s]%2$s"</string>
     <string name="folder_list_display_all">모든 폴더 표시</string>
     <string name="folder_list_display_only_import">중요 폴더만 표시</string>
     <string name="folder_picker_title">폴더 선택</string>
@@ -394,6 +403,7 @@
     <string name="gmail_web_login_go">확인</string>
     <string name="gmail_web_login_required_message">Gmail에 로그인</string>
     <string name="header_category_account">계정</string>
+    <string name="header_category_general">@string/header_label_general_preferences</string>
     <string name="header_category_other">피드백</string>
     <string name="header_label_general_preferences">일반</string>
     <string name="help_and_info">도움말</string>
@@ -402,6 +412,18 @@
     <string name="hint_quick_reply_all">전체 회신</string>
     <string name="imap_name">IMAP</string>
     <string name="imap_password_error">수신 메일 서버의 비밀번호가 잘못되었습니다.</string>
+    <string name="info_actionbar_normal_detail">세부 정보</string>
+    <string name="info_actionbar_subscribe">뉴스 피드</string>
+    <string name="info_item_from">보낸이</string>
+    <string name="info_item_hide">숨기기</string>
+    <string name="info_loading">로딩 중…</string>
+    <string name="info_name_title">뉴스</string>
+    <string name="info_no_message">볼 수 있는 기사가 없습니다.</string>
+    <string name="info_no_more_message">볼 수 있는 항목이 더 없습니다.</string>
+    <string name="info_switch_summary">톱 뉴스 보기</string>
+    <string name="info_switch_title">받은 편지함 소식</string>
+    <string name="info_sync_error">동기화할 수 없습니다. 나중에 다시 시도하십시오.</string>
+    <string name="information_subscribe_first_intro">뉴스 피드를 처음 사용하시는 것 같습니다. 저희에게 관심 분야를 알려주시면 그에따른 뉴스를 지정해드리겠습니다.</string>
     <string name="inline_picture_deleted">누락된 사진 다운로드 중...</string>
     <string name="input_password_prompt">비밀번호 입력</string>
     <string name="invalid_recipient">%s은 잘못된 주소입니다.</string>
@@ -423,6 +445,7 @@
     <string name="mail_body_turncated">이 이메일은 너무 커서 로드할 수 없습니다. 일부분만 출력되니 전체는 나중에 PC로 확인하십시오.</string>
     <string name="mail_header_network_not_available">네트워크에 연결되지 않았습니다.</string>
     <string name="mailbox_list_account_selector_combined_view">결합 된 계정</string>
+    <string name="mailbox_name_display_ad">광고 &amp; 알림</string>
     <string name="mailbox_name_display_drafts">작성 중인 글</string>
     <string name="mailbox_name_display_inbox">받은 편지함</string>
     <string name="mailbox_name_display_junk">스팸</string>
@@ -450,16 +473,39 @@
     <string name="mark_unread">읽지 않음으로 표시</string>
     <string name="me_object_pronun">나</string>
     <string name="me_subject_pronun">나</string>
-    <string name="meeting_accepted">수락됨: %s</string>
-    <string name="meeting_allday">시간: %s (하루 종일)</string>
-    <string name="meeting_allday_recurring">시간: %s (하루 종일, 반복)</string>
-    <string name="meeting_canceled">취소됨: %s</string>
-    <string name="meeting_declined">거부됨: %s</string>
-    <string name="meeting_recurring">시간: %s (반복)</string>
-    <string name="meeting_tentative">미정: %s</string>
-    <string name="meeting_updated">업데이트됨: %s</string>
-    <string name="meeting_when">시간: %s</string>
-    <string name="meeting_where">장소: %s</string>
+    <string name="meeting_accepted">"
+        수락됨:
+%s "</string>
+    <string name="meeting_allday">"
+        시간:
+%s (하루 종일)
+    "</string>
+    <string name="meeting_allday_recurring">"
+        시간:
+%s (하루 종일, 반복)
+    "</string>
+    <string name="meeting_canceled">"
+        취소됨:
+%s "</string>
+    <string name="meeting_declined">"
+        거부됨:
+%s "</string>
+    <string name="meeting_recurring">"
+        시간:
+%s (반복)
+    "</string>
+    <string name="meeting_tentative">"
+        미정:
+%s "</string>
+    <string name="meeting_updated">"
+        업데이트됨:
+%s "</string>
+    <string name="meeting_when">"
+        시간:
+%s "</string>
+    <string name="meeting_where">"
+        장소:
+%s "</string>
     <string name="megabytes">%sMB</string>
     <string name="menu_att_mgr">첨부파일</string>
     <string name="menu_att_mgr_order_default">최근 본 내역</string>
@@ -469,6 +515,7 @@
     <string name="menu_att_mgr_order_size">크기로 정렬</string>
     <string name="menu_change_folders">이동</string>
     <string name="menu_compose">작성</string>
+    <string name="menu_discovery">발견</string>
     <string name="menu_folder_options">동기화 옵션</string>
     <string name="menu_move_to">이동 방향</string>
     <string name="menu_move_to_inbox">받은 편지함으로 이동</string>
@@ -489,7 +536,7 @@
     <string name="message_invite_tentative">아마</string>
     <string name="message_invite_title">달력 초대</string>
     <string name="message_saved">메시지가 임시 보관함에 저장되었습니다.</string>
-    <string name="message_view_attachment_background_load">전달된 메시지의 하나 이상의 첨부파일이 전송 전에 다운로드됩니다.</string>
+    <string name="message_view_attachment_background_load">전달된 메시지의 첨부파일이 전송 전에 다운로드됩니다.</string>
     <string name="mibill_privacy_policy_button1">동의하지 않음</string>
     <string name="mibill_privacy_policy_button2">동의</string>
     <string name="mibill_privacy_policy_description">Mi Wallet이 청구서를 자동으로 분석, 관리하도록 허용하십시오. 이 기능은 업무 관련 이메일 주소에 대하여 기본적으로 꺼져 있습니다.</string>
@@ -497,17 +544,18 @@
     <string name="mibill_privacy_policy_title">청구서 자동 관리</string>
     <string name="more_atts_remaining">%1$d개 더 남음</string>
     <string name="more_context">더 보기</string>
-    <string name="more_string">+%1$s</string>
     <string name="move_to_selection_dialog_title">다른 폴더로 이동</string>
     <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
     <string name="mute">음소거</string>
+    <string name="net_check_title">네트워크에 연결할 수 없습니다. 설정을 확인하시고 다시 시도하십시오.</string>
     <string name="network_error">연결 없음</string>
     <string name="network_not_available">네트워크에 연결할 수 없습니다.</string>
+    <string name="network_try_again">네트워크 연결을 확인하고 다시 시도해주십시오.</string>
+    <string name="network_unavailable">네트워크 사용할 수 없음</string>
     <string name="new_incoming_messages_one">%s에서 온 새 메시지 표시</string>
     <string name="new_messages">%1$d개의 새 메시지</string>
     <string name="next_action">다음</string>
     <string name="no">아니오</string>
-    <string name="no_address_email">noaddressemail@123.com</string>
     <string name="no_application_found">이 첨부파일을 열 수 있는 앱을 찾지 못했습니다.</string>
     <string name="no_application_found_title">이 첨부 파일을 여십시오.</string>
     <string name="no_contacts">연락처 없음.</string>
@@ -554,11 +602,13 @@
     <string name="outbox_no_mails">비어 있음</string>
     <string name="parase_setup_data">데이터 받아오는 중…</string>
     <string name="password_expire_warning_content_title">잠금 화면 비밀번호 만료 중</string>
-    <string name="password_expire_warning_dialog_content_fmt">잠금 화면의 PIN 또는 비밀번호를 곧 변경해야 합니다. 그렇지 않으면 %s의 데이터가 삭제됩니다. 지금 변경하시겠습니까?</string>
+    <string name="password_expire_warning_dialog_content_fmt">"         잠금 화면의 PIN 또는 비밀번호를 곧 변경해야 합니다. 그렇지 않으면 %s의 데이터가 삭제됩니다. 지금 변경하시겠습니까?"</string>
     <string name="password_expire_warning_dialog_title">잠금 화면 비밀번호 만료 중</string>
-    <string name="password_expire_warning_ticker_fmt">\"%s\"이(가) 잠금 화면의 PIN이나 비밀번호를 변경할 것을 요구합니다.</string>
+    <string name="password_expire_warning_ticker_fmt">"%s\"이(가) 잠금 화면의 PIN이나 비밀번호를
+            변경할 것을 요구합니다."</string>
     <string name="password_expired_content_title">잠금 화면 비밀번호 만료됨</string>
-    <string name="password_expired_dialog_content_fmt">%s의 데이터가 기기에서 삭제되는 중입니다. 잠금 화면의 PIN 또는 비밀번호를 변경하면 데이터를 복원할 수 있습니다. 지금 변경하시겠습니까?</string>
+    <string name="password_expired_dialog_content_fmt">" %s의 데이터가 기기에서 삭제되는 중입니다.
+         잠금 화면의 PIN 또는 비밀번호를 변경하면 데이터를 복원할 수 있습니다. 지금 변경하시겠습니까?"</string>
     <string name="password_expired_dialog_title">잠금 화면 비밀번호 만료됨</string>
     <string name="password_expired_ticker">잠금 화면의 PIN 또는 비밀번호가 만료되었습니다.</string>
     <string name="perference_change_pw_notnull_tips">비밀번호 입력</string>
@@ -589,7 +639,7 @@
     <string name="policy_dont_allow_storage_cards">저장소 카드 허용 안 함</string>
     <string name="policy_dont_allow_text_messaging">문자 메시지 허용 안 함</string>
     <string name="policy_dont_allow_unsigned_apps">서명되지 않은 앱 허용 안 함</string>
-    <string name="policy_dont_allow_unsigned_installers">서명되지 않은 앱 설치 프로그램 허용 안 함</string>
+    <string name="policy_dont_allow_unsigned_installers">서명되지 않은 앱의 설치를 허용하지 마십시오.</string>
     <string name="policy_dont_allow_wifi">Wi-Fi 허용 안 함</string>
     <string name="policy_email_age">동기화된 이메일 수 제한</string>
     <string name="policy_html_truncation">HTML 이메일 크기 제한</string>
@@ -616,6 +666,7 @@
     <string name="print">인쇄</string>
     <string name="prompt_title">프롬프트</string>
     <string name="pull_to_refresh">아래로 당겨서 새로고침</string>
+    <string name="pull_up_to_load_more">위로 당겨 더 많은 정보 로드</string>
     <string name="push_wps_better_confirm_download">다운로드</string>
     <string name="push_wps_better_confirm_exit">나중에 실행</string>
     <string name="push_wps_better_confirm_message">WPS Office로 이 첨부파일을 열어 보십시오.</string>
@@ -627,22 +678,22 @@
     <string name="push_wps_confirm_title">WPS Office를 사용해 보십시오.</string>
     <string name="push_wps_no_response_app">이 동작을 처리할 앱을 찾지 못했습니다.</string>
     <string name="questionnair_body_invisibility">메시지가 표시 되지 않습니다.</string>
-    <string name="questionnair_confirm_delete">Remove</string>
-    <string name="questionnair_instability">Crashes frequently</string>
+    <string name="questionnair_confirm_delete">제거</string>
+    <string name="questionnair_instability">자주 충돌</string>
     <string name="questionnair_not_send">메일을 보낼 수 없습니다.</string>
-    <string name="questionnair_not_sync">Unstable sync</string>
-    <string name="questionnair_other_reasons">Other</string>
-    <string name="questionnair_title">Remove account?</string>
-    <string name="questionnair_ui_not_pretty">"Don't like the app's design"</string>
-    <string name="questionnair_waste_resource">Not enough storage space</string>
+    <string name="questionnair_not_sync">불안정한 동기화</string>
+    <string name="questionnair_other_reasons">다른 이유</string>
+    <string name="questionnair_title">계정을 제거하시겠습니까?</string>
+    <string name="questionnair_ui_not_pretty">앱의 디자인을 좋아하지 않습니다.</string>
+    <string name="questionnair_waste_resource">저장 공간이 충분하지 않습니다.</string>
     <string name="quick_1">감사합니다!</string>
     <string name="quick_2">좋은 생각입니다!</string>
     <string name="quick_3">나중에 읽은 후 답장하겠습니다.</string>
     <string name="quick_4">이 문제를 논의할 회의를 시작합시다.</string>
     <string name="quick_reply_dialog_title">답장 선택</string>
     <string name="quick_reply_hint">%1$d명의 모든 사람들에게 답장</string>
-    <string name="quick_reply_hint_bcc">"(숨은 참조 내) "</string>
-    <string name="quick_reply_hint_cc">"(참조 내) "</string>
+    <string name="quick_reply_hint_bcc">(숨은 참조 내)</string>
+    <string name="quick_reply_hint_cc">(참조 내)</string>
     <string name="quick_responses_empty_view">빠른 답장 없음</string>
     <string name="quoted_text">인용 텍스트 포함</string>
     <string name="quoted_text_label">인용 텍스트</string>
@@ -668,7 +719,7 @@
     <string name="report_phishing">피싱 신고</string>
     <string name="report_spam">스팸 신고</string>
     <string name="request_entity_large">파일이 너무 큽니다.</string>
-    <string name="respond_inline">인라인으로 응답</string>
+    <string name="respond_inline">"   인라인으로 응답"</string>
     <string name="save_action">저장</string>
     <string name="save_attachment">저장</string>
     <string name="save_draft_failed">임시 보관함에 저장 실패</string>
@@ -678,20 +729,25 @@
     <string name="saving">저장 중...</string>
     <string name="sdcard_cannot_use">SD 카드를 사용할 수 없습니다.</string>
     <string name="search_hint">메일 검색</string>
-    <string name="search_result">결과</string>
+    <string name="search_result">"결과 "</string>
     <string name="search_tabs_name_all">모두</string>
     <string name="search_tabs_name_recipient">받는 사람</string>
     <string name="search_tabs_name_sender">보낸 사람</string>
     <string name="search_tabs_name_subject">제목</string>
     <string name="search_txt_size_limit_prompt">검색어는 3글자 이상이어야 합니다.</string>
-    <string name="security_changed_ticker_fmt">\"%s\" 계정이 보안 설정을 변경했습니다. 사용자의 동작이 필요하지 않습니다.</string>
-    <string name="security_needed_ticker_fmt">\"%s\" 계정은 보안 설정 업데이트가 필요합니다.</string>
-    <string name="security_notification_content_change_title">보안 정책이 변경되었습니다.</string>
-    <string name="security_notification_content_unsupported_title">보안 정책을 충족시킬 수 없습니다.</string>
+    <string name="security_changed_ticker_fmt">" %s\" 계정이 보안 설정을 변경했습니다. 사용자의
+            동작이 필요하지 않습니다."</string>
+    <string name="security_needed_ticker_fmt">"            \"%s\" 계정은 보안 설정 업데이트가 필요합니다."</string>
+    <string name="security_notification_content_change_title">"보안 정책이
+         변경되었습니다."</string>
+    <string name="security_notification_content_unsupported_title">"보안 정책을
+         충족시킬 수 없습니다."</string>
     <string name="security_notification_content_update_title">보안 업데이트 필요</string>
-    <string name="security_unsupported_ticker_fmt">\"%s\" 계정은 보안 요구 사항으로 인해 동기화할 수 없습니다.</string>
+    <string name="security_unsupported_ticker_fmt">" %s\" 계정은 보안 요구 사항으로 인해
+    동기화할 수 없습니다."</string>
     <string name="select_attachment_type">첨부파일 선택 장소:</string>
     <string name="select_no_file">첨부파일 선택 안 됨</string>
+    <string name="selected_lable">선택됨</string>
     <string name="send">전송</string>
     <string name="send_failed">메시지가 전송되지 않았습니다.</string>
     <string name="sender_whitelist_cleared">사진이 자동으로 보여지지 않습니다.</string>
@@ -752,24 +808,27 @@
     <string name="toast_bar_open_gmail_synchronization">탭하여 Gmail의 프록시 서버 사용</string>
     <string name="too_large_to_attach_additional">파일 크기는 %1$s을(를) 초과할 수 없습니다.</string>
     <string name="too_large_to_attach_multiple">하나 이상의 파일이 첨부되지 않았습니다. 파일 크기는 %1$s을(를) 초과할 수 없습니다.</string>
-    <string name="too_large_to_attach_single">%1$s 보다 큰 파일을 첨부할 수 없습니다.</string>
+    <string name="too_large_to_attach_single">"%1$s  보다 큰 파일을 첨부할 수 없습니다."</string>
     <string name="trash_folder_selection_title">%s의 서버 휴지통 폴더 선택</string>
     <string name="try_exchange_login">EXCHANGE로 로그인</string>
-    <string name="turn_auto_sync_on_dialog_body">Gmail 뿐만 아니라 모든 앱과 계정에 대한 변경은 웹, 다른 기기 그리고 귀하의 %1$s 사이에서 동기화됩니다.</string>
+    <string name="turn_auto_sync_on_dialog_body">"Gmail 뿐만 아니라
+    모든 앱과 계정에 대한 변경은 웹, 다른 기기 그리고
+    귀하의 %1$s 사이에서 동기화됩니다."</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">켜기</string>
     <string name="turn_auto_sync_on_dialog_title">자동 동기화를 켜시겠습니까?</string>
     <string name="undo">실행 취소</string>
     <string name="unread_string">대화 읽지 않음</string>
+    <string name="unselected_lable">더 많은</string>
     <string name="unsent_messages_in_outbox">%1$s개 %2$s에서 전송 안 됨</string>
     <string name="unzip_file_failed">파일의 압축을 풀지 못했습니다.</string>
     <string name="update_date_format_templete">HH:mm aa, MMMM dd</string>
     <string name="updated_at">%1$s에서 새로고침</string>
     <string name="upload_log">기록 업로드</string>
-    <string name="upload_log_failed">기록을 전송하지 못했습니다.</string>
+    <string name="upload_log_failed">로그를 전송할 수 없음</string>
     <string name="upload_log_no">취소</string>
-    <string name="upload_log_success">성공적으로 기록 전송</string>
-    <string name="upload_log_title">Xiaomi에게 기록 전송</string>
-    <string name="upload_log_yes">업로드</string>
+    <string name="upload_log_success">전송 성공. 최대한 빨리 답장 드리겠습니다.</string>
+    <string name="upload_log_title">WPS 메일 개선에 도움을 주는 오류 로그 전송</string>
+    <string name="upload_log_yes">전송</string>
     <string name="uploading_logs">잠시 기다려 주십시오…</string>
     <string name="validation_failed_prompt">계정을 확인할 수 없습니다. %s의 서버 설정을 확인하십시오.</string>
     <string name="via_domain">%1$s 경유</string>
@@ -780,8 +839,11 @@
     <string name="widget_all_mail">모든 메일</string>
     <string name="widget_large_unread_count">%d+</string>
     <string name="widget_other_views">기타</string>
+    <string name="wipe_account_fail_description">허용</string>
+    <string name="wipe_account_fail_title">개인 정보를 삭제할 수 없음</string>
     <string name="wrong_password">입력하신 비밀번호가 잘못되었습니다.</string>
     <string name="yes">예</string>
+    <string name="yidianzixun">Yi Dian Zixun</string>
     <string name="you_are_in_mobile_network">모바일 데이터 연결을 사용하여 기록을 전송하시겠습니까? 계획한 데이터 한도를 초과하면 추가 요금이 부과될 수 있습니다.</string>
     <string name="zip_viewer_no_file">파일 없음.</string>
 </resources>
