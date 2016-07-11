@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="xiaomi_update_dialog_title">업데이트 가능</string>
+    <string name="xiaomi_update_dialog_message">"새 버전: %1$s
+크기: %2$s"</string>
+    <string name="xiaomi_update_dialog_message_diff">"새 버전: %1$s
+델타 업데이트 크기: %2$s"</string>
+    <string name="xiaomi_external_storage_unavailable">저장소를 이용할 수 없습니다. SD 카드를 확인해 주십시오.</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
+    <string name="xiaomi_connect_download_manager_fail">다운로드 관리자에 연결할 수 없습니다. 앱 관리자에서 다운로드 관리자의 상태를 확인해 주십시오.</string>
     <string name="app_name">백업</string>
     <string name="local_app_name">백업</string>
     <string name="local_home_title">로컬 백업</string>
@@ -173,6 +183,11 @@
     <string name="import_from_xiaomi_account_hint2">"백업이 이미 있는 경우, '다음'을 터치하십시오."</string>
     <string name="import_from_xiaomi_account_hint_title">다른 기기에서 연락처를 백업하려면 Mi Talk를 사용하십시오.</string>
     <string name="guarded_mode_dialog_title">게스트 모드 사용 중입니다.</string>
+    <string name="guarded_mode_dialog_backup_message">게스트 모드에서는 백업이 허용되지 않습니다.</string>
+    <string name="guarded_mode_dialog_transfer_message">게스트 모드에서는 Mi Mover를 사용할 수 없습니다.</string>
+    <string name="multi_user_mode_dialog_title">다중 사용자 모드</string>
+    <string name="multi_user_mode_dialog_message">다중 사용자 모드에서는 Mi Mover를 사용할 수 없습니다. 다중 사용자 모드를 끄시고 사용해주십시오.</string>
+    <string name="multi_user_mode_backup_message">"다중 사용자 모드에서는 백업 할 수 없습니다. 다중 사용자 모드를 끄시고 사용해주십시오."</string>
     <string name="guarded_mode_dialog_message">게스트 모드에서 사용할 수 없는 기능입니다.</string>
     <string name="multi_select_title">%1$s 선택됨</string>
     <string name="enable_encrypt_title">백업 암호화</string>
@@ -240,6 +255,8 @@
     <string name="notif_restore_content">사용자 데이터 복원하기</string>
     <string name="notif_backup_complete_title">백업에 성공했습니다.</string>
     <string name="notif_restore_complete_title">복원에 성공했습니다.</string>
+    <string name="notif_trans_sending_completed">데이터 전송 성공</string>
+    <string name="notif_trans_receiving_completed">데이터 수신 성공</string>
     <string name="custom_progress">%d개 항목</string>
     <string name="remote_receive">수신</string>
     <string name="click_to_view">탭하여 보기</string>
@@ -280,9 +297,13 @@ Wi-Fi 핫스팟을 끄지 마십시오.
     <string name="trans_progress_subdescript_transing_receiver">%1$s 받는 중, %2$s 완성됨</string>
     <string name="trans_progress_subdescript_transingsd_sender">파일 전송 중, %s 완성됨</string>
     <string name="trans_progress_subdescript_transingsd_receiver">파일 받는 중, %s 완성됨</string>
+    <string name="trans_progress_subdescript_transingsddata_sender">SD 카드 %1$s 파일 전송 중, %2$s 완료됨</string>
+    <string name="trans_progress_subdescript_transingsddata_receiver">SD 카드 %1$s 파일 받는 중, %2$s 완료됨</string>
     <string name="trans_progress_subdescript_br_sender">%1$s 백업 중, %2$s 완성됨</string>
     <string name="trans_progress_subdescript_br_receiver">%1$s 복구 중, %2$s 완성됨</string>
     <string name="trans_progress_subdescript_waiting">응답을 기다리는 중 %s</string>
+    <string name="trans_progress_subdescript_br_sender_finish">%s 백업됨, 전송을 기다리는 중…</string>
+    <string name="trans_progress_subdescript_transing_receiver_finish">%s받음, 복구를 기다리는 중…</string>
     <string name="trans_cancel_confirm">전송이 진행중입니다. 중단하시겠습니까?</string>
     <string name="trans_cancelling">취소 중…</string>
     <string name="trans_device_disconnected">기기 연결끊김</string>
@@ -293,8 +314,7 @@ Wi-Fi 핫스팟을 끄지 마십시오.
     <string name="trans_scan_qr_code_tips">새로운 기기를 사용하여 QR 코드 스캔</string>
     <string name="trans_show_qr_code_label">이전 기기에 연결</string>
     <string name="trans_show_qr_code_tips">예전 기기를 사용하여 QR 코드 스캔</string>
-    <string name="trans_operate_new_phone_tips">"새로운 기기를 사용하여 QR 코드 스캔
-설정 > 추가 설정 > Mi Mover
+    <string name="trans_operate_new_phone_tips">"설정 > 추가 설정 > Mi Mover로 이동
  [새로운 기기] 를 탭하여 QR 코드를 생성하십시오."</string>
     <string name="trans_operate_func_one">방법 A</string>
     <string name="trans_operate_func_two">방법 B</string>
@@ -307,10 +327,25 @@ Wi-Fi 핫스팟을 끄지 마십시오.
     <string name="trans_select_data">전송할 항목을 선택하십시오.</string>
     <string name="trans_select_data_tips">"전송할 파일 선택
 유사한 파일은 새로운 기기에 덮어씌워집니다."</string>
-    <string name="trans_select_data_no_space">"새로운 기기에서 사용가능 용량이 %s입니다.
-파일을 다시 선택 또는 저장소를 정리하십시오."</string>
+    <string name="trans_select_data_no_space">"새 기기의 저장 공간이 부족합니다.
+다시 파일을 선택하시거나 %s 만큼의 공간을 정리하십시오."</string>
+    <string name="trans_calculating_base_size">앱 크기 계산 중</string>
+    <string name="trans_calculating">계산 중…</string>
+    <string name="trans_native_no_space">"이 기기의 저장 공간이 부족합니다.
+최소 %s 만큼의 용량을 삭제하십시오."</string>
+    <string name="trans_calculating_app_sd_size">크기 계산 중: %s</string>
+    <string name="trans_please_waiting">잠시만 기다려주십시오…</string>
     <string name="size_byte">B</string>
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
     <string name="size_giga_byte">GB</string>
+    <string name="trans_connect_failed_title">연결할 수 없음</string>
+    <string name="trans_connect_failed_message">연결 실패, 재시도 하거나 재부팅해주세요. 다른 기기에서 설정 > 추가 설정 > Mi Mover로 가서 [이전 기기] 를 탭하시거나 재부팅 후 Mi Mover를 재실행해주세요.</string>
+    <string name="trans_retry">재시도</string>
+    <string name="trans_start_failed_title">전송을 시작할 수 없음</string>
+    <string name="trans_start_failed_message">전송을 시작할 수 없음, 다시 시도하시거나 기기를 재시작해주십시오.</string>
+    <string name="trans_connection_failed">기기 연결끊김</string>
+    <string name="user_notice_title">주의</string>
+    <string name="user_notice_message">일부 기능이 정상적으로 작동하려면 인터넷 연결이 필요합니다.</string>
+    <string name="user_notice_declaration_ignore">다시 표시하지 않기</string>
 </resources>
