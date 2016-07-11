@@ -1,34 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="default_smiley_names">
-        <item>기쁨</item>
-        <item>슬픔</item>
-        <item>윙크</item>
-        <item>메롱</item>
-        <item>놀람</item>
-        <item>키스</item>
-        <item>소리침</item>
-        <item>쿨</item>
-        <item>입에 돈</item>
-        <item>발에 돈</item>
-        <item>부끄러움</item>
-        <item>천사</item>
-        <item>결정 못하겠음</item>
-        <item>울음</item>
-        <item>입을 봉했음</item>
-        <item>웃음</item>
-        <item>혼란</item>
-        <item>하트</item>
-        <item>화남</item>
-        <item>능글맞음</item>
-        <item>포커 페이스</item>
-    </string-array>
-    <string-array name="prefEntries_ringtone_repeat">
-        <item>1회</item>
-        <item>2회</item>
-        <item>3회</item>
-        <item>5회</item>
-        <item>10회</item>
+        <item>Happy</item>
+        <item>Sad</item>
+        <item>Winking</item>
+        <item>Tongue sticking out</item>
+        <item>Surprised</item>
+        <item>Kissing</item>
+        <item>Yelling</item>
+        <item>Cool</item>
+        <item>Money mouth</item>
+        <item>Foot in mouth</item>
+        <item>Embarrassed</item>
+        <item>Angel</item>
+        <item>Undecided</item>
+        <item>Crying</item>
+        <item>Lips are sealed</item>
+        <item>Laughing</item>
+        <item>Confused</item>
+        <item>Heart</item>
+        <item>Mad</item>
+        <item>Smirk</item>
+        <item>Poker face</item>
     </string-array>
     <string-array name="contact_entries">
         <item>이름</item>
@@ -43,14 +36,6 @@
         <item>주소</item>
         <item>메모</item>
         <item>관계</item>
-    </string-array>
-    <string-array name="entries_date_type">
-        <item>수신됨</item>
-        <item>전송됨</item>
-    </string-array>
-    <string-array name="entries_date_type_rightvalue">
-        <item>수신됨</item>
-        <item>전송되었습니다.</item>
     </string-array>
     <string-array name="resent_via_entries_sms">
         <item>SMS</item>
@@ -92,6 +77,6 @@
     <string-array name="prefEntries_vibrateWhen">
         <item>항상</item>
         <item>무음일 때만</item>
-        <item>진동 없음</item>
+        <item>안 함</item>
     </string-array>
 </resources>

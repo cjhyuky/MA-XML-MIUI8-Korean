@@ -189,7 +189,7 @@
     <string name="select_bottom_text">꼬릿말</string>
     <string name="select_top_text">머릿말</string>
     <string name="delivery_toast_body">%s이(가) 수신한 메시지</string>
-    <string name="notification_multiple">%s개의 읽지 않은 메시지</string>
+    <string name="notification_multiple">[%s]</string>
     <string name="notification_multiple_title">새 메시지</string>
     <string name="notification_failed_multiple">%s개의 메시지를 전송하지 못했습니다.</string>
     <string name="notification_failed_multiple_title">메시지 전송 안됨</string>
@@ -331,6 +331,7 @@
     <string name="pref_title_hide_festival">중국어 특징 숨기기</string>
     <string name="pref_summary_hide_festival">시스템이 비 중국어로 설정된 경우 중국어 특징만 숨기기</string>
     <string name="pref_message_recovery_introduction_title">메시지 복구</string>
+    <string name="pref_cell_broadcast">긴급 재난 문자</string>
     <string name="send_signature_confirm_dialog_title">메시지 전송</string>
     <string name="send_signature_confirm_dialog_message">발견된 콘텐츠 없음. 서명만 전송하시겠습니까?</string>
     <string name="enter_edit_mode">메시지 편집</string>
@@ -367,7 +368,6 @@
     <string name="timed_message_to">받는 사람</string>
     <string name="timed_message_in_total">(%d개 메시지)</string>
     <string name="processing">작업 중…</string>
-    <string name="title_date_type">메시지 타임스탬프</string>
     <string name="mx_msg">Mi 메시지</string>
     <string name="mx_msg_pageview_setting_title">Mi 메시지 설정</string>
     <string name="mx_enable">Mi 메시지</string>
@@ -468,6 +468,8 @@
     <string name="select_recipient">수신자 선택</string>
     <string name="add_attachment">첨부 파일 추가</string>
     <string name="send_sms">메시지 전송</string>
+    <string name="show_sender">발신인 정보 보여주기</string>
+    <string name="call_sender">통화 발신자</string>
     <string name="file_share_message_description">나는 당신과 일부 파일을 공유하길 원합니다.</string>
     <string name="addBlackList">차단</string>
     <string name="confirm_add_blacklist_dialog_dspt">차단 목록에 이 번호를 추가하시겠습니까?</string>
@@ -487,6 +489,7 @@
     <string name="sp_mark_as_read_title">모든 알림을 읽음으로 표시하시겠습니까?</string>
     <string name="sp_mark_as_read">모든 메시지를 읽음으로 표시하시겠습니까?</string>
     <string name="sp_mark_as_read_progress">작업 중…</string>
+    <string name="sp_mark_as_read_menu_title">읽음으로 표시</string>
     <string name="sp_category_title_prefix">%s</string>
     <string name="sp_category_all">모든 서비스 메시지</string>
     <string name="sp_category_bank">은행 알림 메시지</string>
@@ -619,7 +622,31 @@
     <string name="card_insert_to_contact">연락처 가져오기</string>
     <string name="red_package_btn">열기</string>
     <string name="snippet_red_package">[행운의 돈]</string>
-    <string name="title_red_package">복 많이 받으시고 부자되세요!</string>
-    <string name="title_send_red_package">행운의 돈 확인</string>
-    <string name="title_recv_red_package">행운의 돈 얻기</string>
+    <string name="title_red_package">Have a prosperous year!</string>
+    <string name="title_send_red_package">행운의 돈 전송</string>
+    <string name="title_recv_red_package">행운의 돈 수신</string>
+    <string name="fake_cell_alert_hint">이 메시지는 다른 사람이 이 번호를 이용하여 발송한 것으로 보입니다. 금전적인 요구를 포함한 메시지를 주의하십시오.</string>
+    <string name="fake_cell_safe_hint">이 메시지는 안전합니다.</string>
+    <string name="fake_cell_checking_hint">안전 확인 중…</string>
+    <string name="fake_cell_timeout_hint">안전 확인 실패</string>
+    <string name="fake_cell_detection_entry">Fake base station detection</string>
+    <string name="delete_wild_sims">번호 삭제</string>
+    <string name="delete_wild_sims_title">선택된 번호 삭제</string>
+    <string name="delete_wild_sims_confirm">선택된 번호와 관련된 모든 메시지가 이 휴대전화에서 삭제될 것입니다. i.mi.com에서 복구하실 수 있습니다.</string>
+    <string name="url_scanning">URL 확인 중…</string>
+    <string name="url_result_safe">이 URL은 안전합니다.</string>
+    <string name="url_fraud_title">웹사이트가 가짜일 수 있습니다.</string>
+    <string name="url_fraud_risky_alert">"The website you are trying to visit may be dangerous. Visit anyway?
+%s"</string>
+    <string name="url_fraud_dangerous_alert">"The website you are trying to visit may be dangerous. It could possibly damage your device and data. Visit anyway?
+%s"</string>
+    <string name="url_fraud_visit"><u>그래도 방문</u></string>
+    <string name="url_fraud_insurance">Dianxin 사기 보호</string>
+    <string name="sms_card_partner_label">"SMS 카드 파트너: "</string>
+    <string name="sms_card_teddy_mobile">테디 모바일</string>
+    <string name="add_to_browser_favorite_success">추가 성공</string>
+    <string name="add_to_browser_favorite_failed">추가 실패</string>
+    <string name="i_know">확인</string>
+    <string name="second_mms_introduction">보조 공간으로 이동</string>
+    <string name="second_mms_switch">전환</string>
 </resources>
