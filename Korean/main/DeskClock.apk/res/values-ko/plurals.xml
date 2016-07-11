@@ -16,12 +16,18 @@
         <item quantity="other">%1$d 분</item>
     </plurals>
     <plurals name="snooze_message">
-        <item quantity="other">%d 분 동안 스누즈</item>
+        <item quantity="other">%d분 후에 다시 알람</item>
     </plurals>
     <plurals name="alarm_alert_snooze_set">
-        <item quantity="other">%d 분 째 스누즈 중.</item>
+        <item quantity="other">%d분 후에 다시 알람</item>
     </plurals>
     <plurals name="auto_silence_summary">
         <item quantity="other">알람이 %d 분 후에 꺼집니다</item>
+    </plurals>
+    <plurals name="delete_alarm_confirm">
+        <item quantity="other">선택된 알람을 삭제하시겠습니까?</item>
+    </plurals>
+    <plurals name="delete_timezone_confirm">
+        <item quantity="other">선택된 시간대를 삭제하시겠습니까?</item>
     </plurals>
 </resources>
