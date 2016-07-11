@@ -6,7 +6,6 @@
     <string name="sina_token_expired_warning">Weibo 계정이 만료되었습니다. 계정을 다시 연동하십시오.</string>
     <string name="sina_token_invalid_warning">Weibo 계정이 유효하지 않습니다. 계정을 다시 연동하십시오.</string>
     <string name="sina_share_fail_content_repeat">공유에 실패하였습니다. 콘텐트가 이미 존재합니다.…</string>
-    <string name="search_title_notes">@string/app_name</string>
     <string name="search_keyword_notes">노트;메모</string>
     <string name="search_path_notes">설정/시스템 앱/메모</string>
     <string name="dlg_move_message">이동 중…</string>
@@ -18,8 +17,8 @@
     <string name="menu_mark_privacy">숨기기</string>
     <string name="menu_unmark_privacy">숨기기 취소</string>
     <string name="menu_move_to">다음으로 이동:</string>
-    <string name="menu_send_as_image">Send as image</string>
-    <string name="sns_desc_image_preview">Message preview</string>
+    <string name="menu_send_as_image">사진으로 보내기</string>
+    <string name="sns_desc_image_preview">메세지 미리보기</string>
     <string name="privacy_notes_fragment_title">숨김 메모</string>
     <string name="toast_mark_privacy_notes">성공적으로 숨겨짐</string>
     <string name="toast_unmark_privacy_notes">숨기기 취소 성공</string>
