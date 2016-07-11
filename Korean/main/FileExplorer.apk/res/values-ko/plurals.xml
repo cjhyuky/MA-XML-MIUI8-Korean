@@ -15,6 +15,9 @@
     <plurals name="ui_bar_txt_upload_progress">
         <item quantity="other">업로드할 파일 %1$d개 남음</item>
     </plurals>
+    <plurals name="ui_bar_txt_transport_progress">
+        <item quantity="other">전송할 %1$d개 파일 남음</item>
+    </plurals>
     <plurals name="numSelectedFile">
         <item quantity="other">%1$d 개 선택됨</item>
     </plurals>
@@ -45,6 +48,18 @@
     <plurals name="days_ago">
         <item quantity="other">%1$d일 전</item>
     </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%1$d초</item>
+    </plurals>
+    <plurals name="mins">
+        <item quantity="other">%1$d분</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%1$d시간</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%1$d일</item>
+    </plurals>
     <plurals name="found_new_files">
         <item quantity="other">%1$d개 새 파일 발견</item>
     </plurals>
@@ -65,5 +80,29 @@
     </plurals>
     <plurals name="file_notify_title_wechat_video_auto_backup">
         <item quantity="other">WeChat 동영상 %1$d개 백업됨</item>
+    </plurals>
+    <plurals name="remote_video_update">
+        <item quantity="other">%1$s개의 새로운 동영상 발견됨</item>
+    </plurals>
+    <plurals name="video_ad_download_tip">
+        <item quantity="other">다운로드</item>
+    </plurals>
+    <plurals name="video_play_num">
+        <item quantity="other">%1$s번 재생됨</item>
+    </plurals>
+    <plurals name="video_num">
+        <item quantity="other">%1$s개의 비디오</item>
+    </plurals>
+    <plurals name="follower_num">
+        <item quantity="other">팔로워</item>
+    </plurals>
+    <plurals name="user_upload_items">
+        <item quantity="other">비디오</item>
+    </plurals>
+    <plurals name="number_of_comment">
+        <item quantity="other">%1$s개 댓글</item>
+    </plurals>
+    <plurals name="video_count">
+        <item quantity="other">%1$s개 비디오</item>
     </plurals>
 </resources>
