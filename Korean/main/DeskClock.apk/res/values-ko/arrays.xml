@@ -2,13 +2,13 @@
 <resources>
     <string-array name="alarm_in_furture">
         <item>1분 내에 알람</item>
-        <item>%1$s일 후에 알람</item>
-        <item>%2$s후 알람</item>
-        <item>%1$s %2$s후 알람</item>
+        <item>%1$s일 후 알람</item>
+        <item>%2$s시간 후 알람</item>
+        <item>%1$s일 %2$s시간 후 알람</item>
         <item>%3$s분 후에 알람</item>
-        <item>%1$s 일 %3$s분 후에 알람</item>
-        <item>%2$s %3$s후 알람</item>
-        <item>%1$s %2$s %3$s 후 알람</item>
+        <item>%1$s일 %3$s분 후에 알람</item>
+        <item>%2$s시간 %3$s분 후 알람</item>
+        <item>%1$s일 %2$s시간 %3$s분 후 알람</item>
     </string-array>
     <string-array name="days">
         <item>어제</item>
@@ -19,8 +19,9 @@
         <item>한 번</item>
         <item>매일</item>
         <item>작동 날짜</item>
+        <item>휴일</item>
         <item>월 - 금</item>
-        <item>사용자 지정</item>
+        <item>사용자 설정</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
         <item>한 번</item>
@@ -29,16 +30,17 @@
         <item>사용자 지정</item>
     </string-array>
     <string-array name="alarm_set">
-        <item>지금부터 1분 이내로 알람이 설정됩니다.</item>
-        <item>지금부터 %1$s 후로 알람이 설정됩니다.</item>
-        <item>지금부터 %2$s 후로 알람이 설정됩니다.</item>
-        <item>지금부터 %1$s %2$s 후로 알람이 설정됩니다.</item>
-        <item>지금부터 %3$s 후로 알람이 설정됩니다.</item>
-        <item>지금부터 %1$s %3$s 후로 알람이 설정됩니다.</item>
-        <item>지금부터 %2$s %3$s 후로 알람이 설정됩니다.</item>
-        <item>지금부터 %1$s %2$s %3$s 후로 알람이 설정되었습니다.</item>
+        <item>알람이 1분 안에 종료될 것입니다.</item>
+        <item>알람이 %1$s일 후 종료될 것입니다.</item>
+        <item>알람이 %2$s시간 후 종료될 것입니다.</item>
+        <item>알람이 %1$s일 %2$s시간 후 종료될 것입니다.</item>
+        <item>알람이 %3$s분 후 종료될 것입니다.</item>
+        <item>알람이 %1$s일 %3$s분 후에 종료될 것입니다.</item>
+        <item>알람이 %2$s시간 %3$s분 후에 종료될 것입니다.</item>
+        <item>알람이 %1$s일 %2$s시간 %3$s분 후에 종료될 것입니다.</item>
     </string-array>
     <string-array name="snooze_duration_entries">
+        <item>1분</item>
         <item>5분</item>
         <item>10분</item>
         <item>15분</item>
@@ -47,6 +49,7 @@
         <item>30분</item>
     </string-array>
     <string-array name="snooze_duration_values">
+        <item>1</item>
         <item>5</item>
         <item>10</item>
         <item>15</item>
@@ -55,7 +58,7 @@
         <item>30</item>
     </string-array>
     <string-array name="auto_silence_entries">
-        <item>사용 안함</item>
+        <item>아니오</item>
         <item>1분</item>
         <item>5분</item>
         <item>10분</item>
@@ -65,9 +68,9 @@
         <item>30분</item>
     </string-array>
     <string-array name="volume_button_setting_entries">
-        <item>없음</item>
-        <item>다시 울림</item>
-        <item>해제</item>
+        <item>아무것도 하지 않음</item>
+        <item>다시 알림</item>
+        <item>무시</item>
     </string-array>
     <string-array name="volume_button_setting_values">
         <item>0</item>
