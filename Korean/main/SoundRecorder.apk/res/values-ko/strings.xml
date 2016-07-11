@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="path_soundrecorder_setting">시스템 앱/녹음기</string>
+    <string name="search_app">녹음기</string>
+    <string name="search_led_indicator">잠금 화면 알림</string>
+    <string name="search_tip_rename">직접 녹음 이름입력</string>
+    <string name="search_led_indicator_prompt">녹음 중에는 상태표시줄에 표시되고, 잠금 화면에서 알림 표시등이 깜빡입니다.</string>
+    <string name="search_scenes">녹음 유형</string>
+    <string name="search_silent_mode">녹음 중 벨소리 음소거</string>
+    <string name="search_enable_earpiece_title">리시버 사용하여 오디오 재생</string>
+    <string name="search_quliaty_title">녹음 음질</string>
     <string name="app_name">녹음기</string>
     <string name="recording">녹음 중</string>
     <string name="recording_stopped">중단됨</string>
@@ -26,13 +35,14 @@
     <string name="no_file">비어 있음</string>
     <string name="alert_message_delete_record_title">녹음 파일을 삭제하시겠습니까?</string>
     <string name="alert_message_delete_record">선택한 녹음을 삭제하시겠습니까?</string>
+    <string name="share">공유</string>
     <string name="rename">이름 변경</string>
     <string name="delete">삭제</string>
+    <string name="details">세부 정보</string>
     <string name="deleting_message">삭제 중…</string>
     <string name="rename_dialog_title">녹음 파일 이름 변경</string>
     <string name="rename_duplicate">동일한 이름의 녹음 파일이 이미 존재합니다.</string>
     <string name="rename_no_more_tip">다시 표시하지 않기</string>
-    <string name="record_picker_title">녹음 선택</string>
     <string name="dialog_title_storage_full">저장 공간 부족</string>
     <string name="dialog_content_storage_full">기기 내부 메모리의 저장 공간이 부족하여 녹음이 중단되었습니다.</string>
     <string name="status_bar_recording">녹음 중…</string>
@@ -79,6 +89,7 @@
     <string name="data_connection_button_text">확인</string>
     <string name="error_sdcard_unmounted">지금 SD 카드 삽입</string>
     <string name="record_back_pressed_hint">녹음을 중단하려면, \"뒤로\"를 다시 터치하십시오.</string>
+    <string name="record_mark_point">%s 표시</string>
     <string name="record_quliaty_preference_title">녹음 음질</string>
     <string name="cloud_record_tip">Mi 클라우드로 녹음파일을 동기화하세요.</string>
     <string name="cloud_record_open">녹음파일 동기화</string>
@@ -86,4 +97,41 @@
     <string name="cloud_status_full_dialog_msg">클라우드 저장소가 꽉 차 녹음 파일을 동기화할 수 없습니다. 저장소 공간을 늘리려면 계정을 업그레이드하세요.</string>
     <string name="cloud_status_full_dialog_cancel">나중에 실행</string>
     <string name="cloud_status_full_dialog_ok">업그레이드</string>
+    <string name="text_btn_recording">녹음</string>
+    <string name="text_btn_pause">일시정지</string>
+    <string name="text_btn_play">재생</string>
+    <string name="text_btn_mark">표기</string>
+    <string name="text_btn_list">녹음</string>
+    <string name="text_btn_complete">중지</string>
+    <string name="text_btn_recognize">인식</string>
+    <string name="text_btn_wave">음파 표시</string>
+    <string name="text_finish">승인</string>
+    <string name="new_record_name">New recording</string>
+    <string name="export_to_note">메모로 내보내기</string>
+    <string name="mark_point_list_title">Marks</string>
+    <string name="speech_recognition_running_tip">Running</string>
+    <string name="speech_recognition_complete">완료</string>
+    <string name="invalid_argument">Invalid argument</string>
+    <string name="playback_delete_records">녹음 파일을 삭제하시겠습니까?</string>
+    <string name="playback_share_records">Share recording</string>
+    <string name="recording_quality_high">고품질</string>
+    <string name="recording_quality_standard">표준품질</string>
+    <string name="recording_quality_low">저품질</string>
+    <string name="share_dialog_title">공유 방식</string>
+    <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
+    <string name="record_list_category_title_format">yyyy년MM월</string>
+    <string name="recognition_error_stopped">식별 중지됨</string>
+    <string name="recognition_error_cancel">취소됨</string>
+    <string name="recognition_error_format">잘못된 오디오 포맷</string>
+    <string name="recognition_error_internal">내부 오류</string>
+    <string name="recognition_error_engine">식별 엔진 오류</string>
+    <string name="recognition_error_engine_singleton">식별 엔진이 과부하 상태입니다.</string>
+    <string name="recognition_error_download_title">식별 엔진 없음</string>
+    <string name="recognition_error_download_msg">Download recognition engine to make this service available.</string>
+    <string name="recognition_error_download_ok">다운로드</string>
+    <string name="recognition_error_download_cancel">나중에</string>
+    <string name="recognition_error_download_fail">"Couldn't download. Check network settings and try again."</string>
+    <string name="recognition_error_downloading">다운로드 중</string>
+    <string name="recognition_status_downloading">다운로드 중</string>
+    <string name="runtime_permission_ungranted">Cannot use SoundRecorder because of ungranted permissions</string>
 </resources>
