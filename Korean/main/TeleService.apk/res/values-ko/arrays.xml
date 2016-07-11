@@ -72,9 +72,9 @@
     </string-array>
     <string-array name="call_barring_outgoing_display_values">
         <item>끔</item>
-        <item>국제 로밍 통화</item>
-        <item>국제 통화</item>
-        <item>발신 통화</item>
+        <item>국제 로밍 제한</item>
+        <item>국제 전화 제한</item>
+        <item>발신 통화 제한</item>
     </string-array>
     <string-array name="call_barring_outgoing_values">
         <item>-1</item>
