@@ -1,41 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="hints_traffic_enable_title">
-        <item quantity="other">%d개 앱 데이터 사용량 추적하지 않음</item>
+        <item quantity="other">%d개 앱의 데이터 사용량 추적 안 함</item>
     </plurals>
     <plurals name="hints_traffic_disable_title">
-        <item quantity="other">%d개 앱 데이터 사용량 추적</item>
+        <item quantity="other">%d개 앱의 데이터 사용량 추적하기</item>
     </plurals>
     <plurals name="hints_traffic_saving_optimized">
-        <item quantity="other">%d개 앱 최적화 됨</item>
+        <item quantity="other">%d개 앱 최적화됨</item>
     </plurals>
     <plurals name="hints_traffic_saving_need_optimize">
-        <item quantity="other">%d개 앱 최적화 되지 않음</item>
+        <item quantity="other">%d개 앱 최적화 가능</item>
     </plurals>
     <plurals name="hints_traffic_saving_enable_title">
-        <item quantity="other">%d개 앱 데이터세이버 사용중</item>
+        <item quantity="other">%d개 앱이 데이터 절약 사용 중</item>
     </plurals>
     <plurals name="hints_traffic_saving_disable_title">
-        <item quantity="other">%d개 앱 데이터세이버 사용하지 않음</item>
+        <item quantity="other">%d개 앱이 데이터 절약 사용 중이 아님</item>
     </plurals>
     <plurals name="hints_install_apps_interval">
-        <item quantity="other">%d일전에 사용됨</item>
-        <item quantity="one">어제 사용됨</item>
+        <item quantity="other">%d일 전 사용됨</item>
     </plurals>
-        <plurals name="search_app_count_txt_na">
+    <plurals name="search_app_count_txt_na">
         <item quantity="other">%d개 앱 검색</item>
     </plurals>
     <plurals name="hints_roaming_enable_title">
-        <item quantity="other">%d개 앱 데이터로밍 사용 활성화됨</item>
+        <item quantity="other">%d개 앱이 데이터 로밍을 사용할 수 있습니다.</item>
     </plurals>
     <plurals name="hints_roaming_disable_title">
-        <item quantity="other">"%d개 앱 데이터로밍 사용 비활성화됨</item>
+        <item quantity="other">%d개 앱이 데이터 로밍을 사용할 수 없습니다.</item>
     </plurals>
     <plurals name="hints_roaming_found_app_count_title">
-        <item quantity="other">%d개 앱 찾음</item>
+        <item quantity="other">%d개 앱 발견됨</item>
     </plurals>
     <plurals name="power_center_battery_day">
-        <item quantity="other">"%d 일 "</item>
+        <item quantity="other">%d 일u0020</item>
     </plurals>
     <plurals name="power_center_battery_hour">
         <item quantity="other">"%d 시간 "</item>
@@ -43,11 +42,26 @@
     <plurals name="power_center_battery_minute">
         <item quantity="other">"%d 분 "</item>
     </plurals>
+    <plurals name="deep_clean_auto_memory_clean">
+        <item quantity="other">%1$d분 안에</item>
+    </plurals>
+    <plurals name="quick_optimize_summary_text">
+        <item quantity="other">%d개 배터리 문제 해결됨</item>
+    </plurals>
+    <plurals name="quick_optimize_issue_found">
+        <item quantity="other">%d개 배터리 문제 찾음</item>
+    </plurals>
+    <plurals name="quick_optimize_issue_count">
+        <item quantity="other">%d개 배터리 문제</item>
+    </plurals>
+    <plurals name="app_check_title_text">
+        <item quantity="other">%d개 항목 최적화 가능</item>
+    </plurals>
     <plurals name="hints_auto_start_enable_title">
-        <item quantity="other">%d개 앱 자동 시작 가능</item>
+        <item quantity="other">%d 앱 자동 시작 가능</item>
     </plurals>
     <plurals name="hints_auto_start_disable_title">
-        <item quantity="other">%d개 앱 자동 시작 불허</item>
+        <item quantity="other">%d 앱 자동 시작 불허</item>
     </plurals>
     <plurals name="hints_apps_perm_count">
         <item quantity="other">%d개의 권한</item>
@@ -64,34 +78,49 @@
     <plurals name="summary_app_update">
         <item quantity="other">%d개 앱 업데이트 가능</item>
     </plurals>
-        <plurals name="lockpassword_password_requires_letters">
-        <item quantity="other">암호는 적어도 %d자 이상 적어야합니다.</item>
+    <plurals name="notification_apps">
+        <item quantity="other">%d개 앱이 개인정보 보안을 위협하고 있습니다.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">비밀번호는 최소 %d개의 문자가 포함되어야 합니다.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_lowercase">
-        <item quantity="other">암호는 적어도 %d자 이상 소문자가 포함되어야 합니다.</item>
+        <item quantity="other">비밀번호는 최소 %d개의 소문자가 포함되어야 합니다.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_uppercase">
-        <item quantity="other">암호는 적어도 %d자 이상 대문자가 포함되어야 합니다.</item>
+        <item quantity="other">비밀번호는 최소 %d개의 대문자가 포함되어야 합니다.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_numeric">
-        <item quantity="other">암호는 적어도 %d자 이상이어야 합니다.</item>
+        <item quantity="other">비밀번호는 최소 %d개의 숫자가 포함되어야 합니다.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_symbols">
-        <item quantity="other">암호는 적어도 %d자 이상 특수기호가 포함되어야 합니다.</item>
+        <item quantity="other">비밀번호는 최소 %d개의 기호가 포함되어야 합니다.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_nonletter">
-        <item quantity="other">암호는 숫자이외에 적어도 %d자 이상 문자가 포함되어야 합니다.</item>
+        <item quantity="other">비밀번호는 최소 %d개의 기타 문자가 포함되어야 합니다.</item>
     </plurals>
     <plurals name="number_locked">
-        <item quantity="other">%d개의 앱 잠금</item>
+        <item quantity="other">%d개 앱 잠김</item>
     </plurals>
     <plurals name="number_to_lock">
-        <item quantity="other">%d개의 앱 열림</item>
+        <item quantity="other">%d개 앱 잠기지 않음</item>
     </plurals>
     <plurals name="find_applications">
-        <item quantity="other">%d개의 앱 중 검색</item>
+        <item quantity="other">%d개 앱 검색</item>
     </plurals>
     <plurals name="found_apps_title">
-        <item quantity="other">%d개의 앱 검색됨</item>
+        <item quantity="other">%d개 앱 발견됨</item>
+    </plurals>
+    <plurals name="sp_back_title_text">
+        <item quantity="other">%s개 지불 위험</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_count">
+        <item quantity="other">%s개 지불 앱 보호됨</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_list_group_enable">
+        <item quantity="other">%s개 앱 보호되고 있음</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_list_group_disable">
+        <item quantity="other">%s개 앱 보호되고 있지 않음</item>
     </plurals>
 </resources>
