@@ -36,6 +36,12 @@
     <string name="download_apk_desktop_pause">일시정지됨</string>
     <string name="download_apk_desktop_running">다운로드 중</string>
     <string name="download_apk_desktop_installing">설치 중</string>
+    <string name="xl_speedup_experience_notify_title">Xunlei 멤버쉽</string>
+    <string name="xl_speedup_experience_notify_context">Xunlei 멤버가 되시면 다운로드 속도가 가속됩니다.</string>
+    <string name="xl_speedup_notify_button_experience">무료 체험</string>
+    <string name="xl_speedup_notify_button_member">멤버 되기</string>
+    <string name="notify_disabled_net_by_app">인터넷 연결이 보안 앱에 의해 제한되었습니다</string>
+    <string name="notify_only_wifi_download">Wi-Fi를 기다리는 중</string>
     <string name="app_label">다운로드 관리자</string>
     <string name="permlab_downloadManager">다운로드 관리자에 액세스합니다.</string>
     <string name="permdesc_downloadManager">앱이 다운로드 관리자의 고급 기능에 액세스하여 파일 다운로드에 사용할 수 있도록 허용합니다. 이 경우 악성 앱이 다운로드를 중단시키고 개인 정보에 액세스할 수 있습니다.</string>
