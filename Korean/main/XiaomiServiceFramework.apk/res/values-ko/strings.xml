@@ -4,10 +4,13 @@
     <string name="xmsf_activate_info">XMSF 활성화 정보</string>
     <string name="error_device_id_title">유효한 기기 ID를 가져올 수 없습니다.</string>
     <string name="error_device_id_message">"유효하지 않은 기기 ID: %s
-기기 ID는 IMEI나 MAC 주소가 유효해야 합니다. 기기 ID가 없으면 계정과 클라우드의 일부 기능를 이용할 수 없습니다."</string>
+기기 ID는 IMEI나 MAC 주소가 유효해야 합니다. 기기 ID가 없으면 Mi 계정과 Mi 클라우드의 일부 기능를 이용할 수 없습니다."</string>
     <string name="accept">확인</string>
     <string name="xiaomi_cloud_service">Mi 클라우드</string>
     <string name="sync_notification_title_format">현재 동기화 중인 항목: %1$s</string>
+    <string name="explain_send_sms_permission_title">전화번호 확인</string>
+    <string name="explain_send_sms_permission_msg">%s을(를) 켜기 위해 Mi 서비스 프레임워크가 귀하의 전화번호 인증 SMS를 발송합니다. SMS 비용은 귀하가 사용하시는 통신사의 요금제에 의해 부과됩니다.</string>
+    <string name="explain_send_sms_permission_button">인증</string>
     <string name="activate_phone_failed_notif_title">SIM 카드를 활성화할 수 없습니다.</string>
     <string name="activate_phone_failed_notif_title_msim">SIM 카드 %s을(를) 활성화할 수 없습니다.</string>
     <string name="activate_phone_success_notif_title">SIM 카드 활성화됨</string>
@@ -96,16 +99,18 @@
     <string name="activate_popup_confirm_error_device_id">재시도</string>
     <string name="activate_feature_mx">Mi 메시지</string>
     <string name="activate_feature_mx_and_voip">Mi 메시지와 음성</string>
-    <string name="activate_feature_mms_sync">SMS 메시지 동기화</string>
+    <string name="activate_feature_mms_sync">메시지 동기화</string>
     <string name="activate_feature_call_log_sync">통화 기록 동기화</string>
     <string name="activate_feature_find_device">기기 찾기</string>
     <string name="activate_feature_register_xiaomi_account">Mi 계정 설치</string>
     <string name="activate_feature_verify_mx_token">Mi 계정 인증</string>
-    <string name="activate_feature_live_talk">전화 충전 패키지</string>
+    <string name="activate_feature_live_talk">충전 패키지</string>
+    <string name="activate_feature_remote_assist">원격 도우미</string>
+    <string name="activate_feature_default_name">Mi 서비스</string>
     <string name="activate_history_title">SIM 카드 활성화</string>
-    <string name="activate_history_overview">SIM 카드 %1$s 활성화됨. 이번 활성화는 \"%2$s\"에 의해 이루어졌습니다.</string>
-    <string name="activate_history_multisim_overview">SIM 카드 %3$d %1$s 활성화됨. 이번 활성화는 \"%2$s\"에 의해 이루어졌습니다.</string>
-    <string name="activate_history_sms">한개의 SMS가 활성화하는 동안 전송되었습니다.</string>
-    <string name="activate_history_success">성공함</string>
+    <string name="activate_history_overview">SIM 카드 %1$s 활성화. 이번 활성화는 \"%2$s\"에 의해 이루어졌습니다.</string>
+    <string name="activate_history_multisim_overview">SIM 카드 %3$d %1$s 활성화. 이번 활성화는 \"%2$s\"에 의해 이루어졌습니다.</string>
+    <string name="activate_history_sms">SMS가 활성화하는 동안 전송되었습니다.</string>
+    <string name="activate_history_success">성공</string>
     <string name="activate_history_cancelled">취소됨</string>
 </resources>
