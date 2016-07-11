@@ -234,6 +234,8 @@
     <string name="Su_Unavailable">이 버젼의 MIUI에서는 루트 권한을 사용할 수 없습니다. 루트 권한을 부여하려면 MIUI 개발자 빌드를 플래싱해야 합니다.</string>
     <string name="Su_Package_Forbidden">%1$s은(는) 루트 권한이 없습니다.</string>
     <string name="permisson_reject_notice_toast_text">\"%1$s\"은(는) %2$s에 대한 권한이 없습니다, 앱 권한은 언제든지 보안 > 권한에서 변경할 수 있습니다.</string>
+    <string name="Su_Package_Forbidden2">%1$s은(는) 루트 권한이 없습니다.</string>
+    <string name="permisson_reject_notice_toast_text2">\"%1$s\"은(는) %2$s에 대한 권한이 없습니다, 앱 권한은 언제든지 보안 > 권한에서 변경할 수 있습니다.</string>
     <string name="HIPS_Action_Reject_Once">한 번 거부</string>
     <string name="HIPS_Action_Accept_Once">한 번 허용</string>
     <string name="HIPS_SecurityPrompt_Accept_Once">한 번 허용(%d)</string>
@@ -268,7 +270,9 @@
     <string name="HIPS_Perm_process_nfc">근거리통신(NFC)</string>
     <string name="HIPS_Perm_process_nfc_Desc">근거리 통신(NFC) 허용</string>
     <string name="HIPS_Perm_install_shortcut">홈화면 바로가기</string>
-    <string name="HIPS_Perm_install_shortcut_Desc">홈화면에 바로가기 추가</string>    
+    <string name="HIPS_Perm_install_shortcut_Desc">홈화면에 바로가기 추가</string>
+    <string name="HIPS_Perm_read_notification_sms">서비스 SMS</string>
+    <string name="HIPS_Perm_read_notification_sms_Desc">서비스 SMS 읽기</string>
     <string name="permission_group_title_charges_related">요금</string>
     <string name="permission_group_title_privacy_related">개인 정보 보호</string>
     <string name="permission_group_title_media_related">멀티미디어</string>
