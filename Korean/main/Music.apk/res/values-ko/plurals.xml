@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="download_finished">
+        <item quantity="other">&amp;lt;font color=\"red\">%d개 노래&amp;lt;/font> 다운로드됨</item>
+    </plurals>
+    <plurals name="download_running">
+        <item quantity="other">&amp;lt;font color=\"red\">%d개 노래&amp;lt;/font> 다운로드 중</item>
+    </plurals>
     <plurals name="Ntracks_search_result">
         <item quantity="other">%d곡 발견됨</item>
     </plurals>
