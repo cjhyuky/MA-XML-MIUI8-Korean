@@ -7,4 +7,7 @@
     <plurals name="disable_notification_confirm_title">
         <item quantity="other">%d개 앱의 알림을 숨기시겠습니까?</item>
     </plurals>
+    <plurals name="view_realtime_clear">
+        <item quantity="other">맑음</item>
+    </plurals>
 </resources>

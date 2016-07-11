@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+    </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>맑음</item>
+        <item>흐림</item>
+        <item>구름 많음</item>
+        <item>안개</item>
+        <item>폭우</item>
+        <item>호우</item>
+        <item>폭풍우</item>
+        <item>뇌우</item>
+        <item>소나기</item>
+        <item>집중 호우</item>
+        <item>비</item>
+        <item>이슬 비</item>
+        <item>진눈깨비</item>
+        <item>눈보라</item>
+        <item>눈</item>
+        <item>폭설</item>
+        <item>눈</item>
+        <item>약한 눈</item>
+        <item>강한 황사</item>
+        <item>황사 바람</item>
+        <item>황사</item>
+        <item>바람</item>
+        <item>우박</item>
+        <item>먼지</item>
+        <item>실안개</item>
+        <item>진눈깨비</item>
+        <item></item>
+    </string-array>
+</resources>

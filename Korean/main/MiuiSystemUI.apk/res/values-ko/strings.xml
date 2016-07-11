@@ -82,8 +82,8 @@
     <string name="gps_notification_found_text">GPS에서 위치 설정</string>
     <string name="accessibility_clear_all">모든 알림 지우기</string>
     <string name="status_bar_notification_inspect_item_title">앱 정보</string>
-    <string name="status_bar_date_format">"EEEE
-MMMM d일"</string>
+    <string name="status_bar_date_format">"M월dd일
+EEEE"</string>
     <string name="status_bar_recent_guide_all">"위로 슬라이드하여 닫기
 아래로 슬라이드하여 잠그기"</string>
     <string name="status_bar_recent_guide_top">위로 슬라이드하여 닫기</string>
@@ -92,15 +92,16 @@ MMMM d일"</string>
     <string name="description_direction_up">%s하려면 위로 슬라이드</string>
     <string name="description_direction_left">%s하려면 왼쪽으로 슬라이드</string>
     <string name="description_target_search">검색</string>
-    <string name="status_bar_date_format_12">"EEEE
-MMMM d일"</string>
+    <string name="status_bar_date_format_12">"M월dd일
+EEEE"</string>
+    <string name="status_bar_clock_date_format">M월d일 EEEE</string>
     <string name="status_bar_recent_memory_info1">%2$sB 중 %1$sB 사용 가능</string>
     <string name="status_bar_recent_memory_info2" />
     <string name="usb_mode_notification">USB 저장소</string>
     <string name="usb_mode_dont_ask">이 선택 기억</string>
     <string name="usb_mode_mount_storage_title">USB 저장소를 여시겠습니까?</string>
     <string name="mount_storage">예</string>
-    <string name="dismount_storage">아니오</string>
+    <string name="dismount_storage">아니요</string>
     <string name="usb_notification">USB 연결됨</string>
     <string name="usb_notification_mtp_info">이 장치에 저장된 파일에 접근하는 중</string>
     <string name="usb_notification_ptp_info">이 장치에 저장된 사진에 접근하는 중</string>
@@ -132,7 +133,7 @@ MMMM d일"</string>
     <string name="camera_key_action_toggle_title">트리거 토글</string>
     <string name="camera_key_action_app_title">앱 열기</string>
     <string name="camera_key_action_shortcut_home">홈 화면으로 돌아가기</string>
-    <string name="camera_key_action_shortcut_screenshot">스크린샷</string>
+    <string name="camera_key_action_shortcut_screenshot">스크린 샷</string>
     <string name="camera_key_action_shortcut_search">검색</string>
     <string name="camera_key_action_shortcut_call">통화</string>
     <string name="camera_key_action_shortcut_wake">기기 잠그기/절전 모드 해제</string>
@@ -177,7 +178,7 @@ MMMM d일"</string>
     <string name="status_bar_network_flow_content">오늘: %1$s 남음: %2$s</string>
     <string name="status_bar_network_flow_exceed_content">오늘: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;할당량 초과: &lt;font color=%2$s>%3$s&lt;/font></string>
     <string name="status_bar_network_flow_purchase">"   구매 >"</string>
-    <string name="status_bar_network_flow_limit">"   매월 한도: %1$s"</string>
+    <string name="status_bar_network_flow_limit">"   매월 한도: %1$s   "</string>
     <string name="drive_mode_tip">주행 모드 상태입니다.</string>
     <string name="no_notification_tips">알림 없음</string>
     <string name="expanded_notification_manager">알림 관리</string>
@@ -187,6 +188,9 @@ MMMM d일"</string>
     <string name="block_record_notification_title">알림 숨겨짐</string>
     <string name="block_record_notification_text">%1$s의 알림 숨기는 중</string>
     <string name="block_record_notification_more_text">%1$s &amp; %2$d개 앱의 알림을 숨기는 중</string>
+    <string name="notification_hidden_text">컨텐츠 숨겨짐</string>
+    <string name="block_notification_text">숨기기</string>
+    <string name="block_notification_content_text">"%1$s's notifications won't be shown again.You can change this in the Settings."</string>
     <string name="notification_otg_mouse_in">마우스 연결됨</string>
     <string name="notification_otg_keyboard_in">키보드 연결됨</string>
     <string name="notification_otg_gamestick_in">게임 컨트롤러 연결됨</string>
@@ -214,9 +218,11 @@ MMMM d일"</string>
     <string name="status_bar_recording_pause">녹음기 일시정지됨</string>
     <string name="usb_share_net_info">컴퓨터의 인터넷 연결 사용</string>
     <string name="battery_profiles">배터리 프로필 사용</string>
+    <string name="enable_power_save_mode">배터리 절약 켜기</string>
+    <string name="save_mode_btn_ok">확인</string>
     <string name="oldman_airplane_mode_text">비행기</string>
     <string name="oldman_incall_text">통화 중</string>
-    <string name="notification_template_text">새로운 알림. 탭해서 보기.</string>
+    <string name="notification_template_text">" 알림이 있습니다. 보려면 터치하십시오."</string>
     <string name="audio_effect_settings">헤드폰 유형 선택</string>
     <string name="audio_effect_info">오디오 최적화</string>
     <string name="audio_effect_custom">환경 설정</string>
@@ -229,7 +235,33 @@ MMMM d일"</string>
     <string name="vpn_text_long">%s에 연결됨. 자세히 보려면 탭하십시오.</string>
     <string name="screen_button_notification_title">탐색 버튼이 꺼졌습니다.</string>
     <string name="screen_button_notification_text">켜려면 홈 버튼과 전원 버튼을 동시에 누르십시오.</string>
-    <string name="task_access_locked_app_msg">앱의 내용이 숨겨져 있습니다.</string>
+    <string name="task_access_locked_app_msg">앱 잠금 켜짐</string>
     <string name="account_info">로그인되지 않음</string>
     <string name="notification_header_title">알림</string>
+    <string name="weather_publish_time">%1$s 업데이트됨</string>
+    <string name="no_weather_description">날씨 정보 가져오기 ></string>
+    <string name="weather_description_no_aqi">%1$s ></string>
+    <string name="weather_description">%1$s | %2$s ></string>
+    <string name="screenshot_long_screenshot">Scroll</string>
+    <string name="screenshot_edit">편집</string>
+    <string name="screenshot_send">전송</string>
+    <string name="long_screenshot_not_support_msg">"Current app doesn't support scrolling screenshots"</string>
+    <string name="long_screenshot_stop">완료</string>
+    <string name="long_screenshot_processing">처리 중…</string>
+    <string name="long_screenshot_top_msg">Creating screenshot…</string>
+    <string name="long_screenshot_out_of_memory_error">이미지 크기가 너무 큽니다.</string>
+    <string name="float_incall_message">메시지</string>
+    <string name="float_incall_ignore">무시</string>
+    <string name="notification_manager">알림 관리</string>
+    <string name="notification_manager_des">필터 및 관리 알림</string>
+    <string name="quick_settings_more_settings">기타 설정</string>
+    <string name="quick_settings_done">완료</string>
+    <string name="quick_settings_wifi_detail_empty_text">사용 가능한 Wi-Fi 네트워크 없음</string>
+    <string name="quick_settings_wifi_label">Wi-Fi</string>
+    <string name="quick_settings_wifi_nearby">근처 네트워크 선택</string>
+    <string name="quick_settings_connect_success">연결됨</string>
+    <string name="quick_settings_connecting">연결</string>
+    <string name="quick_settings_bluetooth_label">블루투스</string>
+    <string name="quick_settings_bluetooth_detail_empty_text">연결 가능한 기기 없음</string>
+    <string name="accessibility_ime_switch_button">Switch input method button.</string>
 </resources>
