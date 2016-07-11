@@ -29,8 +29,8 @@
     <string name="copy">복사</string>
     <string name="paste">붙여넣기</string>
     <string name="replace">교체</string>
-    <string name="frequent_phrases">자주 사용하는 문장</string>
-    <string name="add_frequent_phrases">자주 사용하는 문장 추가</string>
+    <string name="frequent_phrases">상용구</string>
+    <string name="add_frequent_phrases">상용구 추가</string>
     <string name="alwaysUsePrompt">내 선택 기억</string>
     <string name="translation_query_error">결과를 찾을 수 없음</string>
     <string name="translation_query_error_network">네트워크에 연결할 수 없습니다. 설정을 확인하시고 다시 시도하십시오.</string>
