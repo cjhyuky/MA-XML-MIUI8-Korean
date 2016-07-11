@@ -5,6 +5,8 @@
     <string name="deskclock_backup">알람 시계</string>
     <string name="button_cancel">취소</string>
     <string name="button_next">다음</string>
+    <string name="date_format">yyyy/MM/dd HH:mm</string>
+    <string name="dir_date_format">yyyyMMdd_HHmm</string>
     <string name="retry">재시도</string>
     <string name="cloud_app_current_device">현재 기기</string>
     <string name="cloud_app_other_devices">기타 기기</string>
@@ -17,10 +19,11 @@
     <string name="cloud_backup_detail_frequence">일정 백업</string>
     <string name="cloud_back_up_interval_long">일주일</string>
     <string name="cloud_back_up_interval_short">매일</string>
-    <string name="cloud_backup_detail_frequence_day">%1$s 한번 백업</string>
-    <string name="cloud_backup_detail_time">, 백업 시간:%1$s</string>
+    <string name="cloud_backup_detail_frequence_day">%1$s일 마다 백업</string>
+    <string name="cloud_backup_detail_time">마지막 백업: %1$s</string>
     <string name="cloud_backup_detail_manage">백업 관리</string>
     <string name="cloud_backup_detail_manage_summary">%1$s 백업, 차지하는 용량:%2$s</string>
+    <string name="backup_size_summary">크기:%1$s</string>
     <string name="cloud_back_up_opening">잠시만 기다려주십시오…</string>
     <string name="cloud_back_up_no_network_warn">Wi-Fi에 연결할 수 없습니다.</string>
     <string name="cloud_back_up_ok_btn">확인</string>
@@ -35,7 +38,7 @@
 *\u0009\u0009\u0009\u0009알람, 시계, 시간 설정 
 *\u0009\u0009\u0009\u0009알림 설정 
 *\u0009\u0009\u0009\u0009MIUI와 시스템 설정 
-\"주의: 설치된 앱의 데이터는 Mi 클라우드에 백업되지 않습니다.\""</string>
+\"참고: 설치된 어플의 데이터는 Mi 클라우드에 백업되지 않습니다.\""</string>
     <string name="cloud_app_no_data">백업 없음</string>
     <string name="cloud_app_restore_error">복원하지 못했습니다.</string>
     <string name="cloud_app_restore_success">앱 복원됨</string>
@@ -72,10 +75,11 @@
     <string name="recover_from_micloud">Mi 클라우드 백업에서 복원</string>
     <string name="click_try_to_restore_again">탭하여 다시 시도</string>
     <string name="open_wifi">지금 Wi-Fi 켜기</string>
-    <string name="open_wifi_description">Wi-Fi 네트워크에 연결하여 앱 복원</string>
+    <string name="open_wifi_description">Wi-Fi 네크워크에 연결하여 앱 복원</string>
     <string name="open_wifi_setting">Wi-Fi 설정</string>
     <string name="name_model">%1$s의 %2$s</string>
     <string name="download_settings">홈 화면 설정 %s%% 다운로드 중</string>
+    <string name="cloud_back_up_date_format">yyyy/MM/dd HH:mm</string>
     <string name="recover_home_settings">홈 화면 설정 복원</string>
     <string name="cancel_recover_settings"><u>취소</u></string>
     <string name="recover_settings_description">기기 전원 켜진 상태 유지</string>
@@ -107,4 +111,14 @@
     <string name="confirm_restore">복원</string>
     <string name="cloud_backup_have_data">Mi 클라우드에서 백업 찾기</string>
     <string name="cloud_backup_select_recover">Mi 클라우드에서 백업 선택하기</string>
+    <string name="backup_finished_notification_content">홈 화면 앱, 시스템 설정, 기타가 백업되었습니다.</string>
+    <string name="backup_now">지금 백업</string>
+    <string name="restore_task_unfinished">앱을 복원하는중입니다. 나중에 다시 시도하세요.</string>
+    <string name="backup_successfully">성공적으로 백업되었습니다.</string>
+    <string name="account_error">계정 오류</string>
+    <string name="btn_back">뒤로</string>
+    <string name="btn_continue">계속</string>
+    <string name="btn_skip">이 단계 건너뛰기</string>
+    <string name="provision_arrow_back">&lt;</string>
+    <string name="provision_arrow_next">></string>
 </resources>
