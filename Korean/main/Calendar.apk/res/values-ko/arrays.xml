@@ -6,43 +6,6 @@
         <item>SMS</item>
         <item>알람</item>
     </string-array>
-    <string-array name="reminder_minutes_labels">
-        <item>0분</item>
-        <item>1분</item>
-        <item>5분</item>
-        <item>10분</item>
-        <item>15분</item>
-        <item>20분</item>
-        <item>25분</item>
-        <item>30분</item>
-        <item>45분</item>
-        <item>1시간</item>
-        <item>2시간</item>
-        <item>3시간</item>
-        <item>12시간</item>
-        <item>24시간</item>
-        <item>2일</item>
-        <item>1주</item>
-    </string-array>
-    <string-array name="preferences_default_reminder_labels">
-        <item>없음</item>
-        <item>0분</item>
-        <item>1분</item>
-        <item>5분</item>
-        <item>10분</item>
-        <item>15분</item>
-        <item>20분</item>
-        <item>25분</item>
-        <item>30분</item>
-        <item>45분</item>
-        <item>1시간</item>
-        <item>2시간</item>
-        <item>3시간</item>
-        <item>12시간</item>
-        <item>24시간</item>
-        <item>2일</item>
-        <item>1주</item>
-    </string-array>
     <string-array name="preferences_week_start_day_labels">
         <item>언어 기본값</item>
         <item>토요일</item>
@@ -163,19 +126,9 @@
         <item>이번 및 향후 일정</item>
         <item>모든 일정</item>
     </string-array>
-    <string-array name="delete_repeating_labels_no_selected">
-        <item>이번 및 향후 일정</item>
-        <item>모든 일정</item>
-    </string-array>
     <string-array name="change_response_labels">
         <item>이번 일정만</item>
         <item>모든 반복 일정</item>
-    </string-array>
-    <string-array name="buttons_list">
-        <item>일</item>
-        <item>주</item>
-        <item>월</item>
-        <item>일정목록</item>
     </string-array>
     <string-array name="quick_response_defaults">
         <item>조금 늦음.</item>
@@ -194,34 +147,34 @@
     </string-array>
     <string-array name="miui_reminder_minutes_labels">
         <item>미리 알림 없음</item>
-        <item>0분</item>
-        <item>5분</item>
-        <item>10분</item>
-        <item>15분</item>
-        <item>30분</item>
-        <item>1시간</item>
-        <item>1일</item>
-        <item>2일</item>
-        <item>1주</item>
+        <item>이벤트 시간에</item>
+        <item>5분 전</item>
+        <item>10분 전</item>
+        <item>15분 전</item>
+        <item>30분 전</item>
+        <item>1시간 전</item>
+        <item>1일 전</item>
+        <item>2일 전</item>
+        <item>1주 전</item>
     </string-array>
     <string-array name="miui_preferences_default_reminder_labels">
         <item>미리 알림 없음</item>
-        <item>0분</item>
-        <item>5분</item>
-        <item>10분</item>
-        <item>15분</item>
-        <item>30분</item>
-        <item>1시간</item>
-        <item>1일</item>
-        <item>2일</item>
-        <item>1주</item>
+        <item>이벤트 시간에</item>
+        <item>5분 전</item>
+        <item>10분 전</item>
+        <item>15분 전</item>
+        <item>30분 전</item>
+        <item>1시간 전</item>
+        <item>1일 전</item>
+        <item>2일 전</item>
+        <item>1주 전</item>
     </string-array>
     <string-array name="travel_reminder_minutes_labels">
-        <item>3시간</item>
-        <item>4시간</item>
-        <item>5시간</item>
-        <item>6시간</item>
-        <item>1일</item>
+        <item>3시간 전</item>
+        <item>4시간 전</item>
+        <item>5시간 전</item>
+        <item>6시간 전</item>
+        <item>1일 전</item>
     </string-array>
     <string-array name="repeat_frequency_spinner">
         <item>일</item>
@@ -307,5 +260,52 @@
         <item>하지 않음</item>
         <item>시간</item>
         <item>개수</item>
+    </string-array>
+    <string-array name="reminder_minutes_labels">
+        <item>0분</item>
+        <item>1분</item>
+        <item>5분</item>
+        <item>10분</item>
+        <item>15분</item>
+        <item>20분</item>
+        <item>25분</item>
+        <item>30분</item>
+        <item>45분</item>
+        <item>1시간</item>
+        <item>2시간</item>
+        <item>3시간</item>
+        <item>12시간</item>
+        <item>24시간</item>
+        <item>2일</item>
+        <item>1주</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>없음</item>
+        <item>0분</item>
+        <item>1분</item>
+        <item>5분</item>
+        <item>10분</item>
+        <item>15분</item>
+        <item>20분</item>
+        <item>25분</item>
+        <item>30분</item>
+        <item>45분</item>
+        <item>1시간</item>
+        <item>2시간</item>
+        <item>3시간</item>
+        <item>12시간</item>
+        <item>24시간</item>
+        <item>2일</item>
+        <item>1주</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>이번 및 향후 일정</item>
+        <item>모든 일정</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>일</item>
+        <item>주</item>
+        <item>월</item>
+        <item>일정목록</item>
     </string-array>
 </resources>
