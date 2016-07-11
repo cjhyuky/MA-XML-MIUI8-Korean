@@ -1,35 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- Backup format -->
-    <string-array name="format_for_exported_note">
-        <item>-%s</item>      <!-- format_folder_name -->
-        <item>--%s</item>     <!-- format_folder_note_date -->
-        <item>--%s</item>     <!-- format_note_date -->
-        <item>--%s</item>     <!-- format_note_content -->
+    <string-array name="folder_operations">
+        <item>이름 변경</item>
+        <item>삭제</item>
     </string-array>
-    <string-array name="font_size_names">
-        <item>작게</item>
-        <item>기본</item>
-        <item>크게</item>
-        <item>매우 크게</item>
+    <string-array name="attachment_chooser">
+        <item>카메라</item>
+        <item>갤러리</item>
     </string-array>
-  <string-array name="contact_entries">
+    <string-array name="contact_entries">
         <item>이름</item>
         <item>별명</item>
-        <item>전화</item>
-        <item>E-mail</item>
-        <item>조직</item>
+        <item>스마트폰</item>
+        <item>이메일</item>
+        <item>회사</item>
         <item>IM</item>
-        <item>SIP 전화</item>
+        <item>SIP 폰</item>
         <item>생일</item>
         <item>웹사이트</item>
         <item>주소</item>
-        <item>노트</item>
+        <item>메모</item>
+    </string-array>
+    <string-array name="font_size_names">
+        <item>소</item>
+        <item>중간</item>
+        <item>대</item>
+        <item>가장 크게</item>
     </string-array>
     <string-array name="welcome_notes_content">
-        <item>"탭하여 메모 만들기"</item>
-        <item>"사진을 추가하거나 체크박스를 표시하시려면 아래 버튼을 탭하십시오."</item>
-        <item>"메모를 길게 눌러 고정, 이동, 삭제하십시오."</item>
-        <item>"And more great features!  - Sync with Mi Cloud  - Set reminders"</item>
+        <item>"메모장에 어서오세요!
+"</item>
+        <item>"탭하여 메모 만들기
+"</item>
+        <item>"템플릿 선택
+"</item>
+        <item>"폴더 생성
+"</item>
+        <item>"메모 숨기기
+"</item>
+        <item>"더 훌륭한 기능들!
+ - Mi 클라우드 동기화
+ - 미리 알림 설정"</item>
+    </string-array>
+    <string-array name="welcome_notes_image">
+        <item>guide_1</item>
+        <item></item>
+        <item>guide_3_1</item>
+        <item></item>
+        <item></item>
+        <item></item>
     </string-array>
 </resources>
