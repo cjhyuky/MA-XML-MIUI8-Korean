@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="group_move_success_toast">
+        <item quantity="other">%1$d개 연락처 이동됨</item>
+    </plurals>
+    <plurals name="group_copy_success_toast">
+        <item quantity="other">%1$d개 연락처 복사됨</item>
+    </plurals>
     <plurals name="listTotalPhoneContacts">
         <item quantity="other">전화번호가 포함된 %d개의 연락처</item>
     </plurals>
@@ -57,6 +63,9 @@
     <plurals name="hint_search_emails">
         <item quantity="other">%1$d개의 연락처 이메일</item>
     </plurals>
+    <plurals name="hint_account_contacts">
+        <item quantity="other">%1$d개의 항목 찾음</item>
+    </plurals>
     <plurals name="pick_favorites_contacts_list_title">
         <item quantity="other">%1$d개의 즐겨찾기</item>
     </plurals>
@@ -97,6 +106,6 @@
         <item quantity="other">%1$d개의 연락처</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
-        <item quantity="other">%d개의 연락처 혹은 사진이 동기화되지 못하였습니다.</item>
+        <item quantity="other">"%d개의 연락처 혹은 사진이 동기화되지 못하였습니다."</item>
     </plurals>
 </resources>
