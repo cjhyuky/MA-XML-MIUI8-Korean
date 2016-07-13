@@ -41,7 +41,7 @@
     <string name="music_dirac_mode_piston_basic">기본 에디션</string>
     <string name="music_dirac_mode_piston_standard">표준 에디션</string>
     <string name="music_dirac_mode_piston_youth">청소년 에디션</string>
-    <string name="music_dirac_mode_piston_color">색상 편집</string>
+    <string name="music_dirac_mode_piston_color">컬러 에디션</string>
     <string name="music_dirac_mode_headset">Mi 헤드폰</string>
     <string name="music_audio_effect_settings">효과 설정</string>
     <string name="music_equalizer">이퀄라이저</string>
@@ -67,8 +67,8 @@
     <string name="status_bar_settings_show_floating_notification">플로팅 알람</string>
     <string name="status_bar_settings_show_floating_notification_summary">플로팅 알람은 화면 상단에 나타났다가 자동으로 사라집니다</string>
     <string name="status_bar_settings_show_keyguard_notification">잠금 화면 알림</string>
-    <string name="status_bar_settings_notification_sound">Sound</string>
-    <string name="status_bar_settings_notification_vibrate">Vibration</string>
+    <string name="status_bar_settings_notification_sound">소리</string>
+    <string name="status_bar_settings_notification_vibrate">진동</string>
     <string name="status_bar_settings_notification_led">알림 표시등</string>
     <string name="status_bar_settings_notification_bar">드롭다운 메뉴</string>
     <string name="status_bar_settings_toggle_collapse_after_clicked">터치 후 축소</string>
@@ -562,11 +562,11 @@
     <string name="wifi_display_options_name">이름</string>
     <string name="nfc_quick_toggle_title">NFC</string>
     <string name="nfc_quick_toggle_summary">휴대전화로 다른 기기를 터치하면 데이터 교환 허용</string>
-    <string name="android_beam_settings_title">Android Beam</string>
+    <string name="android_beam_settings_title">안드로이드 빔</string>
     <string name="android_beam_on_summary">NFC 컨텐츠 공유가 켜졌습니다.</string>
     <string name="android_beam_off_summary">NFC 컨텐츠 공유가 꺼졌습니다.</string>
     <string name="android_beam_disabled_summary">이 기능을 사용하시려면 NFC를 켜십시오.</string>
-    <string name="android_beam_label">Android Beam</string>
+    <string name="android_beam_label">안드로이드 빔</string>
     <string name="android_beam_explained">기기를 접촉시킴으로써(일반적으로 뒷면과 뒷면) 당신의 화면에 있는 웹페이지, 동영상 또는 다른 컨텐츠를 상대 기기로 보낼 수 있습니다.</string>
     <string name="nsd_quick_toggle_title">네트워크 서비스 검색</string>
     <string name="nsd_quick_toggle_summary">다른 기기의 앱에서 이 기기의 앱을 검색하도록 허용</string>
@@ -601,7 +601,7 @@
     <string name="wifi_menu_wps_pbc">WPS 푸시 버튼</string>
     <string name="wifi_menu_more_options">추가 옵션</string>
     <string name="wifi_menu_wps_pin">WPS PIN 입장</string>
-    <string name="wifi_menu_p2p">Wi-Fi Direct</string>
+    <string name="wifi_menu_p2p">Wi-Fi 다이렉트</string>
     <string name="wifi_menu_scan">검색</string>
     <string name="wifi_menu_advanced">고급</string>
     <string name="wifi_menu_connect">네트워크 연결</string>
@@ -2578,9 +2578,9 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="battery_indicator_style">배터리 표시기</string>
     <string name="power_usage_history">배터리 사용</string>
     <string name="default_usb_mode">USB 연결</string>
-    <string name="wifi_tether_settings_title">개인 핫스팟</string>
+    <string name="wifi_tether_settings_title">개인용 핫스팟</string>
     <string name="lock_settings">잠금화면 &amp; 비밀번호</string>
-    <string name="second_space">보조 공간</string>
+    <string name="second_space">세컨드 스페이스</string>
     <string name="xspace">듀얼 앱</string>
     <string name="unlock_set_unlock_summary">화면 잠금 설정</string>
     <string name="lock_settings_picker_settings">화면 잠금 설정</string>
