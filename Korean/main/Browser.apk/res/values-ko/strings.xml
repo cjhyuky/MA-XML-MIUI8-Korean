@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="gsm_alphabet_default_charset">euc-kr</string>
     <string name="abc_action_mode_done">완료</string>
     <string name="abc_action_bar_home_description">홈으로</string>
     <string name="abc_action_bar_up_description">위로</string>
