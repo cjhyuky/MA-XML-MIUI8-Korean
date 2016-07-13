@@ -53,8 +53,8 @@
         <item>%1$s</item>
     </string-array>
     <string-array name="weather_type">
-        <item>지우기</item>
-        <item>흐림</item>
+        <item>맑음</item>
+        <item>구름</item>
         <item>흐림</item>
         <item>안개</item>
         <item>폭우</item>
