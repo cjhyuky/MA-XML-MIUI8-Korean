@@ -54,7 +54,7 @@
     <string name="key_btn_ok">확인</string>
     <string name="lockscreen_access_pattern_start">패턴 시작됨</string>
     <string name="lockscreen_access_pattern_cleared">패턴 삭제됨</string>
-    <string name="lockscreen_access_pattern_cell_added">스마트폰 추가됨</string>
+    <string name="lockscreen_access_pattern_cell_added">휴대전화 추가됨</string>
     <string name="lockscreen_access_pattern_detected">패턴 완료</string>
     <string name="memory_clear_result">%1$sB 제거됨 | %2$sB 사용 가능</string>
     <string name="memory_clear_nothing_result">캐시에 삭제 대상 없음</string>
