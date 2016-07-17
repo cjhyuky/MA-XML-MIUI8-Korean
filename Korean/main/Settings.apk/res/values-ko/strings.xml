@@ -1674,6 +1674,8 @@ PIN이 잘못된 것 같습니다."</string>
     <string name="privacy_settings_title">백업 및 초기화</string>
     <string name="backup_section_title">백업 및 복원</string>
     <string name="personal_data_section_title">개인 데이터</string>
+    <string name="personal_device_admin_title">개인용</string>
+    <string name="personal_section_title">개인용</string>
     <string name="backup_data_title">내 데이터 백업</string>
     <string name="backup_data_summary">앱 데이터, Wi-Fi 비밀번호, 기타 설정을 구글 서버에 백업하십시오.</string>
     <string name="backup_configure_account_title">백업 계정</string>
