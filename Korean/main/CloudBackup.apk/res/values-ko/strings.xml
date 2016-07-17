@@ -47,7 +47,7 @@
     <string name="cloud_app_no_network">네트워크에 연결할 수 없습니다.</string>
     <string name="button_delete">삭제</string>
     <string name="customization"><u>사용자 설정</u></string>
-    <string name="self_phone">이 스마트폰</string>
+    <string name="self_phone">이 휴대전화</string>
     <string name="process_whole_recovery">\"%s\" 복원 중</string>
     <string name="device_xiaomi">Mi 폰</string>
     <string name="recovering">%s 복원 중</string>
