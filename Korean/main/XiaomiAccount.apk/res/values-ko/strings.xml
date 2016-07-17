@@ -165,7 +165,7 @@
     <string name="passport_restart">다시 시작</string>
     <string name="passport_restart_register_title">Mi 계정 만들기</string>
     <string name="passport_restart_register_prompt">계정을 생성하려면 다른 인증 메시지가 필요합니다.</string>
-    <string name="passport_wait_for_sms_prompt">지금 다시 시작하시겠습니까? 스마트폰이 통신사 네트워크의 범위 내에 있을 경우 인증 메시지 도착까지 약 10분 정도 걸릴 수 있습니다.</string>
+    <string name="passport_wait_for_sms_prompt">지금 다시 시작하시겠습니까? 휴대전화가 이 통신사 네트워크의 범위 내에 있을 경우 인증 메시지 도착까지 약 10분 정도 걸릴 수 있습니다.</string>
     <string name="passport_imei_permission_denied_title">IMEI 권한 요청</string>
     <string name="passport_imei_permission_denied_message">기기의 IMEI를 요청합니다. Mi 계정의 가입/로그인에 사용되며 자주 사용하는 기기 식별에 도움을 줍니다. Mi 계정의 안전성을 높일 수 있습니다.</string>
     <string name="passport_registered_phone_user_ID">사용자 ID:%s</string>
@@ -210,7 +210,7 @@
     <string name="account_user_base_info">개인 정보</string>
     <string name="account_user_secure_info">전화 &amp; 이메일</string>
     <string name="account_user_email">이메일</string>
-    <string name="account_user_phone">스마트폰</string>
+    <string name="account_user_phone">휴대전화</string>
     <string name="account_user_recovery_phone">휴대전화 복원</string>
     <string name="account_user_name">이름</string>
     <string name="account_user_id">Mi 계정 ID</string>
@@ -264,8 +264,8 @@
     <string name="change_phone_number">전화번호 변경</string>
     <string name="change_email_address">이메일 주소 변경</string>
     <string name="checking_phone_num_availible">휴대전화 확인 중…</string>
-    <string name="account_binded_phone">%d개의 스마트폰</string>
-    <string name="account_bind_new_phone">새 스마트폰 추가</string>
+    <string name="account_binded_phone">%d개의 휴대전화</string>
+    <string name="account_bind_new_phone">새 연락처 추가</string>
     <string name="account_bind_phone_notice">이 전화번호를 사용하여 계정에 로그인, 비밀번호를 초기화 또는 보안 설정을 변경하십시오.</string>
     <string name="continue_action">계속</string>
     <string name="replace_binded_phone">전화번호 교체</string>
@@ -293,7 +293,7 @@
     <string name="update_email_address_dialog_title">이메일 업데이트</string>
     <string name="update_email_address_dialog_message">업데이트하기 전 신분 인증이 요구됩니다.</string>
     <string name="security_question_notice_title">전화 추가</string>
-    <string name="security_question_notice_message">스마트폰을 추가하신 후 보안 질문 답변을 잊었을 경우를 대비하여 다시 한번 보안 질문을 설정해주십시오.</string>
+    <string name="security_question_notice_message">휴대전화를 추가하신 후 보안 질문 답변을 잊었을 경우를 대비하여 다시 한번 보안 질문을 설정해주십시오.</string>
     <string name="ignore">나중에 실행</string>
     <string name="forward_to_bind">추가</string>
     <string name="reset_security_question_title">보안 질문 재설정</string>
