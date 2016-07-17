@@ -14,9 +14,9 @@
         <item>전체 화면</item>
         <item>전체 화면 종료</item>
         <item>백그라운드에서 앱 실행 중</item>
-        <item>스마트폰 충전 중</item>
+        <item>휴대전화 충전 중</item>
         <item>휴대전화 충전 중 아님</item>
-        <item>스마트폰 유휴 모드</item>
+        <item>휴대전화 유휴 모드</item>
     </string-array>
     <string-array name="action_name_translate">
         <item>최대 화면 밝기</item>
