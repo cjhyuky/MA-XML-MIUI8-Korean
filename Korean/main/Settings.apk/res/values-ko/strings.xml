@@ -761,6 +761,10 @@
     <string name="dock_sounds_enable_summary_on">도크에 휴대전화를 끼우거나 제거할 때 소리 재생</string>
     <string name="dock_sounds_enable_summary_off">도크에 휴대전화를 끼우거나 제거할 때 소리 재생 안함</string>
     <string name="account_settings">계정</string>
+    <string name="account_settings_menu_auto_sync">Auto-sync data</string>
+    <string name="account_settings_menu_auto_sync_personal">개인 데이터 자동 동기화</string>
+    <string name="account_settings_menu_auto_sync_work">업무 데이터 자동 동기화</string>
+    <string name="account_settings_title">계정</string>
     <string name="search_settings">검색</string>
     <string name="search_settings_summary">검색 설정 및 기록 관리</string>
     <string name="display_settings">디스플레이</string>
