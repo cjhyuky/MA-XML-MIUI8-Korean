@@ -10,6 +10,6 @@
         <item quantity="other">%d일 전</item>
     </plurals>
     <plurals name="view_realtime_clear">
-        <item quantity="other">제거</item>
+        <item quantity="other">맑음</item>
     </plurals>
 </resources>
