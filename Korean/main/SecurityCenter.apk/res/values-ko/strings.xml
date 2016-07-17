@@ -84,6 +84,10 @@
     <string name="traffic_none">없음</string>
     <string name="sorted_dialog_title">정렬</string>
     <string name="cancel_button">취소</string>
+    <string name="charging_text_battery_full_time">마지막 충전</string>
+    <string name="charging_text_battery_nearly_full">거의 충전됨</string>
+    <string name="charging_text_battery_perfect">완전 충전됨</string>
+    <string name="charging_text_time_calculating">충전 시간을 계산중…</string>
     <string name="ok_button">확인</string>
     <string name="permit_running_network">백그라운드 데이터</string>
     <string name="network_control">앱 설정 보기</string>
