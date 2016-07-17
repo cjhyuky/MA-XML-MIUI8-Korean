@@ -3154,7 +3154,6 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="recent_location_requests_title">위치 접근</string>
     <string name="recent_location_requests_summary">당신의 위치 정보에 접근을 요청하는 앱 보기</string>
     <string name="permission_manager">권한</string>
-    <string name="personal_section_title">개인</string>
     <string name="system_and_device_section_title">시스템 &amp; 기기</string>
     <string name="application_manager_section_title">앱 설정</string>
     <string name="security_keyguard_category_name">잠금 화면</string>
