@@ -1325,6 +1325,14 @@ PIN이 잘못된 것 같습니다."</string>
     <string name="bugreport_in_power_summary">전원 메뉴에 버그 신고 옵션 포함</string>
     <string name="keep_screen_on">화면 켜짐 상태 유지</string>
     <string name="keep_screen_on_summary">충전하는 동안 화면이 꺼지지 않음</string>
+    <string name="keyguard_left_function_chooser_hint_text">왼쪽 바로가기앱이 %s로 변경됨</string>
+    <string name="keyguard_left_function_chooser_title">앱</string>
+    <string name="keyguard_left_function_title">왼쪽</string>
+    <string name="keyguard_right_function_chooser_hint_text">오른쪽 바로가기앱이 %s로 변경됨</string>
+    <string name="keyguard_right_function_chooser_title">앱</string>
+    <string name="keyguard_right_function_title">오른쪽</string>
+    <string name="keyguard_shortcut_summary">잠금화면에 표시할 두가지 앱을 설정하세요</string>
+    <string name="keyguard_shortcut_title">잠금화면 앱 설정</string>    
     <string name="bt_hci_snoop_log">블루투스 HCI 스눕 로그</string>
     <string name="bt_hci_snoop_log_summary">모든 블루투스 HCI 패킷을 한 개 파일에 캡처</string>
     <string name="select_runtime_title">런타임 선택</string>
