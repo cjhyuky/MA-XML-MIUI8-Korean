@@ -19,7 +19,7 @@
         <item>매우 크게</item>
     </string-array>
     <string-array name="pref_nav_mode_summary">
-        <item>스마트폰</item>
+        <item>휴대전화</item>
         <item>패드</item>
     </string-array>
     <string-array name="pref_default_zoom_choices">
