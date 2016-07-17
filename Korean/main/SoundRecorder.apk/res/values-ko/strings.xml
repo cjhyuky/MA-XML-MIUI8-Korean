@@ -19,7 +19,7 @@
     <string name="error_file_access">파일이 존재하지 않거나 손상되었습니다.</string>
     <string name="delete_dialog_message">녹음 파일을 삭제하시겠습니까?</string>
     <string name="notification_recording">녹음 중…</string>
-    <string name="notification_recording_ticker">스마트폰 음소거</string>
+    <string name="notification_recording_ticker">휴대전화 음소거</string>
     <string name="notification_playback">재생 중…</string>
     <string name="notification_stopped">녹음 중단됨</string>
     <string name="notification_warning">저장 공간 부족 (%d분 이하)</string>
