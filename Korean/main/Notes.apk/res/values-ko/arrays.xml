@@ -11,7 +11,7 @@
     <string-array name="contact_entries">
         <item>이름</item>
         <item>별명</item>
-        <item>전화</item>
+        <item>휴대전화</item>
         <item>이메일</item>
         <item>회사</item>
         <item>IM</item>
