@@ -862,6 +862,8 @@
     <string name="preference_telocation_title">위치</string>
     <string name="cloud_antispam_title">알 수 없는 번호 식별</string>
     <string name="preference_auto_ip_summary_disable">비활성화됨</string>
+    <string name="preference_data_usage_title">데이터 사용량 설정</string>
+    <string name="preference_data_usage_summary">데이터 사용량을 설정하여 모바일 데이터 사용량을 조절</string>
     <string name="preference_dial_pad_touch_tone_title">다이얼 패드 터치음</string>
     <string name="preference_telocation_summary_teloc_off">연락처 위치 숨기기</string>
     <string name="preference_telocation_summary_teloc_on">연락처 위치 표시</string>
