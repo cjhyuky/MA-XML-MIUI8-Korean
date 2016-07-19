@@ -786,9 +786,9 @@
     <string name="power_analysis_consume_title">배터리 사용량</string>
     <string name="power_analysis_suggestion_need_optimize">배터리 사용량 문제가 감지되었습니다.</string>
     <string name="power_optimize_save_on_lockscreen">기기가 잠겨있을 때 전원 절약하기</string>
-    <string name="power_optimize_close_app">Close apps consuming excessive power</string>
-    <string name="power_optimize_disable_app_autostart">Prevent apps from opening automatically</string>
-    <string name="power_optimize_disable_start_other_app">Prevent apps from opening other apps</string>
+    <string name="power_optimize_close_app">과도하게 전력을 사용하는 앱 닫기</string>
+    <string name="power_optimize_disable_app_autostart">앱의 자동시작 방지</string>
+    <string name="power_optimize_disable_start_other_app">앱이 다른앱을 켜는 것을 방지</string>
     <string name="power_optimize_brightness">화면 밝기</string>
     <string name="power_optimize_open_hide_mode">숨김 모드 켜기</string>
     <string name="power_optimize_auto_catagory_title">배터리 문제</string>
