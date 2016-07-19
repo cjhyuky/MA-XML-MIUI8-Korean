@@ -11,6 +11,9 @@
     <string name="function_settings">바로가기 설정</string>
     <string name="hide_touch_assistant">자동 숨기기</string>
     <string name="hide_touch_assistant_intro">선택된 앱의 바로가기 메뉴 숨기기</string>
+    <string name="hide_when_fullscreen">전체화면시 가장자리로 이동</string>
+    <string name="hide_when_fullscreen_intro">전체화면시 가장자리로 퀵볼이 이동합니다.</string>
+    <string name="motion_behavior">선호하는 제스쳐</string>
     <string name="name_alipay_payment_code">Alipay 지불</string>
     <string name="name_alipay_scan">Alipay 스캐너</string>
     <string name="name_long_press_power_key">전원 버튼 길게 누르기</string>
