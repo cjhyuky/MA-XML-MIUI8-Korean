@@ -2251,7 +2251,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="search_home_key">홈</string>
     <string name="search_back_key">뒤로</string>
     <string name="search_screen_key_long_press_timeout">길게 누르는 시간 설정</string>
-    <string name="search_button_light_timeout">불이 들어올 때까지 버튼을 누르십시오</string>
+    <string name="search_button_light_timeout">버튼 표시등 점등 시간 설정</string>
     <string name="search_led">LED;알림 표시등</string>
     <string name="search_music_headset_settings">헤드폰 &amp; 오디오 효과</string>
     <string name="search_accessibility">접근성</string>
@@ -2560,7 +2560,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="menu_key">메뉴</string>
     <string name="home_key">홈</string>
     <string name="back_key">뒤로</string>
-    <string name="screen_key_long_press_timeout">시간 연기 설정</string>
+    <string name="screen_key_long_press_timeout">길게 누르기 시간 설정</string>
     <string name="under_keyguard">잠금 화면</string>
     <string name="disable_power_key_long_press_under_keyguard">전원 버튼 메뉴 끄기</string>
     <string name="trackball_wake_title">트랙볼로 절전 모드 해제</string>
