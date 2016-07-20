@@ -1237,6 +1237,7 @@
     <string name="action_bar_home_description_format">%1$s, %2$s</string>
     <string name="action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="storage_internal">내부 저장소</string>
+    <string name="storage_phone">내부 저장소</string>
     <string name="storage_sd_card">SD 카드</string>
     <string name="storage_usb">USB 저장소</string>
     <string name="extract_edit_menu_button">수정</string>
