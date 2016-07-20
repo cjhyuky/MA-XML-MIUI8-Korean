@@ -722,6 +722,7 @@
     <string name="ringtone_summary" />
     <string name="all_volume_title">볼륨</string>
     <string name="musicfx_title">음악 효과</string>
+    <string name="ring_volume_option_title">벨소리 볼륨</string>
     <string name="ring_volume_title">모드 설정</string>
     <string name="vibrate_in_silent_title">무음 모드에서 진동</string>
     <string name="notification_sound_title">기본 알림음</string>
@@ -730,8 +731,10 @@
     <string name="notification_volume_title">알림</string>
     <string name="checkbox_notification_same_as_incoming_call">전화 벨소리와 알림을 같은 볼륨으로</string>
     <string name="notification_sound_dialog_title">기본 알림 소리</string>
+    <string name="media_volume_option_title">미디어 볼륨</string>
     <string name="media_volume_title">미디어</string>
     <string name="media_volume_summary">음악 및 동영상에 대한 볼륨 설정</string>
+    <string name="alarm_volume_option_title">알람 볼륨</string>
     <string name="alarm_volume_title">알람</string>
     <string name="dock_settings_summary">연결된 도크에 대한 오디오 설정</string>
     <string name="dtmf_tone_enable_title">다이얼패드 신호음</string>
