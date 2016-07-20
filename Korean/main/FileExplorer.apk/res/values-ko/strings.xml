@@ -266,7 +266,7 @@
     <string name="storage_internal">내부 저장소</string>
     <string name="storage_sd_card">SD 카드</string>
     <string name="storage_usb">USB 저장소</string>
-    <string name="storage_cloned_app">Storage for dual apps</string>
+    <string name="storage_cloned_app">듀얼앱 저장공간</string>
     <string name="storage_internal_description">내부 저장소</string>
     <string name="storage_sd_card_description">SD 카드</string>
     <string name="storage_usb_description">USB 저장소</string>
