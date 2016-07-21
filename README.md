@@ -1,8 +1,8 @@
-# MIUIAndroid MIUI7&8 Korean Translations.
+# MIUIAndroid MIUI8 Korean Translations.
 	This is repository for MIUIAndroid MultiRom project.
 # Credits
     ingbrzy - Builder of MultiRom, Bug reports.
-    cjhyuky - Builder of MIUI7&8 Korean translation
+    cjhyuky - Builder of MIUI8 Korean translation
 
     Thanks to Xiaomistory, ruinses, ginam kim, lecahel(for bug reports and translation suggestions).
 
