@@ -3047,6 +3047,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="hdmi_3dplay_control_enable_subtext">외부 3D 화면에 대한 3D 양안식 출력이 켜져 있습니다.</string>
     <string name="hdmi_3dplay_control_disable_subtext">외부 3D 화면에 대한 3D 양안식 출력이 꺼져 있습니다.</string>
     <string name="adjust_3d_depth_title">게임의 3D 깊이 조정</string>
+    <string name="advanced_security_title">고급 설정</string> 
     <string name="hdmi_3d_stereo_separation_label">3D</string>
     <string name="hdmi_3d_help_title">HDMI 3D stereoscopic 지원 정보</string>
     <string name="power_mode_balanced_title">전원 균형 맞추기</string>
