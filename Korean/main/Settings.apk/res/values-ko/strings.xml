@@ -467,7 +467,8 @@
     <string name="device_admin_title">기기 관리</string>
     <string name="manage_device_admin">기기 관리자</string>
     <string name="manage_device_admin_summary">기기 관리자 보기 또는 비활성화</string>
-    <string name="manage_notification_access">알림 액세스</string>
+    <string name="manage_notification_access">알림 접근</string>
+    <string name="manage_notification_access_title">알림 접근</string>  
     <string name="manage_notification_access_summary_zero">앱에서 알림을 읽을 수 없습니다.</string>
     <string name="no_notification_listeners">알림 수신기가 설치되지 않았습니다.</string>
     <string name="notification_listener_security_warning_title">%1$s을(를) 사용하시겠습니까?</string>
@@ -1157,6 +1158,8 @@ PIN이 잘못된 것 같습니다."</string>
  앱 데이터는 손실되지 않습니다."</string>
     <string name="reset_app_preferences_button">앱 재설정</string>
     <string name="manage_space_text">공간 관리</string>
+    <string name="manage_trust_agents">신뢰하는 에이전트</string> 
+    <string name="manage_trust_agents_summary">신뢰하는 에이전트 보기 또는 비활성화</string> 
     <string name="filter">필터</string>
     <string name="filter_dlg_title">필터 옵션 선택</string>
     <string name="filter_apps_all">전체</string>
@@ -1165,6 +1168,7 @@ PIN이 잘못된 것 같습니다."</string>
     <string name="filter_apps_running">실행 중</string>
     <string name="filter_apps_onsdcard">SD 카드</string>
     <string name="disabled">사용 안함</string>
+    <string name="disabled_because_no_backup_security">사용하려면 먼저 스크린락을 설정하세요</string>    
     <string name="not_installed">설치되지 않음</string>
     <string name="no_applications">앱 없음</string>
     <string name="internal_storage">내부 저장소</string>
@@ -1585,7 +1589,13 @@ PIN이 잘못된 것 같습니다."</string>
     <string name="menu_proc_stats_type_cached">캐시된 프로세스</string>
     <string name="voice_input_output_settings">음성 입력 &amp; 출력</string>
     <string name="voice_input_output_settings_title">음성 입력 &amp; 출력 설정</string>
+    <string name="voice_input_settings">음성 입력 설정</string> 
+    <string name="voice_input_settings_title">음성 입력</string>   
+    <string name="voice_interaction_security_warning">이 음성입력 서비스는 음성인식 항상 켜기와 음성 지원 프로그램을 컨트롤 할 수 있습니다. 그것은 %s 응용 프로그램에서 제공됩니다. 이 서비스를 켜시겠습니까?</string> 
+    <string name="voice_interactor_preference_summary">항상 음성인식 대기 및 상호작용</string> 
+    <string name="voice_recognizer_preference_summary">간단한 음성 입력</string> 
     <string name="voice_search_settings_title">음성 검색</string>
+    <string name="voice_service_preference_section_title">음성 입력 서비스</string> 
     <string name="keyboard_settings_title">Android 키보드</string>
     <string name="voice_category">음성</string>
     <string name="recognizer_title">음성 인식기</string>
