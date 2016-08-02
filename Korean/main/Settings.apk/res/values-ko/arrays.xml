@@ -332,6 +332,13 @@
         <item>파란색 바탕에 흰색</item>
         <item>맞춤설정</item>
     </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>64K 로그 버퍼</item> 
+        <item>256K 로그 버퍼</item> 
+        <item>1M 로그 버퍼</item> 
+        <item>4M 로그 버퍼</item> 
+        <item>16M 로그 버퍼</item> 
+    </string-array>
     <string-array name="hdcp_checking_titles">
         <item>확인 안함</item>
         <item>DRM 콘텐츠만 확인</item>
