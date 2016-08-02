@@ -645,6 +645,8 @@
     <string name="wifi_ip_settings">IP 설정</string>
     <string name="wifi_unchanged">(변경 안함)</string>
     <string name="wifi_unspecified">(지정되지 않음)</string>
+    <string name="wifi_verbose_logging">Wi-Fi 인터넷 자세한 정보 로깅 허용</string> 
+    <string name="wifi_verbose_logging_summary">Wi‑Fi 로깅 레벨을 증가함, Wi‑Fi 선택창에 SSID와 RSSI까지 표기</string>     
     <string name="wifi_remembered">저장됨</string>
     <string name="wifi_disabled_generic">사용 중지됨</string>
     <string name="wifi_disabled_network_failure">인터넷 접속 불량 방지</string>
@@ -828,6 +830,8 @@ PIN이 잘못된 것 같습니다."</string>
     <string name="baseband_version">기저대역 버전</string>
     <string name="kernel_version">커널 버전</string>
     <string name="build_number">빌드 번호</string>
+    <string name="select_logd_size_dialog_title">로그 버퍼 사이즈를 선택</string> 
+    <string name="select_logd_size_title">로그 버퍼 크기</string> 
     <string name="selinux_status">SELinux 상태</string>
     <string name="device_info_not_available">표시할 수 없음</string>
     <string name="device_status_activity_title">상태</string>
@@ -1032,6 +1036,8 @@ PIN이 잘못된 것 같습니다."</string>
     <string name="assisted_gps_disabled">서버를 사용하여 GPS 보조(GPS 성능을 개선하려면 선택 취소)</string>
     <string name="use_location_title">위치 기반 Google 검색</string>
     <string name="use_location_summary">Google이 내 위치를 사용하여 검색결과 및 기타 서비스를 개선하도록 합니다.</string>
+    <string name="use_nuplayer">Nu플레이어 사용(실험적)</string> 
+    <string name="use_nuplayer_summary">어썸플레이어 대신 Nu플레이어 사용</string> 
     <string name="location_access_title">위치 접근</string>
     <string name="location_access_summary">앱이 당신의 위치 정보를 받을 수 있습니다.</string>
     <string name="location_sources_heading">위치 소스</string>
@@ -1116,6 +1122,7 @@ PIN이 잘못된 것 같습니다."</string>
     <string name="total_size_label">전체</string>
     <string name="application_size_label">앱</string>
     <string name="external_code_size_label">USB 저장소 애플리케이션</string>
+   <string name="dashboard_title">설정</string>     
     <string name="data_size_label">데이터</string>
     <string name="external_data_size_label">SD 카드</string>
     <string name="uninstall_text">제거</string>
@@ -1523,6 +1530,8 @@ PIN이 잘못된 것 같습니다."</string>
     <string name="usage_type_video">동영상</string>
     <string name="usage_type_on_time">사용 시간</string>
     <string name="usage_type_no_coverage">통화 불가능 시간</string>
+    <string name="usb_audio_disable_routing">USB 오디오 라우팅 끄기</string> 
+    <string name="usb_audio_disable_routing_summary">USB 오디오 주변 장치에 자동 라우팅을 사용하지 않도록 설정</string> 
     <string name="battery_action_stop">강제 종료</string>
     <string name="battery_action_app_details">앱 정보</string>
     <string name="battery_action_app_settings">앱 설정</string>
@@ -1803,6 +1812,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="debug_drawing_category">그림</string>
     <string name="debug_hw_drawing_category">하드웨어 가속 렌더링</string>
     <string name="debug_monitoring_category">모니터링</string>
+    <string name="debug_view_attributes">보기 속성 검사 활성화</string> 
     <string name="strict_mode">엄격 모드 사용</string>
     <string name="strict_mode_summary">앱이 기본 스레드에서 오래 작업하면 화면 깜박이기</string>
     <string name="pointer_location">포인터 위치</string>
@@ -2075,6 +2085,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="screen_timeout_title">슬립 모드</string>
     <string name="preferred_network_type_title">선호하는 네트워크 유형</string>
     <string name="sim_status_title">SIM 상태</string>
+    <string name="simulate_color_space">색상 보정 시뮬레이션</string>    
     <string name="do_not_disturb_mode">방해 금지 모드</string>
     <string name="dndm_notification">방해 금지 모드가 켜져 있습니다.</string>
     <string name="dndm_open">방해 금지 모드</string>
@@ -2567,6 +2578,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="pref_volume_wake_title">볼륨 버튼으로 절전 모드 해제</string>
     <string name="pref_volume_wake_summary">볼륨 버튼을 눌러 기기의 절전 모드 해제 중</string>
     <string name="media_button">미디어 버튼</string>
+    <string name="media_category">미디어</string>
     <string name="preferred_media_app_summary">뮤직 플레이어 선택</string>
     <string name="no_media_button_receiver">아니요</string>
     <string name="camera_key_action_title">Mi 버튼</string>
@@ -3055,6 +3067,13 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="se_route_uicc">SIM 카드의 보안 요소</string>
     <string name="current_use_uicc_se">SIM 카드의 보안 요소 사용 중</string>
     <string name="current_use_ese">포함된 보안 요소 사용 중</string>
+    <string name="daltonizer_mode_deuteranomaly">녹색색약모드 (빨강-녹색)</string> 
+    <string name="daltonizer_mode_disabled">비활성화</string> 
+    <string name="daltonizer_mode_monochromacy">흑백모드</string> 
+    <string name="daltonizer_mode_protanomaly">적색약모드 (빨강-녹색)</string> 
+    <string name="daltonizer_mode_tritanomaly">청색약모드 (파랑-노랑)</string> 
+    <string name="daltonizer_type">보정 모드</string> 
+    <string name="daltonizer_type_overridden">%1$s를 우선시</string> 
     <string name="open_wifi_connect_title">%1$s에 연결</string>
     <string name="open_wifi_connect_summary">탭하여 세부 정보 보기</string>
     <string name="free_wifi_summary">탭하여 %1$s에 연결</string>
@@ -3316,6 +3335,10 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="agps_roaming_summary">로밍 중 모바일 데이터 사용하여 GPS 보조</string>
     <string name="agps_roaming_dia_title">로밍 시 A-GPS 사용</string>
     <string name="agps_roaming_dia">로밍 중 A-GPS를 사용하면 모바일 데이터 사용량이 증가할 수 있습니다. 계획한 데이터 한도를 초과하면 추가 요금이 부과될 수 있습니다.</string>
+    <string name="wifi_aggressive_handover">Wi‑Fi 신호가 약할시 셀룰러 데이터로 적극 전환</string> 
+    <string name="wifi_aggressive_handover_summary">활성화 되면, Wi‑Fi 신호가 약하면 더 적극적으로 셀룰러 데이터로 전환됩니다.</string> 
+    <string name="wifi_allow_scan_with_traffic">Wi‑Fi 로밍 검색 항상 허용</string> 
+    <string name="wifi_allow_scan_with_traffic_summary">인터페이스에서 현재 데이터 트래픽 양에 따라 Wi-fi 로밍 스캔을 허용 또는 비허용</string>
     <string name="wifi_disconnected_notification_title">Wi-Fi 연결 끊김</string>
     <string name="wifi_disconnected_notification_summary">더 이상 Wi-Fi에 연결되지 않습니다.</string>
     <string name="wifi_off_airplane_on_title">비행기 모드의 Wi-Fi</string>
