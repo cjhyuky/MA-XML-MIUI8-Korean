@@ -1,3 +1,5 @@
+# ![logo](https://drive.google.com/open?id=0BxA3t485rFIpLXBpR1FZRXBlRmc)
+
 # MIUIAndroid MIUI8 Korean Translations.
 	This is repository for MIUIAndroid MultiRom project.
 # Credits
