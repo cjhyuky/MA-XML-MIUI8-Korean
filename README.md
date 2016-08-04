@@ -1,3 +1,5 @@
+![Logo](https://s31.postimg.org/44d72f8tn/MIUI8_KOREAN.png)
+
 # MIUIAndroid MIUI8 Korean Translations.
 	This is repository for MIUIAndroid MultiRom project.
 # Credits
