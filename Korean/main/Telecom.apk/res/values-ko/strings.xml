@@ -47,10 +47,10 @@
   <string name="test_account_3_short_description">Chat with Chat Network users</string> 
   <string name="ui_default_package">com.android.incallui</string> 
   <string name="ui_default_package_dialer">com.android.contacts</string> 
-  <string name="unknown">Unknown</string> 
-  <string name="userCallActivityLabel">Phone</string> 
-  <string name="video_call_not_allowed_if_tty_enabled">Please disable TTY Mode to make video calls.</string> 
-  <string name="voice_dial_out">Voice call</string> 
-  <string name="voice_report_incoming_call">Incoming call</string> 
-  <string name="voice_report_unknown_num">Unknown number</string> 
+  <string name="unknown">알수없는</string> 
+  <string name="userCallActivityLabel">전화</string> 
+  <string name="video_call_not_allowed_if_tty_enabled">영상 통화를 하시려면 TTY모드를 끄세요.</string> 
+  <string name="voice_dial_out">음성 통화</string> 
+  <string name="voice_report_incoming_call">전화 거는 중</string> 
+  <string name="voice_report_unknown_num">모르는 번호</string> 
   </resources>
