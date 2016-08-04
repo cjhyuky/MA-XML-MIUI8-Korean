@@ -1,4 +1,4 @@
-# ![logo](http://vbexit.cafe24.com/miui8kr.png)
+# http://vbexit.cafe24.com/miui8kr.png
 
 # MIUIAndroid MIUI8 Korean Translations.
 	This is repository for MIUIAndroid MultiRom project.
