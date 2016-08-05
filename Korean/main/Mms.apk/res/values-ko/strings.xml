@@ -106,6 +106,8 @@
     <string name="try_to_send">전송 시도</string>
     <string name="preferences_title">설정</string>
     <string name="pref_notification_settings_title">알림</string>
+    <string name="pref_delivery_ringtone">소리 알림</string>
+    <string name="pref_summary_delivery_ringtone">보낸 문자 전송완료시 소리로 알림.</string>
     <string name="pref_mms_settings_title">멀티미디어(MMS) 메시지</string>
     <string name="pref_summary_mms_read_reports">수신자가 MMS 콘텐츠를 다운로드했을 때 대화창에 알림을 표시하기</string>
     <string name="pref_summary_delete_limit">대화 당 %1$s개의 메시지</string>
