@@ -1398,6 +1398,12 @@ PIN이 잘못된 것 같습니다."</string>
     <string name="accessibility_services_title">서비스</string>
     <string name="accessibility_system_title">시스템</string>
     <string name="accessibility_captioning_title">캡션</string>
+    <string name="accessibility_display_daltonizer_preference_subtitle">이 기능은 실험실 기능이라 성능에 영향을 줄 수 있습니다.</string>
+    <string name="accessibility_display_daltonizer_preference_title">색 보정</string>
+    <string name="accessibility_display_inversion_preference_subtitle">(실험실 기능) 성능에 영향을 줄 수 있음</string>
+    <string name="accessibility_display_inversion_preference_title">색 전도</string>
+    <string name="accessibility_toggle_high_text_contrast_preference_title">고대비 텍스트</string>
+    <string name="accessibility_display_title">디스플레이</string>    
     <string name="accessibility_screen_magnification_title">확대 동작</string>
     <string name="accessibility_screen_magnification_summary">"이 기능을 사용하면 화면을 3번 탭하여 확대 및 축소할 수 있습니다.
 
@@ -3394,6 +3400,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="deny_sms_message">설치한 앱이 SMS를 보내도록 허용 안 함</string>
     <string name="wakeup_for_keyguard_notification_title">알림에 잠금화면 켜기</string>
     <string name="experience_optimization_category">사용자 체험 프로그램</string>
+    <string name="experimental_preference">(실험실 기능)</string>    
     <string name="advanced_text_layout">고급 문자 레이아웃 사용 가능</string>
     <string name="pref_edge_handgrip">에지 컨트롤</string>
     <string name="apply_password_to_category_title">잠금 해제 요청</string>
