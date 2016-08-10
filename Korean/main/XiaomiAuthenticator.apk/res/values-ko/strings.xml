@@ -1,28 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="about_preference_screen_title">About</string>
-  <string name="about_preference_title">About</string>
-  <string name="acknowledge_btn">I Acknowledge</string>
-  <string name="action_settings">Settings</string>
-  <string name="activation_page">Not activated</string>
-  <string name="activation_page_btn_txt">Activate</string>
-  <string name="activation_page_info">Sign in to your Mi Account to activate Secure Sign-in</string>
-  <string name="add_account_menu_item">Add account</string>
-  <string name="app_name">Xiaomi Authenticator</string>
-  <string name="app_name_lockpattern">LockPattern</string>
-  <string name="app_name_short">Authenticator</string>
+  <string name="about_preference_screen_title">정보</string>
+  <string name="about_preference_title">정보</string>
+  <string name="acknowledge_btn">인지했음</string>
+  <string name="action_settings">설정</string>
+  <string name="activation_page">활성화 되지 않음</string>
+  <string name="activation_page_btn_txt">활성화</string>
+  <string name="activation_page_info">보안 로그인을 활성화 하려면 Mi 계정에 로그인하세요</string>
+  <string name="add_account_menu_item">계정 추가</string>
+  <string name="app_name">샤오미 인증센터</string>
+  <string name="app_name_lockpattern">잠금패턴</string>
+  <string name="app_name_short">인증센터</string>
   <string name="authenticator_invalid_tip">You may have turned this feature off using your desktop Browser or activated another Mi Security Token.</string>
   <string name="authenticator_invalid_title">Account：%1$s security token has expired.</string>
   <string name="authenticator_page_reactivation">Reactivate</string>
-  <string name="button_add_account">Add an account</string>
-  <string name="button_add_account_manual_entry">Manually add account</string>
-  <string name="button_add_account_scan_barcode">Scan barcode</string>
-  <string name="button_back">Back</string>
-  <string name="button_exit_howitworks_flow">Exit</string>
+  <string name="button_add_account">계정 추가</string>
+  <string name="button_add_account_manual_entry">수동으로 계정 추가</string>
+  <string name="button_add_account_scan_barcode">바코드 스캔</string>
+  <string name="button_back">뒤로</string>
+  <string name="button_exit_howitworks_flow">나가기</string>
   <string name="button_how_it_works">See how it works</string>
-  <string name="button_next">Next</string>
-  <string name="button_uninstall_old_app">Uninstall</string>
-  <string name="cancel">Cancel</string>
+  <string name="button_next">다음</string>
+  <string name="button_uninstall_old_app">언인스톨</string>
+  <string name="cancel">취소</string>
   <string name="change_security_lock">More screen locks</string>
   <string name="check_code">To check that you have the correct key value for %1$s verify that the value here matches the integrity check value provided by the server:&lt;br/&gt;</string>
   <string name="check_code_menu_item">Check key value</string>
@@ -37,7 +37,6 @@
   <string name="decoding_exception">Decoding exception</string>
   <string name="details_patternforgotten">"Reactivate: 
 Sign in at account.xiaomi.com and click Reactivate."</string>
-  <string name="empty_pin">_ _ _ _ _ _</string>
   <string name="enter_account_label">Enter account name</string>
   <string name="enter_key_hint">Enter your key</string>
   <string name="enter_key_illegal_char">Key value has illegal character</string>
