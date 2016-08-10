@@ -2203,7 +2203,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="search_touch_sensitive_title">장갑 모드</string>
     <string name="search_screen_effect">색상 &amp; 채도;색상 &amp; 대비</string>
     <string name="search_screen_saver_settings">화면 보호기</string>
-    <string name="search_screen_paper_mode">읽기 모드</string>
+    <string name="search_screen_paper_mode">독서 모드</string>
     <string name="search_sound_settings">소리;볼륨;무음 모드;알람;음악;진동;벨소리;기본 알림음;메시지 수신됨;메시지 전달됨;터치;화면 잠김음;오디오 설정;잡음 제거</string>
     <string name="search_ring_volume">볼륨;벨소리 &amp; 알림;알람;뮤직</string>
     <string name="search_ringtone">전화 벨소리</string>
@@ -2376,7 +2376,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="path_touch_sensitive_title">설정/디스플레이/장갑 모드</string>
     <string name="path_screen_saver_settings">설정/디스플레이/화면 보호기</string>
     <string name="path_screen_optimize">설정/디스플레이/색상 &amp; 대비</string>
-    <string name="path_screen_paper_mode">설정/디스플레이/읽기 모드</string>
+    <string name="path_screen_paper_mode">설정/디스플레이/독서 모드</string>
     <string name="path_accelerometer_settings">설정/디스플레이/자동 회전 화면</string>
     <string name="path_sound_settings">설정/소리 &amp; 진동</string>
     <string name="path_ringtone_settings">설정/소리 &amp; 진동/휴대전화 벨소리</string>
