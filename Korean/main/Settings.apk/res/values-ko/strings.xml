@@ -306,6 +306,8 @@
     <string name="radio_info_smsc_refresh_label">새로고침</string>
     <string name="radio_info_toggle_dns_check_label">DNS 확인 선택</string>
     <string name="oem_radio_info_label">OEM별 정보/설정</string>
+    <string name="oem_unlock_enable">OEM 언락 활성화</string>
+    <string name="oem_unlock_enable_summary">기기가 OEM 언락되는 것을 허용합니다</string>
     <string name="band_mode_title">GSM/UMTS 대역 설정</string>
     <string name="band_mode_loading">대역 목록 로드 중...</string>
     <string name="band_mode_set">설정</string>
