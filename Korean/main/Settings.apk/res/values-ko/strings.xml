@@ -2663,7 +2663,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="pref_operational_key">탐색 버튼</string>
     <string name="pref_button_light">버튼 표시등</string>
     <string name="pref_button_light_summary">메뉴, 홈, 뒤로 버튼 점등</string>
-    <string name="button_light_timeout">불이 들어올 때까지 버튼을 누르십시오</string>
+    <string name="button_light_timeout">하단버튼 LED 점등 시간</string>
     <string name="battery_light_title">충전 중에 LED 점등</string>
     <string name="sim_change_failed_enable_sim_lock">지금 SIM 잠금 켜기</string>
     <string name="sim_lock_change_not_supported">SIM 잠금을 변경할 수 없습니다.</string>
