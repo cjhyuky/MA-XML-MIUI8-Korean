@@ -338,6 +338,8 @@
     <string name="settings_label">설정</string>
     <string name="settings_label_launcher">설정</string>
     <string name="settings_shortcut">설정 바로가기</string>
+    <string name="screenshot">스크린샷</string>
+    <string name="screenshot_three_gesture">세손가락을 동시에 슬라이드하여 스크린샷을 찍으세요.</string>
     <string name="airplane_mode">비행기 모드</string>
     <string name="radio_controls_title">더 보기</string>
     <string name="wireless_networks_settings_title">무선 및 네트워크 설정</string>
