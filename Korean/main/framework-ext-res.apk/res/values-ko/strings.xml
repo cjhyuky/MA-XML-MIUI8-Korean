@@ -21,6 +21,10 @@
     <string name="status_bar_toggle_midrop">Mi 드롭</string>
     <string name="status_bar_toggle_cast">캐스트</string>
     <string name="screen_rotation_freeze_message">자동 회전 사용 불가</string>
+    <string name="screenshot_gesture_detect_alert_button">설정으로 이동후 스크린샷 기능을 활성화하세요</string>
+    <string name="screenshot_gesture_detect_alert_dont_again">다시 보지 않기</string>
+    <string name="screenshot_gesture_detect_alert_msg">세 손가락 스크린샷 기능을 켜시겠습니까?</string>
+    <string name="screenshot_gesture_detect_alert_title">세 손가락 스크린샷</string>
     <string name="perm_send_push_dspt">Mi 푸시 메시지 허용</string>
     <string name="perm_send_push_lab">푸시 메시지 전송</string>
     <string name="select">선택</string>
