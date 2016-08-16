@@ -23,6 +23,7 @@
     <string name="usb_debugging_message">"컴퓨터의 RSA 키 지문은 :
 %1$s입니다."</string>
     <string name="usb_debugging_always">이 컴퓨터에서는 항상 허용합니다.</string>
+
     <string name="screenshot_saving_ticker">캡쳐화면 저장 중...</string>
     <string name="screenshot_saving_title">캡쳐화면 저장 중...</string>
     <string name="screenshot_saving_text">캡쳐화면을 저장하는 중입니다.</string>
@@ -242,7 +243,12 @@ EEEE"</string>
     <string name="no_weather_description">날씨 정보 가져오기 ></string>
     <string name="weather_description_no_aqi">%1$s ></string>
     <string name="weather_description">%1$s | %2$s ></string>
-    <string name="screenshot_long_screenshot">Scroll</string>
+    <string name="screenshot_delete">삭제</string>
+    <string name="screenshot_delete_dlg_msg">이 스크린샷을 삭제할까요?</string>
+    <string name="screenshot_delete_dlg_title">삭제</string>
+    <string name="screenshot_dlg_cancel">취소</string>
+    <string name="screenshot_dlg_delete_button">삭제</string>
+    <string name="screenshot_long_screenshot">스크롤</string>
     <string name="screenshot_edit">편집</string>
     <string name="screenshot_send">전송</string>
     <string name="long_screenshot_not_support_msg">"Current app doesn't support scrolling screenshots"</string>
