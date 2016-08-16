@@ -1403,7 +1403,7 @@ PIN이 잘못된 것 같습니다."</string>
     <string name="accessibility_display_daltonizer_preference_subtitle">이 기능은 실험실 기능이라 성능에 영향을 줄 수 있습니다.</string>
     <string name="accessibility_display_daltonizer_preference_title">색 보정</string>
     <string name="accessibility_display_inversion_preference_subtitle">(실험실 기능) 성능에 영향을 줄 수 있음</string>
-    <string name="accessibility_display_inversion_preference_title">색 전도</string>
+    <string name="accessibility_display_inversion_preference_title">색 반전</string>
     <string name="accessibility_toggle_high_text_contrast_preference_title">고대비 텍스트</string>
     <string name="accessibility_display_title">디스플레이</string>    
     <string name="accessibility_screen_magnification_title">확대 동작</string>
