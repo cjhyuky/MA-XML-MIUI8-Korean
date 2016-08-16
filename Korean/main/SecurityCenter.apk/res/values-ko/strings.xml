@@ -100,8 +100,8 @@
     <string name="card_main_netcheck_summary">네트워크 확인을 위한 연결 테스트</string>
     <string name="card_main_netcheck_title">네트워크 테스트</string>
     <string name="card_main_paysafe_action">켜기</string>
-    <string name="card_main_paysafe_summary">잠재적 위험을 감지하기 위해 결재 환경 검사</string>
-    <string name="card_main_paysafe_title">결재 보안</string>
+    <string name="card_main_paysafe_summary">잠재적 위험을 감지하기 위해 지불 환경 검사</string>
+    <string name="card_main_paysafe_title">지불 보안</string>
     <string name="card_main_sectool_title">도구</string>
     <string name="card_main_speeddetail_title">인터넷 연결 속도</string>
     <string name="card_main_speeddetailt_summary">앱 별로 연결속도 보기</string>
