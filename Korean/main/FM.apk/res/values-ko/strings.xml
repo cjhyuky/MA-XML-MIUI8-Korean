@@ -5,7 +5,7 @@
     <string name="menu_record_stop">녹음 중지</string>
     <string name="menu_sleep">수면 타이머</string>
     <string name="menu_sleep_cancel">수면 타이머 취소</string>
-    <string name="menu_record_list">녹음</string>
+    <string name="menu_record_list">녹음된 파일</string>
     <string name="menu_scan_start">스캔</string>
     <string name="menu_new_station">추가</string>
     <string name="menu_save_station_list">미리 설정에 추가</string>
