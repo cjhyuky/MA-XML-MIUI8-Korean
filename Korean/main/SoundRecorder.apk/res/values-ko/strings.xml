@@ -101,7 +101,7 @@
     <string name="text_btn_pause">일시정지</string>
     <string name="text_btn_play">재생</string>
     <string name="text_btn_mark">표기</string>
-    <string name="text_btn_list">녹음</string>
+    <string name="text_btn_list">리스트</string>
     <string name="text_btn_complete">중지</string>
     <string name="text_btn_recognize">인식</string>
     <string name="text_btn_wave">음파 표시</string>
