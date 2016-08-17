@@ -151,7 +151,7 @@
     <string name="user_notification">알림</string>
     <string name="user_notification_descrip">캘린더 열 때마다 알림 보여주기</string>
     <string name="event_info_reminders_label_1">미리 알림</string>
-    <string name="event_info_reminders_label_more">미리 알림 %d개</string>
+    <string name="event_info_reminders_label_more">미리 알림 %d</string>
     <string name="event_account">계정</string>
     <string name="event_show_more">더 많은 옵션</string>
     <string name="event_hide_more">숨기기</string>
