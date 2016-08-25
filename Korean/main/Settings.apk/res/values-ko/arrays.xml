@@ -495,14 +495,6 @@
         <item>최근 앱 트레이 표시</item>
         <item>메뉴 표시</item>
     </string-array>
-    <string-array name="screen_key_long_press_action">
-        <item>없음</item>
-        <item>최근 앱 트레이 표시</item>
-        <item>보조 장치 실행</item>
-        <item>Google now 실행</item>
-        <item>현재 앱 닫기</item>
-        <item>메뉴 표시</item>
-    </string-array>
     <string-array name="screen_key_long_press_timeout">
         <item>0.5초</item>
         <item>1초</item>
