@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="Accounts_settings_title">계정</string>
+    <string name="access_point_names">엑세스 포인트 이름</string>
     <string name="setup_wizard_next_button_label">다음</string>
     <string name="setup_wizard_back_button_label">뒤로</string>
     <string name="music_audio_effect_optimize">오디오 설정</string>
@@ -1069,6 +1071,15 @@ PIN이 잘못된 것 같습니다."</string>
     <string name="lockpassword_confirm_your_pin_header">PIN 확인</string>
     <string name="lockpassword_confirm_passwords_dont_match">비밀번호가 일치하지 않음</string>
     <string name="lockpassword_confirm_pins_dont_match">PIN이 일치하지 않습니다.</string>
+    <string name="lockpassword_confirm_your_lock_password_header">비밀버호 확인</string>
+    <string name="lockpassword_confirm_your_lock_pattern_header">패턴 확인</string>
+    <string name="lockpassword_confirm_your_password_generic">계속 하려면 비밀번호를 입력하세요.</string>
+    <string name="lockpassword_confirm_your_pattern_generic">계속하려면 패턴을 입력하세요.</string>
+    <string name="lockpassword_confirm_your_pin_generic">계속하려면 PIN을 입력하세요.</string>
+    <string name="lockpassword_confirm_your_private_password_header">비밀번호 확인</string>
+    <string name="lockpassword_confirm_your_private_pattern_header">패턴 확인</string>
+    <string name="lockpassword_invalid_password">비밀번호가 다릅니다</string>
+    <string name="lockpassword_invalid_pin">PIN이 다릅니다</string>  
     <string name="lockpassword_choose_lock_generic_header">잠금해제 선택</string>
     <string name="lockpassword_password_set_toast">비밀번호가 설정되었습니다.</string>
     <string name="lockpassword_pin_set_toast">PIN 설정</string>
@@ -1438,6 +1449,7 @@ PIN이 잘못된 것 같습니다."</string>
     <string name="accessibility_menu_item_settings">설정</string>
     <string name="accessibility_feature_state_on">사용</string>
     <string name="accessibility_feature_state_off">사용 안함</string>
+    <string name="accessibility_feature_or_input_method_not_allowed">허용되지 않음</string>
     <string name="captioning_preview_title">미리보기</string>
     <string name="captioning_standard_options_title">표준 옵션</string>
     <string name="captioning_locale">언어</string>
@@ -1770,6 +1782,8 @@ PIN이 잘못된 것 같습니다."</string>
     <string name="accessibility_sync_enabled">동기화 사용</string>
     <string name="accessibility_sync_disabled">동기화 사용중지됨</string>
     <string name="accessibility_sync_error">동기화 오류입니다.</string>
+    <string name="accessibility_sync_in_progress">동기화 중입니다.</string>
+    <string name="ad_service">광고 서비스</string>
     <string name="sync_failed">동기화 실패</string>
     <string name="sync_active">동기화 사용 중</string>
     <string name="account_sync_settings_title">동기화</string>
@@ -3056,6 +3070,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="hdmi_3dplay_control_text">3D 출력</string>
     <string name="hdmi_3dplay_control_enable_subtext">외부 3D 화면에 대한 3D 양안식 출력이 켜져 있습니다.</string>
     <string name="hdmi_3dplay_control_disable_subtext">외부 3D 화면에 대한 3D 양안식 출력이 꺼져 있습니다.</string>
+    <string name="additional_system_update_settings_list_item_title">추가 시스템 업데이트</string>
     <string name="adjust_3d_depth_title">게임의 3D 깊이 조정</string>
     <string name="advanced_security_title">고급 설정</string> 
     <string name="hdmi_3d_stereo_separation_label">3D</string>
