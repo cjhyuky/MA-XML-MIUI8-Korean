@@ -552,6 +552,7 @@
     <string name="no_network_connected">네트워크 발견 못함</string>
     <string name="loading_members">멤버 불러오는 중026</string>
     <string name="album_member">앨범 멤버 %s</string>
+    <string name="album_show_local_only">내부저장소 앨범만 보기</string>
     <string name="fail_to_sync_album">앨범을 동기화하지 못했습니다. 데이터 연결을 확인한 후 다시 시도하십시오.</string>
     <string name="sync_album_in_proecess">앨범 동기화 중…</string>
     <string name="open">켜기</string>
