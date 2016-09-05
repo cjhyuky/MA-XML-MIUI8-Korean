@@ -105,7 +105,7 @@
     <string name="pref_camera_coloreffect_entry_vsco_a4">아날로그</string>
     <string name="pref_camera_coloreffect_entry_blackwhite">B&amp;W</string>
     <string name="pref_camera_coloreffect_entry_instagram_rise">로모</string>
-    <string name="pref_camera_coloreffect_entry_instagram_hudson">Icy</string>
+    <string name="pref_camera_coloreffect_entry_instagram_hudson">얼음</string>
     <string name="pref_camera_coloreffect_entry_big_face">스프레드</string>
     <string name="pref_camera_coloreffect_entry_small_face">스퀴즈</string>
     <string name="pref_camera_coloreffect_entry_long_face">잡아당기기</string>
@@ -238,14 +238,17 @@
     <string name="face_analyze_info">나이: %2$s(%1$s)</string>
     <string name="face_analyze_info_male">남성</string>
     <string name="face_analyze_info_female">여성</string>
+    <string name="face_beauty_close">끄기</string>
     <string name="face_beauty_intelligent_level_0">꺼짐</string>
     <string name="face_beauty_intelligent_level_1">낮음</string>
     <string name="face_beauty_intelligent_level_2">중간</string>
     <string name="face_beauty_intelligent_level_3">높음</string>
+    <string name="face_beauty_smart">스마트</string>
     <string name="pref_camera_show_gender_age_title">나이 &amp; 성별</string>
     <string name="pref_camera_show_gender_age_entry_off">꺼짐</string>
     <string name="pref_camera_show_gender_age_entry_on">미화 기능이 켜지면 나이와 성별 표시</string>
     <string name="pref_camera_show_gender_age_entry_alias">미화 기능이 켜지면 나이 표시</string>
+    <string name="face_beauty_advanced">프로</string>
     <string name="face_beauty_age_alias_male_0_7">남성 0-7세</string>
     <string name="face_beauty_age_alias_male_8_17">남성 8-17세</string>
     <string name="face_beauty_age_alias_male_18_30">남성 18-30세</string>
@@ -344,11 +347,11 @@
 The object shouldn't be further than 2 meters."</string>
     <string name="pref_camera_square_mode_title">사각형 모드</string>
     <string name="simple_mode_button_text_square">사각형 모드 끄기</string>
-    <string name="pref_skin_beautify_intelligent_title">Smart</string>
+    <string name="pref_skin_beautify_intelligent_title">스마트</string>
     <string name="pref_skin_beautify_slim_title">슬림 모드</string>
     <string name="pref_skin_beautify_eye_title">눈 강조 모드</string>
-    <string name="pref_skin_beautify_smooth_title">Skin</string>
-    <string name="pref_skin_beautify_color_title">Tone</string>
+    <string name="pref_skin_beautify_smooth_title">피부</string>
+    <string name="pref_skin_beautify_color_title">톤</string>
     <string name="pref_camera_beautify_entry_auto">꺼짐</string>
     <string name="pref_camera_beautify_entry_low">낮음</string>
     <string name="pref_camera_beautify_entry_normal">중간</string>
