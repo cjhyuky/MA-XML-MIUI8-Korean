@@ -14,6 +14,9 @@
     <string name="dlg_unmark_privacy_message">숨김 취소 중…</string>
     <string name="rename_folder_dialog_tile">폴더 이름 변경</string>
     <string name="delete_folder_dialog_tile">폴더 삭제</string>
+    <string name="pref_desc_skip_confirm_for_quick_delete">"제스처를 사용하여 삭제시 바로 삭제하기"</string>
+    <string name="dlg_quick_delete_title">빠른 삭제</string>
+    <string name="pref_title_skip_confirm_for_quick_delete">빠른 삭제</string>
     <string name="menu_mark_privacy">숨기기</string>
     <string name="menu_unmark_privacy">숨기기 취소</string>
     <string name="menu_move_to">다음으로 이동:</string>
