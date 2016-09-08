@@ -346,7 +346,6 @@
     <string name="action_menu_account_not_login_hint">Mi 클라우드와 동기화하기 위해 로그인</string>
     <string name="action_menu_toolbox">도구</string>
     <string name="action_menu_bookshelf">책장</string>
-    <string name="action_menu_useful_page">바로가기 추가</string>
     <string name="action_menu_useful_page_added">시작 페이지에 추가됨</string>
     <string name="start_save_page_capture">스크린샷 저장 중…</string>
     <string name="save_page_capture_to_camera">스크린샷 저장됨</string>
