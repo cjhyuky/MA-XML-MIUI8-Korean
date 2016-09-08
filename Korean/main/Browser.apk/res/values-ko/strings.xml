@@ -124,6 +124,8 @@
     <string name="data_traffic_prompt_message">모바일 데이터 연결을 사용하여 동영상을 시청하면 데이터 사용량이 증가합니다. 데이터 한도를 초과하여 사용할 경우, 통신사에서 추가 요금을 부과할 수 있습니다.</string>
     <string name="data_traffic_prompt_change">모바일 데이터 연결을 사용하여 동영상을 시청하면 데이터 사용량이 증가합니다. 데이터 한도를 초과하여 사용할 경우, 통신사에서 추가 요금을 부과할 수 있습니다.</string>
     <string name="data_traffic_prompt_message_short">모바일 데이터를 사용하는 동영상 스트리밍은 데이터 사용 한도를 초과하는 결과를 초래할 수 있습니다.</string>
+    <string name="add_shortcut">바로가기 추가</string>
+    <string name="action_menu_useful_page">바로가기 추가</string>
     <string name="video_play_error">동영상을 재생할 수 없음</string>
     <string name="video_buffering_percent">"버퍼링중 "</string>
     <string name="video_float_window_playing">동영상 재생</string>
