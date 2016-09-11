@@ -907,6 +907,7 @@
     <string name="picker_email_title">이메일 주소 선택</string>
     <string name="preference_import">가져오기</string>
     <string name="preference_export">내보내기</string>
+    <string name="preference_key_trash_bin_title">연락처 복구</string>
     <string name="preference_others">기타</string>
     <string name="wipe_data">데이터 지우기</string>
     <string name="display_only_phones">불완전한 번호 숨기기</string>
