@@ -10,6 +10,7 @@
     <string name="input_puk_code">PUK 입력</string>
     <string name="unlocking_sim_card">SIM 카드 잠금 해제하기</string>
     <string name="input_pin_code">PIN 입력</string>
+    <string name="input_pattern_hint_text">잠금해제 패턴을 입력하세요</string>
     <string name="incorrect_pukcode_remaining_attempts">PUK 코드 잘못됨, 남은 시도 %d번</string>
     <string name="incorrect_pincode_remaining_attempts">PUK 코드 잘못됨, 남은 시도 %d번</string>
     <string name="incorrect_pukcode">잘못된 PUK 코드</string>
