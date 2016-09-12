@@ -2933,6 +2933,9 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="permission_detail_info">세부 정보</string>
     <string name="permission_detail_info_summary">%1$d 안전| %2$d 개인정보 보호 | %3$d 기타</string>
     <string name="permission_manage">권한 관리자</string>
+    <string name="permission_manage_global_build_title">기타 권한관리</string>
+    <string name="permission_settings_summary">위치, 저장소, 전화, 메세지, 연락처에 관한 권한을 관리합니다.</string>
+    <string name="permission_settings_title">앱 권한관리</string>
     <string name="permission_manage_summary">앱이 귀하의 연락처 읽기, 통화 기록 보기, 시스템 설정 변경 또는 카메라나 다른 기기 리소스에 접근하도록 허용하기 전에 권한을 요청하십시오.</string>
     <string name="security_relative">보안</string>
     <string name="privacy_relative">개인 정보 보호</string>
