@@ -102,9 +102,15 @@
     <string name="card_main_paysafe_action">켜기</string>
     <string name="card_main_paysafe_summary">잠재적 위험을 감지하기 위해 지불 환경 검사</string>
     <string name="card_main_paysafe_title">지불 보안</string>
+    <string name="card_main_private_space_action">생성</string>
+    <string name="card_main_private_space_summary">보조 공간은 2개의 기기를 사용하는 느낌을 줍니다</string>
+    <string name="card_main_private_space_title">보조 공간</string>
     <string name="card_main_sectool_title">도구</string>
     <string name="card_main_speeddetail_title">인터넷 연결 속도</string>
     <string name="card_main_speeddetailt_summary">앱 별로 연결속도 보기</string>
+    <string name="card_main_xspace_action">생성</string>
+    <string name="card_main_xspace_summary">어떤 앱이든 듀얼앱으로 만들어보세요</string>
+    <string name="card_main_xspace_title">듀얼 앱</string>
     <string name="charging_text_battery_full_time">마지막 충전</string>
     <string name="charging_text_battery_nearly_full">거의 충전됨</string>
     <string name="charging_text_battery_perfect">완전 충전됨</string>
