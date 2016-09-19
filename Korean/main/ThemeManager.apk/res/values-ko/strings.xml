@@ -27,7 +27,7 @@
     <string name="resource_ranking_free">무료</string>
     <string name="resource_ranking_purchase">구입함</string>
     <string name="resource_category">카테고리</string>
-    <string name="resource_my">연결 안됨</string>
+    <string name="resource_my">다운로드됨</string>
     <string name="resource_online">온라인</string>
     <string name="resource_pack_price_info">원가: %1$s</string>
     <string name="resource_pack_discount_info">할인가: %1$s</string>
@@ -201,7 +201,7 @@
     <string name="resource_title_rank">인기 차트</string>
     <string name="resource_title_category">카테고리</string>
     <string name="resource_title_subject">특징</string>
-    <string name="resource_title_local">연결 안됨</string>
+    <string name="resource_title_local">다운로드됨</string>
     <string name="resource_title_hot_subject">인기</string>
     <string name="resource_download_notification_title_one">테마 다운로드됨</string>
     <string name="resource_download_notification_title_many">테마 %1$s개 다운로드됨</string>
