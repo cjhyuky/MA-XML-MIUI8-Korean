@@ -1071,7 +1071,7 @@ PIN이 잘못된 것 같습니다."</string>
     <string name="lockpassword_confirm_your_pin_header">PIN 확인</string>
     <string name="lockpassword_confirm_passwords_dont_match">비밀번호가 일치하지 않음</string>
     <string name="lockpassword_confirm_pins_dont_match">PIN이 일치하지 않습니다.</string>
-    <string name="lockpassword_confirm_your_lock_password_header">비밀버호 확인</string>
+    <string name="lockpassword_confirm_your_lock_password_header">비밀번호 확인</string>
     <string name="lockpassword_confirm_your_lock_pattern_header">패턴 확인</string>
     <string name="lockpassword_confirm_your_password_generic">계속 하려면 비밀번호를 입력하세요.</string>
     <string name="lockpassword_confirm_your_pattern_generic">계속하려면 패턴을 입력하세요.</string>
