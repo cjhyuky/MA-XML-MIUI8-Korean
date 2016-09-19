@@ -6,8 +6,6 @@
   <string name="saved_network">%1$s이 저장함</string> 
   <string name="saved_wifi">저장된 네트워크</string> 
   <string name="saved_wifi_delete">삭제</string> 
-  <string name="wifi_remembered">저장됨</string> 
-  <string name="wifi_save">저장</string> 
   <string name="wifi_saved_access_points_label">저장된 네트워크</string> 
   <string name="wifi_saved_access_points_titlebar">저장된 네트워크</string> 
     <string name="access_point_names">엑세스 포인트 이름</string>
