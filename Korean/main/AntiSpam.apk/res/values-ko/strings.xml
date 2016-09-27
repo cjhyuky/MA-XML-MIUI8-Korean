@@ -40,6 +40,7 @@
     <string name="dlg_clear_current_ok">지우기</string>
     <string name="dlg_no_block">이 번호를 차단 해제하고 이 번호에서 걸려 온 통화를 통화 내역에 복원하시겠습니까?</string>
     <string name="dlg_no_block_ok">차단 해제</string>
+    <string name="dlg_add_blacklist_title">차단목록에 추가</string>
     <string name="dlg_add_blacklist">이 번호를 차단하시겠습니까?</string>
     <string name="dlg_add_blacklist_warn_conflict_title">예외 충돌</string>
     <string name="dlg_add_blacklist_warn_conflict_content">%1$s~%2$s개의 다른 연락처가 이미 예외 목록에 있습니다.</string>
@@ -286,14 +287,17 @@
     <string name="mark_agent">단체로 신고된 번호 차단</string>
     <string name="mark_sell">유통판매업자로 신고된 번호 차단</string>
     <string name="mark_harass">장난전화로 신고된 번호 차단</string>
+    <string name="mark_courier">택배</string>
     <string name="mark_fraud_block">사기 번호로 신고됨</string>
     <string name="mark_agent_block">단체 번호로 신고됨</string>
     <string name="mark_sell_block">유통판매업자로 신고됨</string>
     <string name="mark_harass_block">장난전화로 신고</string>
+    <string name="mark_courier_block">택배사기로 보고됨</string>
     <string name="mark_fraud_block_large">사기 번호</string>
     <string name="mark_agent_block_large">단체</string>
     <string name="mark_sell_block_large">유통판매업자</string>
     <string name="mark_harass_block_large">장난전화</string>
+    <string name="mark_courier_block_large">스미싱</string>
     <string name="mark_number_info">이런 통화가 가끔 유용할 때도 있습니다(예: 실제로 어떤 아파트를 찾을 때). 받고 싶지 않은 번호만 차단하십시오.</string>
     <string name="dlg_title_not_open_stranger_identify">모르는 사람 확인</string>
     <string name="dlg_message_not_open_stranger_identify">이 기능을 사용하려면 전화 > 설정을 해아 합니다.</string>
@@ -311,6 +315,7 @@
     <string name="mark_agent_time_setting">특정 횟수 이상 단체로 신고된 번호 차단</string>
     <string name="mark_sell_time_setting">텔레마케터 통화로 신고된 번호는 지정된 횟수 만큼 차단합니다.</string>
     <string name="mark_harass_time_setting">특정 횟수 이상 장난전화로 신고된 번호 차단</string>
+    <string name="mark_courier_time_setting">특정 횟수 이상 스미싱으로 신고된 번호 차단</string>
     <string name="mark_time_text">%d</string>
     <string name="mark_time_setting_dialog_title">번호 신고</string>
     <string name="sms_smart_engine_update">SMS 필터 자동 업데이트</string>
@@ -323,6 +328,7 @@
     <string name="mark_number_agent">대리인</string>
     <string name="mark_number_sell">텔레마케터</string>
     <string name="mark_number_harass">불건전 행위</string>
+    <string name="mark_number_courier">택배</string>
     <string name="antispam_notification_setting_title">알림</string>
     <string name="antispam_notificaiton_type_show_all">모든 번호</string>
     <string name="antispam_notificaiton_type_show_except_blacklist">블랙리스트가 아닌 번호</string>
