@@ -279,8 +279,6 @@
     <string name="HIPS_Perm_read_notification_sms_Desc">서비스 SMS 읽기</string>
     <string name="HIPS_Perm_get_tasks">작업 얻기</string>
     <string name="HIPS_Perm_get_tasks_Desc">작업 가져오기</string>
-    <string name="HIPS_Perm_show_when_locked_Desc">앱을 잠금 화면에 표시하도록 합니다.</string>
-    <string name="HIPS_Perm_background_start_activity_Desc">백그라운드에서 시작</string>
     <string name="permission_group_title_charges_related">요금</string>
     <string name="permission_group_title_privacy_related">개인 정보 보호</string>
     <string name="permission_group_title_media_related">멀티미디어</string>
