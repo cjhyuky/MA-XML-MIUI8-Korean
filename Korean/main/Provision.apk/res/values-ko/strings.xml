@@ -17,6 +17,8 @@
     <string name="other_settings">추가 설정</string>
     <string name="other_settings_location">위치</string>
     <string name="other_settings_location_summary">앱이 당신의 위치에 접근하는 것을 수락</string>
+    <string name="other_settings_mifg_online_content">슬라이드형 배경 화면</string>
+    <string name="other_settings_mifg_online_content_summary">정기적으로 새로운 배경화면을 잠금 화면에 적용합니다.</string>
     <string name="other_settings_user_experience">사용자 체험 프로그램</string>
     <string name="other_settings_user_experience_summary">익명 사용 데이터(%s) 전송으로 MIUI 개선에 도움</string>
     <string name="other_settings_user_experience_summary1">개인 정보 보호 정책 보기</string>
