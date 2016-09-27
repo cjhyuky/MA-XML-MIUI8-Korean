@@ -3897,7 +3897,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="add_fingerprint_finished_button_text">확인</string>
     <string name="add_fingerprint_instruction_dialog_msg">지문을 추가하시려면 진동을 느끼실 때 센서에 손가락을 올렸다 떼십시오.</string>
     <string name="add_fingerprint_toast_text">센서에 손가락을 올려주십시오.</string>
-    <string name="adding_profile_owner_warning">"계속하면 내 사용자를 내 관리자가 관리하게 되며 관리자가 관련 데이터와 내 개인 데이터를 저장할 수 있게 됩니다.   
+    <string name="adding_profile_owner_warning">"계속하면 내 사용자를 내 관리자가 관리하게 되며 관리자가 관련 데이터와 내 개인 데이터를 저장할 수 있게 됩니다.</string>   
     <string name="onekey_migrate">Mi Mover</string>
     <string name="lock_settings_with_fingerprint">잠금 화면 &amp; 지문 인식</string>
     <string name="confirm_fingerprint_msg">센서에 손가락을 올려주십시오.</string>
