@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="prompt">%s 이(가) VPN 연결을 만들려고 시도합니다.</string>
-    <string name="warning">진행하면 애플리케이션이 모든 네트워크 트래픽을 가로채도록 허용하게 됩니다. <b>이 애플리케이션을 신뢰하지 않는 한 허용하지 마세요. </b>그렇지 않으면 데이터가 악성 소프트웨어에 의해 해킹을 당할 수 있습니다.</string>
-    <string name="accept">이 애플리케이션을 신뢰합니다.</string>
-    <string name="legacy_title">VPN이 연결되었습니다.</string>
-    <string name="configure">설정</string>
-    <string name="disconnect">연결 끊기</string>
-    <string name="session">세션:</string>
-    <string name="duration">기간:</string>
-    <string name="data_transmitted">보냄:</string>
-    <string name="data_received">수신됨:</string>
-    <string name="data_value_format">%1$s바이트/%2$s패킷</string>
+  <string name="accept">이 애플리케이션을 신뢰합니다.</string>
+  <string name="configure">설정</string>
+  <string name="data_received">수신됨:</string>
+  <string name="data_transmitted">보냄:</string>
+  <string name="data_value_format">%1$s바이트/%2$s패킷</string>
+  <string name="disconnect">연결 끊기</string>
+  <string name="duration">기간:</string>
+  <string name="legacy_title">VPN이 연결되었습니다.</string>
+  <string name="prompt">%s 이(가) VPN 연결을 만들려고 시도합니다.</string>
+  <string name="session">세션:</string>
+  <string name="warning">진행하면 애플리케이션이 모든 네트워크 트래픽을 가로채도록 허용하게 됩니다. &lt;b&gt;&amp;#51060; &amp;#50528;&amp;#54540;&amp;#47532;&amp;#52992;&amp;#51060;&amp;#49496;&amp;#51012; &amp;#49888;&amp;#47280;&amp;#54616;&amp;#51648; &amp;#50506;&amp;#45716; &amp;#54620; &amp;#54728;&amp;#50857;&amp;#54616;&amp;#51648; &amp;#47560;&amp;#49464;&amp;#50836;. &lt;/b&gt;&amp;#44536;&amp;#47111;&amp;#51648; &amp;#50506;&amp;#51004;&amp;#47732; &amp;#45936;&amp;#51060;&amp;#53552;&amp;#44032; &amp;#50501;&amp;#49457; &amp;#49548;&amp;#54532;&amp;#53944;&amp;#50920;&amp;#50612;&amp;#50640; &amp;#51032;&amp;#54644; &amp;#54644;&amp;#53433;&amp;#51012; &amp;#45817;&amp;#54624; &amp;#49688; &amp;#51080;&amp;#49845;&amp;#45768;&amp;#45796;.</string>
 </resources>

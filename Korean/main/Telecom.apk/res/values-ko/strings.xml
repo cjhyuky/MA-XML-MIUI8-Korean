@@ -1,30 +1,30 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="accessibility_call_muted">무음 처리됨.</string> 
-  <string name="accessibility_speakerphone_enabled">스피커폰 켜짐.</string> 
+  <string name="accessibility_call_muted">무음 처리됨.</string>
+  <string name="accessibility_speakerphone_enabled">스피커폰 켜짐.</string>
   <string name="add_vm_number_str">번호 추가</string>
-  <string name="can_not_dial_while_vt_prompt">"영상통화 진행중엔 전화를 걸수없습니다"</string> 
-  <string name="change_default_dialer_dialog_title">기본 전화 앱을 변경하시겠습니까?</string> 
-  <string name="change_default_dialer_no_previous_app_set_text">%s 앱을 기본 전화앱으로 설정하시겠습니까?</string> 
-  <string name="change_default_dialer_with_previous_app_set_text">기본 전화앱으로 %2$s 대신 %1$s을 사용하시겠습니까?</string> 
+  <string name="can_not_dial_while_vt_prompt">"영상통화 진행중엔 전화를 걸수없습니다"</string>
+  <string name="change_default_dialer_dialog_title">기본 전화 앱을 변경하시겠습니까?</string>
+  <string name="change_default_dialer_no_previous_app_set_text">%s 앱을 기본 전화앱으로 설정하시겠습니까?</string>
+  <string name="change_default_dialer_with_previous_app_set_text">기본 전화앱으로 %2$s 대신 %1$s을 사용하시겠습니까?</string>
   <string name="incall_error_call_failed">"전화연결 실패."</string>
-  <string name="notification_missedCallTicker">%s 로부터 부재중 전화</string> 
-  <string name="notification_missedCallTitle">부재중전화</string> 
-  <string name="notification_missedCall_call_back">바로 걸기</string> 
-  <string name="notification_missedCall_call_back_miui">통화</string> 
-  <string name="notification_missedCall_message">메세지</string> 
-  <string name="notification_missedCallsMsg">%s 부재중 전화</string> 
+  <string name="notification_missedCallTicker">%s 로부터 부재중 전화</string>
+  <string name="notification_missedCallTitle">부재중전화</string>
+  <string name="notification_missedCall_call_back">바로 걸기</string>
+  <string name="notification_missedCall_call_back_miui">통화</string>
+  <string name="notification_missedCall_message">메세지</string>
+  <string name="notification_missedCallsMsg">%s 부재중 전화</string>
   <string name="notification_missedCallsTitle">부재중 전화</string>
-  <string name="respond_via_sms_confirmation_format">%s에게 메세지 전송완료.</string> 
-  <string name="respond_via_sms_edittext_dialog_title">바로 답장</string> 
-  <string name="respond_via_sms_setting_summary" /> 
-  <string name="respond_via_sms_setting_title">바로 답장</string> 
-  <string name="respond_via_sms_setting_title_2">바로 답장 수정</string> 
+  <string name="respond_via_sms_confirmation_format">%s에게 메세지 전송완료.</string>
+  <string name="respond_via_sms_edittext_dialog_title">바로 답장</string>
+  <string name="respond_via_sms_setting_summary"/>
+  <string name="respond_via_sms_setting_title">바로 답장</string>
+  <string name="respond_via_sms_setting_title_2">바로 답장 수정</string>
   <string name="telecommAppLabel">전화 통화 관리</string>
-  <string name="unknown">알수없는</string> 
-  <string name="userCallActivityLabel">전화</string> 
-  <string name="video_call_not_allowed_if_tty_enabled">영상 통화를 하시려면 TTY모드를 끄세요.</string> 
-  <string name="voice_dial_out">음성 통화</string> 
-  <string name="voice_report_incoming_call">전화 거는 중</string> 
-  <string name="voice_report_unknown_num">모르는 번호</string> 
-  </resources>
+  <string name="unknown">알수없는</string>
+  <string name="userCallActivityLabel">전화</string>
+  <string name="video_call_not_allowed_if_tty_enabled">영상 통화를 하시려면 TTY모드를 끄세요.</string>
+  <string name="voice_dial_out">음성 통화</string>
+  <string name="voice_report_incoming_call">전화 거는 중</string>
+  <string name="voice_report_unknown_num">모르는 번호</string>
+</resources>

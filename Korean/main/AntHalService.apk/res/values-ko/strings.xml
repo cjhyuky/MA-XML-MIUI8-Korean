@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">ANT HAL 서비스</string>
-    <string name="permdesc_antradio">응용 프로그램이 직접 무선 ANT를 구성 할 수 있습니다. 악성 애플리케이션이 다른 애플리케이션을위한 ANT ANT 기능에서 무선 서비스 공급자를 방지 할 수 있습니다.</string>
-    <string name="permlab_antradio">ANT를 사용하여 하드웨어</string>
-    <string name="permdesc_ant">응용 프로그램은 ANT 프록시 서비스를 사용하여 장치와 통신 할 수 있도록 허용합니다. 악성 애플리케이션이 정보를 얻거나 당신의 지식 ANT없이 다른 장치로 이동 할 수 있습니다.</string>
-    <string name="permlab_ant">ANT를 사용하여 무선 인터페이스</string>
-    <string name="permdesc_antAdmin">응용 프로그램이 직접 프록시 서비스를 통해 무선 ANT를 구성 할 수 있습니다. 악성 응용 프로그램은 ANT 장치 ANT에 연결하는 다른 응용 프로그램을 방지 할 수 있습니다.</string>
-    <string name="permlab_antAdmin">제어 무선 구성 ANT</string>
+  <string name="app_name">ANT HAL 서비스</string>
+  <string name="permdesc_ant">응용 프로그램은 ANT 프록시 서비스를 사용하여 장치와 통신 할 수 있도록 허용합니다. 악성 애플리케이션이 정보를 얻거나 당신의 지식 ANT없이 다른 장치로 이동 할 수 있습니다.</string>
+  <string name="permdesc_antAdmin">응용 프로그램이 직접 프록시 서비스를 통해 무선 ANT를 구성 할 수 있습니다. 악성 응용 프로그램은 ANT 장치 ANT에 연결하는 다른 응용 프로그램을 방지 할 수 있습니다.</string>
+  <string name="permdesc_antradio">응용 프로그램이 직접 무선 ANT를 구성 할 수 있습니다. 악성 애플리케이션이 다른 애플리케이션을위한 ANT ANT 기능에서 무선 서비스 공급자를 방지 할 수 있습니다.</string>
+  <string name="permlab_ant">ANT를 사용하여 무선 인터페이스</string>
+  <string name="permlab_antAdmin">제어 무선 구성 ANT</string>
+  <string name="permlab_antradio">ANT를 사용하여 하드웨어</string>
 </resources>
