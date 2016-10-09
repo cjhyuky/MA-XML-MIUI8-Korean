@@ -9,15 +9,6 @@
     <plurals name="directory_item_count">
         <item quantity="other">%d개 항목</item>
     </plurals>
-    <plurals name="ui_bar_txt_download_progress">
-        <item quantity="other">다운로드할 파일 %1$d개 남음</item>
-    </plurals>
-    <plurals name="ui_bar_txt_upload_progress">
-        <item quantity="other">업로드할 파일 %1$d개 남음</item>
-    </plurals>
-    <plurals name="ui_bar_txt_transport_progress">
-        <item quantity="other">전송할 %1$d개 파일 남음</item>
-    </plurals>
     <plurals name="numSelectedFile">
         <item quantity="other">%1$d 개 선택됨</item>
     </plurals>
@@ -64,7 +55,7 @@
         <item quantity="other">%1$d개 새 파일 발견</item>
     </plurals>
     <plurals name="file_notify_title">
-        <item quantity="other">%2$s 앱에서 %1$d개 파일 받았음</item>
+        <item quantity="other">%2$s에서 %1$d개 파일 받았음</item>
     </plurals>
     <plurals name="file_notify_title_wechat_video">
         <item quantity="other">WeChat에서 %1$d개 파일을 받았음</item>
@@ -99,10 +90,22 @@
     <plurals name="user_upload_items">
         <item quantity="other">비디오</item>
     </plurals>
+    <plurals name="user_follow_me_items">
+        <item quantity="other">팔로워</item>
+    </plurals>
     <plurals name="number_of_comment">
         <item quantity="other">%1$s개 댓글</item>
     </plurals>
     <plurals name="video_count">
         <item quantity="other">%1$s개 비디오</item>
+    </plurals>
+    <plurals name="follow_count">
+        <item quantity="other">%1$s 팔로워</item>
+    </plurals>
+    <plurals name="number_of_comment_flow">
+        <item quantity="other">%1$s개 댓글</item>
+    </plurals>
+    <plurals name="user_sign_limt">
+        <item quantity="other">%d자리 문자를 입력할 수 있습니다.</item>
     </plurals>
 </resources>
