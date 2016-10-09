@@ -22,7 +22,6 @@
   <string name="convertion_unit_weight">무게 변환기</string>
   <string name="cos">cos</string>
   <string name="cosDesc">코사인</string>
-  <string name="cos_mathematical_value">cos</string>
   <string name="currency_update_time_format">환율 데이터는 HuXun에 의해 제공됨 (%s)</string>
   <string name="del">DEL</string>
   <string name="digit0">0</string>
@@ -41,7 +40,6 @@
   <string name="dotDesc">포인트</string>
   <string name="e">e</string>
   <string name="eDesc">오일러의 공식</string>
-  <string name="e_mathematical_value">e</string>
   <string name="enter">↓</string>
   <string name="equal">=</string>
   <string name="equalDesc">등호</string>
@@ -73,9 +71,7 @@
   <string name="lg">lg</string>
   <string name="lgDesc">로그</string>
   <string name="lg_mathematical_value">lg</string>
-  <string name="ln">ln</string>
   <string name="lnDesc">자연로그</string>
-  <string name="ln_mathematical_value">ln</string>
   <string name="loan_edittext_hint_commercial">상업 대출 총액 입력</string>
   <string name="loan_edittext_hint_commercial_combined">상업 대출액</string>
   <string name="loan_edittext_hint_fund">펀드 대출 총액 입력</string>
@@ -135,12 +131,10 @@
   <string name="rightParenDesc">오른쪽 괄호</string>
   <string name="sin">sin</string>
   <string name="sinDesc">사인</string>
-  <string name="sin_mathematical_value">sin</string>
   <string name="sqrt">√</string>
   <string name="sqrtDesc">제곱근</string>
   <string name="tan">tan</string>
   <string name="tanDesc">탄젠트</string>
-  <string name="tan_mathematical_value">tan</string>
   <string name="tax_accumulation_fund">펀드</string>
   <string name="tax_annual_bonus_hint">세후 수입 입력</string>
   <string name="tax_birth">출산 기금</string>
@@ -173,21 +167,8 @@
   <string name="tax_update_time_format">%s년의 개인 소득세 이율을 사용합니다. 이율은 HeXun에서 제공됩니다.</string>
   <string name="title_bar">길이 변환기</string>
   <string name="to_num">62.7</string>
-  <string name="unit_data_default_area_0">sq.m</string>
-  <string name="unit_data_default_area_1">sq.cm</string>
-  <string name="unit_data_default_currency_0">CNY</string>
-  <string name="unit_data_default_currency_1">USD</string>
-  <string name="unit_data_default_currency_2">EUR</string>
   <string name="unit_data_default_length_0">m</string>
   <string name="unit_data_default_length_1">cm</string>
-  <string name="unit_data_default_temperature_0">C</string>
-  <string name="unit_data_default_temperature_1">F</string>
-  <string name="unit_data_default_time_0">분</string>
-  <string name="unit_data_default_time_1">초</string>
-  <string name="unit_data_default_velocity_0">mps</string>
-  <string name="unit_data_default_velocity_1">kmps</string>
-  <string name="unit_data_default_volume_0">cu.m</string>
-  <string name="unit_data_default_volume_1">cu.cm</string>
   <string name="unit_data_default_weight_0">kg</string>
   <string name="unit_data_default_weight_1">g</string>
   <string name="unit_data_display_area_acre">Acre</string>
