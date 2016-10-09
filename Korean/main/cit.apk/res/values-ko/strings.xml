@@ -18,10 +18,6 @@
   <string name="cit_audio_cali_playing">버튼을 눌러 보정</string>
   <string name="cit_audio_cali_summary">스피커 PA 보정</string>
   <string name="cit_audio_cali_title">스피커 PA 보정 테스트</string>
-  <string name="cit_audio_cali_valueC">카운터:</string>
-  <string name="cit_audio_cali_valueF0">F0:</string>
-  <string name="cit_audio_cali_valueR">Ref_diff:</string>
-  <string name="cit_audio_cali_valueT">Temp_acc:</string>
   <string name="cit_audio_calibrating">보정이 진행 중입니다...</string>
   <string name="cit_audio_lb_backmic_to_speaker_title">후면 마이크 스피커 피드백 테스트</string>
   <string name="cit_audio_lb_mainmic_to_earpiece_title">주 마이크 스피커 피드백 테스트</string>
