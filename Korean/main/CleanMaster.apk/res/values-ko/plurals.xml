@@ -24,6 +24,12 @@
     <plurals name="hint_similar_image_header_left">
         <item quantity="other">%d개의 그룹</item>
     </plurals>
+    <plurals name="dialog_content_delete_image_confirm">
+        <item quantity="other">%d개의 사진을 삭제하시겠습니까?</item>
+    </plurals>
+    <plurals name="dialog_content_delete_image_from_all_devices_confirm">
+        <item quantity="other">모든 기기의 %1$s개 사진을 삭제하시겠습니까?</item>
+    </plurals>
     <plurals name="deepclean_cache_summary">
         <item quantity="other">%d개 앱의 중요하지 않은 데이터를 삭제할 수 있습니다.</item>
     </plurals>
@@ -41,5 +47,8 @@
     </plurals>
     <plurals name="deepclean_video_summary">
         <item quantity="other">%d개의 동영상을 찾았습니다. 필요없는 항목을 삭제할 수 있습니다.</item>
+    </plurals>
+    <plurals name="deepclean_install_info_desc1">
+        <item quantity="other">%d개 앱 설치됨</item>
     </plurals>
 </resources>
