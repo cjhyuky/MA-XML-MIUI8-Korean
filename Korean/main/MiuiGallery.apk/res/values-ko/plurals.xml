@@ -25,7 +25,7 @@
         <item quantity="other">%d명의 사람에게 공유됨</item>
     </plurals>
     <plurals name="picker_all_image_need_download">
-        <item quantity="other">"Selected photos aren't on device. Download them using mobile data?"</item>
+        <item quantity="other">선택하신 사진이 기기에 없습니다. 모바일 데이터를 사용하여 다운로드 하시겠습니까?</item>
     </plurals>
     <plurals name="picker_all_origin_need_download">
         <item quantity="other">선택하신 사진 (%dMB)이 기기에 없습니다. 모바일 데이터로 다운로드 하시겠습니까?</item>
@@ -33,14 +33,26 @@
     <plurals name="picker_all_image_will_download">
         <item quantity="other">선택된 사진들은 기기에 없습니다. 다운로드될 것입니다.</item>
     </plurals>
+    <plurals name="picker_skip_unavailable_images">
+        <item quantity="other">이 기기에 존재하지 않는 %d장 사진을 스킵 했습니다.</item>
+    </plurals>
     <plurals name="picker_retry_image_confirm_message">
         <item quantity="other">%1$d개 사진 다운로드 실패, 다시 시도하시겠습니까?</item>
+    </plurals>
+    <plurals name="picker_no_network_retry_image_confirm_message">
+        <item quantity="other">%1$d장 사진을 다운로드할 수 없습니다. 네트워크 연결 후 다시 시도하십시오.</item>
     </plurals>
     <plurals name="picker_retry_origin_confirm_message">
         <item quantity="other">%1$d개 사진 (%2$dMB) 다운로드 실패, 다시 시도?</item>
     </plurals>
+    <plurals name="picker_no_network_retry_origin_confirm_message">
+        <item quantity="other">%1$d장 사진(%2$dMB) 을 다운로드할 수 없습니다. 네트워크 연결 후 다시 시도하십시오.</item>
+    </plurals>
     <plurals name="picker_cancel_confirm_message">
         <item quantity="other">남은 %d개 사진의 다운로드를 취소하시겠습니까?</item>
+    </plurals>
+    <plurals name="add_to_album_cloud_photo_count_tip">
+        <item quantity="other">추가된 사진 중 %d장의 클라우드 사진이 포함되어 있습니다. \"로컬 앨범에만 표시\"를 끄셔서 확인하실 수 있습니다.</item>
     </plurals>
     <plurals name="delete_photo_msg_format">
         <item quantity="other">%2$s의 %1$d개 사진을 삭제하시겠습니까?</item>
@@ -101,5 +113,8 @@
     </plurals>
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">%d개 항목 선택됨</item>
+    </plurals>
+    <plurals name="fast_share_auto_render_failed">
+        <item quantity="other">%1$d개 사진은 렌더링에 실패하여 건너뛰어졌습니다.</item>
     </plurals>
 </resources>
