@@ -4,6 +4,10 @@
         <item quantity="other">%1$d개 더보기</item>
         <item quantity="one">%1$d개 더보기</item>
     </plurals>
+    <plurals name="minutes_left">
+        <item quantity="other">%1$d분 남음</item>
+        <item quantity="one">%1$d분 남음</item>
+    </plurals>
     <plurals name="days_remaining">
         <item quantity="other">%1$d일 후 만료됨</item>
         <item quantity="one">%1$d일 후 만료됨</item>
