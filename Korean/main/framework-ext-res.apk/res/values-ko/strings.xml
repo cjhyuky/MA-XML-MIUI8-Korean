@@ -126,7 +126,6 @@
   <string name="status_bar_toggle_vibrate">진동</string>
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">핫스팟</string>
-  <string name="subinfo_default_name">SIM %d</string>
   <string name="translation_query_error">결과를 찾을 수 없음</string>
   <string name="translation_query_error_network">네트워크에 연결할 수 없습니다. 설정을 확인하시고 다시 시도하십시오.</string>
   <string name="turn_off">끄기</string>
