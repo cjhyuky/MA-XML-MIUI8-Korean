@@ -44,8 +44,7 @@
   <string name="bt_toast_5">"'%2$s'에 %1$s개 파일을 보내는 중"</string>
   <string name="bt_toast_6">"'%1$s'님에게 파일 보내기가 중지되었습니다."</string>
   <string name="btopp_live_folder">블루투스 수신함</string>
-  <string name="defaultname">Carkit</string>
-  <string name="defaultnumber">000000</string>
+  <string name="defaultname">자동차키트</string>
   <string name="deleteAll_record">모든 기록 삭제</string>
   <string name="delete_record">기록 삭제</string>
   <string name="download_cancel">중지</string>
@@ -87,8 +86,6 @@
   <string name="map_auth_notif_ticker">Obex 인증 요청</string>
   <string name="map_auth_notif_title">세션 키</string>
   <string name="map_authentication_timeout_message">%1$s에 세션 키 입력 제한 시간이 초과되었습니다.</string>
-  <string name="map_defaultname">Carkit</string>
-  <string name="map_defaultnumber">000000</string>
   <string name="map_localPhoneName">내 이름</string>
   <string name="map_session_key_dialog_header">블루투스 세션 키 필요</string>
   <string name="map_session_key_dialog_title">%1$s의 세션 키 입력</string>
