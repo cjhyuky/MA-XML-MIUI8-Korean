@@ -54,7 +54,6 @@
   <string name="area_code_null_tip">지역번호 입력</string>
   <string name="area_code_preference_summary">자동 지역코드 입력</string>
   <string name="areacode_dialog_title">지역코드 추가</string>
-  <string name="areacode_set_default">기본</string>
   <string name="audio">음성</string>
   <string name="audio_accept">수락</string>
   <string name="audio_accept_in_video">음성 통화</string>
@@ -226,8 +225,6 @@
   <string name="country_code">+82</string>
   <string name="country_label">국가/지역</string>
   <string name="create_group_fail">그룹 만들기 실패</string>
-  <string name="defaultCall">기본 전화</string>
-  <string name="default_area_code_setting">기본 지역코드 설정</string>
   <string name="delete">삭제</string>
   <string name="delete_btn">확인</string>
   <string name="delete_success_tip">성공적으로 삭제</string>
@@ -350,7 +347,6 @@
   <string name="group_chat">그룹 채팅</string>
   <string name="group_chat_confirm">확인(%s)</string>
   <string name="group_color_label">그룹 카드 색상</string>
-  <string name="group_default_name">기본 이름</string>
   <string name="group_info">%s:그룹 대화 시작</string>
   <string name="group_invite">그룹 초대</string>
   <string name="group_is_full">그룹이 꽉 찼습니다</string>
@@ -740,7 +736,6 @@
   <string name="slide_accept">밀어서 받기</string>
   <string name="slide_refuse">밀어서 거절</string>
   <string name="smiley_click_to_download">다운로드</string>
-  <string name="smiley_default_description">[Dynamic emoji]</string>
   <string name="smiley_nopackage_click_to_download">"(아직 Mi 모션페키지를 받지 않으셨습니다 (약 1M), 다운로드해주세요.)"</string>
   <string name="sms_message">"제가 사용하고 있는 Mi 영상통화를 당신에게 추천합니다. 설치하시면 무료로 영상통화를 할 수 있습니다 : call.mi.com"</string>
   <string name="sms_message_cannot_send">"이 기기는 문자메세지를 보낼수 없습니다"</string>
