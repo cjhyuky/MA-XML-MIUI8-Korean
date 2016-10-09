@@ -192,9 +192,7 @@
   <string name="default_audio_route_category_name">시스템</string>
   <string name="default_audio_route_name">휴대전화</string>
   <string name="default_audio_route_name_dock_speakers">도크 스피커</string>
-  <string name="default_audio_route_name_hdmi">HDMI 오디오</string>
   <string name="default_audio_route_name_headphones">헤드폰</string>
-  <string name="default_permission_group">기본값</string>
   <string name="delete">삭제</string>
   <string name="deleteText">삭제</string>
   <string name="deny">거부</string>
