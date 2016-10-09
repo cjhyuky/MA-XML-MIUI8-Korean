@@ -70,7 +70,6 @@
   <string name="leftParenDesc">왼쪽 괄호</string>
   <string name="lg">lg</string>
   <string name="lgDesc">로그</string>
-  <string name="lg_mathematical_value">lg</string>
   <string name="lnDesc">자연로그</string>
   <string name="loan_edittext_hint_commercial">상업 대출 총액 입력</string>
   <string name="loan_edittext_hint_commercial_combined">상업 대출액</string>
