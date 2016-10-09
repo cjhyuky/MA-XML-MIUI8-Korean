@@ -48,15 +48,6 @@
         <item>25 분</item>
         <item>30분</item>
     </string-array>
-    <string-array name="snooze_duration_values">
-        <item>1</item>
-        <item>5</item>
-        <item>10</item>
-        <item>15</item>
-        <item>20</item>
-        <item>25</item>
-        <item>30</item>
-    </string-array>
     <string-array name="auto_silence_entries">
         <item>아니오</item>
         <item>1분</item>
@@ -71,10 +62,5 @@
         <item>아무것도 하지 않음</item>
         <item>다시 알림</item>
         <item>무시</item>
-    </string-array>
-    <string-array name="volume_button_setting_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
 </resources>
