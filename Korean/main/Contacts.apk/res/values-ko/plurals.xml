@@ -52,7 +52,7 @@
         <item quantity="other">%1$d개의 즐겨찾기</item>
     </plurals>
     <plurals name="pick_recent_list_title">
-        <item quantity="other">%1$d개의 최근 연락처</item>
+        <item quantity="other">%1$d개 최근 연락처</item>
     </plurals>
     <plurals name="hint_search_contacts">
         <item quantity="other">%1$d개의 연락처</item>
@@ -61,10 +61,10 @@
         <item quantity="other">%1$d개의 번호</item>
     </plurals>
     <plurals name="hint_search_emails">
-        <item quantity="other">%1$d개의 연락처 이메일</item>
+        <item quantity="other">%1$d개 이메일</item>
     </plurals>
     <plurals name="hint_account_contacts">
-        <item quantity="other">%1$d개의 항목 찾음</item>
+        <item quantity="other">%1$d개 항목 발견됨</item>
     </plurals>
     <plurals name="pick_favorites_contacts_list_title">
         <item quantity="other">%1$d개의 즐겨찾기</item>
@@ -76,7 +76,7 @@
         <item quantity="other">" %1$d 개의 연락처 추가됨"</item>
     </plurals>
     <plurals name="btn_delete_multi_contacts">
-        <item quantity="other">%d개의 연락처 삭제</item>
+        <item quantity="other">%d개 연락처 삭제</item>
     </plurals>
     <plurals name="smart_group_member_count">
         <item quantity="other">%d명</item>
@@ -91,10 +91,10 @@
         <item quantity="other">" %1$d 개 선택됨"</item>
     </plurals>
     <plurals name="dlg_add_blacklist">
-        <item quantity="other">이 %1$d개의 전화번호를 차단하시겠습니까?</item>
+        <item quantity="other">%1$d개 전화번호를 차단하시겠습니까?</item>
     </plurals>
     <plurals name="dlg_remove_blacklist">
-        <item quantity="other">이 %1$d개의 전화번호를 차단 해제하시겠습니까?</item>
+        <item quantity="other">%1$d개 전화번호를 차단 해제하시겠습니까?</item>
     </plurals>
     <plurals name="voip_contacts_count">
         <item quantity="other">%1$d명의 사람</item>
@@ -106,6 +106,6 @@
         <item quantity="other">%1$d개의 연락처</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
-        <item quantity="other">"%d개의 연락처 혹은 사진이 동기화되지 못하였습니다."</item>
+        <item quantity="other">%d개 연락처 또는 사진이 동기화되지 않았습니다.</item>
     </plurals>
 </resources>
