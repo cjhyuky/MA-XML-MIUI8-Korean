@@ -136,11 +136,6 @@
         <item>저 없이 시작하세요.</item>
         <item>죄송합니다. 일정을 변경해야 합니다.</item>
     </string-array>
-    <string-array name="prefEntries_alerts_vibrateWhen">
-        <item>항상</item>
-        <item>무음 시에만</item>
-        <item>사용 안함</item>
-    </string-array>
     <string-array name="widget_style_list">
         <item>투명도</item>
         <item>흰색 배경</item>
@@ -260,6 +255,11 @@
         <item>하지 않음</item>
         <item>시간</item>
         <item>개수</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>항상</item>
+        <item>벨소리가 무음일 때만</item>
+        <item>절대</item>
     </string-array>
     <string-array name="reminder_minutes_labels">
         <item>0분</item>
