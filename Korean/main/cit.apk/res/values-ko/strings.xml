@@ -1,340 +1,340 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="cit_label">하드웨어 테스트</string>
-    <string name="cit_name">하드웨어 테스트</string>
-    <string name="cit_pass">성공</string>
-    <string name="cit_fail">실패</string>
-    <string name="cit_tool">추가 도구</string>
-    <string name="cit_hide_menu">메뉴 숨기기</string>
-    <string name="cit_not_available">이 테스트는 이 MIUI 버전에서 사용할 수 없습니다.</string>
-    <string name="cit_version_check_title">버전 정보 확인</string>
-    <string name="cit_sim_check_title">SIM 카드</string>
-    <string name="cit_keyboard_test_title">버튼</string>
-    <string name="cit_pointer_location_title">터치 센서</string>
-    <string name="cit_leds_check_title">알림 표시등(LED)</string>
-    <string name="cit_display_check_title">표시</string>
-    <string name="cit_vibrator_check_title">진동</string>
-    <string name="cit_wifi_address_check_title">Wi-Fi 주소</string>
-    <string name="cit_wifi_ap_scan_check_title">Wi-Fi AP 스캔</string>
-    <string name="cit_blue_tooth_address_check_title">블루투스 주소 받기</string>
-    <string name="cit_blue_tooth_scan_check_title">블루투스 검색</string>
-    <string name="cit_accelermeter_sensor_check_title">가속도계</string>
-    <string name="cit_magnetic_sensor_check_title">마그네틱 센서</string>
-    <string name="cit_proximity_sensor_check_title">근접 센서</string>
-    <string name="cit_light_sensor_check_title">광 센서</string>
-    <string name="cit_pressure_sensor_check_title">압력 센서</string>
-    <string name="cit_gyroscope_sensor_check_title">자이로스코프</string>
-    <string name="cit_play_sd_mp3_title">SD 카드에 저장된 MP3 파일 재생</string>
-    <string name="cit_play_sd_mp3_hifi_title">SD 카드에 저장된 MP3(Hi-Fi) 파일 재생</string>
-    <string name="cit_audio_loopback_check_one_title">주 마이크 수신기 피드백 테스트</string>
-    <string name="cit_audio_loopback_check_two_title">보조 마이크 스피커 피드백 테스트</string>
-    <string name="cit_audio_loopback_dualmic_earpiece_title">주변 소음 감소 테스트</string>
-    <string name="cit_audio_lb_backmic_to_speaker_title">후면 마이크 스피커 피드백 테스트</string>
-    <string name="cit_audio_lb_mainmic_to_earpiece_title">주 마이크 스피커 피드백 테스트</string>
-    <string name="cit_x5_audio_lb_topmic_to_speaker_title">상단 마이크 스피커 피드백 테스트</string>
-    <string name="cit_audio_lb_phonecall_title">시뮬레이션 통화 테스트</string>
-    <string name="cit_audio_lb_topmic_to_speaker_title">상단 마이크 스피커 피드백 테스트</string>
-    <string name="cit_x5_audio_lb_frontmic_to_speaker_title">전면 마이크 스피커 피드백 테스트</string>
-    <string name="cit_headset_plug_detect_title">헤드폰 감지(연결)</string>
-    <string name="cit_headset_button_check_title">헤드폰 버튼</string>
-    <string name="cit_headset_loopback_check_title">헤드폰 마이크 피드백 테스트</string>
-    <string name="cit_headset_pull_detect_title">헤드폰 감지(분리)</string>
-    <string name="cit_charger_plugin_check_title">충전기(연결)</string>
-    <string name="cit_charger_plugout_check_title">충전기(분리)</string>
-    <string name="cit_main_camera_check_title">후면 카메라</string>
-    <string name="cit_front_camera_check_title">전면 카메라</string>
-    <string name="cit_sd_plugin_check_title">SD 카드(감지)</string>
-    <string name="cit_sd_plugout_check_title">SD 카드(분리)</string>
-    <string name="cit_gps_check_title">GPS</string>
-    <string name="cit_fm_check_title">FM 라디오</string>
-    <string name="cit_power_check_title">배터리 표시기</string>
-    <string name="cit_reset_check_title">재부팅 테스트</string>
-    <string name="cit_OTG_plugin_check_title">OTG (감지)</string>
-    <string name="cit_OTG_plugout_check_title">OTG(제거)</string>
-    <string name="cit_tool_modem">모뎀 테스트 도구</string>
-    <string name="cit_tool_modem_offline_log">오프라인 로그 열기/닫기</string>
-    <string name="cit_tool_modem_exit_ftm">FTM 모드 종료</string>
-    <string name="cit_tool_modem_bugreport">모뎀 코어 덤프 강제 적용</string>
-    <string name="cit_tool_modem_mbn">모뎀 구성 변경</string>
-    <string name="cit_tool_nfc">NFC 테스트 도구</string>
-    <string name="cit_tool_nfc_st">NFC ST:</string>
-    <string name="cit_tool_nfc_st_confreq">빈도:</string>
-    <string name="cit_tool_nfc_st_run">시작</string>
-    <string name="cit_tool_nfc_st_stop">중지</string>
-    <string name="cit_tool_cal_camera">카메라 보정 도구</string>
-    <string name="cit_touch_calib_title">터치 보정</string>
-    <string name="cit_touch_calib_summary">다음 단계는 터치 보정을 하고 확인 버튼을 누른 후 화면을 터치하지 않고 보정 성공의 힌트를 기다리는 것입니다.</string>
-    <string name="cit_touch_calib_pass">터치 보정 성공. 평소처럼 사용하십시오.</string>
-    <string name="cit_touch_calib_fail">터치 보정 실패. 다시 시도하십시오.</string>
-    <string name="cit_touch_calib_instruction">보정 시작</string>
-    <string name="cit_version_check_summary">장치 정보가 아래에 표시됩니다. 녹색으로 표시된 정보가 일치하는지 확인하십시오</string>
-    <string name="cit_proximity_sensor_check_summary">"손으로 근접 센서(수신기 근처의 휴대 전화 상단에 위치)를 가린 다음 손을 뗍니다. 손을 기기에서 멀리 이동하면 값은 0.0에서부터 증가합니다.
-보정 시 센서와 손(예: 보호 화면 커버 또는 장갑) 사이에 아무 것도 없어야 합니다."</string>
-    <string name="cit_magnetic_sensor_check_summary">X, Y, Z 좌표값이 아래에 표시됩니다.</string>
-    <string name="cit_light_sensor_check_summary">DAC 값이 아래에 표시됩니다.</string>
-    <string name="cit_gyroscope_sensor_check_summary">X, Y, Z 좌표값이 아래에 표시됩니다.</string>
-    <string name="cit_pressure_sensor_check_summary">압력 값이 아래에 표시됩니다.</string>
-    <string name="cit_leds_check_summary">백라이트, 알림등, 플래시(후면)는 해당 버튼이 눌리면 반응합니다.</string>
-    <string name="cit_vibrator_check_summary">진동(짧은 진동과 긴 진동)이 정상적으로 작동하는 지 확인하십시오.</string>
-    <string name="cit_wifi_address_check_summary">아래 주소는 현재 기기가 연결된 Wi-Fi 네트워크 주소입니다. 초록색으로 강조된 정보가 정확한지 확인하십시오.</string>
-    <string name="cit_wifi_ap_scan_check_summary">아래 목록은 기기 근처에서 검색된 Wi-Fi AP입니다. 초록색으로 강조된 정보가 정확한지 확인하십시오.</string>
-    <string name="cit_blue_tooth_address_check_summary">이 기기의 블루투스 주소가 아래에 표시됩니다.</string>
-    <string name="cit_blue_tooth_scan_check_summary">다음 정보는 근처에서 검색된 블루투스 기기들의 정보입니다.</string>
-    <string name="cit_accelermeter_sensor_check_summary">"기기를 재빨리 한 방향으로 움직이십시오. X, Y, Z 좌표 값이 아래에 표시됩니다. (기기가 움직이고 있을 때: X는 좌/우, y는 앞/뒤, z는 위/아래를 표시).
+  <string name="cit_OTG_plugin_check_summary">OTG 기기가 연결되면, \"USB OTG 기기 연결됨\"이란 문구가 아래에 표시됩니다.</string>
+  <string name="cit_OTG_plugin_check_title">OTG (감지)</string>
+  <string name="cit_OTG_plugout_check_summary">OTG 기기가 분리되면, \"USB OTG 기기 분리됨\"이란 문구가 아래에 표시됩니다.</string>
+  <string name="cit_OTG_plugout_check_title">OTG(제거)</string>
+  <string name="cit_OTG_waiting_in">지금 USB OTG 기기 연결</string>
+  <string name="cit_OTG_waiting_out">지금 USB OTG 기기 분리</string>
+  <string name="cit_ac_charger_in">AC를 통하여 충전 중</string>
+  <string name="cit_ac_charger_out">AC 충전기 분리됨</string>
+  <string name="cit_accelermeter_sensor_check_summary">"기기를 재빨리 한 방향으로 움직이십시오. X, Y, Z 좌표 값이 아래에 표시됩니다. (기기가 움직이고 있을 때: X는 좌/우, y는 앞/뒤, z는 위/아래를 표시).
 기기를 보정하기 전에 평평한 표면에 놓으십시오."</string>
-    <string name="cit_headset_plug_detect_summary">헤드폰이 연결되면, \"헤드폰이 연결되었음\"이란 문구가 아래에 표시됩니다.</string>
-    <string name="cit_headset_button_check_summary">헤드폰이 연결되면, 헤드폰 리모컨의 버튼(대부분 코드에 위치)을 누르십시오. 화면에 있는 텍스트가 초록색으로 바뀝니다.</string>
-    <string name="cit_headset_pull_detect_summary">헤드폰 연결이 해제되면, \"헤드폰 연결이 해제되었음\"이라는 문구가 아래에 표시됩니다.</string>
-    <string name="cit_sim_check_summary">SIM 카드 정보와 상태가 정확하게 표시되었는지 확인하십시오.</string>
-    <string name="cit_reset_check_summary">이 테스트는 기기를 다시 시작합니다. 기존의 모든 테스트 데이터는 삭제됩니다.</string>
-    <string name="cit_audio_loopback_check_summary_first">"주 마이크 수신기 피드백 테스트
-
-통화하고 있는 것처럼 휴대 전화를 들고 마이크에 대고 말한 뒤 수신기로 목소리가 들리는지 확인하십시오."</string>
-    <string name="cit_audio_loopback_check_summary_second">"보조 마이크 스피커 피드백 테스트.
-
-휴대 전화를 뒤집어 헤드폰 입력부가 바닥을 향하게 한 다음 수신기에 대고 말하십시오. 외부 스피커를 통하여 자기 목소리가 들려야 합니다."</string>
-    <string name="cit_audio_loopback_summary_dualmic_earpiece">"주변 소음 감소 테스트
-
-휴대 전화를 전화하듯이 잡고 마이크에 대고 말하십시오. 수신기를 통하여 자기 목소리가 소음이 줄어든 상태로 들려야 합니다."</string>
-    <string name="cit_audio_lb_summary_mainmic_to_earpiece">"주 마이크 수신기 피드백 테스트.
-
-통화하는 것처럼 휴대 전화를 잡고, 주 마이크에 대고 말한 후 수신기로 자기 목소리가 들려야 합니다."</string>
-    <string name="cit_headset_loopback_check_summary">헤드폰을 착용한 상태에서 기기에 연결한 다음 헤드폰 마이크(대부분 코드에 위치)에 대고 말하십시오. 헤드폰 스피커로 자기 목소리가 들려야 합니다.</string>
-    <string name="cit_audio_lb_summary_backmic_to_speaker">"후면 마이크 스피커 테스트. 
+  <string name="cit_accelermeter_sensor_check_title">가속도계</string>
+  <string name="cit_aud_spkcal">보정</string>
+  <string name="cit_audio_cali_done">보정 완료</string>
+  <string name="cit_audio_cali_failed">보정 실패. 다시 시도하십시오.</string>
+  <string name="cit_audio_cali_file_existed">음악 파일이 존재하지 않습니다, 보정 작업을 할 수 없습니다!</string>
+  <string name="cit_audio_cali_playing">버튼을 눌러 보정</string>
+  <string name="cit_audio_cali_summary">스피커 PA 보정</string>
+  <string name="cit_audio_cali_title">스피커 PA 보정 테스트</string>
+  <string name="cit_audio_cali_valueC">카운터:</string>
+  <string name="cit_audio_cali_valueF0">F0:</string>
+  <string name="cit_audio_cali_valueR">Ref_diff:</string>
+  <string name="cit_audio_cali_valueT">Temp_acc:</string>
+  <string name="cit_audio_calibrating">보정이 진행 중입니다...</string>
+  <string name="cit_audio_lb_backmic_to_speaker_title">후면 마이크 스피커 피드백 테스트</string>
+  <string name="cit_audio_lb_mainmic_to_earpiece_title">주 마이크 스피커 피드백 테스트</string>
+  <string name="cit_audio_lb_phonecall_title">시뮬레이션 통화 테스트</string>
+  <string name="cit_audio_lb_summary_backmic_to_speaker">"후면 마이크 스피커 테스트. 
 
 휴대 전화를 뒤집은 후, 후면 마이크에 대고 말하십시오. 스피커에서 목소리가 들려야 합니다."</string>
-    <string name="cit_x5_audio_lb_summary_topmic_to_speaker">"상단 마이크 스피커 피드백 테스트. 
+  <string name="cit_audio_lb_summary_mainmic_to_earpiece">"주 마이크 수신기 피드백 테스트.
 
-휴대 전화를 뒤집은 후, 상단 마이크에 대고 말하십시오. 스피커에서 목소리가 들려야 합니다."</string>
-    <string name="cit_audio_lb_summary_phonecall">"전화 시뮬레이션 테스트.
+통화하는 것처럼 휴대 전화를 잡고, 주 마이크에 대고 말한 후 수신기로 자기 목소리가 들려야 합니다."</string>
+  <string name="cit_audio_lb_summary_phonecall">"전화 시뮬레이션 테스트.
 
 통화하는 것처럼 휴대 전화를 잡고 주 마이크에 대고 말하십시오. 수신기로 목소리가 들려야 합니다. 이 테스트는 조용환 환경에서 진행해 주십시오."</string>
-    <string name="cit_audio_lb_summary_topmic_to_speaker">"상단 마이크 스피커 피드백 테스트.
+  <string name="cit_audio_lb_summary_topmic_to_speaker">"상단 마이크 스피커 피드백 테스트.
 
 휴대 전화를 뒤집은 후 상단 마이크에 대고 말하십시오. 스피커에서 목소리가 들려야 합니다."</string>
-    <string name="cit_x5_audio_lb_summary_frontmic_to_speaker">"전면 마이크 스피커 피드백 테스트.
+  <string name="cit_audio_lb_topmic_to_speaker_title">상단 마이크 스피커 피드백 테스트</string>
+  <string name="cit_audio_loopback_check_one_title">주 마이크 수신기 피드백 테스트</string>
+  <string name="cit_audio_loopback_check_summary_first">"주 마이크 수신기 피드백 테스트
 
-휴대 전화를 뒤집은 후 수신기 위치에서 마이크에 대고 말하십시오. 스피커에서 목소리가 들려야 합니다."</string>
-    <string name="cit_sd_plugin_check_summary">\"SD 카드가 감지되었습니다. 지금 SD 카드를 제거하십시오.\"라는 문구가 아래에 표시됩니다.</string>
-    <string name="cit_sd_plugout_check_summary">SD 카드를 제거하면, \"SD 카드가 제거되었습니다, 지금 SD 카드를 삽입하십시오.\"라는 문구가 하단에 표시됩니다.</string>
-    <string name="cit_keyboard_test_summary">버튼을 누르면, 화면의 해당 문구가 초록색으로 바뀝니다(참고: 홈 버튼과 전원 버튼은 테스트에 포함되지 않음).</string>
-    <string name="cit_charger_plugin_check_summary">USB 충전기가 연결되면 \"USB/AC를 통해 충전중\"이란 문구가 아래에 표시됩니다.</string>
-    <string name="cit_charger_plugout_check_summary">USB 충전기가 분리되면 \"USB/AC충전기 분리됨\"이란 문구가 아래에 표시됩니다.</string>
-    <string name="cit_play_sd_mp3_summary">SD 카드에 \"music.mp3\" 파일이 저장되었는지 확인하십시오. 이 테스트를 할 때 \"music.mp3\" 파일이 기기의 외부 스피커를 통해 재생됩니다.</string>
-    <string name="cit_play_sd_mp3_hifi_summary">SD 카드에 \"music.mp3\" 파일이 저장되었는지 확인하십시오. 이 테스트를 할 때 \"music.mp3\" 파일이 기기의 HIFI 경로를 통해 재생됩니다.</string>
-    <string name="cit_display_check_summary">SD 카드에 필요한 bmp 파일이 있는지 확인하십시오. 색상이 전체 화면에 지속적으로 표시되는지 확인하십시오. 불규칙적인 밝은 점 및 어두운 점이 있는지 확인하십시오.</string>
-    <string name="cit_main_camera_check_summary">"테스트 가이드:
+통화하고 있는 것처럼 휴대 전화를 들고 마이크에 대고 말한 뒤 수신기로 목소리가 들리는지 확인하십시오."</string>
+  <string name="cit_audio_loopback_check_summary_second">"보조 마이크 스피커 피드백 테스트.
+
+휴대 전화를 뒤집어 헤드폰 입력부가 바닥을 향하게 한 다음 수신기에 대고 말하십시오. 외부 스피커를 통하여 자기 목소리가 들려야 합니다."</string>
+  <string name="cit_audio_loopback_check_two_title">보조 마이크 스피커 피드백 테스트</string>
+  <string name="cit_audio_loopback_dualmic_earpiece_title">주변 소음 감소 테스트</string>
+  <string name="cit_audio_loopback_next">다음</string>
+  <string name="cit_audio_loopback_previous">이전</string>
+  <string name="cit_audio_loopback_summary_dualmic_earpiece">"주변 소음 감소 테스트
+
+휴대 전화를 전화하듯이 잡고 마이크에 대고 말하십시오. 수신기를 통하여 자기 목소리가 소음이 줄어든 상태로 들려야 합니다."</string>
+  <string name="cit_battery_temp_fail">배터리 온도가 정상이 아닙니다(값=%d).</string>
+  <string name="cit_battery_temp_pass">배터리 온도가 정상입니다.</string>
+  <string name="cit_batterylight_blue">파란색</string>
+  <string name="cit_batterylight_green">초록색</string>
+  <string name="cit_batterylight_red">빨간색</string>
+  <string name="cit_batterylight_rgb">배터리 표시등</string>
+  <string name="cit_blue_tooth_address_check_summary">이 기기의 블루투스 주소가 아래에 표시됩니다.</string>
+  <string name="cit_blue_tooth_address_check_title">블루투스 주소 받기</string>
+  <string name="cit_blue_tooth_scan_check_summary">다음 정보는 근처에서 검색된 블루투스 기기들의 정보입니다.</string>
+  <string name="cit_blue_tooth_scan_check_title">블루투스 검색</string>
+  <string name="cit_blue_torch_on">블루 손전등 켜기</string>
+  <string name="cit_bluetooth_address_open_error">블루투스 주소를 받아 오지 못했습니다. 블루투스 기기를 켜는 도중 오류가 발생했습니다.</string>
+  <string name="cit_bluetooth_not_support">이 기기는 블루투스를 지원하지 않습니다.</string>
+  <string name="cit_bluetooth_scan_retry">다시 스캔</string>
+  <string name="cit_bluetooth_scanning">주변 블루투스 기기 스캔 중(4초 정도 걸릴 수 있습니다)…</string>
+  <string name="cit_bluetooth_scanning_bluetooth_done">완료. 근처에서 블루투스 기기를 찾지 못했습니다.</string>
+  <string name="cit_bluetooth_scanning_bluetooth_error">블루투스 기기 검색 중 오류가 발생했습니다.</string>
+  <string name="cit_bluetooth_scanning_opening_bluetooth">블루투스 기기 여는 중…</string>
+  <string name="cit_button_light_off">버튼 표시등 꺼짐</string>
+  <string name="cit_button_light_on">버튼 표시등 켜짐</string>
+  <string name="cit_calibration_fail">보정 실패</string>
+  <string name="cit_calibration_pass">보정 성공</string>
+  <string name="cit_camera_calibration_summary">"테스트 가이드:
+
+1.아래의 보정 버튼을 탭하여 카메라 인터페이스에 진입합니다
+2.\"뒤로\" 버튼을 눌러 카메라 인터페이스를 종료합니다
+3.손 떨림 방지 기능이 보정되었음을 나타내는 보정 통과 라벨이 표시됩니다."</string>
+  <string name="cit_camera_sdcard_error">사진을 가져올 수 없습니다. SD 카드가 가득 찼습니다.</string>
+  <string name="cit_charger_plugin_check_summary">USB 충전기가 연결되면 \"USB/AC를 통해 충전중\"이란 문구가 아래에 표시됩니다.</string>
+  <string name="cit_charger_plugin_check_title">충전기(연결)</string>
+  <string name="cit_charger_plugout_check_summary">USB 충전기가 분리되면 \"USB/AC충전기 분리됨\"이란 문구가 아래에 표시됩니다.</string>
+  <string name="cit_charger_plugout_check_title">충전기(분리)</string>
+  <string name="cit_charger_waiting_in">충전기 연결</string>
+  <string name="cit_charger_waiting_out">지금 충전기 분리</string>
+  <string name="cit_display_check_summary">SD 카드에 필요한 bmp 파일이 있는지 확인하십시오. 색상이 전체 화면에 지속적으로 표시되는지 확인하십시오. 불규칙적인 밝은 점 및 어두운 점이 있는지 확인하십시오.</string>
+  <string name="cit_display_check_title">표시</string>
+  <string name="cit_display_continue">화면을 터치하여 테스트 시작</string>
+  <string name="cit_exit_test_summary">종료하면, 관련된 모든 텍스트 데이터가 삭제됩니다.</string>
+  <string name="cit_exit_test_title">테스트 종료</string>
+  <string name="cit_fail">실패</string>
+  <string name="cit_fm_audio_path">오디오 경로 구성</string>
+  <string name="cit_fm_audio_path_headset">헤드폰</string>
+  <string name="cit_fm_audio_path_speaker">스피커</string>
+  <string name="cit_fm_check_summary">기기의 FM 기능을 테스트합니다.</string>
+  <string name="cit_fm_check_title">FM 라디오</string>
+  <string name="cit_fm_close">FM 종료</string>
+  <string name="cit_fm_not_supported">이 기기는 FM을 지원하지 않습니다.</string>
+  <string name="cit_fm_open_1">FM 시작 - 88.5</string>
+  <string name="cit_fm_open_2">FM 시작 - 107.9</string>
+  <string name="cit_fm_open_bluetooth">블루투스 실행 중…</string>
+  <string name="cit_fm_start_service">오디오 시작</string>
+  <string name="cit_front_camera_check_summary">"테스트 가이드:
+
+1.아래의 카메라 버튼을 탭하여 전면 카메라 인터페이스에 진입합니다
+2.셔터 버튼을 탭합니다
+3.확인 아이콘을 탭합니다. 시스템이 사진을 자동으로 저장합니다.
+4.찍은 사진이 아래에 표시됩니다. \"삭제\"를 탭하여 테스트를 완료합니다."</string>
+  <string name="cit_front_camera_check_title">전면 카메라</string>
+  <string name="cit_gps_check_summary">해당 GPS 정보가 아래에 표시됩니다.</string>
+  <string name="cit_gps_check_title">GPS</string>
+  <string name="cit_gps_disabled">"GPS가 꺼졌습니다
+
+화면을 터치하여 GPS를 켜십시오…"</string>
+  <string name="cit_gps_first_fix_time">Fixed_time: %s</string>
+  <string name="cit_gps_location">위치: %s</string>
+  <string name="cit_gps_satellite_count">위성 개수: %d</string>
+  <string name="cit_gps_satellite_prn">Prn: %s</string>
+  <string name="cit_gps_satellite_snr">Snr: %s</string>
+  <string name="cit_gyroscope_sensor_check_summary">X, Y, Z 좌표값이 아래에 표시됩니다.</string>
+  <string name="cit_gyroscope_sensor_check_title">자이로스코프</string>
+  <string name="cit_headset_button_check_summary">헤드폰이 연결되면, 헤드폰 리모컨의 버튼(대부분 코드에 위치)을 누르십시오. 화면에 있는 텍스트가 초록색으로 바뀝니다.</string>
+  <string name="cit_headset_button_check_title">헤드폰 버튼</string>
+  <string name="cit_headset_button_click">헤드폰의 버튼을 누르십시오.</string>
+  <string name="cit_headset_button_current">현재 버튼: %s</string>
+  <string name="cit_headset_button_fast_forward">빨리 감기</string>
+  <string name="cit_headset_button_next">다음</string>
+  <string name="cit_headset_button_pass">성공</string>
+  <string name="cit_headset_button_play_pause">재생/일시정지</string>
+  <string name="cit_headset_button_previous">이전</string>
+  <string name="cit_headset_button_rewind">되감기</string>
+  <string name="cit_headset_button_stop">중지</string>
+  <string name="cit_headset_button_unknown">알 수 없음</string>
+  <string name="cit_headset_loopback_check_summary">헤드폰을 착용한 상태에서 기기에 연결한 다음 헤드폰 마이크(대부분 코드에 위치)에 대고 말하십시오. 헤드폰 스피커로 자기 목소리가 들려야 합니다.</string>
+  <string name="cit_headset_loopback_check_title">헤드폰 마이크 피드백 테스트</string>
+  <string name="cit_headset_plug_detect_summary">헤드폰이 연결되면, \"헤드폰이 연결되었음\"이란 문구가 아래에 표시됩니다.</string>
+  <string name="cit_headset_plug_detect_title">헤드폰 감지(연결)</string>
+  <string name="cit_headset_plug_finish">헤드폰 감지됨</string>
+  <string name="cit_headset_plug_hint">지금 헤드폰 연결</string>
+  <string name="cit_headset_pull_detect_summary">헤드폰 연결이 해제되면, \"헤드폰 연결이 해제되었음\"이라는 문구가 아래에 표시됩니다.</string>
+  <string name="cit_headset_pull_detect_title">헤드폰 감지(분리)</string>
+  <string name="cit_headset_pull_finish">헤드폰이 분리되었습니다.</string>
+  <string name="cit_headset_pull_hint">지금 헤드폰 연결 해제</string>
+  <string name="cit_hide_menu">메뉴 숨기기</string>
+  <string name="cit_kayboard_volume_down">버튼: 볼륨 낮춤</string>
+  <string name="cit_kayboard_volume_up">버튼: 볼륨 올림</string>
+  <string name="cit_keyboard_back">버튼: 뒤로</string>
+  <string name="cit_keyboard_current">현재 키보드: %s</string>
+  <string name="cit_keyboard_menu">버튼: 메뉴</string>
+  <string name="cit_keyboard_test_summary">버튼을 누르면, 화면의 해당 문구가 초록색으로 바뀝니다(참고: 홈 버튼과 전원 버튼은 테스트에 포함되지 않음).</string>
+  <string name="cit_keyboard_test_title">버튼</string>
+  <string name="cit_label">하드웨어 테스트</string>
+  <string name="cit_lcdlight_brightness">백라이트</string>
+  <string name="cit_lcdlight_brightness_max">최대</string>
+  <string name="cit_lcdlight_brightness_min">최소</string>
+  <string name="cit_leds_check_summary">백라이트, 알림등, 플래시(후면)는 해당 버튼이 눌리면 반응합니다.</string>
+  <string name="cit_leds_check_title">알림 표시등(LED)</string>
+  <string name="cit_light_sensor_check_summary">DAC 값이 아래에 표시됩니다.</string>
+  <string name="cit_light_sensor_check_title">광 센서</string>
+  <string name="cit_magnetic_sensor_check_summary">X, Y, Z 좌표값이 아래에 표시됩니다.</string>
+  <string name="cit_magnetic_sensor_check_title">마그네틱 센서</string>
+  <string name="cit_main_camera_check_summary">"테스트 가이드:
 
 1.아래의 카메라 버튼을 탭하여 후면 카메라 인터페이스에 진입합니다
 2.플래시를 활성화합니다
 3.셔터 버튼을 탭합니다
 4.확인 아이콘을 탭합니다. 시스템이 사진을 자동으로 저장합니다.
 5.찍은 사진이 아래에 표시됩니다. \"삭제\"를 탭하여 테스트를 완료합니다."</string>
-    <string name="cit_front_camera_check_summary">"테스트 가이드:
-
-1.아래의 카메라 버튼을 탭하여 전면 카메라 인터페이스에 진입합니다
-2.셔터 버튼을 탭합니다
-3.확인 아이콘을 탭합니다. 시스템이 사진을 자동으로 저장합니다.
-4.찍은 사진이 아래에 표시됩니다. \"삭제\"를 탭하여 테스트를 완료합니다."</string>
-    <string name="cit_camera_calibration_summary">"테스트 가이드:
-
-1.아래의 보정 버튼을 탭하여 카메라 인터페이스에 진입합니다
-2.\"뒤로\" 버튼을 눌러 카메라 인터페이스를 종료합니다
-3.손 떨림 방지 기능이 보정되었음을 나타내는 보정 통과 라벨이 표시됩니다."</string>
-    <string name="cit_camera_sdcard_error">사진을 가져올 수 없습니다. SD 카드가 가득 찼습니다.</string>
-    <string name="cit_gps_check_summary">해당 GPS 정보가 아래에 표시됩니다.</string>
-    <string name="cit_fm_check_summary">기기의 FM 기능을 테스트합니다.</string>
-    <string name="cit_power_check_summary">잔여 배터리량이 아래에 퍼센트로 표시됩니다.</string>
-    <string name="cit_audio_cali_title">스피커 PA 보정 테스트</string>
-    <string name="cit_audio_cali_summary">스피커 PA 보정</string>
-    <string name="cit_audio_cali_playing">버튼을 눌러 보정</string>
-    <string name="cit_audio_cali_file_existed">음악 파일이 존재하지 않습니다, 보정 작업을 할 수 없습니다!</string>
-    <string name="cit_audio_cali_done">보정 완료</string>
-    <string name="cit_audio_cali_valueR">Ref_diff:</string>
-    <string name="cit_audio_cali_valueT">Temp_acc:</string>
-    <string name="cit_audio_cali_valueF0">F0:</string>
-    <string name="cit_audio_cali_valueC">카운터:</string>
-    <string name="cit_audio_cali_failed">보정 실패. 다시 시도하십시오.</string>
-    <string name="cit_aud_spkcal">보정</string>
-    <string name="cit_audio_calibrating">보정이 진행 중입니다...</string>
-    <string name="cit_OTG_plugin_check_summary">OTG 기기가 연결되면, \"USB OTG 기기 연결됨\"이란 문구가 아래에 표시됩니다.</string>
-    <string name="cit_OTG_plugout_check_summary">OTG 기기가 분리되면, \"USB OTG 기기 분리됨\"이란 문구가 아래에 표시됩니다.</string>
-    <string name="cit_vibrator_short">짧은 진동</string>
-    <string name="cit_vibrator_long">긴 진동</string>
-    <string name="cit_vibrator_show_advanced">고급 옵션 보이기</string>
-    <string name="cit_vibrator_don_don_chat">Don-Don-Chat</string>
-    <string name="cit_vibrator_haptic">햅틱</string>
-    <string name="cit_vibrator_load_down_pattern">하강 패턴</string>
-    <string name="cit_vibrator_load_up_pattern">상승 패턴</string>
-    <string name="cit_vibrator_play_touch_pattern">진동</string>
-    <string name="cit_wifi_state_refresh">새로고침</string>
-    <string name="cit_wifi_address_error">Wi-Fi 주소를 가져오지 못했습니다. Wi-Fi가 활성화되었는지 확인하십시오.</string>
-    <string name="cit_wifi_ap_scanning">스캔 중…</string>
-    <string name="cit_wifi_ap_scan_retry">다시 스캔 중…</string>
-    <string name="cit_wifi_fail_to_scan">네트워크를 스캔하지 못했습니다.</string>
-    <string name="cit_bluetooth_scan_retry">다시 스캔</string>
-    <string name="cit_bluetooth_scanning">주변 블루투스 기기 스캔 중(4초 정도 걸릴 수 있습니다)…</string>
-    <string name="cit_bluetooth_not_support">이 기기는 블루투스를 지원하지 않습니다.</string>
-    <string name="cit_bluetooth_scanning_opening_bluetooth">블루투스 기기 여는 중…</string>
-    <string name="cit_bluetooth_scanning_bluetooth_error">블루투스 기기 검색 중 오류가 발생했습니다.</string>
-    <string name="cit_bluetooth_address_open_error">블루투스 주소를 받아 오지 못했습니다. 블루투스 기기를 켜는 도중 오류가 발생했습니다.</string>
-    <string name="cit_bluetooth_scanning_bluetooth_done">완료. 근처에서 블루투스 기기를 찾지 못했습니다.</string>
-    <string name="cit_headset_plug_hint">지금 헤드폰 연결</string>
-    <string name="cit_headset_pull_hint">지금 헤드폰 연결 해제</string>
-    <string name="cit_headset_plug_finish">헤드폰 감지됨</string>
-    <string name="cit_headset_pull_finish">헤드폰이 분리되었습니다.</string>
-    <string name="cit_headset_button_unknown">알 수 없음</string>
-    <string name="cit_headset_button_click">헤드폰의 버튼을 누르십시오.</string>
-    <string name="cit_headset_button_pass">성공</string>
-    <string name="cit_headset_button_play_pause">재생/일시정지</string>
-    <string name="cit_headset_button_stop">중지</string>
-    <string name="cit_headset_button_next">다음</string>
-    <string name="cit_headset_button_previous">이전</string>
-    <string name="cit_headset_button_rewind">되감기</string>
-    <string name="cit_headset_button_fast_forward">빨리 감기</string>
-    <string name="cit_sim_state_absent">SIM 카드 감지되지 않음</string>
-    <string name="cit_sim_state_unkown">알 수 없음</string>
-    <string name="cit_sim_state_network_locked">네트워크 PIN 잠김</string>
-    <string name="cit_sim_state_pin_required">PIN 요청됨</string>
-    <string name="cit_sim_state_puk_required">PUK 요청됨</string>
-    <string name="cit_sim_state_ready">SIM 카드 준비</string>
-    <string name="cit_sim_serial_number">SIM 카드 번호:</string>
-    <string name="cit_sim_sim_operator">SIM 카드 운영자 번호:</string>
-    <string name="cit_sim_sim_operator_name">운영자 이름:</string>
-    <string name="cit_sim_sim_country">국가:</string>
-    <string name="cit_sim_network_operator">네트워크 서비스 공급자:</string>
-    <string name="cit_sim_network_operator_name">네트워크 서비스 공급자 이름:</string>
-    <string name="cit_sim_network_type">네트워크 유형:</string>
-    <string name="cit_sim_error_unknown">알 수 없음</string>
-    <string name="cit_reset_test">테스트</string>
-    <string name="cit_audio_loopback_next">다음</string>
-    <string name="cit_audio_loopback_previous">이전</string>
-    <string name="cit_sd_plugged_in">SD 카드가 감지되었습니다, 지금 SD 카드를 제거하십시오.</string>
-    <string name="cit_sd_plugged_out">SD 카드가 제거되었습니다, SD 카드를 삽입하십시오.</string>
-    <string name="cit_sd_mount">SD 카드 장착</string>
-    <string name="cit_sd_unmount">SD 카드 장착 해제</string>
-    <string name="cit_sd_mount_sucess">SD 카드 장착됨</string>
-    <string name="cit_sd_unmount_sucess">SD 카드 장착 해제됨</string>
-    <string name="cit_sd_fail">오류가 발생했습니다.</string>
-    <string name="cit_charger_waiting_in">충전기 연결</string>
-    <string name="cit_ac_charger_in">AC를 통하여 충전 중</string>
-    <string name="cit_usb_charger_in">USB를 통하여 충전 중</string>
-    <string name="cit_charger_waiting_out">지금 충전기 분리</string>
-    <string name="cit_ac_charger_out">AC 충전기 분리됨</string>
-    <string name="cit_usb_charger_out">USB 충전기 분리됨</string>
-    <string name="cit_usb_OTG_in">USB OTG 기기 감지됨</string>
-    <string name="cit_OTG_waiting_in">지금 USB OTG 기기 연결</string>
-    <string name="cit_OTG_waiting_out">지금 USB OTG 기기 분리</string>
-    <string name="cit_usb_OTG_out">USB OTG 기기 제거됨</string>
-    <string name="cit_otg_not_supported">이 기기는 OTG 테스트를 지원하지 않습니다.</string>
-    <string name="cit_sd_mp3_not_existed">"SD 카드에 \"music.mp3\" 파일이 없습니다
+  <string name="cit_main_camera_check_title">후면 카메라</string>
+  <string name="cit_name">하드웨어 테스트</string>
+  <string name="cit_not_available">이 테스트는 이 MIUI 버전에서 사용할 수 없습니다.</string>
+  <string name="cit_notificationlight">알림 표시등</string>
+  <string name="cit_notificationlight_off">알림 표시등 꺼짐</string>
+  <string name="cit_notificationlight_on">알림 표시등 켜짐</string>
+  <string name="cit_otg_not_supported">이 기기는 OTG 테스트를 지원하지 않습니다.</string>
+  <string name="cit_pass">성공</string>
+  <string name="cit_play_sd_mp3_hifi_summary">SD 카드에 \"music.mp3\" 파일이 저장되었는지 확인하십시오. 이 테스트를 할 때 \"music.mp3\" 파일이 기기의 HIFI 경로를 통해 재생됩니다.</string>
+  <string name="cit_play_sd_mp3_hifi_title">SD 카드에 저장된 MP3(Hi-Fi) 파일 재생</string>
+  <string name="cit_play_sd_mp3_summary">SD 카드에 \"music.mp3\" 파일이 저장되었는지 확인하십시오. 이 테스트를 할 때 \"music.mp3\" 파일이 기기의 외부 스피커를 통해 재생됩니다.</string>
+  <string name="cit_play_sd_mp3_title">SD 카드에 저장된 MP3 파일 재생</string>
+  <string name="cit_playing_sd_mp3">music.mp3 재생 중…</string>
+  <string name="cit_pointer_location_title">터치 센서</string>
+  <string name="cit_power_check_summary">잔여 배터리량이 아래에 퍼센트로 표시됩니다.</string>
+  <string name="cit_power_check_title">배터리 표시기</string>
+  <string name="cit_pressure_sensor_check_summary">압력 값이 아래에 표시됩니다.</string>
+  <string name="cit_pressure_sensor_check_title">압력 센서</string>
+  <string name="cit_proximity_sensor_check_summary">"손으로 근접 센서(수신기 근처의 휴대 전화 상단에 위치)를 가린 다음 손을 뗍니다. 손을 기기에서 멀리 이동하면 값은 0.0에서부터 증가합니다.
+보정 시 센서와 손(예: 보호 화면 커버 또는 장갑) 사이에 아무 것도 없어야 합니다."</string>
+  <string name="cit_proximity_sensor_check_title">근접 센서</string>
+  <string name="cit_reset_check_summary">이 테스트는 기기를 다시 시작합니다. 기존의 모든 테스트 데이터는 삭제됩니다.</string>
+  <string name="cit_reset_check_title">재부팅 테스트</string>
+  <string name="cit_reset_test">테스트</string>
+  <string name="cit_sd_fail">오류가 발생했습니다.</string>
+  <string name="cit_sd_mount">SD 카드 장착</string>
+  <string name="cit_sd_mount_sucess">SD 카드 장착됨</string>
+  <string name="cit_sd_mp3_not_existed">"SD 카드에 \"music.mp3\" 파일이 없습니다
 SD 카드의 디렉토리에 \"music.mp3\" 파일을 넣은 후 화면을 터치하여 재생하십시오."</string>
-    <string name="cit_playing_sd_mp3">music.mp3 재생 중…</string>
-    <string name="cit_display_continue">화면을 터치하여 테스트 시작</string>
-    <string name="cit_vga_camera_capture">카메라</string>
-    <string name="cit_vga_camera_delete">삭제</string>
-    <string name="cit_vga_camera_deleted">사진 삭제됨</string>
-    <string name="cit_vga_camera_capture_fail">사진 촬영에 실패</string>
-    <string name="cit_gps_disabled">"GPS가 꺼졌습니다
+  <string name="cit_sd_plugged_in">SD 카드가 감지되었습니다, 지금 SD 카드를 제거하십시오.</string>
+  <string name="cit_sd_plugged_out">SD 카드가 제거되었습니다, SD 카드를 삽입하십시오.</string>
+  <string name="cit_sd_plugin_check_summary">\"SD 카드가 감지되었습니다. 지금 SD 카드를 제거하십시오.\"라는 문구가 아래에 표시됩니다.</string>
+  <string name="cit_sd_plugin_check_title">SD 카드(감지)</string>
+  <string name="cit_sd_plugout_check_summary">SD 카드를 제거하면, \"SD 카드가 제거되었습니다, 지금 SD 카드를 삽입하십시오.\"라는 문구가 하단에 표시됩니다.</string>
+  <string name="cit_sd_plugout_check_title">SD 카드(분리)</string>
+  <string name="cit_sd_unmount">SD 카드 장착 해제</string>
+  <string name="cit_sd_unmount_sucess">SD 카드 장착 해제됨</string>
+  <string name="cit_sim_check_summary">SIM 카드 정보와 상태가 정확하게 표시되었는지 확인하십시오.</string>
+  <string name="cit_sim_check_title">SIM 카드</string>
+  <string name="cit_sim_error_unknown">알 수 없음</string>
+  <string name="cit_sim_network_operator">네트워크 서비스 공급자:</string>
+  <string name="cit_sim_network_operator_name">네트워크 서비스 공급자 이름:</string>
+  <string name="cit_sim_network_type">네트워크 유형:</string>
+  <string name="cit_sim_serial_number">SIM 카드 번호:</string>
+  <string name="cit_sim_sim_country">국가:</string>
+  <string name="cit_sim_sim_operator">SIM 카드 운영자 번호:</string>
+  <string name="cit_sim_sim_operator_name">운영자 이름:</string>
+  <string name="cit_sim_state_absent">SIM 카드 감지되지 않음</string>
+  <string name="cit_sim_state_network_locked">네트워크 PIN 잠김</string>
+  <string name="cit_sim_state_pin_required">PIN 요청됨</string>
+  <string name="cit_sim_state_puk_required">PUK 요청됨</string>
+  <string name="cit_sim_state_ready">SIM 카드 준비</string>
+  <string name="cit_sim_state_unkown">알 수 없음</string>
+  <string name="cit_start_calibration">보정</string>
+  <string name="cit_stop_calibration">보정 중지</string>
+  <string name="cit_tool">추가 도구</string>
+  <string name="cit_tool_bluetooth">블루투스 테스트 도구</string>
+  <string name="cit_tool_bluetooth_dut">블루투스 테스트 모드 전환</string>
+  <string name="cit_tool_bluetooth_le_tx_ch19">블루투스 LE 2.402GHz 주파수 테스트 모드 전환</string>
+  <string name="cit_tool_bluetooth_le_tx_h">블루투스 LE 2.402GHz 주파수 테스트 모드 전환</string>
+  <string name="cit_tool_bluetooth_le_tx_l">블루투스 LE 2.402GHz 주파수 테스트 모드 전환</string>
+  <string name="cit_tool_bluetooth_not_on">블루투스가 활성화되어 있지 않습니다.</string>
+  <string name="cit_tool_bluetooth_off">블루투스 비활성화됨</string>
+  <string name="cit_tool_bluetooth_on">블루투스 활성화됨</string>
+  <string name="cit_tool_bluetooth_tx_h">블루투스 BR/EDR 2.402GHz 주파수 테스트 모드 전환</string>
+  <string name="cit_tool_bluetooth_tx_l">블루투스 BR/EDR 2.402GHz 주파수 테스트 모드 전환</string>
+  <string name="cit_tool_cal_camera">카메라 보정 도구</string>
+  <string name="cit_tool_enable_3A_log">3A 로그 스위치 활성화됨</string>
+  <string name="cit_tool_log">로그 받아 오기</string>
+  <string name="cit_tool_log_bugreport">버그 리포트</string>
+  <string name="cit_tool_log_dmesg">DMESG</string>
+  <string name="cit_tool_log_file_not_exist">%s이(가) 존재하지 않음</string>
+  <string name="cit_tool_log_generate_bugreport">버그 보고서 작성 중…</string>
+  <string name="cit_tool_log_kmsg">마지막 커널 로그</string>
+  <string name="cit_tool_log_logcat">ADB 로그</string>
+  <string name="cit_tool_log_modem">모뎀 로그</string>
+  <string name="cit_tool_log_no_sdcard">지금 SD카드를 삽입하십시오.</string>
+  <string name="cit_tool_log_ril">RIL 로그</string>
+  <string name="cit_tool_log_toast">%s에 저장된 로그</string>
+  <string name="cit_tool_log_toast_generate_bugreport">버그 보고서 작성 중…(약 1분 소요)</string>
+  <string name="cit_tool_modem">모뎀 테스트 도구</string>
+  <string name="cit_tool_modem_bugreport">모뎀 코어 덤프 강제 적용</string>
+  <string name="cit_tool_modem_exit_ftm">FTM 모드 종료</string>
+  <string name="cit_tool_modem_mbn">모뎀 구성 변경</string>
+  <string name="cit_tool_modem_offline_log">오프라인 로그 열기/닫기</string>
+  <string name="cit_tool_nfc">NFC 테스트 도구</string>
+  <string name="cit_tool_nfc_st">NFC ST:</string>
+  <string name="cit_tool_nfc_st_confreq">빈도:</string>
+  <string name="cit_tool_nfc_st_run">시작</string>
+  <string name="cit_tool_nfc_st_stop">중지</string>
+  <string name="cit_tool_wifi">와이파이 테스트 도구</string>
+  <string name="cit_tool_wifi_chain_1">1</string>
+  <string name="cit_tool_wifi_chain_1_2">1+2</string>
+  <string name="cit_tool_wifi_chain_2">2</string>
+  <string name="cit_tool_wifi_exit">종료</string>
+  <string name="cit_tool_wifi_rx_ap">수신: AP</string>
+  <string name="cit_tool_wifi_rx_ap_name">MT</string>
+  <string name="cit_tool_wifi_rx_chan">수신: 채널</string>
+  <string name="cit_tool_wifi_rx_count_error">출력 값이 숫자가 아닙니다.</string>
+  <string name="cit_tool_wifi_rx_dut_ip">192.168.1.12</string>
+  <string name="cit_tool_wifi_rx_error">프로그램을 실행하는 동안 오류가 발생했습니다.</string>
+  <string name="cit_tool_wifi_rx_exit">수신: 종료</string>
+  <string name="cit_tool_wifi_rx_run">시작</string>
+  <string name="cit_tool_wifi_rx_stop">중지</string>
+  <string name="cit_tool_wifi_rxbg_test">수신: a/b/g</string>
+  <string name="cit_tool_wifi_rxbg_test_channel">채널:</string>
+  <string name="cit_tool_wifi_rxn_test">수신: n</string>
+  <string name="cit_tool_wifi_rxn_test_bw">대역폭:</string>
+  <string name="cit_tool_wifi_rxn_test_channel">채널:</string>
+  <string name="cit_tool_wifi_tx_ac">송신: ac</string>
+  <string name="cit_tool_wifi_tx_bg">송신: a/b/g</string>
+  <string name="cit_tool_wifi_tx_bg_chan">채널:</string>
+  <string name="cit_tool_wifi_tx_bg_txpr">txpower:</string>
+  <string name="cit_tool_wifi_tx_bg_txrt">데이터 속도:</string>
+  <string name="cit_tool_wifi_tx_n">송신: n</string>
+  <string name="cit_tool_wifi_tx_n_bandwidth">대역폭:</string>
+  <string name="cit_tool_wifi_tx_n_chan">채널:</string>
+  <string name="cit_tool_wifi_tx_n_txpr">txpower:</string>
+  <string name="cit_tool_wifi_tx_n_txrt">데이터 속도: MCS</string>
+  <string name="cit_tool_wifi_tx_st">송신: ST</string>
+  <string name="cit_tool_wifi_tx_st_chan">채널:</string>
+  <string name="cit_tool_wifi_txrx_chain_selection">안테나 선택</string>
+  <string name="cit_torch_off">플래시 라이트 끄기</string>
+  <string name="cit_torch_on">플래시 라이트 켜기</string>
+  <string name="cit_touch_calib_fail">터치 보정 실패. 다시 시도하십시오.</string>
+  <string name="cit_touch_calib_instruction">보정 시작</string>
+  <string name="cit_touch_calib_pass">터치 보정 성공. 평소처럼 사용하십시오.</string>
+  <string name="cit_touch_calib_summary">다음 단계는 터치 보정을 하고 확인 버튼을 누른 후 화면을 터치하지 않고 보정 성공의 힌트를 기다리는 것입니다.</string>
+  <string name="cit_touch_calib_title">터치 보정</string>
+  <string name="cit_usb_OTG_in">USB OTG 기기 감지됨</string>
+  <string name="cit_usb_OTG_out">USB OTG 기기 제거됨</string>
+  <string name="cit_usb_charger_in">USB를 통하여 충전 중</string>
+  <string name="cit_usb_charger_out">USB 충전기 분리됨</string>
+  <string name="cit_version_check_summary">장치 정보가 아래에 표시됩니다. 녹색으로 표시된 정보가 일치하는지 확인하십시오</string>
+  <string name="cit_version_check_title">버전 정보 확인</string>
+  <string name="cit_vga_camera_capture">카메라</string>
+  <string name="cit_vga_camera_capture_fail">사진 촬영에 실패</string>
+  <string name="cit_vga_camera_delete">삭제</string>
+  <string name="cit_vga_camera_deleted">사진 삭제됨</string>
+  <string name="cit_vibrator_check_summary">진동(짧은 진동과 긴 진동)이 정상적으로 작동하는 지 확인하십시오.</string>
+  <string name="cit_vibrator_check_title">진동</string>
+  <string name="cit_vibrator_don_don_chat">Don-Don-Chat</string>
+  <string name="cit_vibrator_haptic">햅틱</string>
+  <string name="cit_vibrator_load_down_pattern">하강 패턴</string>
+  <string name="cit_vibrator_load_up_pattern">상승 패턴</string>
+  <string name="cit_vibrator_long">긴 진동</string>
+  <string name="cit_vibrator_play_touch_pattern">진동</string>
+  <string name="cit_vibrator_short">짧은 진동</string>
+  <string name="cit_vibrator_show_advanced">고급 옵션 보이기</string>
+  <string name="cit_wifi_address_check_summary">아래 주소는 현재 기기가 연결된 Wi-Fi 네트워크 주소입니다. 초록색으로 강조된 정보가 정확한지 확인하십시오.</string>
+  <string name="cit_wifi_address_check_title">Wi-Fi 주소</string>
+  <string name="cit_wifi_address_error">Wi-Fi 주소를 가져오지 못했습니다. Wi-Fi가 활성화되었는지 확인하십시오.</string>
+  <string name="cit_wifi_ap_scan_check_summary">아래 목록은 기기 근처에서 검색된 Wi-Fi AP입니다. 초록색으로 강조된 정보가 정확한지 확인하십시오.</string>
+  <string name="cit_wifi_ap_scan_check_title">Wi-Fi AP 스캔</string>
+  <string name="cit_wifi_ap_scan_retry">다시 스캔 중…</string>
+  <string name="cit_wifi_ap_scanning">스캔 중…</string>
+  <string name="cit_wifi_fail_to_scan">네트워크를 스캔하지 못했습니다.</string>
+  <string name="cit_wifi_state_refresh">새로고침</string>
+  <string name="cit_x5_audio_lb_frontmic_to_speaker_title">전면 마이크 스피커 피드백 테스트</string>
+  <string name="cit_x5_audio_lb_summary_frontmic_to_speaker">"전면 마이크 스피커 피드백 테스트.
 
-화면을 터치하여 GPS를 켜십시오…"</string>
-    <string name="cit_gps_satellite_count">위성 개수: %d</string>
-    <string name="cit_gps_satellite_prn">Prn: %s</string>
-    <string name="cit_gps_satellite_snr">Snr: %s</string>
-    <string name="cit_gps_first_fix_time">Fixed_time: %s</string>
-    <string name="cit_gps_location">위치: %s</string>
-    <string name="cit_lcdlight_brightness">백라이트</string>
-    <string name="cit_lcdlight_brightness_max">최대</string>
-    <string name="cit_lcdlight_brightness_min">최소</string>
-    <string name="cit_batterylight_rgb">배터리 표시등</string>
-    <string name="cit_batterylight_red">빨간색</string>
-    <string name="cit_batterylight_green">초록색</string>
-    <string name="cit_batterylight_blue">파란색</string>
-    <string name="cit_torch_on">플래시 라이트 켜기</string>
-    <string name="cit_torch_off">플래시 라이트 끄기</string>
-    <string name="cit_blue_torch_on">블루 손전등 켜기</string>
-    <string name="cit_yellow_torch_on">옐로우 손전등 켜기</string>
-    <string name="cit_button_light_on">버튼 표시등 켜짐</string>
-    <string name="cit_button_light_off">버튼 표시등 꺼짐</string>
-    <string name="cit_notificationlight">알림 표시등</string>
-    <string name="cit_notificationlight_off">알림 표시등 꺼짐</string>
-    <string name="cit_notificationlight_on">알림 표시등 켜짐</string>
-    <string name="cit_keyboard_current">현재 키보드: %s</string>
-    <string name="cit_headset_button_current">현재 버튼: %s</string>
-    <string name="cit_keyboard_back">버튼: 뒤로</string>
-    <string name="cit_keyboard_menu">버튼: 메뉴</string>
-    <string name="cit_kayboard_volume_up">버튼: 볼륨 올림</string>
-    <string name="cit_kayboard_volume_down">버튼: 볼륨 낮춤</string>
-    <string name="cit_fm_not_supported">이 기기는 FM을 지원하지 않습니다.</string>
-    <string name="cit_fm_open_bluetooth">블루투스 실행 중…</string>
-    <string name="cit_fm_open_1">FM 시작 - 88.5</string>
-    <string name="cit_fm_open_2">FM 시작 - 107.9</string>
-    <string name="cit_fm_close">FM 종료</string>
-    <string name="cit_fm_start_service">오디오 시작</string>
-    <string name="cit_fm_audio_path">오디오 경로 구성</string>
-    <string name="cit_fm_audio_path_headset">헤드폰</string>
-    <string name="cit_fm_audio_path_speaker">스피커</string>
-    <string name="cit_start_calibration">보정</string>
-    <string name="cit_stop_calibration">보정 중지</string>
-    <string name="cit_exit_test_title">테스트 종료</string>
-    <string name="cit_exit_test_summary">종료하면, 관련된 모든 텍스트 데이터가 삭제됩니다.</string>
-    <string name="cit_battery_temp_pass">배터리 온도가 정상입니다.</string>
-    <string name="cit_battery_temp_fail">배터리 온도가 정상이 아닙니다(값=%d).</string>
-    <string name="cit_calibration_pass">보정 성공</string>
-    <string name="cit_calibration_fail">보정 실패</string>
-    <string name="cit_tool_log">로그 받아 오기</string>
-    <string name="cit_tool_log_logcat">ADB 로그</string>
-    <string name="cit_tool_enable_3A_log">3A 로그 스위치 활성화됨</string>
-    <string name="cit_tool_log_ril">RIL 로그</string>
-    <string name="cit_tool_log_dmesg">DMESG</string>
-    <string name="cit_tool_log_modem">모뎀 로그</string>
-    <string name="cit_tool_log_kmsg">마지막 커널 로그</string>
-    <string name="cit_tool_log_bugreport">버그 리포트</string>
-    <string name="cit_tool_log_toast">%s에 저장된 로그</string>
-    <string name="cit_tool_log_file_not_exist">%s이(가) 존재하지 않음</string>
-    <string name="cit_tool_log_generate_bugreport">버그 보고서 작성 중…</string>
-    <string name="cit_tool_log_toast_generate_bugreport">버그 보고서 작성 중…(약 1분 소요)</string>
-    <string name="cit_tool_log_no_sdcard">지금 SD카드를 삽입하십시오.</string>
-    <string name="cit_tool_bluetooth">블루투스 테스트 도구</string>
-    <string name="cit_tool_bluetooth_on">블루투스 활성화됨</string>
-    <string name="cit_tool_bluetooth_dut">블루투스 테스트 모드 전환</string>
-    <string name="cit_tool_bluetooth_tx_l">블루투스 BR/EDR 2.402GHz 주파수 테스트 모드 전환</string>
-    <string name="cit_tool_bluetooth_tx_h">블루투스 BR/EDR 2.402GHz 주파수 테스트 모드 전환</string>
-    <string name="cit_tool_bluetooth_le_tx_l">블루투스 LE 2.402GHz 주파수 테스트 모드 전환</string>
-    <string name="cit_tool_bluetooth_le_tx_ch19">블루투스 LE 2.402GHz 주파수 테스트 모드 전환</string>
-    <string name="cit_tool_bluetooth_le_tx_h">블루투스 LE 2.402GHz 주파수 테스트 모드 전환</string>
-    <string name="cit_tool_bluetooth_off">블루투스 비활성화됨</string>
-    <string name="cit_tool_bluetooth_not_on">블루투스가 활성화되어 있지 않습니다.</string>
-    <string name="cit_tool_wifi">와이파이 테스트 도구</string>
-    <string name="cit_tool_wifi_rx_chan">수신: 채널</string>
-    <string name="cit_tool_wifi_tx_bg">송신: a/b/g</string>
-    <string name="cit_tool_wifi_tx_bg_chan">채널:</string>
-    <string name="cit_tool_wifi_tx_bg_txpr">txpower:</string>
-    <string name="cit_tool_wifi_tx_bg_txrt">데이터 속도:</string>
-    <string name="cit_tool_wifi_tx_n">송신: n</string>
-    <string name="cit_tool_wifi_tx_ac">송신: ac</string>
-    <string name="cit_tool_wifi_tx_st">송신: ST</string>
-    <string name="cit_tool_wifi_tx_n_chan">채널:</string>
-    <string name="cit_tool_wifi_tx_n_txpr">txpower:</string>
-    <string name="cit_tool_wifi_tx_n_txrt">데이터 속도: MCS</string>
-    <string name="cit_tool_wifi_txrx_chain_selection">안테나 선택</string>
-    <string name="cit_tool_wifi_chain_1">1</string>
-    <string name="cit_tool_wifi_chain_2">2</string>
-    <string name="cit_tool_wifi_chain_1_2">1+2</string>
-    <string name="cit_tool_wifi_rx_ap">수신: AP</string>
-    <string name="cit_tool_wifi_rx_exit">수신: 종료</string>
-    <string name="cit_tool_wifi_rx_run">시작</string>
-    <string name="cit_tool_wifi_rx_stop">중지</string>
-    <string name="cit_tool_wifi_rx_error">프로그램을 실행하는 동안 오류가 발생했습니다.</string>
-    <string name="cit_tool_wifi_rx_count_error">출력 값이 숫자가 아닙니다.</string>
-    <string name="cit_tool_wifi_rx_ap_name">MT</string>
-    <string name="cit_tool_wifi_exit">종료</string>
-    <string name="cit_tool_wifi_rx_dut_ip">192.168.1.12</string>
-    <string name="cit_tool_wifi_rxbg_test">수신: a/b/g</string>
-    <string name="cit_tool_wifi_rxbg_test_channel">채널:</string>
-    <string name="cit_tool_wifi_rxn_test">수신: n</string>
-    <string name="cit_tool_wifi_rxn_test_channel">채널:</string>
-    <string name="cit_tool_wifi_rxn_test_bw">대역폭:</string>
-    <string name="cit_tool_wifi_tx_n_bandwidth">대역폭:</string>
-    <string name="cit_tool_wifi_tx_st_chan">채널:</string>
+휴대 전화를 뒤집은 후 수신기 위치에서 마이크에 대고 말하십시오. 스피커에서 목소리가 들려야 합니다."</string>
+  <string name="cit_x5_audio_lb_summary_topmic_to_speaker">"상단 마이크 스피커 피드백 테스트. 
+
+휴대 전화를 뒤집은 후, 상단 마이크에 대고 말하십시오. 스피커에서 목소리가 들려야 합니다."</string>
+  <string name="cit_x5_audio_lb_topmic_to_speaker_title">상단 마이크 스피커 피드백 테스트</string>
+  <string name="cit_yellow_torch_on">옐로우 손전등 켜기</string>
 </resources>
