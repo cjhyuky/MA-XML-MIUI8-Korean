@@ -72,4 +72,10 @@
     <plurals name="song_already_favorite">
         <item quantity="other">노래가 즐겨찾기에 추가 되었습니다.</item>
     </plurals>
+    <plurals name="comment_count">
+        <item quantity="other">%d 댓글</item>
+    </plurals>
+    <plurals name="reader_count">
+        <item quantity="other">%d 팔로워</item>
+    </plurals>
 </resources>
