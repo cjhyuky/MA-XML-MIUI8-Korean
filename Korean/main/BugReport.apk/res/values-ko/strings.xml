@@ -22,7 +22,6 @@
   <string name="cta_dialog_content">이 앱을 정상적으로 작동하려면 인터넷 연결이 필요합니다.</string>
   <string name="cta_dialog_title">인터넷 연결</string>
   <string name="cta_not_show_again">다시 표시하지 않기</string>
-  <string name="default_text_view">TextView</string>
   <string name="description">문제 설명</string>
   <string name="dialog_ask_delete">삭제</string>
   <string name="dialog_ask_quit">나가기</string>
