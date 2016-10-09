@@ -652,7 +652,6 @@
   <string name="miprofile_contact_header">연락처 카드에 포함된 연락처들</string>
   <string name="miprofile_contact_meaasge">로컬 연락처</string>
   <string name="miprofile_contact_verifying">승인</string>
-  <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
   <string name="miprofile_edit_title">프로필 편집</string>
   <string name="miprofile_error_accept_self">소유한 연락처 카드를 교환할 수 없습니다.</string>
   <string name="miprofile_error_no_miaccount">Mi 계정에 로그인</string>
