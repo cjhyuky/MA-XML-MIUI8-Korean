@@ -44,6 +44,10 @@
         <item quantity="other">애플리케이션 %1$d개 업데이트 완료</item>
         <item quantity="one">애플리케이션 %1$d개 업데이트 완료</item>
     </plurals>
+    <plurals name="number_of_apps">
+        <item quantity="other">앱 %1$s개</item>
+        <item quantity="one">앱 %1$s개</item>
+    </plurals>
     <plurals name="review_author_stars">
         <item quantity="other">&amp;lt;b>%1$s&amp;lt;/b> 별 %2$s개</item>
         <item quantity="one">&amp;lt;b>%1$s&amp;lt;/b> 별 %2$s개</item>
@@ -68,6 +72,10 @@
         <item quantity="other">&amp;lt;b>별 %1$s개&amp;lt;/b>로 평가했습니다.</item>
         <item quantity="one">&amp;lt;b>별 %1$s개&amp;lt;/b>로 평가했습니다.</item>
     </plurals>
+    <plurals name="review_snippet_count">
+        <item quantity="other">리뷰 %1$s개에 포함</item>
+        <item quantity="one">리뷰 %1$s개에 포함</item>
+    </plurals>
     <plurals name="review_stars_title">
         <item quantity="other">&amp;lt;b>별 %1$s개&amp;lt;/b> %2$s</item>
         <item quantity="one">&amp;lt;b>별 %1$s개&amp;lt;/b> %2$s</item>
@@ -80,9 +88,9 @@
         <item quantity="other">최근 사용: %1$d일 전</item>
         <item quantity="one">최근 사용: %1$d일 전</item>
     </plurals>
-    <plurals name="setup_wizard_selected_apps">
-        <item quantity="other">선택한 앱</item>
-        <item quantity="one">선택한 앱</item>
+    <plurals name="setup_wizard_restore_selected_apps">
+        <item quantity="other">선택한 앱 %1$d개 복원</item>
+        <item quantity="one">선택한 앱 복원</item>
     </plurals>
     <plurals name="stars_without_numbers">
         <item quantity="other">별</item>
@@ -91,5 +99,13 @@
     <plurals name="tip_header_subtitle">
         <item quantity="other">%1$s명의 의견</item>
         <item quantity="one">%1$s명의 의견</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_days">
+        <item quantity="other">최근 사용: %1$d일 전</item>
+        <item quantity="one">최근 사용: %1$d일 전</item>
+    </plurals>
+    <plurals name="uninstall_manager_last_used_months">
+        <item quantity="other">최근 사용: %1$d개월 전</item>
+        <item quantity="one">최근 사용: %1$d개월 전</item>
     </plurals>
 </resources>
