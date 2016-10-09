@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="account_user_gender_name">
+        <item>남성</item>
+        <item>여성</item>
+    </string-array>
     <string-array name="education">
         <item>중학교</item>
         <item>초등학교</item>
