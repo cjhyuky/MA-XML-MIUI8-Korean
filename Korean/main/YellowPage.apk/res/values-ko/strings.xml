@@ -160,7 +160,6 @@
     <string name="recharge_input_phone_title">전화번호 입력(China Mobile, China Unicom, China Telecom)</string>
     <string name="recharge_select_money_title">충전량 선택</string>
     <string name="recharge_charge_range">가격: %1$s-%2$sRMB</string>
-    <string name="recharge_charge_value">가격: %sRMB</string>
     <string name="recharge_pay">지금 충전</string>
     <string name="mishop_web_payment_title">Mi 스토어 계산</string>
     <string name="recharge_pay_hint_license">충전 알림</string>
@@ -334,7 +333,6 @@
     <string name="balance_inquiry_send_sms_hint">귀하의 잔액을 확인하기 위해 통신사로 SMS가 전송됩니다.</string>
     <string name="balance_inquiry_send_sms_summmary">잔액 확인</string>
     <string name="balance_inquiry_send_sms_fail_hint">잔액을 확인하지 못했습니다.</string>
-    <string name="navigation_search_default_hint">위치 검색</string>
     <string name="navigation_search_automatically_positioned_city">현재 도시</string>
     <string name="navigation_search_positioning">위치 찾는 중…</string>
     <string name="navigation_search_positioning_failed">도시 선택</string>

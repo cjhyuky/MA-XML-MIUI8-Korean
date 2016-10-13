@@ -76,11 +76,6 @@
         <item>기기가 잠겨있을 때나 앱에서 나갔을 때</item>
         <item>기기가 잠겨있을 때나 앱에서 나간지 1분 안에</item>
     </string-array>
-    <string-array name="lock_mode_value">
-        <item>1</item>
-        <item>0</item>
-        <item>2</item>
-    </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>1분 후</item>
         <item>5분 후</item>
@@ -122,10 +117,5 @@
         <item>진동하지 않음</item>
         <item>무음 설정 시 진동</item>
         <item>항상 진동</item>
-    </string-array>
-    <string-array name="power_dialog_vibration_items_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
 </resources>

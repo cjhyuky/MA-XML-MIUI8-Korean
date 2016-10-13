@@ -600,10 +600,7 @@
     <string name="pref_captioning_typeface">글꼴 모음</string>
     <string name="pref_captioning_preview_text">자막이 다음과 같이 표시됩니다.</string>
     <string name="pref_captioning_preview_characters">Aa</string>
-    <string name="locale_default">기본값</string>
     <string name="color_none">없음</string>
-    <string name="color_default">기본값</string>
-    <string name="edge_type_default">기본값</string>
     <string name="share">공유</string>
     <string name="share_subject">"'%1$s' 확인"</string>
     <string name="download_progress_text">%1$s(%2$s/%3$s)</string>

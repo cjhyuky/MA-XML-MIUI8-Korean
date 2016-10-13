@@ -6,7 +6,6 @@
     <string name="sina_token_expired_warning">Weibo 계정이 만료되었습니다. 계정을 다시 연동하십시오.</string>
     <string name="sina_token_invalid_warning">Weibo 계정이 유효하지 않습니다. 계정을 다시 연동하십시오.</string>
     <string name="sina_share_fail_content_repeat">공유에 실패하였습니다. 콘텐트가 이미 존재합니다.…</string>
-    <string name="search_title_notes">@string/app_name</string>
     <string name="search_keyword_notes">노트;메모</string>
     <string name="search_path_notes">시스템 앱/메모</string>
     <string name="dlg_move_message">이동 중…</string>

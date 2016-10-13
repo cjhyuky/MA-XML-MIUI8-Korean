@@ -278,12 +278,6 @@
 민감한 정보는 외부 저장소에 저장됩니다. 이 옵션을 변경하면 앱이 완전히 종료됩니다."</string>
     <string name="debug_logs_summary">디버그 로그 사용</string>
     <string name="debug_logs_title">디버그 로그 사용</string>
-    <string name="default_album_radio_description">%1$s에서 방송되는 음악과 유사한 음악 듣기</string>
-    <string name="default_artist_radio_description">%1$s와(과) 유사한 아티스트의 음악 듣기</string>
-    <string name="default_genre_radio_description">인기 %1$s 음악 듣기</string>
-    <string name="default_playlist_label">재생목록</string>
-    <string name="default_playlist_radio_description">%1$s에서 방송되는 음악과 유사한 음악 듣기</string>
-    <string name="default_track_radio_description">%1$s와(과) 유사한 음악 듣기</string>
     <string name="delete">삭제</string>
     <string name="delete_my_device_error_msg">선택한 기기를 승인 취소하지 못했습니다.</string>
     <string name="delete_playlist_button_confirm">삭제</string>
@@ -434,7 +428,6 @@
     <string name="info_card_try_search">검색</string>
     <string name="install_play_store">Play 스토어를 열 수 없습니다.</string>
     <string name="instant_mix_added_to_library">%s 믹스가 내 라이브러리에 추가되었습니다.</string>
-    <string name="instant_mix_default_name">%s 믹스</string>
     <string name="instant_mix_tag">인스턴트 믹스</string>
     <string name="instant_mixes_my_mixes_title">내 믹스</string>
     <string name="instant_mixes_recent_mixes_title">최근 믹스</string>

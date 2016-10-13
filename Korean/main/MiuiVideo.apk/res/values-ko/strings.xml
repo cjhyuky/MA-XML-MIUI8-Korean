@@ -236,7 +236,6 @@
   <string name="not_buy_vip">vip가 아닙니다</string>
   <string name="not_exist_openid">계정 정보 가져오는중, 잠시만 기다려주세요...</string>
   <string name="not_login">로그인 되지 않음</string>
-  <string name="notification_default_title">오프라인 비디오</string>
   <string name="notification_sub_title">총 %d개의 다운로드가 완료됨</string>
   <string name="notification_ticker_text">오프라인 비디오 다운로드 완료</string>
   <string name="notification_title">\"%s\" 다운로드 완료</string>
