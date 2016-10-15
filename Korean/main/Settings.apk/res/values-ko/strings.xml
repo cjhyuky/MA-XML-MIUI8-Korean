@@ -3552,7 +3552,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="battery_indicator_style">배터리 표시기</string>
     <string name="power_usage_history">배터리 사용</string>
     <string name="default_usb_mode">USB 연결</string>
-    <string name="wifi_tether_settings_title">개인 핫스팟</string>
+    <string name="wifi_tether_settings_title">개인용 핫스팟</string>
     <string name="tether_and_hotspot_title">테더링 및 핫스팟</string>
     <string name="lock_settings">잠금화면 &amp; 비밀번호</string>
     <string name="second_space">보조 공간</string>
