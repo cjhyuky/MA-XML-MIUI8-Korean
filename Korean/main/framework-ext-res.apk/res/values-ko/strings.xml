@@ -115,7 +115,7 @@
   <string name="status_bar_toggle_lock">잠금</string>
   <string name="status_bar_toggle_midrop">Mi 드롭</string>
   <string name="status_bar_toggle_mute">무음</string>
-  <string name="status_bar_toggle_paper_mode">읽기 모드</string>
+  <string name="status_bar_toggle_paper_mode">독서 모드</string>
   <string name="status_bar_toggle_power_mode">성능</string>
   <string name="status_bar_toggle_quiet_mode">방해 금지 모드</string>
   <string name="status_bar_toggle_rotate">화면 회전 꺼짐</string>
