@@ -236,7 +236,7 @@
   <string name="compose_attachment_number_limit">10개 이상의 첨부 파일을 추가할 수 없습니다.</string>
   <string name="compose_picturesexceedlimits">메시지에 인라인 이미지 5개를 초과할 수 없습니다.</string>
   <string name="compose_send">전송</string>
-  <string name="compose_sent">일 전송됨</string>
+  <string name="compose_sent">메일 전송됨</string>
   <string name="confirm">확인</string>
   <string name="confirm_before_delete">삭제 전 확인</string>
   <string name="confirm_before_delete_keywords">삭제 전 확인;삭제 확인</string>
