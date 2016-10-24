@@ -31,13 +31,13 @@
     </string-array>
     <string-array name="alarm_set">
         <item>알람이 1분 안에 종료될 것입니다.</item>
-        <item>알람이 %1$s일 후 종료될 것입니다.</item>
-        <item>알람이 %2$s시간 후 종료될 것입니다.</item>
-        <item>알람이 %1$s일 %2$s시간 후 종료될 것입니다.</item>
-        <item>알람이 %3$s분 후 종료될 것입니다.</item>
-        <item>알람이 %1$s일 %3$s분 후에 종료될 것입니다.</item>
-        <item>알람이 %2$s시간 %3$s분 후에 종료될 것입니다.</item>
-        <item>알람이 %1$s일 %2$s시간 %3$s분 후에 종료될 것입니다.</item>
+        <item>알람이 %1$s 후 종료될 것입니다.</item>
+        <item>알람이 %2$s 후 종료될 것입니다.</item>
+        <item>알람이 %1$s %2$s 후 종료될 것입니다.</item>
+        <item>알람이 %3$s 후 종료될 것입니다.</item>
+        <item>알람이 %1$s %3$s 후에 종료될 것입니다.</item>
+        <item>알람이 %2$s %3$s 후에 종료될 것입니다.</item>
+        <item>알람이 %1$s %2$s %3$s 후에 종료될 것입니다.</item>
     </string-array>
     <string-array name="snooze_duration_entries">
         <item>1분</item>
