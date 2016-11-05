@@ -128,7 +128,7 @@
   <string name="account_setup_options_mail_window_auto">자동</string>
   <string name="account_setup_options_mail_window_default">계정 기본값 사용</string>
   <string name="account_setup_options_mail_window_label">동기화할 메일이 있는 메일함</string>
-  <string name="account_setup_options_mail_window_label_imap_or_pop3">에 대한 유지</string>
+  <string name="account_setup_options_mail_window_label_imap_or_pop3">동기화할 기간 설정</string>
   <string name="account_setup_options_title">계정 설정</string>
   <string name="account_setup_outgoing_port_label">포트</string>
   <string name="account_setup_outgoing_require_login_label">로그인 필요</string>
