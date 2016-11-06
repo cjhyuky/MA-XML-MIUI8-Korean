@@ -192,7 +192,7 @@
     <string name="attach_slideshow">슬라이드 쇼</string>
     <string name="select_bottom_text">꼬릿말</string>
     <string name="select_top_text">머릿말</string>
-    <string name="delivery_toast_body">%s이(가) 수신한 메시지</string>
+    <string name="delivery_toast_body">상대방이 메시지 확인함. 수신자:%s</string>
     <string name="notification_multiple">[%s]</string>
     <string name="notification_multiple_title">새 메시지</string>
     <string name="notification_failed_multiple">%s개의 메시지를 전송하지 못했습니다.</string>
