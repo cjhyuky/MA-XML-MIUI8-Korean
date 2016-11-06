@@ -13,7 +13,7 @@
   <string name="clear_history">기록 지우기</string>
   <string name="convert_currency">환율 변환기</string>
   <string name="convertion_unit">단위 변환기</string>
-  <string name="convertion_unit_area">지역 변환기</string>
+  <string name="convertion_unit_area">면적 변환기</string>
   <string name="convertion_unit_length">길이 변환기</string>
   <string name="convertion_unit_temperature">온도 변환기</string>
   <string name="convertion_unit_time">시간 변환기</string>
@@ -52,7 +52,7 @@
   <string name="from_unit_en">km/시간</string>
   <string name="from_unit_short">km/h</string>
   <string name="item_title_aa_payment">더치페이</string>
-  <string name="item_title_area_conversion">지역</string>
+  <string name="item_title_area_conversion">면적</string>
   <string name="item_title_calculator">계산기</string>
   <string name="item_title_currency">환율 전환</string>
   <string name="item_title_dress_size">의류 사이즈</string>
