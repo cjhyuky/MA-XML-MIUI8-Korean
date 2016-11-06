@@ -88,7 +88,7 @@
   <string name="shutdown_alarm_enable_summary">전원이 꺼진 후 알람이 울릴 것 입니다.</string>
   <string name="shutdown_alarm_title">알람 종료</string>
   <string name="silent_alarm_summary">무음</string>
-  <string name="skip_alarm_date_format">%1$s(%2$s)</string>
+  <string name="skip_alarm_date_format">%1$s일(%2$s)</string>
   <string name="skip_alarm_once_hint">%s 한번만 끄기</string>
   <string name="slider_text">위로 스와이프하여 무음 설정</string>
   <string name="snooze_confirm_cancel">알람 취소</string>
