@@ -16,10 +16,6 @@
         <item>왼쪽</item>
         <item>오른쪽</item>
     </string-array>
-    <string-array name="cell_layout_size_entries">
-        <item>4x4</item>
-        <item>4x5</item>
-    </string-array>
     <string-array name="gadget_weather_theme_type_entries">
         <item>기본값</item>
         <item>클래식</item>
@@ -50,14 +46,5 @@
         <item>우박</item>
         <item>미세 먼지</item>
         <item>아지랑이</item>
-    </string-array>
-    <string-array name="editing_mode_entries">
-        <item>앱 이동</item>
-        <item>위젯</item>
-        <item>배경 화면</item>
-        <item>효과</item>
-    </string-array>
-    <string-array name="quality_business_devices">
-        <item>리튬</item>
     </string-array>
 </resources>
