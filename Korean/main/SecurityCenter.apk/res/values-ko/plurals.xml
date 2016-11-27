@@ -45,6 +45,18 @@
     <plurals name="app_check_title_text">
         <item quantity="other">%d개 항목 최적화 가능</item>
     </plurals>
+    <plurals name="people">
+        <item quantity="other">%1$d명의 사람이 다운로드함</item>
+    </plurals>
+    <plurals name="people_million">
+        <item quantity="other">%1$d명의 사람이 다운로드함</item>
+    </plurals>
+    <plurals name="million">
+        <item quantity="other">%1$d명의 사람이 다운로드함</item>
+    </plurals>
+    <plurals name="view_num">
+        <item quantity="other">%1$d 조회</item>
+    </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d개 항목 안전</item>
     </plurals>
@@ -71,6 +83,18 @@
     </plurals>
     <plurals name="summary_app_update">
         <item quantity="other">%d개 앱 업데이트 가능</item>
+    </plurals>
+    <plurals name="hints_handle_item_text_risk_number">
+        <item quantity="other">%d개 위협,</item>
+    </plurals>
+    <plurals name="hints_handle_item_text_virus_number">
+        <item quantity="other">%d개 트로이 목마,</item>
+    </plurals>
+    <plurals name="hints_scan_result_virus_number">
+        <item quantity="other">%d개 위협</item>
+    </plurals>
+    <plurals name="hints_scan_result_danger">
+        <item quantity="other">%d개 위협 발견, 지금 고치세요</item>
     </plurals>
     <plurals name="notification_apps">
         <item quantity="other">%d개 앱이 개인정보 보안을 위협하고 있습니다.</item>
@@ -104,6 +128,9 @@
     </plurals>
     <plurals name="found_apps_title">
         <item quantity="other">%d개 앱 발견됨</item>
+    </plurals>
+    <plurals name="sp_settings_exception_count">
+        <item quantity="other">%d개 항목</item>
     </plurals>
     <plurals name="sp_back_title_text">
         <item quantity="other">%s개 지불 위험</item>
