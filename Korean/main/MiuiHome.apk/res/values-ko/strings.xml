@@ -61,10 +61,11 @@
     <string name="editing_tips">홈 화면 편집</string>
     <string name="editing_mode_title">%1$d개 선택됨</string>
     <string name="editing_mode_title_empty">0개 선택됨</string>
-    <string name="multi_selecting_tips">앱을 가져오려면 앱 아이콘을 터치하십시오.</string>
+    <string name="multi_selecting_tips">앱을 옮기려면 아이콘을 드래그해 여기에 놓으세요</string>
     <string name="editing_add_widget_tips">위젯 편집</string>
     <string name="editing_set_wallpaper_tips">배경 화면 선택</string>
     <string name="editing_set_transition_effect_tips">화면 전환 효과 선택</string>
+    <string name="editing_set_screen_layout_cells">화면 레이아웃 효과 선택</string>
     <string name="cant_remove_system_app">시스템 앱은 제거할 수 없습니다.</string>
     <string name="cant_remove_retained_app">이 앱을 제거하지 못했습니다.</string>
     <string name="uninstall_dialog_message">설치 제거하면 앱의 모든 데이터가 삭제됩니다.</string>
@@ -268,4 +269,5 @@
     <string name="no_detail_page">세부 정보 페이지 없음</string>
     <string name="notification_installed">설치 성공</string>
     <string name="notification_open_button">열기</string>
+    <string name="toast_screen_icons_misplaced">다른 데이터베이스에서 복원，몇몇 아이콘이 잘못 배치될 수 있습니다</string>
 </resources>
