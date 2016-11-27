@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="launcher_title">시스템 런처</string>
+    <string name="defalut_launcher_title">기본 런처</string>
+    <string name="miui_screen_config_title">MIUI 런처 화면 설정</string>
+    <string name="launcher_auto_fill_empty_title">빈공간 자동 채우기</string>
+    <string name="lock_screen_cells_title">화면 구성 잠금</string>
+    <string name="screen_cells_config_title">화면 구성 설정</string>
     <string name="wifi_fail_to_scan">네트워크를 검색할 수 없습니다.</string>
     <string name="wifi_security_none">없음</string>
     <string name="wifi_remembered">저장됨</string>
