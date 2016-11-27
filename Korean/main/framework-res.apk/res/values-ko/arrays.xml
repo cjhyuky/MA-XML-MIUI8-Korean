@@ -26,7 +26,7 @@
         <item>모바일</item>
         <item>회사</item>
         <item>회사 팩스</item>
-        <item>집 팩스</item>
+        <item>집(팩스)</item>
         <item>호출기</item>
         <item>기타</item>
         <item>맞춤설정</item>
@@ -37,10 +37,6 @@
         <item>기타</item>
         <item>맞춤설정</item>
     </string-array>
-    <array name="wfcOperatorErrorAlertMessages" />
-    <array name="wfcOperatorErrorNotificationMessages" />
-    <array name="fingerprint_acquired_vendor" />
-    <array name="fingerprint_error_vendor" />
     <string-array name="imAddressTypes">
         <item>집</item>
         <item>회사</item>
