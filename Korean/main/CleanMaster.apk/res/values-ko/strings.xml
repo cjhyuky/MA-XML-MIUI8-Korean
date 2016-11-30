@@ -43,7 +43,7 @@
     <string name="button_text_install">설치</string>
     <string name="empty_title_installed_apps">비어 있음</string>
     <string name="button_text_backup_uninstall">백업 우선</string>
-    <string name="button_text_uninstall_only">%s개 설치 제거</string>
+    <string name="button_text_uninstall_only">%s 설치 제거</string>
     <string name="empty_title_large_files">비어 있음</string>
     <string name="button_text_uninstall">설치 제거</string>
     <string name="pref_category_title_cleanup_white_list">예외</string>
