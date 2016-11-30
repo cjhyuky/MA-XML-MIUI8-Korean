@@ -24,9 +24,9 @@
         <item>1 GB</item>
     </string-array>
     <string-array name="auto_process_mode">
-        <item>보이기</item>
-        <item>보이지 않기</item>
-        <item>이후 보이기</item>
+        <item>알림만</item>
+        <item>자동 정리</item>
+        <item>정리 후 알림</item>
     </string-array>
     <string-array name="cache_clean_menu">
         <item>이 파일을 지우기</item>
@@ -65,8 +65,5 @@
     <string-array name="scan_engine">
         <item>Clean Master</item>
         <item>Tencent</item>
-    </string-array>
-    <string-array name="low_memory_clean_menu">
-        <item>정리</item>
     </string-array>
 </resources>
