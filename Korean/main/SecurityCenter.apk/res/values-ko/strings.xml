@@ -163,6 +163,7 @@
     <string name="datausage_ignore_app_list_count">%d개 앱의 데이터 사용량 무시하기</string>
     <string name="free_traffic_settings">오프 피크 데이터 사용량 설정</string>
     <string name="free_time_traffic">오프 피크 데이터 한도</string>
+    <string name="power_save_on_time_default_time_na">00:00</string>
     <string name="power_save_on_time_start_time_summary_na">시작시간</string>
     <string name="power_save_on_time_end_time_summary_na">종료시간</string>
     <string name="manual_input_traffic">데이터 사용량 설정</string>
@@ -491,6 +492,9 @@
     <string name="tc_diagnostic_onekey_repair_botton">수정</string>
     <string name="tc_diagnostic_repair_and_continue">수정 및 계속</string>
     <string name="tc_diagnostic_upload_button">리포트</string>
+    <string name="tc_diagnostic_fragment_default">"진단에 대해서
+1. 기기가 통신사 네트워크 연결을 위해 무료 메시지를 전송하고 응답을 기다립니다. 5분 정도 소요될 것입니다.
+2. 이 진단 과정은 백그라운드에서 실행되기 때문에 이 페이지를 나가셔도 됩니다."</string>
     <string name="sim_location_diagnostic">위치 진단</string>
     <string name="operator_diagnostic">통신사 진단</string>
     <string name="brand_diagnostic">통신사 브랜드 유형 진단</string>
@@ -891,6 +895,7 @@
     <string name="memory_check_content">사용가능 %s</string>
     <string name="memory_check_content_none">비어 있음</string>
     <string name="system_check_content_none">안전</string>
+    <string name="cache_check_content_none">@string/memory_check_content_none</string>
     <string name="system_header_title">%1$d 프로세스 제거하여 %2$s 메모리 확보</string>
     <string name="cache_header_title">%1$d 캐시된 파일을 제거하여 %2$s 여유 공간 확보</string>
     <string name="activity_title_virus">바이러스</string>
@@ -1328,6 +1333,7 @@
     <string name="card_main_monthreport_action">보기</string>
     <string name="card_main_speeddetail_title">연결 속도</string>
     <string name="card_main_speeddetailt_summary">개별 앱에 대한 연결 속도 보기</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">네트워크 테스트</string>
     <string name="card_main_netcheck_summary">휴대전화 네트워크 문제 세부 진단</string>
     <string name="card_main_netcheck_action">테스트</string>
@@ -1611,9 +1617,13 @@
     <string name="sys_app_prot_cracked_confirm">알겠습니다</string>
     <string name="sys_app_prot_cracked_login">Mi 계정에 로그인하세요.</string>
     <string name="confirmSecondSpacePassword">보조 공간 비밀번호 확인</string>
+    <string name="power_center_auto_shutdown_summary_default">예약된 시간에 기기 전원 켜짐 또는 꺼짐</string>
+    <string name="power_center_custom_summary_default">사용자 프로필로 배터리 수명 개선</string>
     <string name="power_center_low_battery_title">배터리 절약</string>
+    <string name="power_center_low_battery_summary_default">배터리 부족 시 프로필 전환</string>
     <string name="power_center_low_battery_summary_dynamic">%1$d%% 시 %2$s로 전환</string>
     <string name="power_center_on_time_title">프로필 전환 예약</string>
+    <string name="power_center_on_time_summary_default">예약된 시간에 배터리 프로필 전환</string>
     <string name="power_center_on_time_summary_dynamic">%1$s - %2$s을(를) %3$s(으)로 전환</string>
     <string name="power_chooser_title">배터리 프로필</string>
     <string name="power_chooser_check_box_title">프로필 선택</string>
@@ -1692,6 +1702,7 @@
     <string name="power_dialog_screen_brightness_automatic_on">화면 밝기를 주변 빛에 따라 변경</string>
     <string name="power_dialog_delete_dialog_title">프로필 삭제</string>
     <string name="power_dialog_delete_dialog_delete">이 배터리 프로필을 삭제하시겠습니까?</string>
+    <string name="power_dialog_delete_dialog_cannot_delete_default">현재 이 프로필을 사용 중입니다.</string>
     <string name="power_dialog_delete_dialog_cannot_delete_low_battery">이 기기는 배터리가 부족할 때 이 프로필로 전환하도록 설정되었습니다. 이 프로필을 삭제하기 전에 배터리 프로필 설정을 변경해야 합니다.</string>
     <string name="power_dialog_delete_dialog_cannot_delete_is_my_mode">이 기기는 배터리가 부족할 때 이 프로필로 전환하도록 설정되었습니다. 이 프로필을 삭제하기 전에 배터리 프로필 설정을 변경해야 합니다.</string>
     <string name="power_dialog_delete_dialog_cannot_delete_on_time">이 기기는 나중에 이 프로필로 전환하도록 예약되어 있습니다. 이 프로필을 삭제하기 전에 배터리 프로필 설정을 변경해야 합니다.</string>
