@@ -777,6 +777,7 @@
     <string name="dtmf_tone_enable_title">다이얼패드 신호음</string>
     <string name="sound_effects_enable_title">터치음</string>
     <string name="lock_sounds_enable_title">화면 잠금 사운드</string>
+    <string name="charging_sounds_title">충전음</string>
     <string name="haptic_feedback_enable_title">터치 시 진동</string>
     <string name="audio_record_proc_title">소음 제거</string>
     <string name="volume_media_description">음악, 동영상, 게임, 기타 미디어</string>
