@@ -8,9 +8,12 @@
   <string name="cal_text_copied">텍스트 복사됨</string>
   <string name="choose_currency">환율 선택</string>
   <string name="choose_unit">단위 선택</string>
+  <string name="city">도시</string>
   <string name="clear">C</string>
   <string name="clearDesc">지우기</string>
   <string name="clear_history">기록 지우기</string>
+  <string name="combine_loan">결합 대출</string>
+  <string name="commercial_loan">상업 대출</string>
   <string name="convert_currency">환율 변환기</string>
   <string name="convertion_unit">단위 변환기</string>
   <string name="convertion_unit_area">면적 변환기</string>
@@ -23,6 +26,8 @@
   <string name="cos">cos</string>
   <string name="cosDesc">코사인</string>
   <string name="currency_update_time_format">환율 데이터는 HuXun에 의해 제공됨 (%s)</string>
+  <string name="dateformat">yyyy년MM월dd일</string>
+  <string name="day">일</string>
   <string name="del">DEL</string>
   <string name="digit0">0</string>
   <string name="digit1">1</string>
@@ -51,6 +56,7 @@
   <string name="from_unit">km/h</string>
   <string name="from_unit_en">km/시간</string>
   <string name="from_unit_short">km/h</string>
+  <string name="home_title_calculator">계산기</string>
   <string name="item_title_aa_payment">더치페이</string>
   <string name="item_title_area_conversion">면적</string>
   <string name="item_title_calculator">계산기</string>
@@ -116,8 +122,8 @@
   <string name="mortgage_years_amount">담보 대출 기간</string>
   <string name="mul">×</string>
   <string name="mulDesc">곱하기</string>
-  <string name="network_confirm_content">"Currency converter, tax and mortgage calculators need to use your device's network connection and location service to work normally."</string>
-  <string name="network_confirm_title">Authority required</string>
+  <string name="network_confirm_content">"환율 변환기, 세금 및 모기지 계산기는 정상적으로 작동하려면 장치의 네트워크 연결 및 위치 서비스를 사용해야합니다."</string>
+  <string name="network_confirm_title">권한이 필요함</string>
   <string name="percentage">%</string>
   <string name="pi">π</string>
   <string name="piDesc">파이</string>
@@ -125,6 +131,9 @@
   <string name="plusDesc">플러스</string>
   <string name="power">^</string>
   <string name="powerDesc">전원</string>
+  <string name="preference_settings">계산기 설정</string>
+  <string name="preference_use_degress_summary">라디안을 삼각 함수의 각도로 대체합니다.</string>
+  <string name="preference_use_degress_title">앵글 사용</string>
   <string name="rate_data_provider">이율 데이터는 huxun.com에서 제공됨</string>
   <string name="rightParen">)</string>
   <string name="rightParenDesc">오른쪽 괄호</string>
