@@ -602,7 +602,7 @@
   <string name="power_on">켜있음</string>
   <string name="press_to_continue_match">탭하여 계속하기</string>
   <string name="press_to_match">탭하여 연결</string>
-  <string name="privacy_content">Xiaomi의 &lt;a href="http://www.miui.com/res/doc/privacy/en.html"&gt;&amp;#44060;&amp;#51064; &amp;#51221;&amp;#48372; &amp;#48372;&amp;#54840; &amp;#51221;&amp;#52293;&lt;/a&gt;&amp;#44284; &lt;a href="http://www.miui.com/res/doc/eula/en.html"&gt;&amp;#51060;&amp;#50857; &amp;#50557;&amp;#44288;&lt;/a&gt;&amp;#51012; Mi &amp;#47532;&amp;#47784;&amp;#53944; &amp;#49324;&amp;#50857; &amp;#51204;&amp;#50640; &amp;#54869;&amp;#51064;&amp;#54644;&amp;#51452;&amp;#49901;&amp;#49884;&amp;#50724;. &amp;#51064;&amp;#53552;&amp;#45367; &amp;#51217;&amp;#49549;&amp;#44284; &amp;#50948;&amp;#52824; &amp;#49436;&amp;#48708;&amp;#49828; &amp;#51217;&amp;#44540;&amp;#51008; &amp;#50545;&amp;#51032; &amp;#51221;&amp;#49345;&amp;#51201;&amp;#51064; &amp;#51089;&amp;#46041;&amp;#51012; &amp;#50948;&amp;#54644; &amp;#50836;&amp;#44396;&amp;#46121;&amp;#45768;&amp;#45796;.</string>
+  <string name="privacy_content">이 기능을 사용하시면 저희의 &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;이용 약관&lt;/a&gt; 과 &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;개인 보호 보호 정책&lt;/a&gt;에 동의하시는 것입니다. 이 기능의 정상적인 작동을 위해 인터넷 연결이 필요합니다.</string>
   <string name="privacy_nohit">다시 보지 않기</string>
   <string name="privacy_title">이용 약관</string>
   <string name="program_booking_book_filter_book_status">예약 상태</string>
