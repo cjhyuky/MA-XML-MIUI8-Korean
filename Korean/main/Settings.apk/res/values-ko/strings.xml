@@ -469,9 +469,9 @@
     <string name="device_admin_title">기기 관리</string>
     <string name="manage_device_admin">기기 관리자</string>
     <string name="manage_device_admin_summary">기기 관리자 보기 또는 비활성화</string>
-    <string name="manage_trust_agents">Trust Agent</string>
+    <string name="manage_trust_agents">검증된 에이전트</string>
     <string name="disabled_because_no_backup_security">이 기능을 사용하려면 먼저 화면 잠금을 설정하세요.</string>
-    <string name="manage_trust_agents_summary">Trust Agent 조회 또는 비활성화</string>
+    <string name="manage_trust_agents_summary">검증된 에이전트 조회 또는 비활성화</string>
     <string name="bluetooth_quick_toggle_title">블루투스</string>
     <string name="bluetooth_quick_toggle_summary">블루투스 켜기</string>
     <string name="bluetooth_settings">블루투스</string>
