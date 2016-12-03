@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="launcher_title">시스템 런처</string>
+    <string name="defalut_launcher_title">기본 런처</string>
+    <string name="miui_screen_config_title">홈 화면 설정</string>
+    <string name="launcher_auto_fill_empty_title">빈공간 자동채우기</string>
+    <string name="lock_screen_cells_title">홈 화면구성 잠금</string>
+    <string name="screen_cells_config_title">홈 화면구성</string>
     <string name="status_bar_and_notification_bar">드롭 다운 메뉴와 상태 표시줄</string>
     <string name="status_bar_settings_manage_notification">앱 알림</string>
     <string name="status_bar_settings_all_app_display_loading">잠시 기다려 주십시오…</string>
