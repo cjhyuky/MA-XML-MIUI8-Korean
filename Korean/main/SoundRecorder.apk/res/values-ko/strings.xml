@@ -1,12 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="alert_message_clear_records">선택한 녹음을 삭제하시겠습니까?</string>
   <string name="alert_message_delete_record">선택한 녹음을 삭제하시겠습니까?</string>
   <string name="alert_message_delete_record_title">녹음 파일을 삭제하시겠습니까?</string>
   <string name="app_name">녹음기</string>
   <string name="back">뒤로</string>
+  <string name="btn_clear_records">녹음 삭제 (%d개 항목)</string>
   <string name="button_queue_for_wifi">대기</string>
   <string name="button_start_now">다운로드</string>
   <string name="call_record">녹음된 통화(%d)</string>
+  <string name="choose_call_records_count">%d개 항목</string>
+  <string name="clear_records">동기화된 녹음 삭제</string>
   <string name="cloud_record">%d 동기화됨</string>
   <string name="cloud_record_open">녹음파일 동기화</string>
   <string name="cloud_record_tip">Mi 클라우드로 녹음파일을 동기화하세요.</string>
@@ -35,11 +39,11 @@
   <string name="error_sdcard_unmounted">지금 SD 카드 삽입</string>
   <string name="export_to_note">메모로 내보내기</string>
   <string name="fm_record">라디오 녹음(%d)</string>
-  <string name="invalid_argument">Invalid argument</string>
+  <string name="invalid_argument">잘못된 변수</string>
   <string name="low_battery_error">배터리 잔량이 5% 이하입니다. 녹음이 손실되지 않게 하려면, 녹음을 일시정지하거나 저장하십시오.</string>
-  <string name="mark_point_list_title">Marks</string>
+  <string name="mark_point_list_title">표기</string>
   <string name="message_file_size_error">녹음이 지원하는 %s의 최대 길이에 도달하였습니다.</string>
-  <string name="new_record_name">New recording</string>
+  <string name="new_record_name">새로운 녹음</string>
   <string name="no_file">비어 있음</string>
   <string name="notification_message_all_paused">Wi-Fi 연결을 기다리는 중입니다.</string>
   <string name="notification_playback">재생 중…</string>
@@ -51,7 +55,7 @@
   <string name="path_soundrecorder_setting">시스템 앱/녹음기</string>
   <string name="pause">일시정지</string>
   <string name="playback_delete_records">녹음 파일을 삭제하시겠습니까?</string>
-  <string name="playback_share_records">Share recording</string>
+  <string name="playback_share_records">녹음 파일 공유</string>
   <string name="preference_enable_earpiece_summary">외부 재생 시 리시버 스피커 사용</string>
   <string name="preference_enable_earpiece_title">리시버 사용하여 오디오 재생</string>
   <string name="preference_led_indicator">잠금 화면 알림</string>
@@ -62,8 +66,8 @@
   <string name="preference_tip_rename">직접 녹음 이름입력</string>
   <string name="recognition_error_cancel">취소됨</string>
   <string name="recognition_error_download_cancel">나중에</string>
-  <string name="recognition_error_download_fail">"Couldn't download. Check network settings and try again."</string>
-  <string name="recognition_error_download_msg">Download recognition engine to make this service available.</string>
+  <string name="recognition_error_download_fail">"다운로드 실패. 네트워크 설정 확인 후 다시 시도하세요."</string>
+  <string name="recognition_error_download_msg">이 기능을 사용하려면 식별 엔진을 다운로드하세요.</string>
   <string name="recognition_error_download_ok">다운로드</string>
   <string name="recognition_error_download_title">식별 엔진 없음</string>
   <string name="recognition_error_downloading">다운로드 중</string>
@@ -101,7 +105,7 @@
   <string name="rename_duplicate">동일한 이름의 녹음 파일이 이미 존재합니다.</string>
   <string name="rename_no_more_tip">다시 표시하지 않기</string>
   <string name="retry">재시도</string>
-  <string name="runtime_permission_ungranted">Cannot use SoundRecorder because of ungranted permissions</string>
+  <string name="runtime_permission_ungranted">권한 승인 문제로 녹음기를 사용할 수 없습니다</string>
   <string name="search_app">녹음기</string>
   <string name="search_enable_earpiece_title">리시버 사용하여 오디오 재생</string>
   <string name="search_led_indicator">잠금 화면 알림</string>
