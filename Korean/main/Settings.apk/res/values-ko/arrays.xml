@@ -29,8 +29,8 @@
         <item>연결 상태 불량 일시적으로 방지</item>
     </string-array>
     <string-array name="status_bar_style_entries">
-        <item>혼합페이지</item>
-        <item>분류</item>
+        <item>혼합모드</item>
+        <item>개별모드</item>
     </string-array>
     <string-array name="timezone_filters">
         <item>미국</item>
