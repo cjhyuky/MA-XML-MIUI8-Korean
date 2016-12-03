@@ -83,6 +83,8 @@
   <string name="reset">초기화</string>
   <string name="revert">되돌아가기</string>
   <string name="set_alarm">알람 설정</string>
+  <string name="setting_alarm_arriving_summary">울리기 전에 먼저 알림을 보냅니다.</string>
+  <string name="setting_alarm_arriving_title">울리기 전에 알림</string>
   <string name="settings">설정</string>
   <string name="shutdown_alarm_disable_summary">전원이 꺼진 후 알람이 울리지 않을 것 입니다.</string>
   <string name="shutdown_alarm_enable_summary">전원이 꺼진 후 알람이 울릴 것 입니다.</string>
