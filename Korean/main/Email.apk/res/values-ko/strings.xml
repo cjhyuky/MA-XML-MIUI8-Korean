@@ -35,7 +35,7 @@
     <string name="account_settings_login_dialog_content_fmt">%s의 사용자 이름이나 비밀번호가 올바르지 않습니다. 지금 업데이트하시겠습니까?</string>
     <string name="account_settings_login_dialog_reason_fmt" formatted="false">%s(으)로 로그인하지 못했습니다.서버 메시지에 %s(으)로 표시됩니다.</string>
     <string name="account_settings_login_dialog_title">로그인하지 못했습니다.</string>
-    <string name="account_settings_mail_check_frequency_label">빈도</string>
+    <string name="account_settings_mail_check_frequency_label">동기화 빈도</string>
     <string name="account_settings_mibill_resolve_label">청구서 자동 관리</string>
     <string name="account_settings_name_label">별명</string>
     <string name="account_settings_notifications">알림</string>
@@ -121,7 +121,7 @@
     <string name="account_setup_options_mail_check_frequency_1hour">매시간</string>
     <string name="account_setup_options_mail_check_frequency_4hour">4시간마다</string>
     <string name="account_setup_options_mail_check_frequency_imap_push">자동 (푸시)</string>
-    <string name="account_setup_options_mail_check_frequency_never">안 함</string>
+    <string name="account_setup_options_mail_check_frequency_never">동기화 안함</string>
     <string name="account_setup_options_mail_check_frequency_push">자동(푸시)</string>
     <string name="account_setup_options_mail_window_1day">어제</string>
     <string name="account_setup_options_mail_window_1month">지난 달</string>
@@ -133,7 +133,7 @@
     <string name="account_setup_options_mail_window_auto">자동</string>
     <string name="account_setup_options_mail_window_default">계정 기본값 사용</string>
     <string name="account_setup_options_mail_window_label">동기화할 메일이 있는 메일함</string>
-    <string name="account_setup_options_mail_window_label_imap_or_pop3">에 대한 유지</string>
+    <string name="account_setup_options_mail_window_label_imap_or_pop3">동기화할 기간 설정</string>
     <string name="account_setup_options_title">계정 설정</string>
     <string name="account_setup_outgoing_port_label">포트</string>
     <string name="account_setup_outgoing_require_login_label">로그인 필요</string>
