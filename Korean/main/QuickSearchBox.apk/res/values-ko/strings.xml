@@ -40,8 +40,15 @@
   <string name="switch_prompt_title_default">"원하시는 걸 찾을 수 없습니까?"</string>
   <string name="switch_setting">설정</string>
   <string name="top_clicked">자주 사용하는 항목</string>
+    <string name="update_check">업데이트 확인</string>
+    <string name="update_right_now">업데이트</string>
+    <string name="update_title">업데이트 가능</string>
+    <string name="update_version_alpha">알파</string>
+    <string name="update_version_dev">베타</string>
+    <string name="update_version_stable">안정화롬</string>
+    <string name="updated_title">MIUI 업데이트</string>
   <string name="voice_search_hint_title">음성 검색:</string>
-  <string name="web_search_results">검색 결과</string>
+  <string name="web_search_results">웹 검색 결과</string>
   <string name="app_name">검색</string>
   <string name="clear_history">검색기록 지우기</string>
   <string name="clear_shortcuts">바로가기 삭제</string>
@@ -67,13 +74,26 @@
   <string name="distance_unit_kilometer">킬로미터</string>
   <string name="distance_unit_meter">미터</string>
   <string name="hot_search">인기 검색어</string>
-  <string name="installed_apps_component">com.android.providers.applications/.ApplicationLauncher</string>
   <string name="loading">로딩중입니다…</string>
   <string name="menu_help">도움말</string>
   <string name="menu_settings">검색 설정</string>
   <string name="recently_shortcut_label">최근 바로가기</string>
+    <string name="recent_apps_filter">"사용하지 않는 앱 숨기기"</string>
+    <string name="recent_close_content">"이 기능을 끄시겠습니까?
+설정>설치된>검색에서 이 기능을 바꿀 수 있습니다"</string>
+    <string name="recent_close_title">기능끄기</string>
+    <string name="recent_delete_content">"이 앱들을 숨기시겠습니까?
+설정>설치된>검색에서 이 기능을 바꿀 수 있습니다"</string>
+    <string name="recent_delete_negative">취소</string>
+    <string name="recent_delete_positive">확인</string>
+    <string name="recent_delete_title">앱 숨기기</string>
+    <string name="recent_edit">편집</string>
+    <string name="recent_edit_done">완료</string>
+    <string name="recent_filter_functions">기능끄기</string>
+    <string name="recent_function">최근 사용앱 기능</string>
   <string name="remove_from_history">검색기록에서 이 항목을 삭제할까요?</string>
   <string name="remove_from_history_failed">"삭제할수 없습니다."</string>
+    <string name="search_button">검색</string>
   <string name="search_history">검색 기록</string>
   <string name="search_in_app_store">Mi 앱스토어 검색</string>
   <string name="search_in_web">온라인 검색</string>
