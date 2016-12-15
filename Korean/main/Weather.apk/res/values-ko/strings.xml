@@ -145,7 +145,7 @@
     <string name="international_details_real_feel_title">체감온도®</string>
     <string name="international_details_uv_index_title">자외선 지수</string>
     <string name="international_details_pressure_title">기압</string>
-    <string name="pressure_connect">%1$s MB</string>
+    <string name="pressure_connect">%1$s mb</string>
     <string name="international_details_wind_connect">%1$s %2$s</string>
     <string name="weather_alert">날씨 경고</string>
     <string name="edit_alert_city_title">경고 관리</string>
