@@ -106,6 +106,7 @@
   <string name="softap_notifif_title">핫스팟 \"%s\" 켜짐</string>
   <string name="start_security_permission_verify_text">Mi 계정으로 권한 인증</string>
   <string name="status_bar_toggle_auto_brightness">밝기</string>
+  <string name="status_bar_toggle_battery_saver">배터리 세이버</string>
   <string name="status_bar_toggle_bluetooth">블루투스</string>
   <string name="status_bar_toggle_cast">캐스트</string>
   <string name="status_bar_toggle_data">모바일 데이터</string>
