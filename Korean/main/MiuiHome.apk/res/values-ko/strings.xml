@@ -224,6 +224,7 @@
     <string name="delete_wallpapers_message">%1$d개의 배경 화면을 삭제하시겠습니까?</string>
     <string name="is_system_wallpaper_message">시스템 리소스는 삭제할 수 없습니다.</string>
     <string name="select_all">모두 선택</string>
+    <string name="screen_locked_toast">홈 화면구성이 잠겨있습니다</string>
     <string name="deselect_all">모두 선택 해제</string>
     <string name="cloud_app_restore_title">보류 중</string>
     <string name="app_category_finance">금융</string>
