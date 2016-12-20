@@ -2002,6 +2002,11 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="use_nuplayer_summary">AwesomePlayer 대신 NuPlayer 사용</string>
     <string name="usb_audio_disable_routing">USB 오디오 연결 사용 중지</string>
     <string name="usb_audio_disable_routing_summary">USB 오디오 주변기기로 자동 연결 사용 중지</string>
+    <string name="usb_use">USB 연결</string>
+    <string name="usb_use_MIDI">미디</string>
+    <string name="usb_use_charging_only">충전 전용</string>
+    <string name="usb_use_file_transfers">파일 전송 (MTP)</string>
+    <string name="usb_use_photo_transfers">사진 전송 (PTP)</string>
     <string name="debug_layout">레이아웃 범위 표시</string>
     <string name="debug_layout_summary">클립 경계, 여백 등을 표시</string>
     <string name="force_rtl_layout_all_locales">RTL 레이아웃 방향 강제 적용</string>
