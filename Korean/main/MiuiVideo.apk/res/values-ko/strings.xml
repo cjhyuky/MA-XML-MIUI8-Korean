@@ -393,7 +393,7 @@
   <string name="vertical_line">&lt;CDATA&gt; | &lt;/CDATA&gt;</string>
   <string name="video">동영상</string>
   <string name="video_app_update">업데이트</string>
-  <string name="video_bbs">프럼 가입하기</string>
+  <string name="video_bbs">포럼 가입하기</string>
   <string name="video_bbs_url">가입하여 이 앱 개발을 도와주세요</string>
   <string name="video_count">%d개의 비디오</string>
   <string name="video_info_audio_bitrate_label">오디오 비트 전송률</string>
