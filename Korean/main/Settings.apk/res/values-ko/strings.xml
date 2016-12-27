@@ -3385,7 +3385,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="security_relative">보안</string>
     <string name="privacy_relative">개인 정보 보호</string>
     <string name="other_relative">기타</string>
-    <string name="permission_manage_title">%s개의 권한</string>
+    <string name="permission_manage_title">%s의 권한</string>
     <string name="filter_apps_cached">캐시됨</string>
     <string name="screen">화면</string>
     <string name="system">시스템</string>
