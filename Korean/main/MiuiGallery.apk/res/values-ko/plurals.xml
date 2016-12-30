@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="ignore_faces_alert_msg">
-        <item quantity="other">이 얼굴들을 보이지 않게 하시겠습니까?</item>
+    <plurals name="face_count">
+        <item quantity="other">총 %d개 사진</item>
     </plurals>
-    <plurals name="more_face">
-        <item quantity="other">%2$s의 사진 %1$s개 >></item>
+    <plurals name="remind_face_recommend_confirm_text">
+        <item quantity="other">총 %d개 사진</item>
     </plurals>
     <plurals name="age_year">
         <item quantity="other">%d년</item>
@@ -79,16 +79,22 @@
         <item quantity="other">%1$d개의 항목 백업 기다리는 중</item>
     </plurals>
     <plurals name="network_unsatisfied">
-        <item quantity="other">네트워크 오류. %1$d개의 항목 백업 기다리는 중</item>
+        <item quantity="other">네트워크 오류. %1$d개의 항목 백업 기다리는 중.</item>
     </plurals>
     <plurals name="sync_off">
-        <item quantity="other">동기화 꺼져있음. %1$d개의 항목 백업 기다리는 중</item>
+        <item quantity="other">동기화 꺼져있음. %1$d개의 항목 백업 기다리는 중.</item>
     </plurals>
     <plurals name="cloud_space_full">
-        <item quantity="other">Mi 클라우드의 공간 부족. %1$d개의 항목 백업 기다리는 중</item>
+        <item quantity="other">%1$d개 항목을 백업할 수 없습니다</item>
     </plurals>
     <plurals name="local_space_full">
-        <item quantity="other">로컬 저장소 공간 부족. %1$d개의 항목 백업 기다리는 중</item>
+        <item quantity="other">로컬 저장소 공간 부족. %1$d개의 항목 백업 기다리는 중.</item>
+    </plurals>
+    <plurals name="number_of_images_synced">
+        <item quantity="other">%1$d개 사진</item>
+    </plurals>
+    <plurals name="number_of_videos_synced">
+        <item quantity="other">%1$d개 비디오</item>
     </plurals>
     <plurals name="number_of_images_to_upload">
         <item quantity="other">%1$d개의 사진이 백업 대기 중</item>
@@ -97,7 +103,7 @@
         <item quantity="other">%1$d개의 동영상이 백업 대기 중</item>
     </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
-        <item quantity="other">%1$d개의 항목이 백업 대기 중</item>
+        <item quantity="other">%1$d개의 항목 백업 대기중</item>
     </plurals>
     <plurals name="number_of_uploading_images">
         <item quantity="other">%1$d개의 사진 백업 중…</item>
