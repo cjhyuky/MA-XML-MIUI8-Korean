@@ -586,7 +586,6 @@
     <string name="welcome_to_slim">로컬 저장소 최적화</string>
     <string name="slim_introduce">Mi 클라우드로 백업된 후 풀해상도 사진이 최적화 버전으로 교체됩니다. 풀해상도 사진은 Mi 클라우드에 남게될 것입니다.</string>
     <string name="slim_introduce_with_specific_size">Mi 클라우드로 백업된 후 풀해상도 사진이 최적화 버전으로 교체됩니다. 풀해상도 항목은 Mi 클라우드에 저장됩니다. 로컬 저장소의 %1$s만큼 절약할 수 있습니다. (Mi 계정 요구됨)</string>
-    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="auto_backup_introduce">사진 및 동영상이 자동으로 백업됩니다. (Mi 계정 요구됨)</string>
     <string name="next">다음</string>
     <string name="login_and_enable_service">Mi 계정으로 로그인</string>
