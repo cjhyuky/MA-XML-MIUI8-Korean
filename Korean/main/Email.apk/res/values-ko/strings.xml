@@ -426,7 +426,6 @@
     <string name="gmail_web_login_go">확인</string>
     <string name="gmail_web_login_required_message">Gmail에 로그인</string>
     <string name="header_category_account">계정</string>
-    <string name="header_category_general">@string/header_label_general_preferences</string>
     <string name="header_category_other">피드백</string>
     <string name="header_label_general_preferences">일반</string>
     <string name="help_and_info">도움말</string>
