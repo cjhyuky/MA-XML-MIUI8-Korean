@@ -39,6 +39,7 @@
     <string name="dlg_app_replacement_statement">"설치 중인 앱이 다른 앱을 대체합니다.
 
 이전의 사용자 데이터는 모두 저장됩니다."</string>
+    <string name="dlg_app_replacement_statement_with_version">%1$s(%2$s)이(가) 현재 설치된 버전(%3$s)을 대체합니다. 기존의 모든 앱 데이터는 저장됩니다.</string>
     <string name="dlg_sys_app_replacement_statement">"시스템 앱입니다.
 
 이전의 사용자 데이터는 모두 저장됩니다."</string>
