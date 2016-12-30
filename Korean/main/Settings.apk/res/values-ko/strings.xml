@@ -585,11 +585,11 @@
     <string name="wifi_display_options_name">이름</string>
     <string name="nfc_quick_toggle_title">NFC</string>
     <string name="nfc_quick_toggle_summary">휴대전화로 다른 기기를 터치하면 데이터 교환 허용</string>
-    <string name="android_beam_settings_title">Android Beam</string>
+    <string name="android_beam_settings_title">안드로이드 빔</string>
     <string name="android_beam_on_summary">NFC 컨텐츠 공유가 켜졌습니다.</string>
     <string name="android_beam_off_summary">NFC 컨텐츠 공유가 꺼졌습니다.</string>
     <string name="android_beam_disabled_summary">이 기능을 사용하시려면 NFC를 켜십시오.</string>
-    <string name="android_beam_label">Android Beam</string>
+    <string name="android_beam_label">안드로이드 빔</string>
     <string name="android_beam_explained">기기를 접촉시킴으로써(일반적으로 뒷면과 뒷면) 당신의 화면에 있는 웹페이지, 동영상 또는 다른 컨텐츠를 상대 기기로 보낼 수 있습니다.</string>
     <string name="nsd_quick_toggle_title">네트워크 서비스 검색</string>
     <string name="nsd_quick_toggle_summary">다른 기기의 앱에서 이 기기의 앱을 검색하도록 허용</string>
