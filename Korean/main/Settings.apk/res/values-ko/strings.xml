@@ -402,7 +402,7 @@
     <string name="security_enable_widgets_disabled_summary">관리자가 사용 중지함</string>
     <string name="owner_info_settings_summary">없음</string>
     <string name="owner_info_settings_status">%1$d/%2$d</string>
-    <string name="owner_info_settings_edit_text_hint">예: Joe의 Android</string>
+    <string name="owner_info_settings_edit_text_hint">예: Joe의 안드로이드</string>
     <string name="user_info_settings_title">사용자 정보</string>
     <string name="show_profile_info_on_lockscreen_label">잠금 화면에 프로필 정보 표시</string>
     <string name="profile_info_settings_title">프로필 정보</string>
@@ -1918,7 +1918,7 @@ PIN이 잘못된 것 같습니다."</string>
     <string name="voice_input_output_settings">음성 입력 &amp; 출력</string>
     <string name="voice_input_output_settings_title">음성 입력 &amp; 출력 설정</string>
     <string name="voice_search_settings_title">음성 검색</string>
-    <string name="keyboard_settings_title">Android 키보드</string>
+    <string name="keyboard_settings_title">안드로이드 키보드</string>
     <string name="voice_category">음성</string>
     <string name="voice_input_settings">음성 입력 설정</string>
     <string name="voice_input_settings_title">음성 입력</string>
