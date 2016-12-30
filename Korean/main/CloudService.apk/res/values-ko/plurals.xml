@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="sync_items_close">
+        <item quantity="other">%d개 꺼짐</item>
+    </plurals>
+    <plurals name="items_unsynced">
+        <item quantity="other">동기화 대기중인 항목: %d개</item>
+    </plurals>
+    <plurals name="items_waiting_to_sync">
+        <item quantity="other">%d개 항목 동기화 대기 중</item>
+    </plurals>
     <plurals name="dirty_contacts_count">
         <item quantity="other">%d개의 연락처</item>
     </plurals>
@@ -11,5 +20,26 @@
     </plurals>
     <plurals name="dirty_image_count">
         <item quantity="other">%d개 사진</item>
+    </plurals>
+    <plurals name="dirty_callog_count">
+        <item quantity="other">%d개 통화 기록 녹음</item>
+    </plurals>
+    <plurals name="dirty_wlan_count">
+        <item quantity="other">%d개 Wi-Fi 네트워크</item>
+    </plurals>
+    <plurals name="dirty_recorder_count">
+        <item quantity="other">%d개 녹음</item>
+    </plurals>
+    <plurals name="dirty_music_count">
+        <item quantity="other">%d개 노래</item>
+    </plurals>
+    <plurals name="dirty_browser_count">
+        <item quantity="other">%d개 브라우저 항목</item>
+    </plurals>
+    <plurals name="dirty_calendar_count">
+        <item quantity="other">%d개 캘린더 항목</item>
+    </plurals>
+    <plurals name="dirty_blocklist_count">
+        <item quantity="other">%d개 차단 목록</item>
     </plurals>
 </resources>
