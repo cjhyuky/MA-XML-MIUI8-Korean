@@ -105,6 +105,7 @@
     <string name="home_page_empty">비어있음</string>
     <string name="people_page_label">사람들</string>
     <string name="people_page_unname">이름 없음</string>
+    <string name="view_baby_album">아기 앨범 보기</string>
     <string name="face_album_rename_hint">이름 입력</string>
     <string name="face_album_use_tip">사진 속 사람들로 사진 자동 정렬</string>
     <string name="face_album_detecting_tip">잠시만 기다려주십시오…</string>
@@ -586,6 +587,7 @@
     <string name="welcome_to_slim">로컬 저장소 최적화</string>
     <string name="slim_introduce">Mi 클라우드로 백업된 후 풀해상도 사진이 최적화 버전으로 교체됩니다. 풀해상도 사진은 Mi 클라우드에 남게될 것입니다.</string>
     <string name="slim_introduce_with_specific_size">Mi 클라우드로 백업된 후 풀해상도 사진이 최적화 버전으로 교체됩니다. 풀해상도 항목은 Mi 클라우드에 저장됩니다. 로컬 저장소의 %1$s만큼 절약할 수 있습니다. (Mi 계정 요구됨)</string>
+    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="auto_backup_introduce">사진 및 동영상이 자동으로 백업됩니다. (Mi 계정 요구됨)</string>
     <string name="next">다음</string>
     <string name="login_and_enable_service">Mi 계정으로 로그인</string>
@@ -673,9 +675,13 @@
     <string name="secret_album_set_pc_password_dialog_msg">개인 정보 비밀번호가 사진, 노트, 숨김 파일, 기타 등에 적용됩니다.</string>
     <string name="secret_album_password_first_use_title">정보 보호 비밀번호</string>
     <string name="secret_album_password_first_use_msg">정보 보호 비밀번호가 사진, 노트, 숨김 파일, 기타 등에 적용됩니다.</string>
-    <string name="secret_album_set_pc_password_dialog_ok">새 비밀번호 설정</string>
-    <string name="secret_album_password_update_dialog_cancel">취소</string>
     <string name="secret_album_password_update_dialog_ok">확인</string>
+    <string name="secret_album_password_update_dialog_cancel">취소</string>
+    <string name="secret_album_set_pc_password_dialog_title">새 비밀번호 설정</string>
+    <string name="secret_album_set_pc_password_dialog_msg">개인 정보 보호 비밀번호는 앱, 사진, 메모, 숨김 폴더, 기타 등에 작동됩니다.</string>
+    <string name="secret_album_set_pc_password_dialog_ok">새 비밀번호 설정</string>
+    <string name="secret_album_set_pc_password_first_use_title">개인 정보 보호 비밀번호</string>
+    <string name="secret_album_set_pc_password_first_use_msg">개인 정보 비밀번호가 사진, 노트, 숨김 파일, 기타 등에 적용됩니다.</string>
     <string name="storage_no_space">저장 공간 부족</string>
     <string name="share_album">앨범 공유</string>
     <string name="all_video_album_display_name">모든 동영상</string>
@@ -696,6 +702,7 @@
     <string name="aspect_ratio_origin">원본</string>
     <string name="aspect_ratio_square">1:1</string>
     <string name="reset">초기화</string>
+    <string name="cancel">취소</string>
     <string name="finish">완료</string>
     <string name="revert">되돌아가기</string>
     <string name="filter">필터</string>
