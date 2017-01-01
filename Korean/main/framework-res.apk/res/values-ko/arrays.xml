@@ -40,6 +40,27 @@
     <array name="wfcOperatorErrorAlertMessages" />
     <array name="wfcOperatorErrorNotificationMessages" />
     <array name="fingerprint_acquired_vendor" />
+    <string-array name="fingerprint_acquired_vendor">
+        <item>다시 시도하세요</item>
+        <item></item>
+        <item></item>
+        <item>센서위에 손가락을 잘 대고 살짝 누르세요</item>
+        <item></item>
+        <item>센서위에 손가락을 잘 대고 살짝 누르세요</item>
+        <item>센서위에 손가락을 잘 대고 살짝 누르세요</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>센서위에 손가락을 잘 대고 살짝 누르세요</item>
+        <item>센서위에 손가락을 잘 대고 살짝 누르세요</item>
+        <item>"인식시간이 너무 빨라서 지문을 인식할 수 없습니다"</item>
+        <item>손가락을 약간 이동하여 다시 시도하세요</item>
+        <item>손가락을 떼서 다시 센서에 대세요</item>
+        <item>손가락을 센서에 좀더 오래 대세요</item>
+        <item></item>
+        <item></item>
+    </string-array>
     <array name="fingerprint_error_vendor" />
     <string-array name="imAddressTypes">
         <item>집</item>
