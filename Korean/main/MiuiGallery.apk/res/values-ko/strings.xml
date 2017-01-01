@@ -676,8 +676,6 @@
     <string name="secret_album_password_first_use_msg">정보 보호 비밀번호가 사진, 노트, 숨김 파일, 기타 등에 적용됩니다.</string>
     <string name="secret_album_password_update_dialog_ok">확인</string>
     <string name="secret_album_password_update_dialog_cancel">취소</string>
-    <string name="secret_album_set_pc_password_dialog_title">새 비밀번호 설정</string>
-    <string name="secret_album_set_pc_password_dialog_msg">개인 정보 보호 비밀번호는 앱, 사진, 메모, 숨김 폴더, 기타 등에 작동됩니다.</string>
     <string name="secret_album_set_pc_password_dialog_ok">새 비밀번호 설정</string>
     <string name="secret_album_set_pc_password_first_use_title">개인 정보 보호 비밀번호</string>
     <string name="secret_album_set_pc_password_first_use_msg">개인 정보 비밀번호가 사진, 노트, 숨김 파일, 기타 등에 적용됩니다.</string>
@@ -701,7 +699,6 @@
     <string name="aspect_ratio_origin">원본</string>
     <string name="aspect_ratio_square">1:1</string>
     <string name="reset">초기화</string>
-    <string name="cancel">취소</string>
     <string name="finish">완료</string>
     <string name="revert">되돌아가기</string>
     <string name="filter">필터</string>
