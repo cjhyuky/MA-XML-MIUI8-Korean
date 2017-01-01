@@ -35,7 +35,7 @@
     <string name="account_settings_login_dialog_content_fmt">%s의 사용자 이름이나 비밀번호가 올바르지 않습니다. 지금 업데이트하시겠습니까?</string>
     <string name="account_settings_login_dialog_reason_fmt" formatted="false">%s(으)로 로그인하지 못했습니다.서버 메시지에 %s(으)로 표시됩니다.</string>
     <string name="account_settings_login_dialog_title">로그인하지 못했습니다.</string>
-    <string name="account_settings_mail_check_frequency_label">빈도</string>
+    <string name="account_settings_mail_check_frequency_label">동기화 빈도</string>
     <string name="account_settings_mibill_resolve_label">청구서 자동 관리</string>
     <string name="account_settings_name_label">별명</string>
     <string name="account_settings_notifications">알림</string>
@@ -121,7 +121,7 @@
     <string name="account_setup_options_mail_check_frequency_1hour">매시간</string>
     <string name="account_setup_options_mail_check_frequency_4hour">4시간마다</string>
     <string name="account_setup_options_mail_check_frequency_imap_push">자동 (푸시)</string>
-    <string name="account_setup_options_mail_check_frequency_never">안 함</string>
+    <string name="account_setup_options_mail_check_frequency_never">동기화 안함</string>
     <string name="account_setup_options_mail_check_frequency_push">자동(푸시)</string>
     <string name="account_setup_options_mail_window_1day">어제</string>
     <string name="account_setup_options_mail_window_1month">지난 달</string>
@@ -133,10 +133,10 @@
     <string name="account_setup_options_mail_window_auto">자동</string>
     <string name="account_setup_options_mail_window_default">계정 기본값 사용</string>
     <string name="account_setup_options_mail_window_label">동기화할 메일이 있는 메일함</string>
-    <string name="account_setup_options_mail_window_label_imap_or_pop3">에 대한 유지</string>
+    <string name="account_setup_options_mail_window_label_imap_or_pop3">동기화할 기간 설정</string>
     <string name="account_setup_options_title">계정 설정</string>
     <string name="account_setup_outgoing_port_label">포트</string>
-    <string name="account_setup_outgoing_require_login_label">로그인이 필요합니다</string>
+    <string name="account_setup_outgoing_require_login_label">로그인 필요</string>
     <string name="account_setup_outgoing_smtp_server_label">SMTP 서버</string>
     <string name="account_setup_security_policies_required_fmt">"%s 서버에서 귀하의 안드로이드 기기의 일부 보안 설정을 
  원격 제어하는 것을 허용하기를 요구합니다. 이 계정의 설정을
@@ -426,6 +426,7 @@
     <string name="gmail_web_login_go">확인</string>
     <string name="gmail_web_login_required_message">Gmail에 로그인</string>
     <string name="header_category_account">계정</string>
+    <string name="header_category_general">@string/header_label_general_preferences</string>
     <string name="header_category_other">피드백</string>
     <string name="header_label_general_preferences">일반</string>
     <string name="help_and_info">도움말</string>
@@ -889,4 +890,6 @@
     <string name="you_are_in_mobile_network">모바일 데이터 연결을 사용하여 기록을 전송하시겠습니까? 계획한 데이터 한도를 초과하면 추가 요금이 부과될 수 있습니다.</string>
     <string name="youfuli">프로모션</string>
     <string name="zip_viewer_no_file">파일 없음.</string>
+    <string name="contact_edit_set_black_list_filtering">필터링 중…</string>
+    <string name="contact_in_filter_call_phone_str">%s 에서 호출</string>
 </resources>
