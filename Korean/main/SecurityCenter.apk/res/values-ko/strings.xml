@@ -768,7 +768,7 @@
     <string name="auto_task_condition_choose_end_time">종료 시간</string>
     <string name="auto_task_condition_number_pick_title">배터리 상태 설정</string>
     <string name="auto_task_condition_time_pick_title">타이머 설정</string>
-    <string name="auto_atsk_condition_battery_level_text_down">배터리가 %s에 도달했울 때</string>
+    <string name="auto_atsk_condition_battery_level_text_down">배터리가 %s에 도달했을 때</string>
     <string name="auto_atsk_condition_battery_level_text_up">배터리가 %s까지 충전됐을 때</string>
     <string name="auto_task_condition_time_text">%s에서</string>
     <string name="auto_task_condition_time_duration_text">%1$s에서 %2$s까지</string>
