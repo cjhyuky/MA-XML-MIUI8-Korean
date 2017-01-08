@@ -99,6 +99,9 @@
     <plurals name="voip_contacts_count">
         <item quantity="other">%1$d명의 사람</item>
     </plurals>
+    <plurals name="livetalk_unit">
+        <item quantity="other">분</item>
+    </plurals>
     <plurals name="callNoAnswerTimeFormat">
         <item quantity="other">%d번 울림</item>
     </plurals>
@@ -107,5 +110,29 @@
     </plurals>
     <plurals name="cloud_state_unsynced_count">
         <item quantity="other">%d개 연락처 또는 사진이 동기화되지 않았습니다.</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1시간 전</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">30분 전</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">지금</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d분 전</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">1시간 이내</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">30분 이내</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">즉시</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d분 이내</item>
     </plurals>
 </resources>
