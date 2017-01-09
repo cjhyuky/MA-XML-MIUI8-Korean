@@ -533,11 +533,11 @@
     <string name="power_center_consume_rank">배터리 사용</string>
     <string name="power_center_custom_title">배터리 프로필</string>
     <string name="power_center_auto_shutdown">전원 켜짐/꺼짐 예약</string>
-    <string name="power_center_ontime_boot">전원 켜질 시간</string>
-    <string name="power_center_time_to_boot">전원 켜진 시간</string>
+    <string name="power_center_ontime_boot">전원 켜기 예약</string>
+    <string name="power_center_time_to_boot">전원 켤 시간</string>
     <string name="power_center_repeat">반복</string>
-    <string name="power_center_ontime_shutdown">전원 꺼질 시간</string>
-    <string name="power_center_time_to_shutdown">전원 꺼질 시간</string>
+    <string name="power_center_ontime_shutdown">전원 끄기 예약</string>
+    <string name="power_center_time_to_shutdown">전원 끌 시간</string>
     <string name="power_center_state_on">켜짐</string>
     <string name="power_center_state_off">꺼짐</string>
     <string name="power_center_consume_time">%1$s 남음</string>
