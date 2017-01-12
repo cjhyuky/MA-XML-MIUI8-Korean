@@ -140,6 +140,17 @@
         <item>투명도</item>
         <item>흰색 배경</item>
     </string-array>
+    <string-array name="default_reminder_labels">
+        <item>이벤트 </item>
+        <item>5분 전</item>
+        <item>10분 전</item>
+        <item>15분 전</item>
+        <item>30분 전</item>
+        <item>1시간 전</item>
+        <item>1일 전</item>
+        <item>2일 전</item>
+        <item>1주 전</item>
+    </string-array>
     <string-array name="miui_reminder_minutes_labels">
         <item>미리 알림 없음</item>
         <item>이벤트 시간에</item>
