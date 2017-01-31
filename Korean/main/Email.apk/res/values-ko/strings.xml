@@ -160,7 +160,7 @@
     <string name="add_pre_message_attachments_yes">추가</string>
     <string name="add_star">별</string>
     <string name="allread">모두 읽기</string>
-    <string name="always_bcc_myself">숨은 참조 항상 자동</string>
+    <string name="always_bcc_myself">자신을 항상 숨은 참조</string>
     <string name="always_show_images">이 발신자의 사진은 항상 보여주기</string>
     <string name="app_name">메일</string>
     <string name="archive">보관</string>
