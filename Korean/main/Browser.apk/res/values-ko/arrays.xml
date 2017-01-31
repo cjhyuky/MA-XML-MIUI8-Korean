@@ -8,15 +8,13 @@
         <item>그린</item>
         <item>블루</item>
     </string-array>
-    <string-array name="pref_ua_choices">
-        <item>안드로이드</item>
-        <item>데스크탑</item>
-        <item>iPhone</item>
-        <item>iPad</item>
-    </string-array>
     <string-array name="pref_homepage_choices">
         <item>기본 시작 페이지</item>
         <item>사용자 지정</item>
+    </string-array>
+    <string-array name="pref_nav_mode_summary">
+        <item>스마트폰</item>
+        <item>패드</item>
     </string-array>
     <string-array name="pref_text_zoom_choices">
         <item>매우 작게</item>
@@ -25,29 +23,36 @@
         <item>크게</item>
         <item>매우 크게</item>
     </string-array>
-    <string-array name="pref_nav_mode_summary">
-        <item>스마트폰</item>
-        <item>패드</item>
-    </string-array>
-    <string-array name="shortcut_dialog_title">
-        <item>브라우저에서 온 메시지</item>
-        <item>Mi와 함께하는 올림픽 관람</item>
-    </string-array>
-    <string-array name="shortcut_dialog_keep">
-        <item>확인</item>
-        <item>팔로우</item>
+    <string-array name="pref_ua_choices">
+        <item>안드로이드</item>
+        <item>데스크탑</item>
+        <item>iPhone</item>
+        <item>iPad</item>
     </string-array>
     <string-array name="shortcut_dialog_delete">
         <item>삭제</item>
         <item>사양하겠습니다.</item>
     </string-array>
+    <string-array name="shortcut_dialog_keep">
+        <item>확인</item>
+        <item>팔로우</item>
+    </string-array>
+    <string-array name="shortcut_dialog_title">
+        <item>브라우저에서 온 메시지</item>
+        <item>Mi와 함께하는 올림픽 관람</item>
+    </string-array>
     <string-array name="naver">
         <item>naver</item>
         <item>naver.com</item>
         <item>http://www.naver.com/favicon.ico</item>
-        <item>http://search.naver.com/search.naver?query={searchTerms}</item>
+        <item>http://search.naver.com/search.naver?where=nexsearch&amp;query={searchTerms}</item>
         <item>UTF-8</item>
         <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+    </string-array>
+    <string-array name="naver_in_list">
+        <item>search_naver</item>
+        <item>ic_search_engine_naver</item>
+        <item>naver</item>
     </string-array>
     <string-array name="daum">
         <item>daum</item>
@@ -57,7 +62,17 @@
         <item>UTF-8</item>
         <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
     </string-array>
-    <string-array name="search_engines_rKO">
+    <string-array name="daum_in_list">
+        <item>search_daum</item>
+        <item>ic_search_engine_daum</item>
+        <item>daum</item>
+    </string-array>
+    <string-array name="search_engines_default">
+        <item>naver</item>
+		<item>daum</item>
+        <item>google</item>
+    </string-array>
+    <string-array name="search_bar_search_engines_default">
         <item>naver</item>
         <item>daum</item>
         <item>google</item>
