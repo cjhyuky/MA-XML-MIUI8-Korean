@@ -49,8 +49,17 @@
         <item>UTF-8</item>
         <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
     </string-array>
+    <string-array name="daum">
+        <item>daum</item>
+        <item>daum.net</item>
+        <item>http://www.daum.net/favicon.ico</item>
+        <item>http://search.daum.net/search?w=tot&amp;q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+    </string-array>
     <string-array name="search_engines_rKO">
         <item>naver</item>
+        <item>daum</item>
         <item>google</item>
-    </string-array>    
+    </string-array>
 </resources>
