@@ -41,4 +41,16 @@
         <item>삭제</item>
         <item>사양하겠습니다.</item>
     </string-array>
+    <string-array name="naver">
+        <item>naver</item>
+        <item>naver.com</item>
+        <item>http://www.naver.com/favicon.ico</item>
+        <item>http://search.naver.com/search.naver?query={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+    </string-array>
+    <string-array name="search_engines_rKO">
+        <item>naver</item>
+        <item>google</item>
+    </string-array>    
 </resources>
