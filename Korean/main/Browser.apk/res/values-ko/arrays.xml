@@ -67,12 +67,12 @@
         <item>ic_search_engine_daum</item>
         <item>daum</item>
     </string-array>
-    <string-array name="search_engines_default">		
+    <string-array name="search_engines_rKO">		
         <item>naver</item>		
         <item>daum</item>		
         <item>google</item>		
     </string-array>		
-    <string-array name="search_bar_search_engines_default">		
+    <string-array name="search_bar_search_engines_rKO">		
         <item>naver</item>		
         <item>daum</item>		
         <item>google</item>		
