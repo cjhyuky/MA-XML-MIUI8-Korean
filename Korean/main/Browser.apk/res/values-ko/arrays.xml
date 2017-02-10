@@ -8,6 +8,11 @@
         <item>그린</item>
         <item>블루</item>
     </string-array>
+    <string-array name="pref_fling_on_border_gesture_entries">
+        <item>이전페이지로 이동</item>
+        <item>탭 전환</item>
+        <item>없음</item>
+    </string-array>
     <string-array name="pref_homepage_choices">
         <item>기본 시작 페이지</item>
         <item>사용자 지정</item>
