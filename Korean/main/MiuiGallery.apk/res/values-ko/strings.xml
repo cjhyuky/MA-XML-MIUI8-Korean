@@ -352,6 +352,12 @@
     <string name="to_enable_sync_dialog_positive_button_text">설정으로 이동</string>
     <string name="xiaomi_account_not_exists_toast">Mi 계정이 존재하지 않습니다.</string>
     <string name="sync_diabled_toast">동기화 해제됨</string>
+    <string name="sync_off_title">사진과 동영상을 자동으로 백업하려면 미클라우드 동기화를 켜세요</string>
+    <string name="sync_pending_title">자동으로 동기화됩니다</string>
+    <string name="synced_title">사진 및 동영상 백업 완료</string>
+    <string name="syncing_gprs_title">모바일 데이터를 사용하여 백업</string>
+    <string name="syncing_metadata_title">미클라우드 데이터 동기화중</string>
+    <string name="syncing_normal_title">사진 및 동영상 백업중</string>
     <string name="gallery_sync_disable_toast">갤러리에 대한 동기화 꺼져있음</string>
     <string name="share_album_needs_auto_upload_tip">공유된 앨범의 백업을 끌 수 없습니다.</string>
     <string name="auto_upload_before_share_title">팁</string>
