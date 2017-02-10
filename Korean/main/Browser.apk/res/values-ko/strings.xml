@@ -516,6 +516,8 @@
   <string name="pref_file_download_save_title">다운로드</string>
   <string name="pref_fling_on_border_enabled">가장자리에서 스와이프 하여 탭 전환</string>
   <string name="pref_fling_on_border_enabled_title_summary">화면의 왼쪽 또는 오른쪽 가장자리에서 스와이프하여 탭 전환</string>
+  <string name="pref_fling_on_border">가장자리에서 스와이프 하여 탭 전환</string>
+  <string name="pref_fling_on_border_title_summary">화면의 왼쪽 또는 오른쪽 가장자리에서 스와이프하여 탭 전환</string>
   <string name="pref_font_size_category">웹페이지 문자 크기</string>
   <string name="pref_force_userscalable">강제 줌</string>
   <string name="pref_force_userscalable_summary">웹사이트의 확대/축소 조작 요청 무시</string>
@@ -528,6 +530,7 @@
   <string name="pref_notifications_receive">알림</string>
   <string name="pref_notifications_title">알림</string>
   <string name="pref_other_title">기타</string>
+  <string name="pref_paper_mode_title">독서 모드</string>
   <string name="pref_privacy_clear_cache">캐시 지우기</string>
   <string name="pref_privacy_clear_cache_dlg">캐시된 로컬 콘텐츠와 데이터베이스를 삭제하시겠습니까?</string>
   <string name="pref_privacy_clear_cache_summary">캐시된 로컬 콘텐츠와 데이터베이스 지우기</string>
