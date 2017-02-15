@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="reminder_methods_labels">
-        <item>알림</item>
-        <item>이메일</item>
-        <item>SMS</item>
-        <item>알람</item>
-    </string-array>
-    <string-array name="preferences_week_start_day_labels">
-        <item>언어 기본값</item>
-        <item>토요일</item>
-        <item>일요일</item>
-        <item>월요일</item>
-    </string-array>
     <string-array name="timezone_labels">
         <item>마셜 제도</item>
         <item>미드웨이 제도</item>
@@ -98,16 +86,6 @@
         <item>피지</item>
         <item>통가</item>
     </string-array>
-    <string-array name="availability">
-        <item>바쁨</item>
-        <item>한가함</item>
-        <item>미정</item>
-    </string-array>
-    <string-array name="visibility">
-        <item>기본값</item>
-        <item>비공개</item>
-        <item>공개</item>
-    </string-array>
     <string-array name="ordinal_labels">
         <item>처음</item>
         <item>2번째</item>
@@ -130,18 +108,16 @@
         <item>이번 일정만</item>
         <item>모든 반복 일정</item>
     </string-array>
-    <string-array name="quick_response_defaults">
-        <item>조금 늦음.</item>
-        <item>약 10분 후에 도착</item>
-        <item>저 없이 시작하세요.</item>
-        <item>죄송합니다. 일정을 변경해야 합니다.</item>
+    <string-array name="fortune_gender">
+        <item>남</item>
+        <item>여</item>
     </string-array>
     <string-array name="widget_style_list">
         <item>투명도</item>
         <item>흰색 배경</item>
     </string-array>
     <string-array name="default_reminder_labels">
-        <item>이벤트 </item>
+        <item>일정 시간에</item>
         <item>5분 전</item>
         <item>10분 전</item>
         <item>15분 전</item>
@@ -151,29 +127,16 @@
         <item>2일 전</item>
         <item>1주 전</item>
     </string-array>
-    <string-array name="miui_reminder_minutes_labels">
-        <item>미리 알림 없음</item>
-        <item>이벤트 시간에</item>
-        <item>5분 전</item>
-        <item>10분 전</item>
-        <item>15분 전</item>
-        <item>30분 전</item>
-        <item>1시간 전</item>
-        <item>1일 전</item>
-        <item>2일 전</item>
-        <item>1주 전</item>
+    <string-array name="preferences_week_start_day_labels">
+        <item>기본 로케일</item>
+        <item>토요일</item>
+        <item>일요일</item>
+        <item>월요일</item>
     </string-array>
-    <string-array name="miui_preferences_default_reminder_labels">
-        <item>미리 알림 없음</item>
-        <item>이벤트 시간에</item>
-        <item>5분 전</item>
-        <item>10분 전</item>
-        <item>15분 전</item>
-        <item>30분 전</item>
-        <item>1시간 전</item>
-        <item>1일 전</item>
-        <item>2일 전</item>
-        <item>1주 전</item>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>항상</item>
+        <item>벨소리가 무음일 때만</item>
+        <item>안함</item>
     </string-array>
     <string-array name="travel_reminder_minutes_labels">
         <item>3시간 전</item>
@@ -267,10 +230,11 @@
         <item>시간</item>
         <item>개수</item>
     </string-array>
-    <string-array name="prefEntries_alerts_vibrateWhen">
-        <item>항상</item>
-        <item>벨소리가 무음일 때만</item>
-        <item>절대</item>
+    <string-array name="reminder_methods_labels">
+        <item>알림</item>
+        <item>이메일</item>
+        <item>SMS</item>
+        <item>알람</item>
     </string-array>
     <string-array name="reminder_minutes_labels">
         <item>0분</item>
@@ -309,6 +273,16 @@
         <item>2일</item>
         <item>1주</item>
     </string-array>
+    <string-array name="availability">
+        <item>바쁨</item>
+        <item>한가함</item>
+        <item>미정</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>기본값</item>
+        <item>비공개</item>
+        <item>공개</item>
+    </string-array>
     <string-array name="delete_repeating_labels_no_selected">
         <item>이번 및 향후 일정</item>
         <item>모든 일정</item>
@@ -318,5 +292,11 @@
         <item>주</item>
         <item>월</item>
         <item>일정목록</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>조금 늦음.</item>
+        <item>약 10분 후에 도착</item>
+        <item>저 없이 시작하세요.</item>
+        <item>죄송합니다. 일정을 변경해야 합니다.</item>
     </string-array>
 </resources>
