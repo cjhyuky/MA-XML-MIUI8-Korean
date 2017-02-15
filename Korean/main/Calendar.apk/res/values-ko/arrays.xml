@@ -108,10 +108,6 @@
         <item>이번 일정만</item>
         <item>모든 반복 일정</item>
     </string-array>
-    <string-array name="fortune_gender">
-        <item>남</item>
-        <item>여</item>
-    </string-array>
     <string-array name="widget_style_list">
         <item>투명도</item>
         <item>흰색 배경</item>
