@@ -72,23 +72,23 @@
     <plurals name="album_count_and_size">
         <item quantity="other">%1$d개 항목 | %2$s</item>
     </plurals>
-    <plurals name="backuped">
-        <item quantity="other">%1$d개 항목 백업됨</item>
+    <plurals name="backuping_desc_normal">
+        <item quantity="other">%1$d개 사진과 동영상</item>
     </plurals>
-    <plurals name="backup_waiting">
-        <item quantity="other">%1$d개의 항목 백업 기다리는 중</item>
+    <plurals name="backuping_desc_gprs">
+        <item quantity="other">%1$d개 사진과 동영상 | %2$s</item>
     </plurals>
-    <plurals name="network_unsatisfied">
-        <item quantity="other">네트워크 오류. %1$d개의 항목 백업 기다리는 중.</item>
+    <plurals name="sync_error_title">
+        <item quantity="other">%d개 사진과 동영상을 백업하지 못 했습니다</item>
     </plurals>
-    <plurals name="sync_off">
-        <item quantity="other">동기화 꺼져있음. %1$d개의 항목 백업 기다리는 중.</item>
+    <plurals name="sync_total_count">
+        <item quantity="other">%d개 항목</item>
     </plurals>
-    <plurals name="cloud_space_full">
-        <item quantity="other">%1$d개 항목을 백업할 수 없습니다</item>
+    <plurals name="cloud_storage_photo_num">
+        <item quantity="other">%d개 사진</item>
     </plurals>
-    <plurals name="local_space_full">
-        <item quantity="other">로컬 저장소 공간 부족. %1$d개의 항목 백업 기다리는 중.</item>
+    <plurals name="cloud_storage_video_num">
+        <item quantity="other">%d개 동영상</item>
     </plurals>
     <plurals name="number_of_images_synced">
         <item quantity="other">%1$d개 사진</item>
@@ -103,7 +103,7 @@
         <item quantity="other">%1$d개의 동영상이 백업 대기 중</item>
     </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
-        <item quantity="other">%1$d개의 항목 백업 대기중</item>
+        <item quantity="other">%1$d개 항목 백업 대기중</item>
     </plurals>
     <plurals name="number_of_uploading_images">
         <item quantity="other">%1$d개의 사진 백업 중…</item>
@@ -122,5 +122,11 @@
     </plurals>
     <plurals name="fast_share_auto_render_failed">
         <item quantity="other">%1$d개 사진은 렌더링에 실패하여 건너뛰어졌습니다.</item>
+    </plurals>
+    <plurals name="file_count_format">
+        <item quantity="other">총 %1$d개 항목</item>
+    </plurals>
+    <plurals name="quickly_discovery_message_format">
+        <item quantity="other">%1$d개 새 사진을 찾았습니다</item>
     </plurals>
 </resources>
