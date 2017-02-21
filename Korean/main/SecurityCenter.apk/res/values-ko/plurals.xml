@@ -42,6 +42,9 @@
     <plurals name="quick_optimize_issue_count">
         <item quantity="other">%d개 배터리 문제</item>
     </plurals>
+    <plurals name="quick_optimize_suggest_issue_found">
+        <item quantity="other">%d개 배터리 문제를 발견하였습니다. 문제를 해결하십시오.</item>
+    </plurals>
     <plurals name="app_check_title_text">
         <item quantity="other">%d개 항목 최적화 가능</item>
     </plurals>
@@ -96,6 +99,9 @@
     <plurals name="hints_scan_result_danger">
         <item quantity="other">%d개 위협 발견, 지금 고치세요</item>
     </plurals>
+    <plurals name="virus_clean_num">
+        <item quantity="other">모두 좋아 보입니다</item>
+    </plurals>
     <plurals name="notification_apps">
         <item quantity="other">%d개 앱이 개인정보 보안을 위협하고 있습니다.</item>
     </plurals>
@@ -145,7 +151,7 @@
         <item quantity="other">%s개 앱 보호되고 있지 않음</item>
     </plurals>
     <plurals name="section_clear_acc_item_right_tips">
-        <item quantity="other">%d개 잠긴 앱이 정리를 기다리고 있습니다.</item>
+        <item quantity="other">%d개 잠긴 앱이 정리를 기다리고 있습니다</item>
     </plurals>
     <plurals name="section_security_defend_item_right_tips">
         <item quantity="other">%d개 바이러스 삭제됨</item>

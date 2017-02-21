@@ -51,7 +51,7 @@
 오프 피크: %1$s | %2$s 사용됨"</string>
     <string name="main_secondary_message_traffic_used_noleisure">%s 피크 데이터 사용됨 | 오프 피크 데이터 남아 있지 않음</string>
     <string name="main_alert_message_month_limit_error">데이터 한도 오류</string>
-    <string name="main_alert_message_open_traffic_ctrl">데이터 사용량 제한을 추천합니다</string>
+    <string name="main_alert_message_open_traffic_ctrl">데이터 사용량 제한을 추천드립니다.</string>
     <string name="main_open_traffic_ctrl_button">데이터 사용량 제한</string>
     <string name="firewall_activity_lable">각각 앱의 데이터 사용 제한</string>
     <string name="firewall_applist">앱</string>
@@ -65,7 +65,7 @@
     <string name="firewall_network_restrict_notify_title">%1$s 사용할 수 없음 %2$s.</string>
     <string name="firewall_network_restrict_notify_mobile">모바일 데이터</string>
     <string name="firewall_network_restrict_notify_message">탭하여 설정 변경</string>
-    <string name="firewall_restrict_android_dialog_title">참고</string>
+    <string name="firewall_restrict_android_dialog_title">주의</string>
     <string name="firewall_restrict_android_dialog_content">기기가 정상적으로 작동하는지 확인하기 위해서 몇몇 안드로이드 시스템 앱들이 아직 인터넷에 연결 중일 수도 있습니다. 이 앱들은 귀하의 모바일 데이터 연결을 사용할 수 있으며 귀하가 이용중인 통신사에서 많지 않은 요금이 청구될 수도 있습니다.</string>
     <string name="usage_sorted_activity_lable">데이터 사용량</string>
     <string name="usage_sorted_loading_text">잠시만 기다려주십시오…</string>
@@ -75,7 +75,7 @@
     <string name="deleted_apps">삭제된 앱</string>
     <string name="root">루트 권한</string>
     <string name="sorted_button">정렬</string>
-    <string name="app_detail">세부 정보</string>
+    <string name="app_detail">세부사항</string>
     <string name="app_version">버전</string>
     <string name="app_mobile">모바일</string>
     <string name="app_wifi">Wi-Fi</string>
@@ -156,13 +156,14 @@
     <string name="input_traffic_pkg">데이터 사용량 입력</string>
     <string name="begin_date">사용량 초기화 날짜</string>
     <string name="tips_dialog_title">한도 알지 못함</string>
-    <string name="tips_message">데이터 계획의 세부 정보를 보려면, %2$s(%1$s) 번으로 전화하십시오.</string>
+    <string name="tips_message">데이터 계획의 세부사항를 보려면, %2$s(%1$s) 번으로 전화하십시오.</string>
     <string name="daily_pkg_traffic">피크 데이터 한도</string>
     <string name="input_aviable_traffic">데이터 사용량 제한 설정</string>
     <string name="pkg_traffic">데이터 사용량 제한 설정</string>
     <string name="datausage_ignore_app_list_count">%d개 앱의 데이터 사용량 무시하기</string>
     <string name="free_traffic_settings">오프 피크 데이터 사용량 설정</string>
     <string name="free_time_traffic">오프 피크 데이터 한도</string>
+    <string name="power_save_on_time_default_time_na">00:00</string>
     <string name="power_save_on_time_start_time_summary_na">시작시간</string>
     <string name="power_save_on_time_end_time_summary_na">종료시간</string>
     <string name="manual_input_traffic">데이터 사용량 설정</string>
@@ -170,6 +171,7 @@
     <string name="declaration_dialog_msg">이 기능은 사용량 추적을 도울 수 있지만 추가 요금이 들 수도 있습니다. 최고의 결과를 원하시면 한도를 낮게 설정하십시오.</string>
     <string name="input_used_hint">데이터 사용량 입력</string>
     <string name="input_used_max_hint">데이터 사용량 입력(%s보다 적게)</string>
+    <string name="text_day" />
     <string name="settings">데이터 사용량 설정</string>
     <string name="adjust_traffic_data">데이터 사용량 설정</string>
     <string name="per_month_pkg_traffic_settings">데이터 한도 설정</string>
@@ -192,7 +194,7 @@
     <string name="traffic_setting_fragment_null">비어있음</string>
     <string name="traffic_setting_fragment_loacation_alert_nomore">다시 보지 않기</string>
     <string name="data_usage_warning_title">데이터 사용량 경고</string>
-    <string name="data_usage_warning_body">탭하여 데이터 사용량 세부 정보 보기</string>
+    <string name="data_usage_warning_body">탭하여 데이터 사용량 세부사항 보기</string>
     <string name="data_usage_mobile_limit_title">모바일 데이터 한도에 도달함</string>
     <string name="data_usage_limit_body">탭하여 모바일 데이터 켜기</string>
     <string name="data_usage_disabled_dialog">계획한 데이터 사용량 한도에 도달했습니다. 한도를 초과할 경우 추가 요금이 부과될 수 있습니다.</string>
@@ -202,15 +204,15 @@
     <string name="data_usage_restricted_title">백그라운드 데이터 제한됨</string>
     <string name="data_usage_restricted_body">탭하여 백그라운드 데이터 켜기</string>
     <string name="data_usage_leisure_warning_title">오프 피크 데이터 사용량 한도</string>
-    <string name="data_usage_leisure_warning_body">탭하여 데이터 사용량 세부 정보 보기</string>
+    <string name="data_usage_leisure_warning_body">탭하여 데이터 사용량 세부사항 보기</string>
     <string name="data_usage_correction_timeout_title">데이터 사용량 동기화 시간 초과</string>
     <string name="data_usage_correction_timeout_body">탭하여 수동 업데이트</string>
     <string name="data_usage_no_total_package_title">데이터 사용량 한도 설정</string>
     <string name="data_usage_no_total_package_body">탭하여 데이터 한도 설정</string>
     <string name="data_usage_no_total_package_body_dual">%s에 대한 데이터 한도 설정 없음</string>
     <string name="network_assistant_upgraded_title">업데이트됨</string>
-    <string name="network_assistant_upgraded_body">탭하여 세부 정보 보기</string>
-    <string name="lock_screen_traffic_warn_title">잠금 화면 알림</string>
+    <string name="network_assistant_upgraded_body">탭하여 세부사항 보기</string>
+    <string name="lock_screen_traffic_warn_title">잠금화면 알림</string>
     <string name="lock_screen_traffic_notify_body">%1$s에서 %2$s 잠금, 데이터 %3$s 사용됨</string>
     <string name="timeshow_h_m">%1$d시간 %2$d분</string>
     <string name="timeshow_m_s">%1$d분 %2$d초</string>
@@ -219,22 +221,22 @@
     <string name="timeshow_h">%.1f시간</string>
     <string name="timeshow_h_int">%d시간</string>
     <string name="lock_screen_traffic_guide_notification_title">탭하여 데이터 사용량 관리</string>
-    <string name="lock_screen_traffic_guide_notification_summary">잠금 화면에서 %s 사용됨</string>
+    <string name="lock_screen_traffic_guide_notification_summary">잠금화면에서 %s 사용됨</string>
     <string name="lock_screen_traffic_purchase_textview">모바일 데이터 구매</string>
     <string name="free_time_traffic_title">오프 피크 데이터 한도 입력</string>
     <string name="free_time_traffic_hint">오프 피크 데이터 한도 입력</string>
     <string name="traffic_correction_start_correction">통신사 서버와 통신 중…</string>
-    <string name="traffic_correction_start_correction_failed">요청 실패. 운영자 설정을 확인해주십시오.</string>
+    <string name="traffic_correction_start_correction_failed">요청 실패. 운영자 설정을 확인해 주십시오.</string>
     <string name="traffic_correction_success">데이터 사용량 업데이트됨</string>
     <string name="traffic_correction_failed">정보를 가져오지 못했습니다.</string>
-    <string name="traffic_correction_success_notify_message">탭하여 세부 정보 보기.</string>
+    <string name="traffic_correction_success_notify_message">탭하여 세부사항 보기.</string>
     <string name="sim_location_error_notify_title">SIM 카드 오류</string>
     <string name="sim_location_error_notify_message">탭하여 SIM 위치 변경</string>
     <string name="sim_location_error_dialog_message">사용 중인 SIM의 위치가 %1$s입니다. 수동으로 설정한 위치(%2$s) 와 다릅니다. SIM 위치를 %3$s로 변경하시겠습니까?</string>
     <string name="package_change_notification_title">자동 데이터 한도 조정</string>
     <string name="package_change_notification_summary">탭하여 더 알아보기.</string>
     <string name="package_setted_error_notification_titile">데이터 계획을 설정할 수 없음</string>
-    <string name="package_setted_error_notification_summary">탭하여 데이터 사용량 세부 정보 보기</string>
+    <string name="package_setted_error_notification_summary">탭하여 데이터 사용량 세부사항 보기</string>
     <string name="traffic_config_alert_title">%s개 수정</string>
     <string name="traffic_config_alert_auto_modify">자동으로 데이터 계획 업데이트</string>
     <string name="traffic_config_alert_body">"통신사 계정엔 %s로 표시됩니다.
@@ -272,8 +274,8 @@
     <string name="dual_setting_simcard1">SIM 1</string>
     <string name="dual_setting_simcard2">SIM 2</string>
     <string name="mi_service_framework">Mi 서비스 프레임워크</string>
-    <string name="mi_service_app_detail">데이터 사용량 세부 정보</string>
-    <string name="mi_service_traffic_detail">프레임워크 세부 정보</string>
+    <string name="mi_service_app_detail">데이터 사용량 세부사항</string>
+    <string name="mi_service_traffic_detail">프레임워크 세부사항</string>
     <string name="none_mi_service_app_detail">비어있음</string>
     <string name="label_mi_stats">Mi 통계</string>
     <string name="show_traffic_dialog_title">드롭 다운 메뉴에 사용량 보이기</string>
@@ -318,8 +320,8 @@
     <string name="sc_allow_network_dialog_message">이 앱을 정상적으로 작동하려면 인터넷 연결이 필요합니다.</string>
     <string name="privacy_prompt_upload">업로드</string>
     <string name="privacy_prompt_traffic_adjust_message">이 기능은 암호화가 필요하며, 통신사로부터 데이터 사용량 통계를 받기 위해서는 기기의 IMEI, 전화번호, 통신사 정보를 Mi의 서버로 전송해야 합니다.</string>
-    <string name="privacy_prompt_traffic_purchase_message">데이터 구매 옵션에 관한 더 많은 정보를 얻기 위하여 전화번호와 통신사 세부 정보가 암호화되어 Mi의 서버에 업로드됩니다.</string>
-    <string name="privacy_prompt_tc_sms_report_message">데이터 사용량 정보를 업데이트하기 위하여 전화번호와 통신사 세부 정보가 암호화되어 Mi의 서버에 업로드됩니다.</string>
+    <string name="privacy_prompt_traffic_purchase_message">데이터 구매 옵션에 관한 더 많은 정보를 얻기 위하여 전화번호와 통신사 세부사항가 암호화되어 Mi의 서버에 업로드됩니다.</string>
+    <string name="privacy_prompt_tc_sms_report_message">데이터 사용량 정보를 업데이트하기 위하여 전화번호와 통신사 세부사항가 암호화되어 Mi의 서버에 업로드됩니다.</string>
     <string name="international_roaming_setting">데이터 로밍</string>
     <string name="pref_roaming_setting_gategory">설정</string>
     <string name="pref_allow_connect_network_title">데이터 로밍</string>
@@ -363,9 +365,9 @@
     <string name="three_percent_total_pkg">%s (월간 데이터의 3%%)</string>
     <string name="five_percent_total_pkg">%s (월간 데이터의 5%%)</string>
     <string name="ten_percent_total_pkg">%s (월간 데이터의 10%%)</string>
-    <string name="lock_screen_warning_category">잠금 화면 알림</string>
-    <string name="lock_screen_warning_switch_title">잠금 화면에 경고 보이기</string>
-    <string name="lock_screen_warning_switch_summary">데이터 사용량이 일정량 초과 시 잠금 화면에 경고 보이기</string>
+    <string name="lock_screen_warning_category">잠금화면 알림</string>
+    <string name="lock_screen_warning_switch_title">잠금화면에 경고 보이기</string>
+    <string name="lock_screen_warning_switch_summary">데이터 사용량이 일정량 초과 시 잠금화면에 경고 보이기</string>
     <string name="lock_screen_warning_value">데이터 사용량 경고</string>
     <string name="traffic_setting_completed">확인</string>
     <string name="traffic_setting_extra_pkg_title">추가 설정</string>
@@ -379,7 +381,7 @@
     <string name="traffic_purchase_body">탭하여 데이터 추가 구매</string>
     <string name="traffic_purchse_suggestion">모바일 데이터 추가 구매</string>
     <string name="traffic_over_purchase_title">데이터 한도가 초과됨</string>
-    <string name="traffic_over_purchase_body">탭하여 세부 정보 보기</string>
+    <string name="traffic_over_purchase_body">탭하여 세부사항 보기</string>
     <string name="traffic_over_purchase_link">"모바일 계획의 데이터 사용량이 한도에 도달했습니다.&lt;br/>계획한 데이터 사용량 한도를 초과할 경우 추가 요금이 부과될 수 있습니다.&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>탭하여 데이터를 추가 구매하십시오.&lt;/U>&lt;/font>"</string>
     <string name="repair_loading_text">잠시만 기다려주십시오…</string>
     <string name="network_diagnostics">네트워크 테스트</string>
@@ -394,7 +396,7 @@
     <string name="connect_internet_by_wifi">Wi-Fi</string>
     <string name="unable_connect_internet">인터넷 연결 없음</string>
     <string name="enable_network">먼저 네트워크 켜기</string>
-    <string name="disable_air_mode">먼저 비행기 모드 끄기</string>
+    <string name="disable_air_mode">먼저 비행기 탑승 모드 끄기</string>
     <string name="repair">수리</string>
     <string name="check_network_state">네트워크 테스트</string>
     <string name="current_network_state_not_need_diagnose">인터넷 연결이 정상입니다.</string>
@@ -414,7 +416,7 @@
     <string name="gateway_exception_summary2">서버에 연결할 수 없습니다.</string>
     <string name="other_exception_title">다른 문제 확인 중</string>
     <string name="other_exception_summary">인터넷이 연결되지 않았습니다.</string>
-    <string name="see_detail">세부 정보</string>
+    <string name="see_detail">세부사항</string>
     <string name="choose">선택</string>
     <string name="pay_charge">추가 데이터 구매</string>
     <string name="replace_dns">자동으로 DNS 교체</string>
@@ -449,7 +451,7 @@
 
  1. 계획한 모바일 데이터 한도를 초과하지 않았는지 확인하십시오.
 
- 2. 기기 대금을 방금 납부한 경우라면 기기를 재부팅하고 다시 시도하십시오.
+ 2. 기기 대금을 방금 납부한 경우라면 기기를 재시작하고 다시 시도하십시오.
 
  3. 현재 위치에서 통신사의 네트워크 신호가 약할 수 있습니다."</string>
     <string name="network_sim_exception_detail">"SIM 카드에 문제가 있는 경우:
@@ -468,7 +470,7 @@
 인터넷 서비스 제공업체에 미납금이 없는지 확인하십시오.
 
  "<b>3. 공유기 하드웨어 문제</b>"
-공유기를 재부팅하거나 공유기의 관리 설정을 확인해 보십시오.
+공유기를 재시작하거나 공유기의 관리 설정을 확인해 보십시오.
 
  "<b>4. 기타 공유기 문제</b>"
 공유기에 동봉된 설명서를 읽고 공유기를 공장 설정으로 복원하십시오.
@@ -491,6 +493,9 @@
     <string name="tc_diagnostic_onekey_repair_botton">수정</string>
     <string name="tc_diagnostic_repair_and_continue">수정 및 계속</string>
     <string name="tc_diagnostic_upload_button">리포트</string>
+    <string name="tc_diagnostic_fragment_default">"진단에 대해서
+1. 기기가 통신사 네트워크 연결을 위해 무료 메시지를 전송하고 응답을 기다립니다. 5분 정도 소요될 것입니다.
+2. 이 진단 과정은 백그라운드에서 실행되기 때문에 이 페이지를 나가셔도 됩니다."</string>
     <string name="sim_location_diagnostic">위치 진단</string>
     <string name="operator_diagnostic">통신사 진단</string>
     <string name="brand_diagnostic">통신사 브랜드 유형 진단</string>
@@ -527,17 +532,17 @@
     <string name="tc_diagnostic_repair_location">"&lt;font color='#3EC234'>진단 완료, 위치 문제 수정됨.&lt;/font>"</string>
     <string name="tc_diagnostic_repair_location_and_operator">"&lt;font color='#3EC234'>진단 완료, 위치 및 통신사 문제 수정됨.&lt;/font>"</string>
     <string name="diagnostic_attention_dialog_message">%1$s의 진단이 진행 중입니다. 이 과정이 완료될 때까지 기다리셨다가 다시 시도하십시오.</string>
-    <string name="correction_attention_dialog_message">지금 설정을 조정 중입니다. 작업이 끝날때까지 기다리셨다가 다시 시도해주십시오.</string>
+    <string name="correction_attention_dialog_message">지금 설정을 조정 중입니다. 작업이 끝날때까지 기다리셨다가 다시 시도해 주십시오.</string>
     <string name="text_button">알겠습니다.</string>
     <string name="power_center_title">전원</string>
     <string name="power_center_consume_rank">배터리 사용</string>
     <string name="power_center_custom_title">배터리 프로필</string>
     <string name="power_center_auto_shutdown">전원 켜짐/꺼짐 예약</string>
-    <string name="power_center_ontime_boot">전원 켜기 예약</string>
-    <string name="power_center_time_to_boot">전원 켤 시간</string>
+    <string name="power_center_ontime_boot">예약 켜짐 시간</string>
+    <string name="power_center_time_to_boot">전원 켜진 시간</string>
     <string name="power_center_repeat">반복</string>
-    <string name="power_center_ontime_shutdown">전원 끄기 예약</string>
-    <string name="power_center_time_to_shutdown">전원 끌 시간</string>
+    <string name="power_center_ontime_shutdown">예약 꺼짐 시간</string>
+    <string name="power_center_time_to_shutdown">전원 꺼질 시간</string>
     <string name="power_center_state_on">켜짐</string>
     <string name="power_center_state_off">꺼짐</string>
     <string name="power_center_consume_time">%1$s 남음</string>
@@ -551,7 +556,7 @@
     <string name="power_consume_total_software">앱: %1$d%%</string>
     <string name="power_consume_total_hardware">하드웨어: %1$d%%</string>
     <string name="power_consume_other">기타</string>
-    <string name="battery_desc_other_apps">다른 앱이 소모한 전원</string>
+    <string name="battery_desc_other_apps">다른 앱에 의해 소모된 전력량</string>
     <string name="power_settings_title">설정</string>
     <string name="power_settings_category_title">배터리 표시기</string>
     <string name="power_settings_shape">그래픽</string>
@@ -560,9 +565,9 @@
     <string name="power_customize_giveup_change">변경 사항을 저장하지 않으시겠습니까?</string>
     <string name="menu_item_force_stop">강제 중지</string>
     <string name="menu_item_uninstall">설치 제거</string>
-    <string name="menu_item_app_details">세부 정보</string>
+    <string name="menu_item_app_details">세부사항</string>
     <string name="hints_power_percent_title">배터리</string>
-    <string name="details_subtitle">사용 세부 정보</string>
+    <string name="details_subtitle">사용 세부사항</string>
     <string name="packages_subtitle">포함된 패키지</string>
     <string name="battery_desc_standby">휴대전화가 유휴 상태일 때 사용된 배터리</string>
     <string name="battery_desc_radio">라디오에 사용된 배터리</string>
@@ -613,6 +618,7 @@
     <string name="boot_reminder">예약된 시간에 기기 전원 켜짐</string>
     <string name="shutdown_cancel_reminder">전원이 꺼지지 않았습니다.</string>
     <string name="shutdown_cancel_reminder_detail">통화 중이었기에 기기 전원이 꺼지지 않았습니다.</string>
+    <string name="shutdown_cancel_reminder_detail2">게임을 하는중인 것 같네요. 전원 끄기 예약이 취소되었습니다.</string>
     <string name="legal_workday_invalidate">월-금 (휴일 정보 만료됨)</string>
     <string name="legal_workday_invalidate_message">탭하여 공휴일 정보 업데이트</string>
     <string name="legal_workday_message">(휴일 건너뛰기)</string>
@@ -650,7 +656,7 @@
     <string name="power_optimize_catagory_fixed_title">최적화됨</string>
     <string name="power_optimize_btn_text_fixed">최적화됨</string>
     <string name="power_optimize_loading">로딩 중</string>
-    <string name="prompt_input_time_illegal">이 시간으로 설정 할 수 없습니다, 변경 후 다시 시도해주십시오.</string>
+    <string name="prompt_input_time_illegal">이 시간으로 설정 할 수 없습니다, 변경 후 다시 시도해 주십시오.</string>
     <string name="power_settings_saver_title">전원 절약</string>
     <string name="quick_optimize_no_fix_issue_title">배터리 문제 수정할 수 없음</string>
     <string name="quick_optimize_no_fix_issue_subtitle">배터리 수명 연장 실패</string>
@@ -659,6 +665,9 @@
     <string name="quick_optimize_no_issue">배터리 문제 없음</string>
     <string name="quick_optimize_sub_summary_text">배터리 수명을 위해 %s 추가됨</string>
     <string name="quick_optimize_checking">스캔 중</string>
+    <string name="quick_optimize_suggest_battery_over_heat">휴대전화가 과열되고 있습니다. 온도를 낮춰주세요.</string>
+    <string name="quick_optimize_suggest_battery_consume_too_fast">휴대 전화 배터리가 과소비되고 있습니다. 문제를 해결하십시오.</string>
+    <string name="btn_text_optimize_extend_battery_time">%s 추가</string>
     <string name="btn_text_optimize_now">최적화</string>
     <string name="btn_text_optimize_manually">수동 최적화</string>
     <string name="battery_history_activity_title">기록</string>
@@ -694,7 +703,7 @@
     <string name="app_check_reason_wifi_scan">자주 Wi-Fi 스캔</string>
     <string name="app_check_reason_background_gps">백그라운드에서 GPS 실행 중</string>
     <string name="app_check_reason_background_cpu">CPU 백그라운드 활동</string>
-    <string name="app_check_reason_wakeup_alarm">잠금 화면이 자주 해제됩니다.</string>
+    <string name="app_check_reason_wakeup_alarm">잠금화면이 자주 해제됩니다.</string>
     <string name="app_check_optimize_title">백그라운드 활동 최적화</string>
     <string name="power_save_mode_enable">배터리 절약</string>
     <string name="power_save_mode_summary" formatted="false">배터리 절전 모드가 켜지면 백그라운드 앱을 제어하고 동기화를 끌 것입니다. 배터리가 60% 또는 100%일 때 자동으로 모드를 끌 것입니다.</string>
@@ -734,14 +743,14 @@
     <string name="auto_task_edit_choose_condition_title">상태 선택</string>
     <string name="auto_task_edit_choose_operation_title">동작 선택</string>
     <string name="auto_task_edit_choose_new_operation">동작 추가</string>
-    <string name="auto_task_edit_operation_summary">예를 들어, \"비행기 모드 켜기\"</string>
+    <string name="auto_task_edit_operation_summary">예를 들어, \"비행기 탑승 모드 켜기\"</string>
     <string name="auto_task_edit_condition_title">상태 추가</string>
     <string name="auto_task_edit_condition_summary">예를 들어, \"23시에\"</string>
     <string name="auto_task_edit_task_name">이름</string>
     <string name="auto_task_operation_open">켜짐</string>
     <string name="auto_task_operation_close">꺼짐</string>
     <string name="auto_task_operation_no_op">이 동작을 선택하지 마세요</string>
-    <string name="auto_task_operation_airplane_mode">비행기 모드</string>
+    <string name="auto_task_operation_airplane_mode">비행기 탑승 모드</string>
     <string name="auto_task_operation_memory_clean_lockscreen">메모리 정리</string>
     <string name="auto_task_operation_mobile_data">모바일 데이터</string>
     <string name="auto_task_operation_wifi">Wi-Fi</string>
@@ -752,7 +761,7 @@
     <string name="auto_task_operation_brightness">화면 밝기</string>
     <string name="auto_task_operation_gps">GPS</string>
     <string name="auto_task_operation_sync">동기화</string>
-    <string name="auto_task_operation_lockscreen_time">잠금 화면</string>
+    <string name="auto_task_operation_lockscreen_time">잠금화면</string>
     <string name="auto_task_operation_string_etc">, 기타.</string>
     <string name="auto_task_operation_string_comma">,</string>
     <string name="auto_task_operation_string_split">;</string>
@@ -768,7 +777,7 @@
     <string name="auto_task_condition_choose_end_time">종료 시간</string>
     <string name="auto_task_condition_number_pick_title">배터리 상태 설정</string>
     <string name="auto_task_condition_time_pick_title">타이머 설정</string>
-    <string name="auto_atsk_condition_battery_level_text_down">배터리가 %s에 도달했을 때</string>
+    <string name="auto_atsk_condition_battery_level_text_down">배터리가 %s에 도달했울 때</string>
     <string name="auto_atsk_condition_battery_level_text_up">배터리가 %s까지 충전됐을 때</string>
     <string name="auto_task_condition_time_text">%s에서</string>
     <string name="auto_task_condition_time_duration_text">%1$s에서 %2$s까지</string>
@@ -781,6 +790,7 @@
     <string name="auto_task_notify_exit_task_title">자동 작업 종료됨</string>
     <string name="auto_task_notify_task_canceled_title">동작이 취소되었습니다</string>
     <string name="auto_task_notify_task_canceled_summary">전화를 걸거나 받을 수 있습니다</string>
+    <string name="auto_task_notify_task_canceled_summary2">게임을 하는중인 것 같네요.</string>
     <string name="auto_task_notify_task_continue_do">시작</string>
     <string name="auto_task_notify_task_count_down">5초 안에 자동 동작이 실행됩니다</string>
     <string name="auto_task_notify_task_cancel_count_down">5초 안에 자동 동작이 취소됩니다</string>
@@ -790,29 +800,36 @@
     <string name="uninstall_app_done">성공적으로 제거됨</string>
     <string name="auto_task_edit_step1">1.</string>
     <string name="auto_task_edit_step2">2.</string>
+    <string name="pc_battery_history_show_imei">IMEI:</string>
     <string name="resource_securitycenter_settings">보안</string>
-    <string name="keywords_securitycenter_settings">ROOT;배터리 사용량;권한;차단목록;데이터 사용량;데이터 계획 조정;네트워크 테스트;앱 잠금;배터리 절약;절약 배터리;과열;켜기;끄기;배터리;소모;자동시작;ROOT;위치;연락처 접근;차단;차단 목록;스마트 차단목록;사기;세일즈;텔레마케터;에이전트;데이터;트래픽;보정;연결;인터넷;테스트;비밀번호;개인정보;접근;보안</string>
+    <string name="keywords_securitycenter_settings">배터리 사용량;자동 시작 관리;USB로 설치;앱 권한;모바일 데이터 구매;차단 목록;데이터 사용량;데이터 요금제 조정;네트워크 테스트;배터리 절약;과열;켜기;끄기;배터리;소모;배터리 문제;에너지;배터리 세이버;에너지 세이버;에너지 절약;배터리 절약;자동 시작;권한;자동 시작;MIUI 자동 시작; 앱 자동 시작; 앱 자동 시작;연결 시작;연결된 시작;트리거된 시작;USB 설치;컴퓨터에서 설치;ADB 설치;위치;연락처 접근;데이터;모바일 데이터;데이터 구매;데이터 충전;데이터 요금제;차단;블랙 리스트;스마트 차단 목록;사기;판매;에이전트;통화 차단 목록;메세지 차단 목록;메세지 차단 목록;SMS 차단 목록;블랙리스트;블랙 리스트;차단목록;차단 목록;사기;연락처 차단;연락처 차단;트래픽;조정;연결;인터넷;테스트;배터리 사용</string>
     <string name="path_securitycenter_settings">시스템 앱/보안</string>
     <string name="resource_securitycenter">보안</string>
     <string name="keywords_securitycenter">보안;확인;스캔</string>
     <string name="path_securitycenter">시스템 앱/보안</string>
     <string name="resource_cleanmaster">클리너</string>
-    <string name="keywords_cleanmaster">쓰레기;지우기;속도;저장소;캐시</string>
+    <string name="keywords_cleanmaster">쓰레기;지우기;스피드;저장소;캐시;저장소 지우기;쓰레기 지우기;쓰레기;공간 확보;저장소 공간 확보;공간 확보;청소;정밀 청소;클리너</string>
     <string name="path_cleanmaster">시스템 앱/보안/클리너</string>
     <string name="resource_antivirus">바이러스 스캔</string>
     <string name="keywords_antivirus">바이러스;위험;안티바이러스;스캔</string>
     <string name="path_antivirus">시스템 앱/보안/바이러스 스캔</string>
-    <string name="resource_monthreport">보안 리포트</string>
-    <string name="keywords_monthreport">리포트;월간 리포트;연간 리포트;보안 리포트</string>
-    <string name="path_monthreport">시스템 앱/보안</string>
     <string name="resource_powercenter">배터리 사용량</string>
-    <string name="keywords_powercenter">배터리 절약;발열;켜기;끄기;배터리;소모</string>
+    <string name="keywords_powercenter">배터리 절약;과열;켜기;끄기;배터리;소모;배터리;배터리 문제;에너지;소모;과열;배터리 세이버;에너지 세이버;에너지 절약;배터리 절약</string>
     <string name="path_powercenter">시스템 앱/보안/배터리 사용량</string>
-    <string name="resource_permcenter">권한</string>
-    <string name="keywords_permcenter">자동 시작;권한;루트;위치;연락처 접근</string>
-    <string name="path_permcenter">시스템 앱/보안/권한</string>
+    <string name="resource_auto_restart">자동 시작 관리</string>
+    <string name="keywords_auto_restart">자동시작; 권한;자동 시작;자동시작; 자동시작 관리; MIUI 자동시작; 앱 자동시작; 앱 자동시작;시작;연결 시작;연결된 시작;유발된 시작</string>
+    <string name="path_auto_restart">시스템 앱/보안/권한/자동 시작 관리</string>
+    <string name="resource_usb_install">USB로 설치</string>
+    <string name="keywords_usb_install">USB 설치;컴퓨터에서 설치;ADB 설치</string>
+    <string name="path_usb_install">시스템 앱/보안/권한/USB로 설치</string>
+    <string name="resource_app_permissions">앱 권한</string>
+    <string name="keywords_app_permissions">권한;위치;연락처 접근;권한;앱 권한</string>
+    <string name="path_app_permissions">시스템 앱/보안/권한/앱 권한</string>
+    <string name="resource_buy_flow">모바일 데이터 구매</string>
+    <string name="keywords_buy_flow">데이터;모바일 데이터;데이터 구매;모바일 데이터 구매;데이터 충전;데이터 요금제</string>
+    <string name="path_buy_flow">시스템 앱/보안/데이터 사용량/모바일 데이터 구매</string>
     <string name="resource_antispam">차단 목록</string>
-    <string name="keywords_antispam">차단목록/차단/차단 목록/스마트 차단목록/사기/세일즈/에이전트</string>
+    <string name="keywords_antispam">차단 목록;차단;블랙 리스트;스마트 차단 목록;사기;판매;에이전크;전화 차단 목록;메세지 차단 목록;메세지 차단 목록;SMS 차단 목록;블랙리스트;블랙 리스트;차단목록;차단 목록;사기;연락처 차단;연락처 차단</string>
     <string name="path_antispam">시스템 앱/보안/차단목록</string>
     <string name="resource_networkassistant_1">데이터 사용량</string>
     <string name="keywords_networkassistant_1">데이터;트래픽</string>
@@ -826,6 +843,9 @@
     <string name="resource_powercenter_powerrank">배터리 &amp; 성능</string>
     <string name="keywords_powercenter_powerrank">배터리 사용</string>
     <string name="path_powercenter_powerrank">배터리 &amp; 성능/배터리 사용</string>
+    <string name="resource_payment_security">결제 보안</string>
+    <string name="keywords_payment_security">결제 보안 확인;결제 보안;보안 결제;보안 결제;결제 보호;결제 보호;보호된 결제;보안 존;결제 존</string>
+    <string name="path_payment_security">시스템 앱/보안/결제 보안</string>
     <string name="app_name_securitycenter">보안</string>
     <string name="ok">확인</string>
     <string name="cancel">취소</string>
@@ -889,8 +909,9 @@
     <string name="activity_title_trash">캐시</string>
     <string name="activity_title_network_speed_detail">연결</string>
     <string name="memory_check_content">사용가능 %s</string>
-    <string name="memory_check_content_none">비어 있음</string>
+    <string name="memory_check_content_none">비어있음</string>
     <string name="system_check_content_none">안전</string>
+    <string name="cache_check_content_none">@string/memory_check_content_none</string>
     <string name="system_header_title">%1$d 프로세스 제거하여 %2$s 메모리 확보</string>
     <string name="cache_header_title">%1$d 캐시된 파일을 제거하여 %2$s 여유 공간 확보</string>
     <string name="activity_title_virus">바이러스</string>
@@ -971,7 +992,6 @@
     <string name="activity_title_create_shortcut">바로가기 관리</string>
     <string name="menu_item_notification_title">드롭다운 메뉴에 표시</string>
     <string name="menu_item_notification_garbage_text">%s</string>
-    <string name="menu_item_notification_garbage_text_error">오류</string>
     <string name="menu_item_notification_power_text">전원</string>
     <string name="menu_item_notification_antispam_text_normal">차단 목록</string>
     <string name="menu_item_notification_antispam_text_avail">차단 목록</string>
@@ -1004,8 +1024,8 @@
     <string name="hints_risk_name_title">위험:</string>
     <string name="hints_risk_descx_title">설명:</string>
     <string name="button_text_clear">제거</string>
-    <string name="activity_title_virus_detail">바이러스 세부 정보</string>
-    <string name="activity_title_risk_detail">위험 세부 정보</string>
+    <string name="activity_title_virus_detail">바이러스 세부사항</string>
+    <string name="activity_title_risk_detail">위험 세부사항</string>
     <string name="hints_virus_app_summary">%s(앱)</string>
     <string name="hints_virus_apk_summary">%s(apk)</string>
     <string name="hints_loading_text">로딩 중…</string>
@@ -1060,7 +1080,7 @@
     <string name="toast_root_apply_accept">%s에 루트 권한 부여됨</string>
     <string name="toast_root_apply_reject">%s에 루트 권한 거부됨</string>
     <string name="permission_send_sms_descx">앱이 SMS나 MMS 메시지를 전송할 수 있습니다.</string>
-    <string name="empty_title_system_cache_list">시스템 캐시 비어 있음</string>
+    <string name="empty_title_system_cache_list">시스템 캐시 비어있음</string>
     <string name="empty_title_system_process_list">시스템 프로세스 없음</string>
     <string name="empty_title_virus_list">바이러스 없음</string>
     <string name="empty_title_risk_list">위험한 앱 없음</string>
@@ -1100,13 +1120,13 @@
     <string name="reject_usb_install">다음 앱의 USB 설치가 거부되었습니다.</string>
     <string name="adb_install_reject_notiy">%s를 USB로 설치하도록 허용하지 마세요.</string>
     <string name="adb_install_reject_notiy_desc">개발자 옵션에서 USB로 설치 허용을 할 수 있습니다.</string>
-    <string name="adb_login_xiaomi_account">먼저 Mi 계정에 로그인해주세요.</string>
+    <string name="adb_login_xiaomi_account">먼저 Mi 계정에 로그인해 주십시오.</string>
     <string name="adb_install_open">권한 허용중…</string>
-    <string name="adb_install_open_error">허용할 수 없음, 네트워크 연결을 확인하세요.</string>
+    <string name="adb_install_open_error">허용할 수 없음, 네트워크 연결을 확인하십시오.</string>
     <string name="usb_adb_input_apply_step_1">이 작업은 개인정보 손실과 유출을 야기할 수 있습니다. 개발자가 아닌 이상 이 작업을 하는 것을 추천하지 않습니다.</string>
     <string name="usb_adb_input_apply_step_2">개발자는 권한 승인, 설정 변경, 제스처 복제를 위해 USB를 통해 특수 소프트웨어를 사용할 수 있습니다.</string>
     <string name="usb_adb_input_apply_step_3">지금 허용하시겠습니까?</string>
-    <string name="adb_install_no_network">네트워크에 연결한 뒤에 다시 시도하세요.</string>
+    <string name="adb_install_no_network">네트워크에 연결한 뒤에 다시 시도하십시오.</string>
     <string name="pc_install_manager">USB로 설치</string>
     <string name="monitor_requests_from_pc">USB로 설치한 앱 관리</string>
     <string name="app_install_intercept">설치 차단</string>
@@ -1127,7 +1147,7 @@
     <string name="summary_network_switch">보안 앱의 인터넷 연결 허용</string>
     <string name="title_power_optimizer">배터리 절약</string>
     <string name="summary_power_optimizer">배터리가 부족할 때 기기의 성능 낮추기</string>
-    <string name="history_details_title">기록 세부 정보</string>
+    <string name="history_details_title">기록 세부사항</string>
     <string name="title_data_flow">모바일 데이터 제어</string>
     <string name="summary_data_flow">추가 비용 방지를 위해 모바일 데이터 사용량 제어하기</string>
     <string name="title_telecom_operator">자동 조정</string>
@@ -1149,10 +1169,12 @@
     <string name="title_permission_root">루트 권한</string>
     <string name="summary_permission_root">이 기기는 루트권한이 있는 것으로 보입니다. 귀하 기기의 보안에 큰 손실을 가져올 수 있습니다.</string>
     <string name="title_app_update">업데이트 가능</string>
-    <string name="title_find_device">디바이스 찾기</string>
+    <string name="title_find_device">기기 찾기</string>
     <string name="summary_find_device">어느곳에서나 기기 위치검색과 잠금</string>
     <string name="title_realname_verify">ID 인증</string>
-    <string name="summary_realname_verify">결제 보안 강화를 위해 본인 인증을 해주십시오.</string>
+    <string name="summary_realname_verify">결제 보안 강화를 위해 본인 인증을 해 주십시오.</string>
+    <string name="title_mifi_insurance">워런티 연장</string>
+    <string name="summary_mifi_insurance">1년간 하드웨어 손상 교환 프로그램 가입</string>
     <string name="title_cloud_space_almost_full">클라우드 저장소가 거의 가득찼습니다. 항목들이 동기화 되지 않을 수도 있습니다.</string>
     <string name="summary_cloud_space_almost_full">더 많은 저장 공간을 확보하십시오.</string>
     <string name="title_cloud_space_full">클라우드가 꽉 찼습니다.</string>
@@ -1162,7 +1184,7 @@
     <string name="title_miui_update">업데이트 가능</string>
     <string name="summary_miui_update">%s개 업데이트 가능</string>
     <string name="title_virus_cloudscan">클라우드 바이러스 스캔</string>
-    <string name="summary_virus_cloudscan">앱 이름과 세부 정보를 업로드하여 온라인 바이러스 정의로 스캔</string>
+    <string name="summary_virus_cloudscan">앱 이름과 세부사항를 업로드하여 온라인 바이러스 정의로 스캔</string>
     <string name="title_cleaner_cloudscan">클라우드 쓰레기 스캔</string>
     <string name="summary_cleaner_cloudscan">온라인 정의로 폴더 이름 업로드 및 비교</string>
     <string name="title_live_talk_purchase">충전 패키지 켜기</string>
@@ -1191,14 +1213,14 @@
     <string name="summary_garbage_clean">캐시를 지워서 공간 확보</string>
     <string name="title_consume_power">배터리 문제 발견됨</string>
     <string name="summary_consume_power">발열 이슈 발견됨. 배터리 수명에 영향을 줄 수 있습니다.</string>
-    <string name="pref_category_title_lock_screen_memory_clean">잠금 화면에서 청소</string>
-    <string name="pref_title_lock_screen_memory_clean">잠금 화면에서 청소</string>
+    <string name="pref_category_title_lock_screen_memory_clean">잠금화면에서 청소</string>
+    <string name="pref_title_lock_screen_memory_clean">잠금화면에서 청소</string>
     <string name="pref_summary_lock_screen_memory_clean">기기가 잠겼을 때 자동으로 청소</string>
     <string name="title_default_app">MIUI %s를 기본으로 설정할 수 없습니다.</string>
     <string name="summary_default_app">%s를 기본 시스템 앱으로 설정할 수 없습니다.</string>
     <string name="toast_default_app">%1$s를 시스템 기본 %2$s으로 설정하였습니다.</string>
     <string name="notification_title_cmcc_app_check">마지막 확인으로부터 %d일</string>
-    <string name="notification_summary_cmcc_app_check">터치하여 세부 정보 보기</string>
+    <string name="notification_summary_cmcc_app_check">터치하여 세부사항 보기</string>
     <string name="title_cmcc_app_check">검증이 완료되지 않음</string>
     <string name="summary_cmcc_app_check">일부 앱이 검증되지 않았습니다.</string>
     <string name="cmcc_app_check_dialog_title">시스템 복구됨</string>
@@ -1210,6 +1232,7 @@
     <string name="antivirus_choose_engine_settings">바이러스 정의 설정</string>
     <string name="antivirus_choose_engine_title">정의</string>
     <string name="antivirus_choose_engine_disable_toast">스캔 작업 중 정의를 변경할 수 없습니다.</string>
+    <string name="antivirus_choose_engine_update_disable_toast">업데이트 진행중에는 설정을 변경할 수 없습니다</string>
     <string name="antivirus_choose_engine_dialog_title">정의 선택</string>
     <string name="antivirus_choose_engine">%s</string>
     <string name="antivirus_update_db">%s</string>
@@ -1217,9 +1240,9 @@
     <string name="antivirus_none_engine_dialog_title">정의 선택</string>
     <string name="antivirus_none_engine_dialog_ok">확인</string>
     <string name="antivirus_privacy_dialog_title">개인 정보 보호 정책</string>
-    <string name="antivirus_privacy_dialog_summary">이 기능은 디바이스 ID를 암호화하여 Avast, AVL, Tencent 서버에 업로드합니다(%s).</string>
+    <string name="antivirus_privacy_dialog_summary">이 기능은 기기 ID를 암호화하여 Avast, AVL, Tencent 서버에 업로드합니다(%s).</string>
     <string name="antivirus_privacy_dialog_summary_link">개인 정보 보호 정책 보기</string>
-    <string name="antivirus_privacy_dialog_cloudscan">앱 이름과 세부 정보 업로드</string>
+    <string name="antivirus_privacy_dialog_cloudscan">앱 이름과 세부사항 업로드</string>
     <string name="antivirus_privacy_dialog_cloudscan_description">온라인 바이러스 정의를 사용하여 앱 이름과 상세 정보를 업로드 및 스캔합니다.</string>
     <string name="antivirus_privacy_dialog_ok">확인</string>
     <string name="antivirus_more_engine_dialog_title">주의</string>
@@ -1229,8 +1252,17 @@
     <string name="pref_category_title_virus_white_list">예외사항</string>
     <string name="pref_title_virus_white_list">예외사항</string>
     <string name="pref_summary_virus_white_list">선택한 앱이 정리되지 않게 합니다.</string>
+    <string name="pref_title_manual_check_virus_db_update">업데이트 확인</string>
+    <string name="msg_update_error_code_success">완료</string>
+    <string name="msg_update_up">숨김</string>
+    <string name="virus_dp_update_title">DB 업데이트</string>
+    <string name="virus_update_tips_title">Wi-Fi에 연결하십시오</string>
+    <string name="virus_wait_network_dialog_message">업데이트 용량이 큽니다. 다운로드하려면 Wi-Fi에 연결하십시오.</string>
+    <string name="virus_update_success">성공적으로 업데이트됨</string>
+    <string name="virus_update_fail">업데이트할 수 없음</string>
+    <string name="virus_already_update">DB가 업데이트되었습니다</string>
     <string name="sp_background_risk_dialog_title">주의</string>
-    <string name="sp_background_risk_dialog_summary">, 결제 문제를 확인하고 해결하세요.</string>
+    <string name="sp_background_risk_dialog_summary">, 결제 문제를 확인하고 해결하십시오.</string>
     <string name="sp_background_risk_type_wifi">이 Wi-Fi 네트워크는 위험합니다</string>
     <string name="sp_background_risk_type_messaging">시스템 메시지 앱이 교체되었습니다</string>
     <string name="sp_background_risk_type_virus">바이러스가 백그라운드에서 실행중입니다</string>
@@ -1241,22 +1273,22 @@
     <string name="long_click_dialog_summary">예외에 추가하려면 목록의 결과를 길게 눌러주십시오.</string>
     <string name="button_text_let_me_select">알겠습니다</string>
     <string name="toast_select_virus_white_need_remove">항목 선택</string>
-    <string name="toast_add_virus_white_list_success">예외에 추가됨, 설정에서 항목을 추가하십시오.</string>
-    <string name="toast_add_virus_white_list_no_need_repeat">바이러스 예외가 이미 존재합니다!</string>
+    <string name="toast_add_virus_white_list_success">예외사항에 추가됨. 보안 설정에서 항목을 확인하십시오.</string>
+    <string name="toast_add_virus_white_list_no_need_repeat">이 예외가 이미 존재 합니다</string>
     <string name="button_text_delete_from_virus_white_list">제거</string>
-    <string name="empty_title_garbage_virus_white_list">다음 스캔에서 건너뛰려면 목록의 항목을 누른 채로 유지하세요</string>
+    <string name="empty_title_garbage_virus_white_list">다음 스캔에서 건너뛰려면 목록의 항목을 누른 채로 유지하십시오</string>
     <string name="pref_content_virus_white_list_none">항목 없음</string>
     <string name="hints_scanning">스캔 중…</string>
     <string name="hints_scan_progress">완료됨: %d</string>
     <string name="hints_scan_result_phone_safe">모두 좋아 보입니다</string>
     <string name="hints_cleanning_done">성공적으로 스캔됨</string>
     <string name="virus_scan_process_pre">%</string>
-    <string name="please_continue_keep">보류</string>
+    <string name="try_recommended_function">새 보안 기능으로 기기를 보호하십시오</string>
     <string name="btn_text_quick_antivirus">수정</string>
     <string name="activity_title_white_list">예외</string>
     <string name="there_is_no">모두 좋아 보입니다. 나중에 다시 오세요</string>
     <string name="app_install_tips_install_success">성공적으로 %1$s 설치됨</string>
-    <string name="no_network">네트워크에 연결할 수 없음. 나중에 다시 시도하세요</string>
+    <string name="no_network">네트워크에 연결할 수 없음. 나중에 다시 시도하십시오</string>
     <string name="open_app">열기</string>
     <string name="hot_today">오늘의 인기 항목</string>
     <string name="recommended">추천</string>
@@ -1279,14 +1311,14 @@
     <string name="clear_bigfiles">큰 파일, 중복 사진, 기타 불 필요 항목 삭제</string>
     <string name="clear_immediately">지금 정리</string>
     <string name="virus_scan">바이러스 스캔</string>
-    <string name="tips_of_virus_scan">디바이스를 정기적으로 스캔하여 보안을 유지하세요</string>
+    <string name="tips_of_virus_scan">기기를 정기적으로 스캔하여 보안을 유지하십시오</string>
     <string name="buy_traffic_pack">더 많은 데이터 구매</string>
-    <string name="tips_of_traffic_pack_threshold">트래픽 한계에 도달했을 때 더 많은 데이터를 구매하세요</string>
+    <string name="tips_of_traffic_pack_threshold">트래픽 한계에 도달했을 때 더 많은 데이터를 구매하십시오</string>
     <string name="buy_immediately">구매</string>
     <string name="title_of_app_manage">앱</string>
     <string name="tips_of_app_manage">저장소를 절약하기 위해 사용하지 않는 앱 삭제</string>
     <string name="title_of_auto_launch_manage">자동 시작</string>
-    <string name="tips_of_auto_launch_manage">거의 사용하지 않는 앱의 자동 시작을 방지하세요</string>
+    <string name="tips_of_auto_launch_manage">거의 사용하지 않는 앱의 자동 시작을 방지하십시오</string>
     <string name="tips_of_package_set">데이터 플랜을 설정하고 사용할 트래픽의 양을 제어하십시오</string>
     <string name="goto_set">설정</string>
     <string name="tips_of_operators_set">자동으로 데이터 사용량 조정</string>
@@ -1298,8 +1330,8 @@
     <string name="booster_immediately">부스트</string>
     <string name="antivirus_monitor_btn_text_clean_virus">바이러스 삭제</string>
     <string name="antivirus_monitor_btn_text_clean_risk">위험한 앱 삭제</string>
-    <string name="antivirus_monitor_risk_advice">이 앱은 안전하지 않습니다. 삭제하세요.</string>
-    <string name="antivirus_monitor_virus_advice">이 앱은 바이러스를 포함하고 있을 수 있습니다. 삭제하세요.</string>
+    <string name="antivirus_monitor_risk_advice">이 앱은 안전하지 않습니다. 삭제하십시오.</string>
+    <string name="antivirus_monitor_virus_advice">이 앱은 바이러스를 포함하고 있을 수 있습니다. 삭제하십시오.</string>
     <string name="security_scan_optimizing">최적화 중…</string>
     <string name="preferred_app_entries_launcher">런처</string>
     <string name="preferred_app_entries_dial">다이얼</string>
@@ -1328,11 +1360,14 @@
     <string name="card_main_monthreport_action">보기</string>
     <string name="card_main_speeddetail_title">연결 속도</string>
     <string name="card_main_speeddetailt_summary">개별 앱에 대한 연결 속도 보기</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">네트워크 테스트</string>
     <string name="card_main_netcheck_summary">휴대전화 네트워크 문제 세부 진단</string>
     <string name="card_main_netcheck_action">테스트</string>
     <string name="card_main_gamebooster_title">게이밍 속도 가속</string>
     <string name="card_main_gamebooster_summary">속도 향상 &amp; 게이밍 경험을 향상시킵니다.</string>
+    <string name="card_main_hbassistant_title">붉은 봉투 도우미</string>
+    <string name="card_main_hbassistant_summary">봉투을 더 빨리 받으려면 이 도구를 사용하십시오</string>
     <string name="action_button_text_100">최적화</string>
     <string name="action_button_text_80_100">최적화</string>
     <string name="action_button_text_60_80">수정</string>
@@ -1343,7 +1378,9 @@
     <string name="card_main_xspace_title">듀얼 앱</string>
     <string name="card_main_xspace_summary">앱을 위한 듀얼 계정 생성</string>
     <string name="card_main_xspace_action">생성</string>
-    <string name="card_main_overscroll_tips">Security at its best</string>
+    <string name="card_main_overscroll_tips">보안이 최우선입니다</string>
+    <string name="skin_change_close_btn_text">기본 배경화면으로 설정</string>
+    <string name="skin_change_close_toast">다음에 보안 앱을 실행했을 때 변경 사항이 적용됩니다</string>
     <string name="system_info_remind">앱에 대한 무단 접근을 막기위한 잠금 추가</string>
     <string name="Setting_lock">설정</string>
     <string name="btn_jump">건너뛰기</string>
@@ -1370,12 +1407,12 @@
     <string name="modifypassword">비밀번호 변경</string>
     <string name="showpattern">패턴 보여주기</string>
     <string name="convenient_mode">한 번에 모든 앱 잠금 해제</string>
-    <string name="convenient_summary">1개의 앱의 잠금이 해제된 후 비밀번호를 요구하지 않습니다.</string>
+    <string name="convenient_summary">모든 앱을 잠금 해제하려면 한 번만 비밀번호를 입력하십시오</string>
     <string name="suggest_app_tolock">제안</string>
     <string name="forget_password_button_text"><u>비밀번호 찾기</u></string>
     <string name="lockpattern_need_to_unlock">저장된 패턴 확인</string>
     <string name="lockpattern_too_many_failed_confirmation_attempts_header">너무 많은 시도 실패!</string>
-    <string name="lockpattern_too_many_failed_confirmation_attempts_footer">"%d초 후 다시 시도해주십시오. "</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_footer">"%d초 후 다시 시도해 주십시오. "</string>
     <string name="lockpassword_confirm_your_pattern_header">패턴 확인</string>
     <string name="lockscreen_glogin_password_hint">비밀번호</string>
     <string name="lockscreen_glogin_submit_button">로그인</string>
@@ -1413,13 +1450,13 @@
     <string name="fingerprint_not_remind">다시 묻지 않기</string>
     <string name="fingerprint_verify_succeed">지문 인증됨</string>
     <string name="fingerprint_verify_failed">지문을 인증할 수 없습니다.</string>
-    <string name="fingerprint_verify_try_agin">지문을 스캔할 수 없습니다. 다시 시도해주십시오.</string>
+    <string name="fingerprint_verify_try_agin">지문을 스캔할 수 없습니다. 다시 시도해 주십시오.</string>
     <string name="cancal_to_setting_fingerprint">취소</string>
     <string name="go_to_setting_fingerprint">설정</string>
     <string name="fingerprint_remind_dialog_title">지문 잠금 해제</string>
     <string name="confirm_fingerprint_msg">센서에 손가락을 올려주십시오.</string>
     <string name="fingerprint_identify_msg">지문을 스캔하십시오.</string>
-    <string name="fingerprint_not_identified_msg">지문을 읽을 수 없습니다. 비밀번호를 입력해주십시오.</string>
+    <string name="fingerprint_not_identified_msg">지문을 읽을 수 없습니다. 비밀번호를 입력해 주십시오.</string>
     <string name="lockscreen_access_pattern_start">패턴 시작됨</string>
     <string name="lockscreen_access_pattern_cleared">패턴 지워짐</string>
     <string name="lockscreen_access_pattern_cell_added">셀 추가됨</string>
@@ -1520,7 +1557,7 @@
     <string name="sp_network_privacy_dialog_message">인터넷 연결을 제한했기 때문에 보안 앱이 결제를 확인할 수 없습니다. 보안 앱이 인터넷에 연결하도록 허용하시겠습니까?</string>
     <string name="sp_back_title_text_zero">보안</string>
     <string name="handle_bar_summary_wifi_unknown">알 수 없음</string>
-    <string name="sp_settings_group_title_check_item">다중 설정 확인</string>
+    <string name="sp_settings_group_title_check_item">다중 항목</string>
     <string name="sp_settings_check_item_title_wifi">Wi-Fi</string>
     <string name="sp_settings_check_item_title_root">ROOT</string>
     <string name="sp_settings_check_item_title_update">시스템 업데이트</string>
@@ -1564,6 +1601,7 @@
     <string name="optimize_result_button_see_detaills">자세히</string>
     <string name="optimize_result_button_open_now">켜기</string>
     <string name="optimize_result_button_realname_now">승인</string>
+    <string name="optimize_result_button_mifi_insurance">지금 구입</string>
     <string name="optimize_result_button_update_now">업데이트</string>
     <string name="optimize_result_button_to_open">켜기</string>
     <string name="optimize_result_button_to_set">설정</string>
@@ -1583,9 +1621,9 @@
     <string name="optimize_result_toast_system_no_item_selected">선택한 항목 없음</string>
     <string name="optimize_result_title_sucurity_risk">보안 위험 발견됨</string>
     <string name="optimize_result_summary_sucurity_risk">몇몇 보안 기능이 꺼져있습니다. 이 기능들을 켜시고 기기를 안전하게 보호하십시오:</string>
-    <string name="information_setting">새로운 피드 설정</string>
-    <string name="load_only_under_wlan">Wi-Fi에 연결된 경우 뉴스 불러오기</string>
-    <string name="recommend_news">추천 정보</string>
+    <string name="information_setting">추천</string>
+    <string name="load_only_under_wlan">Wi-Fi만 사용하여 불러오기</string>
+    <string name="recommend_news">추천 항목 수신</string>
     <string name="setting_privacy_password">앱 잠금 비밀번호 설정</string>
     <string name="bind_xiaomi_account_title">Mi 계정 추가</string>
     <string name="bind_xiaomi_account_summary">Mi 계정을 사용하여 비밀번호 초기화</string>
@@ -1602,18 +1640,26 @@
     <string name="notification_sysapp_cracked_title">보안 위협이 감지됨</string>
     <string name="notification_sysapp_cracked_text">이 버전의 MIUI는 임의 수정되었습니다.</string>
     <string name="sys_app_prot_cracked_title">보안 위협</string>
-    <string name="sys_app_prot_cracked_text_login">"현재 버전의 MIUI는 디바이스가 보안 위험에 노출되도록 수정되었습니다.
+    <string name="sys_app_prot_cracked_text_login">"현재 버전의 MIUI는 기기가 보안 위험에 노출되도록 수정되었습니다.
 
-이 디바이스가 어디서 왔는지 확인하시고 가까운 공식 Xiaomi 서비스 센터에 도움을 요청하세요."</string>
-    <string name="sys_app_prot_cracked_text_unlogin">"현재 버전의 MIUI는 디바이스가 보안 위험에 노출되도록 수정되었습니다. Mi 계정에 로그인하여 이 경고를 끄세요.
+이 기기가 어디서 왔는지 확인하시고 가까운 공식 Xiaomi 서비스 센터에 도움을 요청하십시오."</string>
+    <string name="sys_app_prot_cracked_text_unlogin">"현재 버전의 MIUI는 기기가 보안 위험에 노출되도록 수정되었습니다. Mi 계정에 로그인하여 이 경고를 끄세요.
 
-만약 MIUI를 수정한 적이 없다면, 이 디바이스가 어디서 왔는지 확인하시고 가까운 공식 Xiaomi 서비스 센터에 도움을 요청하세요."</string>
+만약 MIUI를 수정한 적이 없다면, 이 기기가 어디서 왔는지 확인하시고 가까운 공식 Xiaomi 서비스 센터에 도움을 요청하십시오."</string>
     <string name="sys_app_prot_cracked_confirm">알겠습니다</string>
-    <string name="sys_app_prot_cracked_login">Mi 계정에 로그인하세요.</string>
+    <string name="sys_app_prot_cracked_login">Mi 계정에 로그인하십시오.</string>
     <string name="confirmSecondSpacePassword">보조 공간 비밀번호 확인</string>
+    <string name="sponsored_sec_fb">스폰서</string>
+    <string name="dialog_remove_luckymoney">当前MIUI版本已支持系统级红包助手，是否卸载单发版，并前往安全中心开启更快更稳定的小米红包助手？</string>
+    <string name="dialog_remobe_luckymoney_ok">前往开启</string>
+    <string name="dialog_remobe_luckymoney_cancle">使用单发版</string>
+    <string name="power_center_auto_shutdown_summary_default">예약된 시간에 기기 전원 켜짐 또는 꺼짐</string>
+    <string name="power_center_custom_summary_default">사용자 프로필로 배터리 수명 개선</string>
     <string name="power_center_low_battery_title">배터리 절약</string>
+    <string name="power_center_low_battery_summary_default">배터리 부족 시 프로필 전환</string>
     <string name="power_center_low_battery_summary_dynamic">%1$d%% 시 %2$s로 전환</string>
     <string name="power_center_on_time_title">프로필 전환 예약</string>
+    <string name="power_center_on_time_summary_default">예약된 시간에 배터리 프로필 전환</string>
     <string name="power_center_on_time_summary_dynamic">%1$s - %2$s을(를) %3$s(으)로 전환</string>
     <string name="power_chooser_title">배터리 프로필</string>
     <string name="power_chooser_check_box_title">프로필 선택</string>
@@ -1692,6 +1738,7 @@
     <string name="power_dialog_screen_brightness_automatic_on">화면 밝기를 주변 빛에 따라 변경</string>
     <string name="power_dialog_delete_dialog_title">프로필 삭제</string>
     <string name="power_dialog_delete_dialog_delete">이 배터리 프로필을 삭제하시겠습니까?</string>
+    <string name="power_dialog_delete_dialog_cannot_delete_default">현재 이 프로필을 사용 중입니다.</string>
     <string name="power_dialog_delete_dialog_cannot_delete_low_battery">이 기기는 배터리가 부족할 때 이 프로필로 전환하도록 설정되었습니다. 이 프로필을 삭제하기 전에 배터리 프로필 설정을 변경해야 합니다.</string>
     <string name="power_dialog_delete_dialog_cannot_delete_is_my_mode">이 기기는 배터리가 부족할 때 이 프로필로 전환하도록 설정되었습니다. 이 프로필을 삭제하기 전에 배터리 프로필 설정을 변경해야 합니다.</string>
     <string name="power_dialog_delete_dialog_cannot_delete_on_time">이 기기는 나중에 이 프로필로 전환하도록 예약되어 있습니다. 이 프로필을 삭제하기 전에 배터리 프로필 설정을 변경해야 합니다.</string>
