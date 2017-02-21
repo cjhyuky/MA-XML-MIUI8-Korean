@@ -50,8 +50,6 @@
     <string name="theme_title_red">레드</string>
     <string name="theme_title_candy">캔디</string>
     <string name="theme_title_star">별</string>
-    <string name="empty_folder_hint">"폴더가 없음
-더하기를 탭하여 폴더 생성하기"</string>
     <string name="error_hide_empty_note">빈 메모는 숨길 수 없습니다.</string>
     <string name="error_send_empty_note">빈 메모는 전송할 수 없습니다.</string>
     <string name="error_send_empty_note_to_weibo">빈 메모를 Weibo에 전송할 수 없습니다.</string>
@@ -59,14 +57,18 @@
     <string name="force_touch_menu_add">메모 추가</string>
     <string name="pref_title_skip_confirm_for_quick_delete">빠른 삭제</string>
     <string name="pref_desc_skip_confirm_for_quick_delete">제스쳐를 사용하여 메모 삭제시 확인 메시지 묻지 않기</string>
+    <string name="pref_title_show_root_folder_in_homepage">시작 페이지의 빠른 메모에만 표시</string>
     <string name="alert_title_hidden_note">숨김 메모 수신 알림</string>
     <string name="hint_cannot_view_hidden_note_content">숨겨진 메모의 내용을 표시할 수 없습니다.</string>
+    <string name="alert_title_restore">메모 복구</string>
+    <string name="alert_message_restore">이 메모를 열 수 없음. 내용을 수정하기 위해 복구하십시오.</string>
+    <string name="note_sort_way">어떻게 메모를 정렬할지 선택하십시오</string>
+    <string name="trash_folder_reminder">삭제한 메모는 30일 후에 영구적으로 삭제됩니다.</string>
     <string name="app_name">메모</string>
     <string name="app_widget">메모</string>
     <string name="widget_havenot_content">탭하여 메모 생성, 위젯을 길게 눌러 사이즈 변경.</string>
     <string name="widget_content_loading">잠시만 기다려주십시오…</string>
     <string name="notelist_string_info">...</string>
-    <string name="notelist_menu_new">메모 추가</string>
     <string name="note_alert_expired">만료됨</string>
     <string name="notealert_ok">무시</string>
     <string name="notealert_enter">메모 열기</string>
@@ -87,7 +89,6 @@
     <string name="menu_source">발신: %1$s</string>
     <string name="unknown_source">알 수 없는 출처</string>
     <string name="menu_send_weibo">Weibo로 전송</string>
-    <string name="menu_send_wechat">WeChat으로 전송</string>
     <string name="info_note_enter_desktop">홈 화면에 추가됨</string>
     <string name="all_terms">%1$s 그리고 %2$s</string>
     <string name="alert_title_delete">메모를 삭제하시겠습니까?</string>
@@ -116,20 +117,13 @@
     <string name="search_hint">메모 검색</string>
     <string name="search_setting_description">메모에서 텍스트 검색</string>
     <string name="search">메모</string>
-    <string name="button_new_note">신규</string>
     <string name="default_folder_name">이름 없는 폴더</string>
-    <string name="attachment_gallery">갤러리에서 선택</string>
-    <string name="attachment_camera">사진 찍기</string>
-    <string name="attachment_contact">연락처</string>
-    <string name="alert_edit_action_update">변경</string>
-    <string name="alert_edit_action_delete">제거</string>
     <string name="notify_alarm_title">메모 미리 알림</string>
     <string name="alarm_bar_title">미리 알림</string>
     <string name="toast_message_add_image_fail">이미지를 추가하지 못했습니다.</string>
-    <string name="toast_message_add_text_warn">이 유형의 파일은 지원되지 않습니다.</string>
     <string name="toast_reach_text_limit_truncate">이 메모는 너무 깁니다. 문장 끝부분의 몇몇 텍스트가 짤리게 됩니다.</string>
     <string name="toast_reach_text_limit_attachment">메모가 너무 길어 새 첨부파일을 추가할 수 없습니다.</string>
-    <string name="snippet_image_stub">[Image]</string>
+    <string name="snippet_image_stub">[이미지]</string>
     <string name="snippet_image_template">[이미지 %1$s]</string>
     <string name="select_account_prompt">메모 동기화</string>
     <string name="enable_sync_desc">메모를 Mi 계정(%1$s)으로 동기화하시겠습니까?</string>
@@ -139,11 +133,7 @@
     <string name="login_sync">로그인 &amp; 동기화</string>
     <string name="pref_title_note_style">스타일</string>
     <string name="pref_title_common">추가 설정</string>
-    <string name="pref_title_alarm_when_silent">무음 미리 알림을 하지 않습니다.</string>
-    <string name="pref_desc_alarm_when_silent">벨소리가 무음일 때도 알람 미리 알림은 소리가 날 것입니다.</string>
-    <string name="pref_title_recover_help">메모 복구</string>
-    <string name="dlg_title_confirm_alarm_silent">알람 무음 설정</string>
-    <string name="dlg_desc_confirm_alarm_silent">벨소리가 무음일 때 계속 알람 소리 비활성화</string>
+    <string name="pref_title_cloud_trash_bin">Mi 클라우드 메모 삭제</string>	
     <string name="dlg_delete_message">삭제 중…</string>
     <string name="permlab_accessNote">메모에 접근</string>
     <string name="permdesc_accessNote">이것을 사용하여 악성 앱이 귀하의 개인 정보에 접근할 수 있습니다.</string>
@@ -162,11 +152,28 @@
     <string name="sns_toast_empty">빈 메시지는 보낼 수 없습니다.</string>
     <string name="sns_toast_over_limit">이미지 전송됨</string>
     <string name="sns_desc_preview_weibo">Weibo 메시지 미리 보기</string>
-    <string name="sns_desc_preview_wechat">WeChat 메시지 미리 보기</string>
     <string name="sns_choose_quality_title">이미지 품질 선택</string>
     <string name="sns_choose_quality_high">높음(%1$s)</string>
     <string name="sns_choose_quality_low">낮음</string>
     <string name="welcome_note_for_cm">"더 훌륭한 기능들!
  - Mi 클라우드 동기화
  - 미리 알림 설정"</string>
+    <string name="cloud_trash_bin_title">Mi 클라우드 메모 삭제</string> 
+    <string name="pref_title_recover_help">메모 복구</string>
+    <string name="alert_edit_action_delete">제거</string>
+    <string name="alert_edit_action_update">변경</string>
+    <string name="attachment_camera">사진 찍기</string>
+    <string name="attachment_contact">연락처</string>
+    <string name="attachment_gallery">갤러리에서 선택</string>
+    <string name="button_new_note">신규</string>
+    <string name="dlg_desc_confirm_alarm_silent">벨소리가 무음일 때 계속 알람 소리 비활성화</string>
+    <string name="dlg_title_confirm_alarm_silent">알람 무음 설정</string>
+    <string name="empty_folder_hint">"폴더가 없음
+더하기를 탭하여 폴더 생성하기"</string>
+    <string name="menu_send_wechat">WeChat으로 전송</string>
+    <string name="notelist_menu_new">메모 추가</string>
+    <string name="pref_desc_alarm_when_silent">벨소리가 무음일 때도 알람 미리 알림은 소리가 날 것입니다.</string>
+    <string name="pref_title_alarm_when_silent">무음 미리 알림을 하지 않습니다.</string>
+    <string name="sns_desc_preview_wechat">WeChat 메시지 미리 보기</string>
+    <string name="toast_message_add_text_warn">이 유형의 파일은 지원되지 않습니다.</string>
 </resources>
