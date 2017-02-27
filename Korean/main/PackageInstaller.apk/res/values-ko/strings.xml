@@ -18,7 +18,7 @@
     <string name="perm_privacy_app_trust">권한 확인</string>
     <string name="perm_privacy_app_trust_summary">이 앱이 시스탬에 다른 부분에 접근하려 할 때 알립니다.</string>
     <string name="perm_action_accept">허용</string>
-    <string name="perm_action_prompt">문의</string>
+    <string name="perm_action_prompt">물어보기</string>
     <string name="perm_action_reject">거부</string>
     <string name="unknown_installer">미확인된 PC 도구</string>
     <string name="dlg_app_replacement_statement_with_version">%1$s(%3$s)이(가) 현재 설치된 버전(%2$s)을 대체합니다. 기존의 모든 앱 데이터는 저장됩니다.</string>
