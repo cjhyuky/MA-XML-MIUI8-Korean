@@ -458,6 +458,7 @@
   <string name="notif_install_successful">다운로드 완료</string>
   <string name="ok">확인</string>
   <string name="older">이전</string>
+  <string name="open_app_confirm_message">이 페이지를 %s 앱으로 여시겠습니까?</string> 
   <string name="open_file_explorer_failed">파일 탐색기를 열 수 없습니다.</string>
   <string name="opening_file_error">선택한 파일을 열지 못했습니다.</string>
   <string name="page_info">페이지 정보</string>
