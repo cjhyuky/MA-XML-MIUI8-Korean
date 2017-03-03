@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="screenrecorder_settings_orientation">
+        <item>자동</item>
+        <item>가로</item>
+        <item>세로</item>
+    </string-array>
+    <string-array name="screenrecorder_settings_sound">
+        <item>음소거</item>
+        <item>마이크</item>
+        <item>스피커</item>
+    </string-array>
+</resources>
