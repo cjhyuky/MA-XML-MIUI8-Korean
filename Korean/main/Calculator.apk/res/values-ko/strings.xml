@@ -353,8 +353,6 @@
   <string name="unit_year">년</string>
   <string name="unit_year_format">%s년</string>
   <string name="unit_yuan">CNY</string>
-  <string name="network_confirm_title">권한 요구됨</string>
-  <string name="network_confirm_content">환율 변환기, 세금 및 주택융자 계산기는 정상 작동을 위해 기기의 네트워크 연결과 위치 서비스 필요로 합니다.</string>
   <string name="wf_word_figure">중국 금융 문자</string>
   <string name="word_figure_big_unit_fen">分</string>
   <string name="word_figure_big_unit_jiao">角</string>
@@ -376,26 +374,4 @@
   <string name="word_figure_unit_shi">拾</string>
   <string name="word_figure_yuan">元</string>
   <string name="word_figure_zheng">整</string>
-    <string name="city">도시</string>
-    <string name="combine_loan">신디케이트 론</string>
-    <string name="commercial_loan">상업 대출</string>
-    <string name="current_rate_remind_commercial" />
-    <string name="day">일</string>
-    <string name="dateformat">yyyy년MM월dd일</string>
-    <string name="preference_settings">설정</string>
-    <string name="preference_use_degress_title">각도 사용</string>
-    <string name="preference_use_degress_summary">삼각함수에서 라디안을 각도로 대체합니다</string>
-    <string name="preference_about_calculator">계산기 정보</string>
-    <string name="preference_check_update_title">업데이트 확인</string>
-    <string name="preference_feedback_title">FAQ</string>
-    <string name="preference_follow_us">팔로우 하기</string>
-    <string name="preference_follow_wechat_title">WeChat</string>
-    <string name="preference_follow_weibo_title">Sina Weibo</string>
-    <string name="preference_follow_web_title">공식 웹사이트</string>
-    <string name="preference_alert_follow_wechat">팔로우를 위해 WeChat에 복사 후 붙여넣으세요</string>
-    <string name="preference_alert_follow_qq_group">피드백하려면 QQ에 복사 후 붙여넣으세요</string>
-    <string name="preference_alert_follow_wechat_button">복사하기</string>
-    <string name="preference_follow_qq_group">QQ 그룹:523274279</string>
-    <string name="preference_check_update_summary_current_version">현재 버전: %s</string>
-    <string name="preference_check_update_summary_new_version">업데이트 가능: %s</string>
 </resources>
