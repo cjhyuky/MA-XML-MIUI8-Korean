@@ -657,7 +657,7 @@
     <string name="second_mms_switch">전환</string>
     <string name="block_support_text">Antiy 제공</string>
     <string name="force_touch_new_message_title">새 메시지</string>
-    <string name="pref_delivery_ringtone">소리 알림</string>
+    <string name="pref_delivery_ringtone">송신음</string>
     <string name="pref_summary_delivery_ringtone">상대방 메시지 수신시 알림음</string>
     <string name="privacy_password_set_password">설정</string>
     <string name="privacy_password_title1">비밀번호 설정</string>
@@ -667,4 +667,17 @@
     <string name="privacy_password_title3">비밀번호를 업그레이드 하십시오.</string>
     <string name="privacy_password_message3">메시지 비밀번호는 앱, 사진, 노트, 숨김 파일, 기타 등에 적용되는 개인 정보 보호 비밀번호로 대체됩니다.</string>
     <string name="privacy_password_title4">비밀번호 업그레이드됨</string>
+    <string name="from_pkg_name">이 앱에서:</string>
+    <string name="hybrid_check_network">네트워크 설정</string>
+    <string name="hybrid_try_again">다시 시도하십시오</string>
+    <string name="hybrid_network_unavaliable">네트워크에 연결할 수 없습니다</string>
+    <string name="hybrid_network_access_denied">네트워크 접근 거부됨</string>
+    <string name="hybrid_service_unavailiable">서비스 사용 불가능</string>
+    <string name="hybrid_data_error">에러가 발생하였습니다</string>
+    <string name="hybrid_locating_fail">위치를 찾을 수 없음</string>
+    <string name="hybrid_pull_to_refresh_pull_label">당겨서 새로고침…</string>
+    <string name="hybrid_pull_to_refresh_release_label">놓아서 새로고침…</string>
+    <string name="hybrid_pull_to_refresh_refreshing_label">잠시만 기다려주십시오…</string>
+    <string name="title_use_gsm_alphabet">GSM alphabet 사용</string>
+    <string name="fail_to_add_attachment">첨부 파일을 추가하지 못했습니다.</string>
 </resources>
