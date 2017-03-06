@@ -8,6 +8,10 @@
         <item>카메라</item>
         <item>갤러리</item>
     </string-array>
+    <string-array name="note_sort_way">
+        <item>생성 날짜순으로 정렬</item>
+        <item>수정 날짜순으로 정렬</item>
+    </string-array>
     <string-array name="contact_entries">
         <item>이름</item>
         <item>별명</item>
