@@ -56,7 +56,7 @@
   <string name="cloud_back_up_share_activity_title">Mi 계정 업그레이드</string>
   <string name="cloud_back_up_task">백업 중…</string>
   <string name="cloud_backup_detail_frequence">일정 백업</string>
-  <string name="cloud_backup_detail_frequence_day">%1$s일 마다 백업</string>
+  <string name="cloud_backup_detail_frequence_day">%1$s 마다 백업</string>
   <string name="cloud_backup_detail_manage">백업 관리</string>
   <string name="cloud_backup_detail_manage_summary">%1$s 백업, 차지하는 용량:%2$s</string>
   <string name="cloud_backup_detail_state">Mi 클라우드 백업</string>
