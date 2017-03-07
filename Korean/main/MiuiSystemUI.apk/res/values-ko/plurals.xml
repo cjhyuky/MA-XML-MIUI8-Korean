@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="status_bar_accessibility_recent_apps">
-        <item quantity="other">최근에 사용한 앱 %d개</item>
+        <item quantity="other">%d개의 최근 앱</item>
         <item quantity="one">최근에 사용한 앱 1개</item>
     </plurals>
     <plurals name="disable_notification_confirm_title">
