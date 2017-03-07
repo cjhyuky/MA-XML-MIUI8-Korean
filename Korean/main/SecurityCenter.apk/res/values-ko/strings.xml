@@ -23,7 +23,7 @@
     <string name="main_button_usage_adjust">모바일 데이터 사용량 동기화</string>
     <string name="main_button_usage_adjusting">변경 중…</string>
     <string name="main_button_usage_adjust_manual">데이터 사용량 제한 설정</string>
-    <string name="main_button_usage_package_setting">데이터 사용량 제한 설정</string>
+    <string name="main_button_usage_package_setting">추가 구매한 데이터 입력</string>
     <string name="main_traffic_used">%s 사용됨</string>
     <string name="main_traffic_used_text">사용됨</string>
     <string name="main_traffic_remian_text">남음</string>
