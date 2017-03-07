@@ -681,7 +681,7 @@
     <string name="hide_mode_title_text">숨김 모드</string>
     <string name="hide_mode_summary_text">앱의 백그라운드 활동을 관리하여 배터리를 절약합니다.</string>
     <string name="hide_mode_app_background_setting_text">앱 배터리 절약</string>
-    <string name="battery_estimate_usage_time_title">사용 시간</string>
+    <string name="battery_estimate_usage_time_title">남은 시간</string>
     <string name="battery_estimate_charge_time_title">충전 시간</string>
     <string name="battery_temperature_title">온도</string>
     <string name="battery_capacity_title">배터리 용량</string>
