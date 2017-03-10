@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">스크린레코더</string>
+    <string name="app_name">화면녹화</string>
     <string name="app_info">녹화중, 탭하여 멈추기</string>
-    <string name="app_notification_title">스크린레코더</string>
+    <string name="app_notification_title">화면녹화</string>
     <string name="screen_record_params">녹화 설정</string>
     <string name="resolution">해상도</string>
     <string name="resolution_summary">고해상도로 촬영된 비디오가 더 선명합니다</string>
@@ -22,7 +22,7 @@
     <string name="stop_record_while_locking">화면잠김시 녹화종료</string>
     <string name="stop_record_while_locking_summary">화면이 잠기면 녹화를 끝내고 영상을 저장합니다</string>
     <string name="gleam_led_while_recording">녹화중 LED램프 켜기</string>
-    <string name="quit_recording">스크린레코더 종료</string>
+    <string name="quit_recording">화면녹화 종료</string>
     <string name="no_recorder_info">비디오가 없습니다</string>
     <string name="no_recorder_info2">더하기 버튼을 눌러서 화면을 녹화해보세요​</string>
     <string name="cancel_edit">취소</string>
