@@ -194,7 +194,7 @@
     <string name="grant_dialog_button_deny">거부</string>
     <string name="grant_dialog_button_deny_anyway">거부</string>
     <string name="current_permission_template">총 %2$s개 권한 중 %1$s 권한</string>
-    <string name="permission_warning_template">&lt;b>%1$s&lt;/b>을(를) 허용하여 %2$s 하시겠습니까?</string>
+    <string name="permission_warning_template">%1$s 앱을 허용하여 %2$s 하시겠습니까?</string>
     <string name="grant_dialog_button_allow">허용</string>
     <string name="app_permissions_breadcrumb">앱</string>
     <string name="app_permissions">앱 권한</string>
