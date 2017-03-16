@@ -553,8 +553,6 @@
     <string name="power_consume_rank_title">배터리 사용</string>
     <string name="power_consume_rank_software">앱</string>
     <string name="power_consume_rank_hardware">하드웨어</string>
-    <string name="power_consume_total_software">앱: %1$d%%</string>
-    <string name="power_consume_total_hardware">하드웨어: %1$d%%</string>
     <string name="power_consume_other">기타</string>
     <string name="battery_desc_other_apps">다른 앱에 의해 소모된 전력량</string>
     <string name="power_settings_title">설정</string>
