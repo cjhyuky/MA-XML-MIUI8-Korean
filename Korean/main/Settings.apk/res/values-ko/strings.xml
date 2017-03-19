@@ -2458,9 +2458,9 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="dndm_auto_button_title">방해 금지 모드 시간 반복</string>
     <string name="dndm_auto_time_setting">시간 설정</string>
     <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
-    <string name="dndm_auto_time_turn_on">보낸 사람</string>
+    <string name="dndm_auto_time_turn_on">시작 시간</string>
     <string name="dndm_auto_time_turn_on_title">방해 금지 모드 자동으로 켜기</string>
-    <string name="dndm_auto_time_turn_off">받는 사람</string>
+    <string name="dndm_auto_time_turn_off">종료 시간</string>
     <string name="dndm_auto_time_turn_off_title">방해 금지 모드 자동으로 끄기</string>
     <string name="dndm_dlg_remove_vip">방해 금지 모드가 켜져 있는 동안 이 사람으로부터 오는 전화는 무음입니다.</string>
     <string name="dndm_dlg_remove_ok">제거</string>
