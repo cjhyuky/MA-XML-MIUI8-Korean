@@ -5,6 +5,7 @@
   <string name="auto_interval">자동</string>
   <string name="cancel">취소</string>
   <string name="cancel_international">취소</string>
+  <string name="cancel_lockscreen">취소</string>
   <string name="change_time">배경화면 전환</string>
   <string name="day">하루에 한 번</string>
   <string name="declaration">무료로 매일 새로운 배경화면을 잠금 화면으로 배달해드립니다.</string>
@@ -17,6 +18,7 @@
   <string name="lockscreen_magazine_title">슬라이드형 배경화면</string>
   <string name="minutes_15">15분</string>
   <string name="no_long_show">다시 보지 않기</string>
+  <string name="ok_enable_network_prov">동의</string>
   <string name="ok_international">동의</string>
   <string name="ok_lockscreen">확인</string>
   <string name="ok_network">동의</string>
