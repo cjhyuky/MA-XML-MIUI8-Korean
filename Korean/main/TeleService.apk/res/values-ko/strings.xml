@@ -85,6 +85,8 @@
     <string name="title_user_config">SIM 카드 활성화</string>
     <string name="no_sim_card">SIM 카드 삽입</string>
     <string name="verify_fialed">확인할 수 없음</string>
+    <string name="crescendo_ringer_summary">벨소리 볼륨이 점차적으로 사용자가 설정 한 수준까지 증가합니다</string>
+    <string name="crescendo_ringer_title">벨소리 볼륨 점차적으로 높이기</string>
     <string name="international_dial_complete_intention">저렴하게 국제 통화 걸기</string>
     <string name="international_dial_complete_summary">국제 통화는 일반적으로 높은 요금을 지불 해야합니다. 충전 패키지를 사용하여 더 저렴하게 통화하십시오.</string>
     <string name="international_dial_complete_no">나중에 실행</string>
