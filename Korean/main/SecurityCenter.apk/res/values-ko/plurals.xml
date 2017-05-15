@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="fw_blocked_count_call">
+        <item quantity="other">%d 통화</item>
+    </plurals>
+    <plurals name="fw_blocked_count_sms">
+        <item quantity="other">%d 메시지</item>
+    </plurals>
     <plurals name="hints_traffic_enable_title">
         <item quantity="other">%d개 앱의 데이터 사용량 추적 안 함</item>
     </plurals>
@@ -100,7 +106,7 @@
         <item quantity="other">%d개 위협 발견, 지금 고치세요</item>
     </plurals>
     <plurals name="virus_clean_num">
-        <item quantity="other">모두 좋아 보입니다</item>
+        <item quantity="other">%1$d개 위험요소를 정리했습니다. 안전해보입니다.</item>
     </plurals>
     <plurals name="notification_apps">
         <item quantity="other">%d개 앱이 개인정보 보안을 위협하고 있습니다.</item>
@@ -158,5 +164,38 @@
     </plurals>
     <plurals name="optimize_result_button_add_score">
         <item quantity="other">+%d</item>
+    </plurals>
+    <plurals name="add_game_notification_title">
+        <item quantity="other">%d개 게임 추가됨</item>
+    </plurals>
+    <plurals name="app_manager_apps_generation_title">
+        <item quantity="other">%d개 앱의 업데이트 사용 가능</item>
+    </plurals>
+    <plurals name="app_manager_permission_read_contact">
+        <item quantity="other">연락처 %d회 접근됨</item>
+    </plurals>
+    <plurals name="app_manager_permission_call_phone">
+        <item quantity="other">통화 %d회 걸림</item>
+    </plurals>
+    <plurals name="app_manager_permission_send_mms">
+        <item quantity="other">%d개 SMS 전송됨</item>
+    </plurals>
+    <plurals name="app_manager_permission_read_mms">
+        <item quantity="other">SMS %d회 읽음</item>
+    </plurals>
+    <plurals name="app_manager_permission_read_record">
+        <item quantity="other">통화 기록 %d회 읽음</item>
+    </plurals>
+    <plurals name="app_manager_permission_read">
+        <item quantity="other">%d회 접근됨</item>
+    </plurals>
+    <plurals name="app_manager_permission_manager_summary">
+        <item quantity="other">%d개 권한 부여됨</item>
+    </plurals>
+    <plurals name="app_manager_start_count">
+        <item quantity="other">%d회</item>
+    </plurals>
+    <plurals name="app_manager_reject_count">
+        <item quantity="other">%d회 차단됨</item>
     </plurals>
 </resources>

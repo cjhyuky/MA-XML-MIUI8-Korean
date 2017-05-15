@@ -84,6 +84,14 @@
     <string-array name="long_add_menu">
         <item>예외 추가</item>
     </string-array>
+    <string-array name="sort_type">
+        <item>이름순으로 정렬</item>
+        <item>크기순으로 정렬</item>
+    </string-array>
+    <string-array name="sms_report_type">
+        <item>데이터 사용량</item>
+        <item>휴대전화 잔액</item>
+    </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>1분 후</item>
         <item>5분 후</item>
