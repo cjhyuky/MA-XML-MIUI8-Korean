@@ -6,6 +6,7 @@
     <string name="sina_token_expired_warning">Weibo 계정이 만료되었습니다. 계정을 다시 연동하십시오.</string>
     <string name="sina_token_invalid_warning">Weibo 계정이 유효하지 않습니다. 계정을 다시 연동하십시오.</string>
     <string name="sina_share_fail_content_repeat">공유에 실패하였습니다. 콘텐트가 이미 존재합니다.…</string>
+    <string name="search_title_notes">@string/app_name</string>
     <string name="search_keyword_notes">노트;메모</string>
     <string name="search_path_notes">시스템 앱/메모</string>
     <string name="dlg_move_message">이동 중…</string>
@@ -16,11 +17,11 @@
     <string name="dlg_quick_delete_title">빠른 삭제</string>
     <string name="dlg_check_reminder">다시 표시하지 않기</string>
     <string name="dlg_title_set_password">비밀번호 설정</string>
-    <string name="dlg_message_set_password">정보 보호 비밀번호는 앱, 사진, 숨김 파릴에서 동작합니다.</string>
-    <string name="dlg_title_use_privacy_password">정보 보호 비밀 번호 사용</string>
-    <string name="dlg_message_use_privacy_password">개인 정보 보호 비밀번호를 사용하십시오. 앱, 사진, 숨김 폴더에 작동됩니다.</string>
-    <string name="dlg_title_password_reset">비밀번호 재설정</string>
-    <string name="dlg_message_password_reset">앱, 사진, 숨김 폴더 작동시 숨김 메모 비밀번호가 개인 정보 보호 비밀번호로 교체될 것입니다.</string>
+    <string name="dlg_message_set_password">개인정보 보호 비밀번호는 메시지, 사진, 숨김 폴더에서 작동합니다.</string>
+    <string name="dlg_title_use_privacy_password">개인 정보 보호 비밀번호 사용</string>
+    <string name="dlg_message_use_privacy_password">개인정보 보호 비밀번호를 사용하십시오. 메시지, 사진, 숨김 폴더에서 작동합니다.</string>
+    <string name="dlg_title_password_reset">비밀번호를 업그레이드 하십시오.</string>
+    <string name="dlg_message_password_reset">숨김 메모 비밀 번호가 메시지, 사진, 숨김 폴더에서 작동하는 개인정보 보호 비밀번호로 교체됩니다.</string>
     <string name="dlg_btn_set_password">비밀번호 설정</string>
     <string name="rename_folder_dialog_tile">폴더 이름 변경</string>
     <string name="delete_folder_dialog_tile">폴더 삭제</string>
@@ -64,6 +65,11 @@
     <string name="alert_message_restore">이 메모를 열 수 없음. 내용을 수정하기 위해 복구하십시오.</string>
     <string name="note_sort_way">어떻게 메모를 정렬할지 선택하십시오</string>
     <string name="trash_folder_reminder">삭제한 메모는 30일 후에 영구적으로 삭제됩니다.</string>
+    <string name="cta_reminder">이 앱은 Mi 클라우드에 메모를 백업하기 위해 인터넷에 연결됩니다. 또한 통화 중 메모를 위해 연락처를 읽습니다.</string>
+    <string name="menu_add_folder">폴더에 추가</string>
+    <string name="dialog_share_title">메모 공유</string>
+    <string name="dialog_share_as_text">메모를 텍스트로 공유</string>
+    <string name="dialog_share_as_pic">메모를 사진으로 공유</string>
     <string name="app_name">메모</string>
     <string name="app_widget">메모</string>
     <string name="widget_havenot_content">탭하여 메모 생성, 위젯을 길게 눌러 사이즈 변경.</string>
@@ -96,6 +102,8 @@
     <string name="alert_message_delete_note">이 메모를 삭제하시겠습니까?</string>
     <string name="format_move_notes_to_folder">%1$s에서 %2$s(으)로 이동됨</string>
     <string name="format_move_notes_out_folder">%1$s에서 이동되었음</string>
+    <string name="format_move_note_to_folder">%1$s로 이동됨</string>
+    <string name="format_move_note_out_folder">Moved out</string>
     <string name="alert_title_edit_anyway">이 메모엔 지원하지 않는 내용이 포함되어 있습니다.</string>
     <string name="alert_message_edit_anyway">이 메모를 수정하실 경우, 일부 내용이 유실될 수도 있습니다.</string>
     <string name="alert_action_edit_anyway">계속 편집</string>
@@ -103,7 +111,7 @@
     <string name="error_note_empty_for_clock">빈 메모에 미리 알림 시간을 설정할 수 없습니다.</string>
     <string name="error_note_empty_for_send_to_desktop">빈 메모는 홈 화면에 배치할 수 없습니다.</string>
     <string name="error_widget_exist_for_send_to_desktop">이 메모는 이미 홈 화면에 배치되어 있습니다.</string>
-    <string name="error_unsupport_content">이 메모는 지원되지 않는 컨텐츠를 포함하고 있습니다. 여기를 터치하여 업데이트하십시오.</string>
+    <string name="error_unsupport_content">이 메모는 지원되지 않는 콘텐츠를 포함하고 있습니다. 여기를 터치하여 업데이트하십시오.</string>
     <string name="error_contact_not_exist">연락처가 존재하지 않습니다.</string>
     <string name="sync_tips">탭하여 Mi 클라우드로 메모 동기화</string>
     <string name="micloud_state_total_count">%1$s</string>
@@ -133,7 +141,7 @@
     <string name="login_sync">로그인 &amp; 동기화</string>
     <string name="pref_title_note_style">스타일</string>
     <string name="pref_title_common">추가 설정</string>
-    <string name="pref_title_cloud_trash_bin">Mi 클라우드 메모 삭제</string>	
+    <string name="pref_title_cloud_trash_bin">Mi 클라우드 메모 삭제</string>
     <string name="dlg_delete_message">삭제 중…</string>
     <string name="permlab_accessNote">메모에 접근</string>
     <string name="permdesc_accessNote">이것을 사용하여 악성 앱이 귀하의 개인 정보에 접근할 수 있습니다.</string>
@@ -158,22 +166,6 @@
     <string name="welcome_note_for_cm">"더 훌륭한 기능들!
  - Mi 클라우드 동기화
  - 미리 알림 설정"</string>
-    <string name="cloud_trash_bin_title">Mi 클라우드 메모 삭제</string> 
-    <string name="pref_title_recover_help">메모 복구</string>
-    <string name="alert_edit_action_delete">제거</string>
-    <string name="alert_edit_action_update">변경</string>
-    <string name="attachment_camera">사진 찍기</string>
-    <string name="attachment_contact">연락처</string>
-    <string name="attachment_gallery">갤러리에서 선택</string>
-    <string name="button_new_note">신규</string>
-    <string name="dlg_desc_confirm_alarm_silent">벨소리가 무음일 때 계속 알람 소리 비활성화</string>
-    <string name="dlg_title_confirm_alarm_silent">알람 무음 설정</string>
-    <string name="empty_folder_hint">"폴더가 없음
-더하기를 탭하여 폴더 생성하기"</string>
-    <string name="menu_send_wechat">WeChat으로 전송</string>
-    <string name="notelist_menu_new">메모 추가</string>
-    <string name="pref_desc_alarm_when_silent">벨소리가 무음일 때도 알람 미리 알림은 소리가 날 것입니다.</string>
-    <string name="pref_title_alarm_when_silent">무음 미리 알림을 하지 않습니다.</string>
-    <string name="sns_desc_preview_wechat">WeChat 메시지 미리 보기</string>
-    <string name="toast_message_add_text_warn">이 유형의 파일은 지원되지 않습니다.</string>
+    <string name="cloud_trash_bin_title">Mi 클라우드 메모 삭제</string>
+    <string name="done">완료</string>
 </resources>
