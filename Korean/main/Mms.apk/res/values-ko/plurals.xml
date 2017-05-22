@@ -4,10 +4,10 @@
         <item quantity="other">선택한 %1$s개의 대화를 삭제하시겠습니까?</item>
     </plurals>
     <plurals name="slide_duration">
-        <item quantity="other">%s초</item>
+        <item quantity="other">%d초</item>
     </plurals>
     <plurals name="slide_audio_duration">
-        <item quantity="other">%s초</item>
+        <item quantity="other">%d초</item>
     </plurals>
     <plurals name="search_results_title">
         <item quantity="other">%2$s의 검색 결과 %1$s\"개</item>
@@ -15,13 +15,19 @@
     <plurals name="recipient_count">
         <item quantity="other">%1$s명</item>
     </plurals>
+    <plurals name="batch_delete_confirm_dialog_message">
+        <item quantity="other">%1$s개 메시지를 삭제하시겠습니까?</item>
+    </plurals>
     <plurals name="cloud_sms_count">
-        <item quantity="other">%d개의 메시지</item>
+        <item quantity="other">%d개 메시지</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
-        <item quantity="other">%d 메시지 동기화 되지 않음</item>
+        <item quantity="other">%d개 메시지 동기화되지 않음</item>
     </plurals>
     <plurals name="message_count">
         <item quantity="other">%1$s 메시지</item>
+    </plurals>
+    <plurals name="custom_select_title_items_selected">
+        <item quantity="other">%d개 선택됨</item>
     </plurals>
 </resources>
