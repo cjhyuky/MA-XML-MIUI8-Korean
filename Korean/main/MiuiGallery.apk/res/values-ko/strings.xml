@@ -178,8 +178,8 @@
     <string name="choose_owner_relation">관계</string>
     <string name="auto_update_face_summary">자동으로 매치하여 아기 앨범으로 사진 추가</string>
     <string name="auto_update_face">자동으로 사진 추가</string>
-    <string name="auto_update_on">On</string>
-    <string name="auto_update_off">Off</string>
+    <string name="auto_update_on">켜기</string>
+    <string name="auto_update_off">끄기</string>
     <string name="associate_face_album">앨범 선택</string>
     <string name="finish_fill_baby">만들기</string>
     <string name="create_baby_album_dialog_msg">\"%s\"를 위한 앨범을 만드시겠습니까?</string>
