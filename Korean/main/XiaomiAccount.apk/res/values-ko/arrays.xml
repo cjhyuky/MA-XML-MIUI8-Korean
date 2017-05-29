@@ -9,7 +9,7 @@
         <item>초등학교</item>
         <item>고등학교</item>
         <item>직업학교</item>
-        <item>대학교</item>
+        <item>학사 학위</item>
         <item>석사 학위</item>
         <item>박사 학위</item>
     </string-array>
@@ -20,42 +20,5 @@
         <item>6001~8000</item>
         <item>8001~12000</item>
         <item>> 12000</item>
-    </string-array>
-    <string-array name="question_no1">
-        <item>가족</item>
-        <item>외할머니 성함</item>
-        <item>외할아버지 성함</item>
-        <item>친할아버지 성함</item>
-        <item>친할머니 성함</item>
-        <item>아버지 생신</item>
-        <item>어머니 생신</item>
-        <item>부모님의 나이차는 (년 또는 개월)?</item>
-    </string-array>
-    <string-array name="question_no2">
-        <item>모교</item>
-        <item>중학교때 반장의 이름은 무엇입니까?</item>
-        <item>초등학교때 반장의 이름은 무엇입니까?</item>
-        <item>대학생 때의 학번</item>
-        <item>대학교 때 룸메이트의 이름은 무엇입니까?</item>
-        <item>대학교 때 지도 교수님의 성함은 무엇입니까?</item>
-    </string-array>
-    <string-array name="question_no3">
-        <item>개인 정보</item>
-        <item>부모님이 당신을 부르는 애칭은?</item>
-        <item>여권 번호 마지막 6자리</item>
-        <item>태어난 병원은 어디입니까?</item>
-        <item>가장 친한 친구의 이름은 무엇입니까?</item>
-    </string-array>
-    <string-array name="question_no4">
-        <item>처음</item>
-        <item>첫번째 애완동물의 이름은 무엇입니까?</item>
-        <item>첫번째 여자친구/남자친구의 이름은 무엇입니까?</item>
-        <item>첫 직장의 이름이 무엇입니까?</item>
-    </string-array>
-    <string-array name="question_no5">
-        <item>결혼</item>
-        <item>언제 결혼하셨습니까?</item>
-        <item>배우자 이름</item>
-        <item>배우자의 생일</item>
     </string-array>
 </resources>
