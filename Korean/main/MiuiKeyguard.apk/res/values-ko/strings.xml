@@ -2,6 +2,7 @@
 <resources>
     <string name="delete">삭제</string>
     <string name="unlockscreen_recharging_message">%d%% 충전 중</string>
+    <string name="unlockscreen_quick_charging_message">고속 충전 %d%%</string>
     <string name="unlockscreen_recharge_completed">배터리 충전됨</string>
     <string name="unlockscreen_low_battery">충전기를 지금 연결하십시오.</string>
     <string name="lockscreen_charging_msg">충전 중</string>
@@ -20,21 +21,20 @@
     <string name="lockscreen_glogin_password_hint">비밀번호</string>
     <string name="lockscreen_glogin_checking_password">확인 중…</string>
     <string name="login_website_in_case_forget_password">비밀번호를 재설정하려면 www.mi.com/micloud로 이동하십시오.</string>
-    <string name="experimental_validate_thanks">감사합니다!</string>
-    <string name="experimental_validate_warning">더 좋은 MIUI를 만들 수 있게 도와 주셔서 감사합니다!</string>
-    <string name="experimental_validate">유효성 검사</string>
-    <string name="experimental_try_string">시도</string>
-    <string name="experimental_validate_username">사용자 이름</string>
-    <string name="experimental_validate_password">비밀번호</string>
-    <string name="experimental_validate_progress">로그인 중…</string>
-    <string name="experimental_validate_fail">로그인하지 못했습니다.</string>
     <string name="lockscreen_glogin_invalid_input">사용자 이름 또는 비밀번호가 잘못되었습니다.</string>
-    <string name="find_device_turn_off_flight_mode">비행기 모드 끄기</string>
+    <string name="find_device_turn_off_flight_mode">비행기 탑승 모드 끄기</string>
     <string name="phone_locked_string">휴대전화가 잠겨 있습니다.</string>
     <string name="phone_locked_timeout_seconds_string">%s초 후에 다시 시도하십시오.</string>
     <string name="phone_locked_timeout_minutes_string">%s분 후에 다시 시도하십시오.</string>
-    <string name="unlock_sim_string">SIM 잠금 해제</string>
     <string name="lockscreen_glogin_submit_button">로그인</string>
+    <string name="phone_locked_foget_password">비밀번호를 분실하셨습니까?</string>
+    <string name="phone_locked_foget_password_header">비밀번호를 잊어버렸다면 어떻게 해야하나요?</string>
+    <string name="phone_locked_foget_password_content">"이 기기와 연동된 Mi 계정으로 i.mi.com에 로그인하여 모든 데이터를 지울 수 있습니다. 이 작업은 이 기기에 저장된 모든 개인 데이터를 지웁니다. 완료 후에 기기를 재시작하여 연락처, 메시지, 사진 및 기타 항목을 Mi 클라우드에서 복구할 수 있습니다. 
+
+이 기기에서 사용자의 Mi 계정으로 로그인한 적이 없다면 이 작업을 할 수 없습니다. 그렇지 않다면 기기를 다시 플래싱해야 합니다."</string>
+    <string name="phone_locked_foget_password_footer">"단계:
+i.mi.com에 로그인 후 \"기기 찾기\"로 가서 기기를 선택하시고 \"기기 지우기\"를 누르십시오."</string>
+    <string name="phone_locked_foget_password_ok">알겠습니다</string>
     <string name="lockscreen_access_pattern_start">패턴 시작됨</string>
     <string name="lockscreen_access_pattern_cleared">패턴 삭제됨</string>
     <string name="lockscreen_access_pattern_cell_added">휴대전화 추가됨</string>
@@ -46,7 +46,6 @@
     <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">스마트폰의 잠금 해제를 %d번 실패하셨습니다. 앞으로 %d번 더 실패하실 경우, 스마트폰이 공장 초기화되며, 모든 사용자 데이터가 삭제됩니다.</string>
     <string name="lockscreen_failed_attempts_now_wiping">스마트폰의 잠금 해제를 %d번 실패하셨습니다. 지금부터 스마트폰이 공장 초기화됩니다.</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">블루투스 장치에 의해 잠금 해제됨</string>
-    <string name="missed_call_text">%d 부재중 전화</string>
     <string name="wrong_password">잘못된 비밀번호</string>
     <string name="keyguard_torch_cover_text">손전등을 계속 켜시려면, 전원 버튼을 누르고 계십시오.</string>
     <string name="confirm_pin_msg">PIN 다시 입력</string>
@@ -57,18 +56,56 @@
     <string name="left_action_default_hint_text">Mi 리모컨</string>
     <string name="click_to_enter_text">탭하여 보기</string>
     <string name="fingerprint_try_again_text">다시 시도</string>
+    <string name="fingerprint_try_again_msg">지문을 읽을 수 없습니다. 다시 시도해 주십시오.</string>
     <string name="fingerprint_not_identified_title">비밀번호 입력</string>
-    <string name="fingerprint_not_identified_msg">기기 잠금해제를 하시려면 비밀번호를 입력해주십시오.</string>
+    <string name="fingerprint_not_identified_msg">너무 많은 시도를 실패하셨습니다. 지금 비밀번호를 입력하시거나 몇초 후 다시 지문으로 시도하십시오.</string>
+    <string name="fingerprint_again_identified_msg">지문이 활성화 되었습니다. 지문을 사용하여 기기 잠금 해제 또는 비밀번호를 입력할 수 있습니다.</string>
+    <string name="fingerprint_add_title">지문 추가</string>
+    <string name="fingerprint_add_text">지문 인터페이스가 업데이트되었습니다. 지문을 다시 추가해 주십시오.</string>
     <string name="invalid_sim_pin_hint">PIN은 4-8자리의 숫자를 포함시켜야 합니다.</string>
     <string name="invalid_sim_puk_hint">PUK는 최소 8자리 이상의 숫자여야 합니다.</string>
     <string name="input_password_hint_text">비밀번호 입력</string>
     <string name="input_pattern_hint_text">잠금 해제 패턴 그리기</string>
-    <string name="input_password_after_boot_msg">기기를 잠금 해제 하시려면 비밀번호를 입력해주십시오.</string>
-    <string name="fingerprint_lockout_msg">1분만 기다리신 후 다시 지문 잠금 해제를 시도하십시오.</string>
-    <string name="accessibility_enter_lock_wallpaper">탭하여 슬라이드형 배경 화면 열기</string>
+    <string name="input_password_after_boot_msg">기기를 잠금 해제 하시려면 비밀번호를 입력해 주십시오.</string>
+    <string name="input_password_after_boot_msg_must_enter_owner_space">기기 재시작 후에는 기본 공간으로 진입하셔야 합니다.</string>
+    <string name="accessibility_enter_lock_wallpaper">탭하여 슬라이드형 배경화면 열기</string>
     <string name="lock_wallpaper_learn_more">더 보기</string>
     <string name="lock_wallpaper_enter">입력</string>
     <string name="custom_lock_wallpaper_enter">입력</string>
     <string name="fingerprint_enter_second_psw_title">보조 공간 비밀번호 입력</string>
     <string name="fingerprint_enter_second_psw_msg">기기 재시작 후 지문 인식을 사용하시려면 보조 공간 비밀번호를 입력하십시오.</string>
+    <string name="fingerprint_enter_second_psw_msg_oldman">라이트 모드 상태에서는 보조 공간에 입장할 수 없습니다.</string>
+    <string name="keyguard_charging_info_click_to_detail">세부 정보 보기</string>
+    <string name="keyguard_quick_charging_info_click_to_detail">빠른충전중，세부사항 보기</string>
+    <string name="keyguard_quickly_charging_info_charging_text">正在快充</string>
+    <string name="keyguard_charging_info_finished_charging_text">완전히 충전됨</string>
+    <string name="keyguard_charging_info_charging_text">충전중</string>
+    <string name="keyguard_charging_info_charging_full_need_min_time__text">약 %d분후 충전완료​</string>
+    <string name="keyguard_charging_info_charging_full_need_hour_time__text">약 %d시간후 충전완료</string>
+    <string name="keyguard_charging_info_charging_full_need_time__text" formatted="false">약 %d시간 %d분후 충전완료</string>
+    <string name="keyguard_charging_info_could_use_min_time_text">약 %d분 사용가능</string>
+    <string name="keyguard_charging_info_could_use_hour_time_text">약 %d시간 사용가능</string>
+    <string name="keyguard_charging_info_could_use_time_text" formatted="false">약 %d시간 %d분 사용가능</string>
+    <string name="keyguard_charging_info_last_charge_today_time">오늘 %s</string>
+    <string name="keyguard_charging_info_last_charge_yesterday_time">어제 %s</string>
+    <string name="keyguard_charging_info_last_charge_time">M/d H:mm</string>
+    <string name="keyguard_charging_info_drained_hour_time_format">%d시간</string>
+    <string name="keyguard_charging_info_drained_min_time_format">%d분</string>
+    <string name="keyguard_charging_info_drained_time_format" formatted="false">%d시간 %d분</string>
+    <string name="keyguard_charging_info_current_now_text">실시간 모니터</string>
+    <string name="keyguard_charging_info_charging_voltage_text">전압</string>
+    <string name="keyguard_charging_info_battery_temperature_text">배터리 온도</string>
+    <string name="keyguard_charging_info_last_charged_time_text">마지막 충전</string>
+    <string name="keyguard_charging_info_battery_used_time_text">배터리 사용시간</string>
+    <string name="keyguard_charging_info_drained_power_percent_text">소모됨</string>
+    <string name="keyguard_charging_info_tip_text1">배터리 수명을 늘리기 위해 기기를 항상 최소 10%이상 충전 상태로 유지하십시오.</string>
+    <string name="keyguard_charging_info_tip_text2">"기기를 과충전 하지 마세요. 여러번의 짧은 충전이 밤새 충전하는 것보다 좋습니다."</string>
+    <string name="keyguard_charging_info_tip_text3">주변 온도가 0 ℃ 미만인 경우 기기를 충전하지 마십시오.</string>
+    <string name="keyguard_charging_info_tip_text4">"과열을 피하기 위해 기기를 충전하는 동안 기기를 무리하게 사용하지 마십시오."</string>
+    <string name="keyguard_charging_info_tip_text5">배터리가 평소보다 더 뜨거워지면 충전이 더 오래 걸립니다.</string>
+    <string name="keyguard_charging_info_tip_text6">화면을 끄고 기기를 사용하지 마시고 식히십시오.</string>
+    <string name="keyguard_charging_info_data_ma">%smA</string>
+    <string name="keyguard_charging_info_data_v">%sV</string>
+    <string name="keyguard_charging_info_data_c">%s℃</string>
+    <string name="keyguard_charging_info_data_percent">%s%%</string>
 </resources>
