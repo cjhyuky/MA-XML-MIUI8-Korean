@@ -3874,7 +3874,7 @@ PIN 설정"</string>
     <string name="bootloader_status_unlocked">잠금 해제됨</string>
     <string name="bootloader_status_locked_info">이 기기는 잠겼습니다.</string>
     <string name="bootloader_status_locked_summary">이 휴대전화는 안전합니다</string>
-    <string name="bootloader_status_unlocked_info">이 기기는 잠겼습니다.</string>
+    <string name="bootloader_status_unlocked_info">이 기기는 열려있습니다.</string>
     <string name="bootloader_locked_question_1">왜 기기가 락되어야 하나요?</string>
     <string name="bootloader_locked_answer_1">보안과 개인 정보 노출을 방지하기 위해 기기가 락되어있습니다. 만약 Fastboot 모드에 들어가 기기에 플래시해야한다면 언락할 수 있습니다.</string>
     <string name="bootloader_locked_answer_1_warning">주의: 휴대전화를 언락한 후에는 \"기기 찾기\"를 이용할 수 없습니다.</string>
