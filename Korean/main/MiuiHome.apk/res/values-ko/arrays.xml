@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="transformation_entries">
-        <item>오버 슬라이드</item>
         <item>슬라이드</item>
         <item>크로스페이드</item>
         <item>공중제비</item>
