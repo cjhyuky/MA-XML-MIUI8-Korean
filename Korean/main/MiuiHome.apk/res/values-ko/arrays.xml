@@ -46,14 +46,4 @@
         <item>미세 먼지</item>
         <item>아지랑이</item>
     </string-array>
-    <string-array name="editing_mode_entries">
-        <item>테마</item>
-        <item>위젯</item>
-        <item>배경 화면</item>
-        <item>효과</item>
-        <item>화면 격자</item>
-    </string-array>
-    <string-array name="quality_business_devices">
-        <item>리튬</item>
-    </string-array>
 </resources>
