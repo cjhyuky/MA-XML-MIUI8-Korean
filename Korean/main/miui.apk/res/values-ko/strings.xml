@@ -303,7 +303,7 @@
     <string name="fmt_time_12hour_minute">h:mm</string>
     <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
     <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
-    <string name="fmt_time_12hour_pm">a h</string>
+    <string name="fmt_time_12hour_pm">ah</string>
     <string name="fmt_time_12hour_minute_pm">a h:mm</string>
     <string name="fmt_time_12hour_minute_second_pm">a h:mm:ss</string>
     <string name="fmt_time_12hour_minute_second_millis_pm">a h:mm:ss.S</string>
